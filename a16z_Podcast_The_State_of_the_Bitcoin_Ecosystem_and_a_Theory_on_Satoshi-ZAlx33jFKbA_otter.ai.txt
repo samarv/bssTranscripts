@@ -1,0 +1,108 @@
+Chris Dixon  0:01  
+Hi, this is Chris Dixon. I'm here with Balaji Srinivasan This is the a16z. podcast today. Hi, Balaji. Hi, we are going to, we have a list of topics. However, one of the topics is Bitcoin and knowing you and me, we should probably just talked about that since that's all we ever talked about. So, what do you think? So I'm looking at my list here. Now that Mt. Mt Gox has settled, what's what's what's your sort of assessment of the current state of the Bitcoin world?
+
+Balaji Srinivasan  0:32  
+I think, you know, that that will be viewed as a historical speed bump. Really, I think that Bitcoin is an international phenomenon, and the momentum behind it is just so strong.
+
+Chris Dixon  0:45  
+What do you see as the key drivers of momentum?
+
+Balaji Srinivasan  0:48  
+So, for example, like right now, when one metric that you know, we're tracking right is the number of users of Bitcoin, right? And if you look at blockchain dot info, it's got charts of the number of people who are using wallets Coinbase has disclosed some numbers, probably the number of worldwide users of Bitcoin is on the order of like, 3 million ish, maybe 5 million. And so it's still very early days, right? Ultimately, you know, you're going to get to 10 million 100 million, maybe a billion Bitcoin users. And so you've got like room for 1000 x growth left. So it's still very early days in this space.
+
+Chris Dixon  1:20  
+What would you say to people, though, who say, yeah, the 3 million geeks using it?
+
+How are you going to get 100 million normal people using it?
+
+Balaji Srinivasan  1:26  
+That's well, because, you know, to quote, Chris Dixon, the things that geeks are doing today, everyone will be doing in 10 years, if you recall, you know, back in 2000, there weren't that many people who had mobile phones. But what do you think the driver will be? Will it be payments? Will it be store of value in countries that have unstable currencies? Absolutely. So I think that, so the Goldman Sachs report that came out about, you know, a few days ago, I think, is really good. I think illustration of what at least one of the first major applications is going to be. So while the report had people who were skeptical about Bitcoin, and had people who were positive on Bitcoin, the graphs were pretty interesting. And one of the graphs showed that there's an opportunity for 200 and $10 billion, with a B, in savings for payments, going through Bitcoin in the space of retail, e commerce and remittances. And so that's a large number. And so that's kind of thing where, you know, hundreds of billions of dollars, his first application is pretty good. So payments, I think, and just reducing credit card payments is one definitely major application of the next few years.
+
+Chris Dixon  2:34  
+But and so what and what do you think we need as a community we need to be building to get there. So for example, one thing mount Gox would point to is better. sort of more, you know, compliance slash security for, you know, sort of custodial services for Bitcoin better exchanges, like what what would you?
+
+Balaji Srinivasan  2:57  
+Yeah. So I definitely think there's gonna have to be like a US exchange at some point that is, you know, regulated, and so on and so forth. Um, in terms of technology, I think that one thing where I have, I've yet to see a really good one, or at least one that I like, is really good mobile wallet. I think that's a very important component. That's because Apple bansang Exactly. That's right. So you're not gonna get them on iOS. And actually, they claim this is an awesome mobile wallet. I
+
+Chris Dixon  3:19  
+have it, but you had to have gotten it before they banned all Bitcoin.
+
+Balaji Srinivasan  3:22  
+Exactly. That's right. So this is actually one of the things I think that you know, is going to actually lead to a I mean, it's a killer app, right? Like, you know, locking down Bitcoin on the iOS platform is going to be, I think, seen in like three years as one of the more shortsighted things that could be done, because it's going to be so such a big deal. And so it's kind of thing that could push people off of the, you know, iOS platform and towards other things, I think, because it has been banned on but they they banned even it was a website, the fancy accepted Bitcoin payments, and they banned them accepting them in their app. Yeah. Because I mean, anything that is a route around 30% of, you know, kind of taxes is something which, which is going to be disadvantaged them in the short term. But, you know, there's other ways to monetize. And I think, I think that will be seen as a bad decision in hindsight. But, yeah, so I think a really good mobile wallet. So that's why, you know, OSI engines investment of ours, right, like, something like that, and open source Android, that permitted not just mobile wallets, but no App Store approvals, and so on and so forth,
+
+Chris Dixon  4:24  
+I think, bigger Android Android store, or they allow Bitcoin,
+
+Balaji Srinivasan  4:27  
+they do but you know, the, you still have to go through an approval process and whatnot for it, like a totally unlocked phone that also had unlock payments. I think we're gonna see something like that, whether it's sign engines and the ABA, whether it's a Firefox OS, whether it's something else, I think there's a real interesting aspect to having an unlocked phone will knock payments in the future. So but yeah, so in terms of,
+
+Chris Dixon  4:52  
+we need an exchange, we need a killer sort of killer mobile apps.
+
+Balaji Srinivasan  4:55  
+Yeah, killer mobile wallet.
+
+I would say that We one thing I'm looking at is this sort of like white pages for Bitcoin, right? Like, you know, like a, there's a site that just did this. He saw, like the tweets that we were putting out and did like one name.io. And so that's interesting. What's interesting there is that the the the data is actually stored in a in their own block in the namecoin. blockchain. Oh, I didn't know that one name. Yeah. Interesting. Yeah, this implementation detail. Okay. No, it's
+
+Chris Dixon  5:23  
+in the name coin blockchain. And so it's a, you know, got all the virtues of a distributed blockchain. Yeah,
+
+Balaji Srinivasan  5:28  
+that's very cool. So the, the aspect that I was thinking of it as, which is somewhat complimentary was, there's all these different social identities that we have, we have Facebook, and we have Google, and we have, you know, Twitter, and so on, and so forth. And each of these, one thesis is that each of these is going to have each, so you've got one person, and they spread out into k identities across social platforms, then each identity, one thesis is that they each spread out into in wallets. And each of these wallets, you know, basically, within these systems performs like a different function. So for example, on Twitter, you'd have some wallets, and they'd be used for tipping people. On Facebook, you have some wallets can be used for paying friends like Facebook, PayPal, Bitcoin, with Google, your wallets link to your Google account would be used to pay your Google Storage, or maybe to send money to people in Gmail, and so on and so forth. And so this concept of taking all of your social identity layers, and social auth and linking them to corresponding bitcoin wallets would also be interesting, because then you could just type in on a web widget, find your friend's name, and an autocomplete with their, you know, Google or Facebook or Twitter or whatever profile, you could enter, and you could send them money via BTC. And you never have to see that alphanumeric string, which is not memorable, you know, for for their bitcoin wallet. And you wouldn't even necessarily even need to see their bitcoin wallet, because the service would abstract that away for you and just pay the person right. So think some service like that, like a white pages for Bitcoin is going to be important to make it more accessible to normal people and integrate it with existing social services and bootstrap from that, it also makes it more viral. You know, Bitcoin is inherently viral, like PayPal, like email, like Skype, like Facebook, because when you send Bitcoin to somebody else, you're telling them download the Bitcoin client, right to accept Bitcoin, just like you say, download Skype to do a Skype messaging.
+
+Chris Dixon  7:13  
+Let's talk about the app coin concept.
+
+So navall had,
+
+which I think you've sort of helped him or co authored with him, this very interesting blog post, which I think still like, even in the tech community is this stuff that we're talking about is seen as fringe, I predict that will be seen as a prophetic blog post in five years, because one thing we've seen as VCs is a lot of people come into a so I think of urbit ripple, people coming in with new business models, where they it's basically open source software slash services, where the monetization happens through some scarce namespace orbit has a has sort of a URL, like schema, ripple has their own currency. You know, I think this would apply to namecoin, for example, on isn't any system, the currency would go up in value. So it potentially is a new business model, on the scale of you know, which could which could lead to innovation on the scale of sort of open source software?
+
+Balaji Srinivasan  8:07  
+So yeah, so I think that's actually, it's going to be very interesting on a few different levels. One thing I want to just do is like, you know, just just for the benefit of the audience's disinterested in saying Bitcoin apps versus app coins, there's Bitcoin itself, there is the protocol for sending BTC back and forth, and you know, the blockchain and so on, then there's apps that are built on top of the, you know, current blockchain and current mining and so on. So for example, proof of existence.com, which uses the blockchain as a notary public, or some of the tipping apps, and so on. So for those are apps that are Bitcoin apps are using the Bitcoin blockchain. And then, um, you know, using your technology, you've got alt coins, like Dogecoin, and Litecoin, and whatnot, which don't really differ from Bitcoin, except in parameters like, you know, time between approvals, or the number of total BTC that are out there, or or LTC. Dogecoin does differ in the sense it's got an infinite amount of Dogecoin. So it's like meant to be less stress in Bitcoin. But they don't fundamentally differ from it. The the fourth category, so you've got Bitcoin itself, you've got Bitcoin apps, you've got all coins in the fourth category of app coins, things distinct from Bitcoin apps, because either using a separate blockchain and B, they're implementing a function. So for example, namecoin is improving the function of like, you know, basically distributed DNS. And the reason I think app coins are so interesting is that they are a totally new way to do funding, monetization and exit. That is to say, you can, in theory, have an open source project that is funded by, you know, these coins that are being pre mined on and how would people actually, you know, run them, run this open source project. Let's say you've got a server instance, like a distributed Google distribute Facebook, anybody who runs that server instance, in order to access it, you have to pay them a small amount of, you know, these diaspora coins, for example, if it's distributed Facebook, and so on. It becomes more valuable as more people are running the software. And using coins would be a way that it's like not just buying equity in the company, it's also a way to use the services of that company, right. So the reason this is interesting, there's a lot of different angles on this, that's just one angle on how you could use App coins. The reason this is interesting is to relate to something else you posted on recently, it's related to this concept of full stack startup. But it's like the full stack of VC, we actually control exits, as well as, you know, incorporation, we wouldn't have to, you know, like, do an exit on Wall Street necessarily, you would be to be liquid permanently. There's a mechanism of the app coin, um, you'd always know the valuation of the company, it would be public, in a sense, not a public market and the SEC sense but just public in the sense of a evaluation that was assigned by a global market. And there's a lot of interesting aspects about that it takes, it takes a lot of the pathologies in the system right now.
+
+Chris Dixon  10:55  
+So the last topic we'll talk about just gets in the news is a news week's article on Satoshi.
+
+Balaji Srinivasan  11:00  
+Yes. That was awesome. That was a great launch event for our new version of news genius. Basically, as you know, readers may know, it was just
+
+Chris Dixon  11:13  
+it was funny that our if that Newsweek article that appeared on Reddit, it would have been considered like a third tier. Satoshi theory. Yeah. But somehow you stamp the word Newsweek on top, and the exact same sort of base of evidence becomes something that people actually it I thought the whole thing was comical,
+
+Balaji Srinivasan  11:27  
+it is ludicrous, I think, from the beginning, because basically anybody who had a familiarity with what Satoshi had done in his writing and his code and so on, um, it's almost the inverse of Newton, right? Like Newton had, you know, seen a, he had published something anonymously. And when people, I'm not sure, I've actually published my notes here. It's another mathematician, but he said, You know, I, you should know, the line by as Paul, right. That is there's a famous solution to an equation. And it was clear as the person who was doing it was also a very skilled mathematician, I think he was talking about like, it was like Bernoulli equation, something like that. That's right. I forget the exact details of it. But this is the inverse of that, right? You have somebody who is, you know, very nice guy or whatever, but just does not have the anything in his track record.
+
+Chris Dixon  12:14  
+I thought the only interesting to me was the sort of sociological observation that people that don't come from computer science. It's almost like saying, Wow, that guy speaks English. He has written one piece. Exactly, exactly. That's right. People don't realize just how religions have talent. And crypto For God's sake is like the ultimate right? Like, this is like, you know, there's like 10 people in the world who could, who could, you know, do possibly invent crypto at this level? distributed system exists like the internet stuff? Like I was internet native, like, literally even posting online like you had you had to be internet native to write that thing?
+
+Balaji Srinivasan  12:48  
+Absolutely. And the thing is, it wasn't just even. So it was cryptography, and distributed systems. But it's like, so difficult to build a new distributed protocol, given that you're going all the way down to the level of the hash functions, and so on. And then all the way up the stack to like timing attacks. And when you get the game theory it out so many levels. Yeah,
+
+Chris Dixon  13:08  
+right, which actually, it makes me think of how to do group almost because like the game theory out against all the different attacks,
+
+Balaji Srinivasan  13:12  
+it's really amazing. But, you know, one of the things is that I don't think that any of the candidates for Satoshi is a real candidate, because there's a remark that Satoshi made in one of his things where rather than saying six degrees of separation, like in terms of social network, he said six degrees of freedom, it was a very interesting typo. And that combined with some other things makes me think that so she's a physicist by training. He's a quant who worked on Wall Street finance, and, you know, learned, you know, proprietary trading algorithms and so on that way, that's a that's hypothesis that fits with everything that I know. And I think that's like the most likely demographic for who this guy could be. But
+
+Chris Dixon  13:52  
+certainly not that poor man. Who was whose life is ruined, but not
+
+Balaji Srinivasan  13:55  
+Dorian. I mean, like, the worst part about it was the most ludicrous aspect is, this guy went to such lengths to keep himself anonymous. He used
+
+Chris Dixon  14:03  
+to he used to, yeah, exactly that he used his real name. It's like, it's like the most insane kind of thing. It's a third tier Reddit there. Yeah, it's like, it's like deep throat was actually this guy named Ed. Yeah, exactly. That's right.
+
+Balaji Srinivasan  14:16  
+But But what was it? I mean, like the one thing, my final conclusion on that one, which is pretty interesting is I was thinking, isn't there somebody at Newsweek who, like, you know, could could say that there was, you know, like an issue here, somebody who knew technology and so and there really is no, there's nobody who was
+
+Chris Dixon  14:32  
+doing a part of it's just their general dismissive view of tech not like we're, they always call us geeks, instead of like computer sciences or something like it's it's general dismissive view of it. And like, we don't actually need to have people on staff who understand it, and we can just publish random stuff, right. And corroboration
+
+Balaji Srinivasan  14:46  
+and relate to this is also you know, one thing I've seen increasingly is, is a very strong distinction between people who can evaluate code or mathematics by actually looking at the symbols and evaluating it for people who can only evaluate things by personalities and social factors. Right. And if you have the former you don't need a ladder. And if you don't have the former you rely on the ladder as a crutch. And so that's why, you know, people it's almost like a dual thing. Not only were they relying on Newsweek, they were just relying on Newsweek's, you know, interpretations of this person and who said it was important to say it was him, whereas we're just looking at the code and we're like, just absolutely no way that this guy is doing it. Anyway. So,
+
+Chris Dixon  15:21  
+okay, good. Thanks. Thanks.
+
+Transcribed by https://otter.ai

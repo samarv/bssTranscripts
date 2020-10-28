@@ -1,0 +1,184 @@
+Unknown Speaker  0:02  
+Yeah, so 2013 was the year that Bitcoin kind of crossed over from being the fascination of hackers, anarchists, General skeptics and the global financial system as expands into something that's actually more broadly accepted by the mainstream public and by the financial community at large. So this year was the first time that we started seeing investments from VCs and Bitcoin related startups. And there was this incredible run up in the price after the Cyprus banking crisis. So today, we're going to talk to a handful of Bitcoin enthusiasts investors to get a sense of where the ecosystem is going. So maybe I'm going to start with you guys. buses. So you went from you went to a queue, you accumulated what is probably one of the largest steaks in Bitcoin, probably globally, like you have what 1% of Bitcoin in circulation. So I'm kind of wondering how did that happen? And what sparked your interest in it to begin with?
+
+Unknown Speaker  1:01  
+So we actually kind of found Bitcoin, totally unexpectedly, we were on vacation two summers ago, in a visa and ran into a guy of all places, right? Not really expecting to come across a new investment. But we ran into a guy in from New York, and we started talking about virtual currencies. And we sort of got this feeling. Right, then as if like, we had a time system, a time machine, and could have been like teleported back to the early days of the internet. And the promise was just enormous that a cat capture excitement right away?
+
+Unknown Speaker  1:35  
+And how did you go about accumulating that stake? And how long did it take you? When did you do it? I hope you weren't doing it earlier this year, when it was like at $200. I hope
+
+Unknown Speaker  1:47  
+some of it we bought an exchange is some from some people, it was kind of a scrappy process, because there wasn't a lot of liquidity, or rather volume. At the time, it was a small market cap. So just through, you know, we just accumulated through certain different ways.
+
+Unknown Speaker  2:04  
+And, and how I mean, how, if you couldn't if you could estimate your return on your Bitcoin holdings so far, what would it be? You lost money on it? Or definitely made money? But definitely made money? Can you stay kind of home either? Very good,
+
+Unknown Speaker  2:17  
+a good investment for us? I want to get too much into specifics, but we haven't sold anything. We
+
+Unknown Speaker  2:23  
+haven't sold any very bullish. And then some of it you made like a 10 x return on right.
+
+Unknown Speaker  2:28  
+That's probably right. Yeah.
+
+Unknown Speaker  2:30  
+So I guess the question I have for the broader panel is, Bitcoin has these kind of mysterious origins. It's founded created by some guy, guys, women, collective, some, you know, they named Satoshi Nakamoto, who disappeared and hasn't appeared since. And so when you're looking at the space, and how do you get over the fact that no one knows really, who created it?
+
+Unknown Speaker  2:53  
+Yeah, I don't really think about Tim berners. Lee, every time I surf the World Wide Web. I guess it doesn't matter to me. Lots of people have examined the Bitcoin protocol spec, the encryption schemes and are buying it and have come away with the realization that it's one of the most brilliant innovations in the protocol and financial space that they have ever seen. So the underlying thing is sound, it's probably the case that Satoshi or the group that purported to be Satoshi probably holds somewhere around 10% of underlying Bitcoin, making these guys look small time. But that's okay. I mean, it's an incredible invention for mankind. If it works, what
+
+Unknown Speaker  3:30  
+When did you finally comfortable with it?
+
+Unknown Speaker  3:32  
+Well, maybe comfortable, I mean, it took me a while to warm up to it, I just read through all the different pieces, you know, underlying Bitcoin, there's at least four different technologies that are sort of combining to make it possible. And you know, as Paul Graham says, You got to live in the future, if you don't understand what's on the cutting edge, and you're in the tech business, then you're sort of missing out, so sort of force myself to learn about it. And underneath, you've got digital signatures using the very clever way you've got a peer to peer network. You have a distributed blockchain, which has this concept that every transaction, the history and record of every transaction is in everyone's wallet. And then you've got this proof of work system to prevent double spending the application, which is very brilliant. So you've got four different great concepts coming together. And I wanted to understand it just because I like technology. I like things that engage that enhance personal freedom. This seemed to be one of the cases that was doing both. And so it took me a few months to dig through everything get comfortable with are there loopholes? What are the failure modes? What are the incentives and the motivations underneath and I came away thinking that it was the most fundamental thing to come along, since the underlying internet protocols like TCP, IP and HTTP. And I think people think about Bitcoin incorrectly. They think about it as currency or about gold or about hoarding or speculation or how much money do you make, when really what it is it is an API for programmable cash and financial transactions. For the first time the hackers in the audience have access to a protocol that allows you to program wills and escrow and notaries and payouts and dividends. And, you know, there are fun things you can do in crowdfunding with Bitcoin that you just cannot do with normal cash. So this idea of programmable universe additional cash is what is really, really fascinating.
+
+Unknown Speaker  5:03  
+I'd elaborate on that a little bit. So one of the things about it just, you know, the, if you go to github.com front slash Bitcoin front slash Bitcoin you can get clone it and you can actually inspect the source, you can look at it yourself. And Satoshi wrote a paper on it. And in general, you know, the validity of a mathematical theorem is not really a function of who did it, it's, it can be independently checked. Moreover, she actually has pretty good reason for remaining anonymous or LCB, like hunted like Edward Snowden or something, right? This is something where every regulator in the world is kind of after, or at least in the US is after Bitcoin. Now, their thing is that in terms of the fundamental computer science breakthrough here, it's a solution to the Byzantine generals problem. And it's actually a breakthrough, which can be used to turn a variety of things that we previously thought could only be done via centralized systems into things that can now be done in a distributed fashion. So there are these chains, I'm not saying any of them are the, you know, final answer or anything, but like namecoin, that'd be like a distributed, you know, domain system like a domain name system. And there's other things you can do like a distributed public key infrastructure, and so on. So technologically, it's really a step forward.
+
+Unknown Speaker  6:12  
+Do you believe that Bitcoin is the endgame in and of itself? Or is it a predecessor to maybe a future map based currency that doesn't have some of the limitations like that, that 50% attack?
+
+Unknown Speaker  6:21  
+The first of all, the 50% attack limitations are far less than people make it out to be? There's a lot even if you take
+
+Unknown Speaker  6:27  
+me far enough, if just to explain it, like the 50% attack means that if you control more than 50% of the nodes in the Bitcoin network, right, it can destroy,
+
+Unknown Speaker  6:35  
+there's still not a lot you can do, you can't destroy the current account. You can you can reject future transactions, but you can't go back and change past transactions. And your incentives at that point, are actually more to just mined more Bitcoin and make money for yourself rather than to destroy it. So there's a lot of I mean, it's a very complicated topic, you cannot get educated and Bitcoin listening to this, like you're starting here. Try something else go go read Bitcoin for dummies, but take the time. Because if you were in 1995, you understand how TCP IP worked? Or how the world web was gonna work? You were really missing out take the time.
+
+Unknown Speaker  7:05  
+Yeah, the other thing is that with respect to the 51% tax, that would lead to a fork in the blockchain and effectively like multiple currencies kind of coexisting, which could potentially have some exchange rate, you could imagine China, you know, at some point in 2016, and Bitcoin has, you know, risen exponentially, and they decide that they're going to turn a significant fraction of their semiconductor manufacturing over to, you know, controlling, you know, a lot of mining capability, that's a possibility. But in terms of, you know, the sun of Bitcoin, like Bitcoin 2.0, that could, you know, replace it, I actually think that it's going to be augmentations to Bitcoin. But if you think about it, HTTP is actually a stateless protocol. But we've built all this default stuff on top of it, like, you know, cookies, and then eventually, like web apps and whatnot. So you don't actually think about that, you can actually go and log in and people have built all the stateful stuff on top of it. In the same way with Bitcoin. There's a few different things that people are working on. Now. One of them would be one of the most technologically, you know, important developments since Bitcoin itself, which is something called zero coin. Zero coin basically turns Bitcoin into a truly anonymous currency, where there's basically turns entire network into a mixer. So you can teleport arbitrary amounts of money anywhere in the world. And right now, that's not a practical patch. But eventually something like that will probably be incorporated into the blockchain. And that will be sort of to what we call Bitcoin. 1.0. What, you know BitTorrent was to Napster?
+
+Unknown Speaker  8:23  
+When one thing that I hear a lot from investors is that Bitcoin is going to be it's a binary outcome, it's either going to be worth a lot, or it's going to be worth nothing.
+
+Unknown Speaker  8:31  
+That's right, good money. Money is the ultimate network effect. So either works and goes to infinity or goes to zero. I don't I don't think the intermediate outcomes matter. So in that sense, asking someone today, have you made money in Bitcoin, they've only made money, if they've sold it, if they've cashed out, they're still holding on to it. It's like, it's like buying a hyper volatile option on a startup stock.
+
+Unknown Speaker  8:51  
+So what are the what are the risk factors for you, that you're looking thinking about? personally?
+
+Unknown Speaker  8:56  
+I think the biggest one is regulatory and government risk. I think there is some small decryption encryption risk, if it turns out there's a backdoor in a ripe MD or in, you know, one of the protocols used underneath. But I think the main one is essentially just the adoption curve. How long will it take to adopt because network effects need a tipping point, the established entrenched dogma of how money is supposed to work is very, very strong. that tipping point could be two years, it could be 20 years. It could be 200 years, though. That's the hard part.
+
+Unknown Speaker  9:25  
+Yeah, speaking of regulation, I that's something I wanted to ask most of you about. And you were recently subpoena and, and New York regulators are kind of looking at how to, you know, understand Bitcoin, how to manage it. And so what's going on with that?
+
+Unknown Speaker  9:40  
+So, I mean, basically, it looks, you know, from our standpoint to be a fact finding discussion. And I think, you know, we've always been sort of welcoming of healthy regulation. I think that it helps erase a lot of the uncertainty out there with especially banking relationships with startups. A lot of the banks I think, are unclear. Should we sort of bank these Bitcoin startups? And what do we need to do to be compliant? Our view has always been that when you're dealing with whether it's Bitcoin or money, that sort of the regulation KYC know, your customers annelle anti money laundering should be really treated identical across the board, whether it's Bitcoin or US dollars or something else. So we're sort of all in favor of healthy regulation. And I think that those discussions are happening now. And as they progress, we'll get sort of more certainty of where things are going. And a lot of people potentially are on the sidelines with respect to investment or whether they want to start a company will enter into the the Bitcoin world. Yeah,
+
+Unknown Speaker  10:40  
+and you're also trying to start an ETF a Bitcoin ETF, right. So what? And that's also being that's also under review as well, right?
+
+Unknown Speaker  10:47  
+That's correct. Yeah.
+
+Unknown Speaker  10:48  
+And there, there are some I mean, there are other investors out there who are looking at and saying man like this can take years to figure out years from your regulators to approve a Bitcoin ETF.
+
+Unknown Speaker  10:59  
+Only the SEC knows that. This is the question.
+
+Unknown Speaker  11:03  
+So I wanted to start talking about the startup ecosystem. So when, when we saw that run up to that peak high price, earlier this year, we started seeing a lot of funding rounds. I mean, the biggest one that I can think of right now is probably you know, Coinbase five point where all these startups now and for you as investors, what's an attractive place to go? Is it in wallets? Is it in exchanges? there?
+
+Unknown Speaker  11:25  
+Yeah. So I personally haven't done any Bitcoin startup investments outside of just leverage plays on Bitcoin itself. The reason is, if you look at the total value of all the Bitcoin ecosystem, right now, it's about a billion and a half dollars. Yeah, so if you have a company that shows up and it's let's say, it's at a post money of 30 million, you're basically betting that that company is going to capture 2% of all the value in the Bitcoin ecosystem over time, otherwise, you're better off investing in Bitcoin, itself. So you always have to look at the opportunity cost of investing in Bitcoin itself. And investing in Bitcoin itself is not some, you know, anti ecosystem thing. Rather, what you're doing is you're allocating your money across the entire ecosystem. And you create incentive for all the startups including the ones that might be in Russia, or France, or just in someone's backyard, because they're all motivated by the price of bitcoins, just like when the price of oil goes up, you buy oil, what happens the oil companies go drill more, they go extract, shale, and so on. So you just create incentive for the whole ecosystem. So in most cases, I think it's just better you start off by buying the Bitcoin, if you're interested in it's an extremely high risk investment. So you would put a very, very small percentage into it. And then after that, if you find a great startup to invest in, you can sort of play with a little bit of money on the edge, you know, once cynical point of views at the venture capital community right now, it's probably by buying Bitcoin, its own account with their own accounts, and then investing LPs money into the Bitcoin ecosystem. But that's also because as a as a VC, you can't call up your investors and say, oh, by the way, I just wrote a check your check for your money into buying Bitcoin, you're not supposed to go buy currency. And it's kind of viewed as that right now. Although if the LPS have their underlying GPS buying Bitcoin stocks, they should also be holding some Bitcoin to bet on the broader ecosystem. Personally, I think the most interesting plays are the exchanges, because they actually have a built in network effect, whereas everything else in Bitcoin resists network effects, and some concept of a simple local mobile wallet that is usable by the average human because Bitcoin is still too difficult to obtain transact and secure for the average person,
+
+Unknown Speaker  13:10  
+at what threshold does the market cap and Bitcoin become interesting enough to invest in a startup because it starts around it,
+
+Unknown Speaker  13:16  
+it's starting to get there, you know, when it kind of hits the three $5 billion range, that point you're probably going to be looking, you can be balancing your portfolio as much into bitcoin startups as you are into bitcoin itself. But remember that Bitcoin is designed from the ground up to resist centralization. And one of the dirty secrets of Silicon Valley is that our big money makers are all monopolies in their ecosystems, and Bitcoin is designed to resist monopolization. So it's hard to imagine how any single Bitcoin related startup captures a huge chunk of the ecosystem. You
+
+Unknown Speaker  13:43  
+can you can elaborate on that by thinking of at least three categories of Bitcoin investments, mining, direct purchase of Bitcoin, and then investing in the Bitcoin ecosystem. And one can conceptualize mining as the attempt to purchase Bitcoin below market price with some probability, but high risk in general, then you can just buy bitcoin at market price itself. And finally, you can invest in the ecosystem and that can be conceptualized as, among other things, investing in increasing the price. And you can actually calculate this as a portfolio strategy where you know, you do your Lagrangian multipliers, or whatever, and you get your coefficients. And if you have large enough holdings, then it's worth investing some fraction in boosting the price. And actually, it boils down to your CAC, your cost of customer acquisition, how efficiently the companies you're investing in, can get more users into bitcoin and thereby drive up the price assuming that each user holds a Bitcoin balance and becomes a you know, a Bitcoin user. In terms of the appreciation of Bitcoin, currently, it's you know, around 100 something, you know, but where could eventually go? So unlike many startups, you've actually can potentially calculate this and you can do market cap estimations. You know, if Bitcoin gets to $1,000, like all Bitcoin all time is 21 million. So let's just take that number. So be 21 billion if we mind everything, if it got to $10,000 would be 210 billion still less than the market cap of existing publicly traded companies. If you go up to 100,000, now you're talking about something that's on the level of gold like 2.1 trillion worldwide, you got one more order of magnitude to a million dollars for BTC. And you're talking to us GDP, and in $3 million from BTC, you're talking world GDP. So that's what winning looks like. But as surreal as that sounds, that's a 30,000 x growth over where it is today. Now, when Peter teal invested in Facebook,
+
+Unknown Speaker  15:31  
+what what scenarios, are you imagining that what we're doing? Here's the
+
+Unknown Speaker  15:34  
+thing, so Facebook, you know, in 2004, Peter teal, invest in that and got 10% at 5 million valuation. And you know, when IPO that was about a 10 15,000 x return. So there is a comparable historical precedent in the sense of if you invest early in a startup, you actually can get that level of return
+
+Unknown Speaker  15:53  
+that said, No one should invest with an expectation, that expectation, but
+
+Unknown Speaker  15:56  
+I'm just saying what is what is the global economic picture look like in a world that drives me? I mean, Bitcoin
+
+Unknown Speaker  16:02  
+has a lot of advantages, for example, over gold, except that Gold's been around a lot longer. So all the things that gold does, Bitcoin kind of does better. But everybody believes in gold, people have been using gold for thousands of years, gold is a speculative store of value, it actually has very little intrinsic value, intrinsic value, probably around 200 bucks per ounce, and then the rest is all speculation. And so if if Bitcoin related replaces or comes alongside gold as a speculative store of value, it's going to be worth thousands of times what it is worth today. So that's actually a very simple one.
+
+Unknown Speaker  16:31  
+That's right. And, you know, so you asked, What scenarios would result in that? So the reason that, you know, the Cypress thing drove the price of bitcoin just yesterday, for example, Poland announced seizure of half the, you know, the pensions in the country just by, you know, Fiat, right. And what you can do is, you know, with the mortgage crisis, there was a failure to incorporate the possibility of tail risk scenarios, right, like unlikely events with extremely negative outcomes. So let's say that a tail risk scenario, whatever country you live in is a bail in where some foreign, you know, fraction of your savings is expropriated, just like in Cyprus, in fact, there's a document, you know, you can see the Federal Reserve and the Bank of England have actually published a document on gcps globally significant financial institutions, which they talk about the bail in procedure and what fractions will do for various countries. So let's say that a bailing may happen at some point, then what you can do is you can say, all right, you know, if you just have cash in the bank that is vulnerable to a command line, sort of thing like they did in Cyprus, where they just you know, expropriate bank accounts, if you have cash under the mattresses, they can't just get it with a command line. But you know, they can obviously, you know, print currency, and so on. If you have gold, well, you know, you can't easily carry a gold brick through the TSA is, you know, a screening process. And you can't go to Starbucks and chip off a gold flake and use as a negotiable instrument. But if you have Bitcoin that actually defeats all capital controls,
+
+Unknown Speaker  17:49  
+you can actually cross a national border with a billion dollars in Bitcoin entirely in your head.
+
+Unknown Speaker  17:54  
+And how do you how do you store your home? You have a very complicated system for storing.
+
+Unknown Speaker  18:00  
+Yeah, well, so I just want to add quickly to a collage he was saying, In July, the only country in the world were actually Bitcoin client downloads increased and they doubled was in Argentina. Yeah. And the inflation rate right now is about 25%. At least, that's what the government, you know, what's being reported. And so basically, people are trying to convert their pesos into bitcoin. And if you look at the quote on like, local bitcoins calm, the, there's a huge delta between the price of buying bitcoins locally in Argentina, than on the exchanges. So it's an interesting sort of development in sort of the capital controls, just like last year, saying, you know, the metal detectors trying to pick up the gold bars or the pace of sniffing dogs don't really work for Bitcoin. And it's a fascinating development in that part of the world. But the effect to storing we actually basically put it on wallets and cold storage on USB sticks in banks across the country, and we probably
+
+Unknown Speaker  18:57  
+how many banks, you're storing all of your
+
+Unknown Speaker  19:00  
+no more than two. Yeah,
+
+Unknown Speaker  19:03  
+you I'm assuming this secret twin code where they're both
+
+Unknown Speaker  19:08  
+advantageous, but it's actually safer than gold, because then you need a password for the USB. So you got to break into a bank and then break a password. So it's actually better than just plain old but
+
+Unknown Speaker  19:17  
+that's that is not for the faint of heart. If you use a bad passphrase or a bad seed, your Bitcoin will get stolen. There's a lot of the returns to hacking
+
+Unknown Speaker  19:26  
+your bitcoins, don't
+
+Unknown Speaker  19:27  
+know. But I ran a fun experiment with some friends, which is you can create bitcoin wallets entirely his brain wallets user generated the amount of simple passphrases Yeah. And then you generate your keys from that you put money in there. So we basically said hey, is it worth going into the blockchain and then mining the entire thing for simple passphrase wallets and trying to see if you can just find money lying around? Yeah. And then before you go to that effort, you just say, hey, let's see if somebody else is doing it. So we just created a wallet out of hello world, and we dropped it in the blockchain. It was empty An hour later. Wow. But there's somebody out there already mining the blockchain for simple passwords. Simple seeds.
+
+Unknown Speaker  20:00  
+With that said, I mean like one of the biggest things about Bitcoin is Bitcoin, you can conceptualize it as you know Bitcoin is to money what email is to physical mail, right? Like, just like with email, if anyone has your public email address, they can send you money and only you with your private email password can send it out. The same way Bitcoin, anyone who has your public Bitcoin address can send you money, and anyone who and only you who have your private Bitcoin key can send it out. So you can actually bring all the BTC onto, you know, your local computer and then transfer it and then print out a private key. As long as you've synced that change to the blockchain, that thing can be on like a fortune cookie sized piece of paper or hidden in a bunch of different ways. So in many ways, it's much more secure than any other bank account, because banks don't even know you have them. I think
+
+Unknown Speaker  20:44  
+that analogy that email is really important, because when email was first showing up, there are a lot of analogies to postal mail. And we sort of thought that it would replace postal mail and kind of stop there. But obviously, we use email in unimaginable ways today. So in the same way, it's important not to just think about Bitcoin as a replacement for cash or gold or something that works alongside that is to think of it as programmable money. And we just cannot even imagine what it will be used for. If there was an AI and artificial intelligence existed today, it would not work in dollars, it would work in Bitcoin, you can have self contained pieces of code that live in the cloud that never activate on the internet for years that can hold Bitcoin in there. They can transact in money when they wake up and go back to sleep. You know, you could do a crowdfunding campaign where we could all do a Kickstarter, and then the shareholders in the Kickstarter In other words, the people who have contributed get to vote to release money as different milestones are hit. You can do that in Bitcoin. It's all programmable in the protocol. It has a built in scripting language that lets you do all kinds of things. Today, we devote 20% of the economy for what Wall Street does can be done in code by Bitcoin hate to tell Wall Street, but you know, let's not clue them into. We can program wills, escrows trusts notaries, you know, revocable chargebacks, proofs of contracts. You know, intellectual property enforcement, Satoshi dice is an interesting company, no one really pays attention to this. But this guy, he took a company public, which was a Bitcoin sort of gambling site, he took it public, he sold shares anonymously, entirely in Bitcoin to anonymous shareholders, no regulators, no registration, no cost, no bankers, he paid dividends. And then when the company got sold, he actually paid them the return. And then some, these people made money in the Bitcoin investment that was run completely off the normal financial grid with no oversight. Yeah, I mean, just messing it, you're just saying I'm not buying Bitcoin. That's how I invest. It's a small amount. To me, it's much more about the personal freedoms and the programmable cash part than it is about currency or making money. I would
+
+Unknown Speaker  22:34  
+just add to what Paul was saying about programmable money, he was like a couple of applications that you could envision So fast forward five years or something. And there's the Uber Google Tesla merger of dispatching and automatic cars and and you know, the, it's built into Tesla cars, and you've got them running on the freeway, and one car, you know, you want to accelerate, and you pay in Bitcoin automatically to the cars in front of your passing price, right, she can just boom, like this and just go through the fast lane, they just
+
+Unknown Speaker  23:00  
+got to be anonymous, they got to be cash, because if you did credit, you could charge back as soon as you pass them, right. So you're
+
+Unknown Speaker  23:05  
+very, you're very confident in the security of the Bitcoin protocol itself. But if you look at the history of the startups that have surrounded it, there's just been a litany of security issues with the exchanges, liquidity problems,
+
+Unknown Speaker  23:16  
+but it's the difference between a bank robbery versus being able to counterfeit currency, right? So the former is a function of the bank that is a particular startup and the ladder actually being able to do significant double spending has not happened,
+
+Unknown Speaker  23:28  
+it's far easier and cheaper to counterfeit hundred dollar bill than is to counterfeit Bitcoin,
+
+Unknown Speaker  23:33  
+when Tyler and I were sort of trying to get our wrap our heads around it. One of the things, you know, these, I've heard a lot from, like navall, saying, like this is highly speculative. And it is I mean, as investors, you can't just pick up the phone and talk to the founder, right? Because we don't know who he is. And it's, it's sort of, you know, then what we did is basically go to all sort of the people in Bitcoin or people who are highly fascinated with like these guys. And it's hard to wrap your mind around, like all aspects of it. But as investors, we felt like it was just the promise and potential was just way too large that we couldn't afford to not be a part of it. So it is highly speculative. But at the same time, like if you think of it as programmable money, or cash or email of cash, we're literally at the early days of this like financial internet, which is unbelievable.
+
+Unknown Speaker  24:21  
+So as you're setting up this ETF, what are you? What's your advice to just regular retail investors? Like how do they play in Bitcoin?
+
+Unknown Speaker  24:29  
+I mean, I think that's sort of that was one of our ideas is sort of bringing retail investors to Bitcoin and allowing them to have at least the investment exposure, because what we noticed and Teller Feel free to, you know, elaborate, but there's so many sort of hoops of fire and pain points and sort of accumulating Bitcoin and buying it that we wanted to make it more accessible to the average user in certain investors can't just buy bitcoin mutual funds pension funds, for one case, so just like VCs are having trouble buying bitcoins To invest in companies with ETF, we open up Bitcoin to a whole new world investors.
+
+Unknown Speaker  25:06  
+And with that, we have to close up the panel. Thank you so much.
+
+Unknown Speaker  25:10  
+Thank you. Thank you.
+
+Transcribed by https://otter.ai

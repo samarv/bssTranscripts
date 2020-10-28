@@ -1,0 +1,121 @@
+Unknown Speaker  0:15  
+Let's see if this works. All right, good. Good.
+
+Unknown Speaker  0:17  
+Yep. Good. Cool. So So you came up with the concept of the idea maze, right? Which I think is especially important in the blockchain world, because there's so many ideas happening so quickly, and so much to learn. So why don't you take us down your own kind of personal idea maze in the space that's led you kind of to where you are now with earned calm?
+
+Unknown Speaker  0:36  
+Yeah, sure. So um, you know, the idea may is for you know, those of you who aren't familiar with the concept, so the basic concept is, you might have a business plan, like, hey, let's do music on the internet. Those are many permutations of that, are you doing it? You know, like a Napster kind of thing? Are you trying to do it like a Spotify type of thing? Are you doing it like a YouTube type of thing where you're doing music videos, not just music, and the various permutations, some of them lead to failure modes, and others lead to, you know, large exits, like in the case of YouTube, and it's not completely obvious at the beginning, you know, you might have a broad concept of, you know, let's do music, but the details really do matter. And some doors, you know, opening, some don't over the last couple of years prior to the rise of aetherium. And in the whole token space, the main things that worked in crypto were a Chinese mining and B exchanges. And now we've got a larger set of things that are starting to starting to work. But that's kind of like the history and of course, just holding, you know, Bitcoin itself up until early, you know, this year in holding a theorem. signal, it's now possible for those folks who've been working on applications or had application abuse for a while to actually, you know, make those things work. Which brings us to what we're doing with with earned Comm. So you know, now, you know, we've got pretty good traction, we're growing quickly. And, you know, the idea is that you can now get digital currency by replying to emails completing tasks. And if this gets to a very large scale, then the idea is that, you know, first you mined Bitcoin and you earn it for computation, and then you bought tokens for capital, and now you can earn digital currency for labor. So it's like a third way of issuance. And actually, you had a kind of a quote on this, like, a year and a half ago, or something, which I thought was good.
+
+Unknown Speaker  2:14  
+Yeah. So I mean, we, I mentioned at the start, kind of, we all have our own personal bias, I'm definitely biased to this product as a user, but also as someone who's just thought that there's kind of a certain segment of people in the world that want to buy and sell digital currencies, but perhaps an even broader segment of people kind of globally that want to earn. And so you've kind of had this product, right? for about a year now with with just Bitcoin and now, you're tokenizing. So talk a little bit about that. And specifically, I think, like, you know, Why tokenized? I think a lot of people in the room possibly, and even myself, for a while, thought it was just about Bitcoin, right? And didn't necessarily see a world where there's thousands of potential tokens, and it's becoming increasingly clear that we may see a world like that, but why was specifically for your product, you think?
+
+Unknown Speaker  3:01  
+Yeah, so me why for us, and then why we kind of Yeah, General, so on. So we actually, if you go to URL, comm front slash token, you can kind of look at the white paper, it's up there, it's about 70 pages. So you'll finish in a few minutes. But basically, we're not doing an Ico so we're not selling, you know, tokens to the public for for capital on instead we're doing is we are rather than shoving tokens for capital, we're giving them for labor. So by signing up by getting verified by completing tasks by onboarding others by referring senders of tasks to the network, we issue you tokens for doing those things. And as the network grows and scale, you're now a stakeholder in the network. And, you know, this is sort of similar to you know, people who said, hey, what if Facebook could have given half of its value to its users? You know, that would have been quite a lot of money that would have given to folks on and, you know, technically, it wasn't possible to do that for many years, because you had international users you had difficulty associate with that. But if what we're doing works, it'll then be a new way to bootstrap and scale social networks in two sided marketplaces. And so then that's a use case for tokens, which is not raising
+
+Unknown Speaker  4:10  
+capital, but actually,
+
+Unknown Speaker  4:12  
+customer and, you know, send her acquisition, which is, which is interesting. So, so we're doing with, you know, the earnable token, and that's what we call the earnable token, because it's earnable. And then more generally, you know, in terms of the the space at large, yes, for a long time, you know, folks, you know, Brian Armstrong, myself, others were basically very, you know, like, very probic. And we're still pro Bitcoin, but I think it was really around
+
+Unknown Speaker  4:36  
+late 2015, early 2016,
+
+Unknown Speaker  4:39  
+when it became clear that the scaling issue was not just like a few months kind of thing, but that it represents a deep philosophical split, that was going to endure for some time. And I think what that did was it basically, you know, roughly resulted in one coin one application, right. So I think Bitcoin is a lot as a digital gold. Interesting sense, actually, the fee issue may contribute to that, because the more Bitcoin that becomes on spendable, so something like 57% of balances are unfindable in Bitcoin, because the fees are too high, or I've seen a stat on that. And, you know, that varies because fees go up and down, and there's periods where those balances might actually be spendable. But let's say there's some percentages and spendable, paradoxically, that takes supply off the marketplace on and actually increases the price. And so for those folks who are, you know, like into bitcoin as a, as a digital gold, that's good. Another thing it does is it discourages you from just sending a transaction in a short period of time. Instead, you really want to think about whether you want to do a Bitcoin transaction, and then you time it, you know, four days in advance or what have you, and you wouldn't want to do an adjusting time fashion. So then that means you've got a very, you know, high time preference, right, you can, you're willing to send it only after a lot of judiciousness a lot of consideration Not right now. So discourages impulse purchases, for those reasons, Bitcoin becomes a lot as digital gold, but other applications move to other coins.
+
+Unknown Speaker  6:03  
+And you I think, before, you've had some pretty provocative thoughts on kind of China, and particularly Chinese mining, and that kind of impacting, you know, like other coins, other consensus mechanisms, things like that, what are some thoughts there? And as that kind of impacted your decision to kind of move a bit away from Bitcoin for for calm?
+
+Unknown Speaker  6:24  
+Yeah, sure. So, so I took over the company in mid 2015. And around that time, you know, Chinese mining was in a really, really scaling and, you know, a lot of respect for what they did over there, it's economically possible to do things in China that are basically not possible in other other countries. And, you know,
+
+Unknown Speaker  6:42  
+I think that actually, you know,
+
+Unknown Speaker  6:44  
+the demonization of some of them is you know, is gone way overboard, I don't think like john is a bad person or anything like that. I don't think the blockchain guys are bad either for what that's worth on. But
+
+Unknown Speaker  6:54  
+with respect to
+
+Unknown Speaker  6:56  
+the the Chinese mining situation, just due to the fact that there's certain economic factors that, you know, make them you know, basically the the world beaters, you have concentrate a lot of mining power in basically one country, and that country, you know, China has shown a willingness to go and shut off protocols and shut off applications, like Facebook is blocked in China. And, you know, Google is blocked in China, and they have the sophisticated, the sophistication, and the will, at the firewall level to go and interdite packets and so on, they've got this doctrine of so called internet sovereignty, which
+
+Unknown Speaker  7:25  
+says
+
+Unknown Speaker  7:26  
+anything up on the internet within China
+
+Unknown Speaker  7:27  
+is ultimately subject to their jurisdiction, every packet
+
+Unknown Speaker  7:30  
+that crosses their borders is like a physical packet across their borders, they assert the right to like a customs agency interdite that. And so I think, you know, especially given the shutdown of all Bitcoin and you know, token exchanges in China this year,
+
+Unknown Speaker  7:43  
+it's quite possible maybe even likely, that at some point,
+
+Unknown Speaker  7:46  
+they're going to go and mess with with mining, they're
+
+Unknown Speaker  7:48  
+right on that could be nationalizing it, it could mean
+
+Unknown Speaker  7:51  
+acquiring the miners, it could mean you know, directing them to do malicious mining, it could mean many different kinds of things. But I do think that's one of the probably top three vulnerabilities I think of for the space.
+
+Unknown Speaker  8:03  
+Now,
+
+Unknown Speaker  8:05  
+you know, it's possible for them maybe to open up mining overseas, but that stuff like it's a large capital investment, so flexible, that brings us things like proof of stake if
+
+Unknown Speaker  8:12  
+you jump into that. Yeah. So what are your thoughts on kind of a theory and proof of stake? And it's an interesting kind of topic, because, you know, what I found is, I'm sure you have is kind of in the early days of aetherium, a lot of the smartest distributed systems PhDs in the world, as well as a lot of the kind of diehard Bitcoin developers thought that proof of steak basically wasn't possible. Right. But there's been a lot of progress on Casper on aetherium. And, you know, tender mint and some other proof of stake systems, and especially in a world where, you know, proof of work mining is potentially dominated by certain countries, it seems an opportunity could be opened up for for proof of stake. So what are your thoughts?
+
+Unknown Speaker  8:50  
+Yeah, so So, um, I had a write up like, a few months ago on the quantifying decentralization. And the idea is that, you know, when people talk about whether a system is decentralized, there's different subsystems that they look at, for example, Bitcoin, or aetherium, you can look at, okay, how many miners are there? How many different countries are they in? You know, how many exchanges are there? How many different countries are the exchanges in how many, you know, wallets are there and nodes, and so on, and so forth. And often what you'll see is people rhetorically, you know, I've got examples of these, they'll say, Oh, it's not decentralized, because, you know, my name is only in one country, or aetherium is not decentralized, because you know, vitalik basically controls it, or x or y. And so in a sense,
+
+Unknown Speaker  9:32  
+like, if any subsystem is centralized,
+
+Unknown Speaker  9:34  
+that's a choke point, and then the system becomes centralized. And I don't think it's a coincidence that if you look within Bitcoin, the two arguably, you know, at least by this metric, you know, the this modified Gini coefficient kind of thing that I published, at least by that metric, or things that are related to it. The two most centralized systems in Bitcoin are the ones that have been going to war with each other, the core developers and the miners, right. So it would be hard for you know, nodes For holders to go to war with each other, because it just be Amelie of everybody shooting at each other, and no one knows who each other is right? She can only even have that conflict if you've got, you know, centralized kinds of kinds of pieces. But with proof of stake, what's interesting about that is, rather than having all decision making concentrated geographically in one place, distribute throughout the world, that's the advantage of it. The disadvantage of it is, um, you know, there's the whole state grinding thing, which, you know, folks are, like, we're working on Casper, I've been working on, on, and there's also the fact that, unlike proof of work, to my knowledge, there isn't an algorithm, you can just apply to a proof of stake chain that will say, Okay, this is, you know, the longest, you know, proof of work chain, in the absence of reference to a third party. And but that what I mean is you can actually download the Bitcoin blockchain. And you can look at every block, and you can calculate roughly how much hashing went into that. And that gives you an absolute ruler, in terms of the difficulty, you know, embedded in the chain. Whereas if each block is approved by just a certain number of holders, there's no external computational metric, there's no external ruler that you can apply. So that means potentially, there's vectors where it could be more subject to attack. So I don't argue that one is better than the other in all cases, I'd say that for this kind of attack, like a nation safety stack, proof of stake may be better for another kind of attack, proof of stake may be worse. And I'm happy to see different kinds of approaches being applied. Got it? So maybe
+
+Unknown Speaker  11:20  
+moving back to earn calm, and specifically the earnable token. So you're launching this as an ERC 20 token? Is that right? Right, and maybe talk a little bit about, you know, how you're driving usage of the product, or driving kind of distributing tokens to drive usage of the product, right, because as you mentioned, like this is not an Ico, I think most people in the ecosystem that are launching new projects right now are kind of optimizing for all this interest in tokens by raising a lot of a lot of cash, right? And, you know, Bitcoin didn't raise cash, right? Bitcoin kind of launched a system and had an incentive kind of mechanism and distributed coins and bootstrapped it that way. And so maybe talk a little bit about exactly how you're doing that, and some of the things you're thinking about. So,
+
+Unknown Speaker  12:04  
+you know, like, you know, raising capital, it's not a bad thing, you know, theorem Did you know, the first Ico, they raised 25, at the time, it was concerned of enormous amount of money and whatnot, and they're very well over that. But what we're doing is something where it's been talked about a lot, but I don't think people have actually implemented it to my knowledge, which is a every time the user base of earned.com, doubles the token reward halves, okay. So what that means is that you have a strong incentive to just go and sign up immediately, and get your earnable tokens, because in the event that the thing actually works,
+
+Unknown Speaker  12:40  
+and we double many times,
+
+Unknown Speaker  12:42  
+you will have a very large stake in the network relative to folks who are later on, it's as if, you know, for example, if you take Facebook, you know, if Facebook split, its, you know, equity with, you know, all of its users, then that'd be 2 billion users 250 billion, you know, divide among 2 billion users, hundred $25 for every man, woman and child on Facebook, but in practice, it wouldn't have split it equally, it would have wanted to give in the first 10,000 and 100,000 million and 10 million people more than the billionth user. Because these folks contributed more to the network effect. And now, you know, tokens aren't equity. But what what this does, though, is when you're building up a network, you can actually allow people to get a piece of it early on, not in exchange for capital, but in exchange for labor, such that if the thing becomes a large size, then just by clicking a few buttons early in, you know, 2018 or late 2017, they've got something that's a great utility in the future.
+
+Unknown Speaker  13:38  
+So do you think we're going to see in 2018, more thinking about kind of this approach, as opposed to the massive kind of cash grab up front to fund
+
+Unknown Speaker  13:48  
+development? Yes, I think, I mean, if you take the pie chart for token distribution, if what we're doing works, and you know, we'll probably know that by like, you know, like q1 or q2, or there abouts on the so right now that the system is based on Bitcoin, you can go and sign up for it. And we're gonna flip a switch, and we're already having people in the beta to flip you over to token so you can mess around with that. And you'll be grandfathered. So depending on the order in which you sign up, then you go and get your, your tokens. So we'll know if it works, probably by you know, mid next year, we'll, we'll be able to see it. And I think if you take the pie chart of any given token, you've got 100% at the beginning, and people I think will allocate some fraction of it for you know, like selling, you know, in an Ico some fraction for maybe an airdrop some fraction for an urn.com, shell bootstrapping and so on and so forth. Right. So, each of these are new ways of kind of using like the pool in addition to the traditional ways of you know, like, like allowing it to be mined or what have you got it.
+
+Unknown Speaker  14:49  
+And I in terms of how the products are being used right now. You know, like what are some use cases I get emails, the obvious one list, maybe talk a little bit about kind of you got, you know, lots of users right now and lots of traction. So talk a little bit about that. Yeah.
+
+Unknown Speaker  15:03  
+So you know, if you're, if you see us on Twitter, a lot of folks, you know, tweeting about how they've been making making money on and the fundamental, so, you know, kinds of pitches or things you'll see on there. So for users, you know, they have wanted to one of the most popular queries for a long time has been, you know, making money online, but there's been, you know, very sketchy sites that allow that, but it's a, it's an eternal human desire to make money online, right? For senders, actually, many companies want to send mass cold emails. And if you google the term, like buy email lists, that's a very popular desire as well. But you know, people usually don't want their emails sold, because they don't get, you know, any cut of that. And there's no consent associated with that. So if you put those two desires together, make money online, and by email list, you actually have a match made in heaven, where you're selling something that is not that, you know, dear to you, right, um, you're basically selling a minute or so of your time, but it's extremely valuable to the person on their side. So the kinds of you know, groups that are using it, so certainly lots of tokens. So, you know, I don't know close to a billion dollars, where the, you know, tokens have sent out messages blasted folks on our list, because we've got lots of crypto people. So that's a major application on folks doing market research. So large consulting firms, and, you know, advisory firms that you've heard of send out things to go and talk to 500 biotech executives, and then pull that and turn that into a report that they can then go and resell, right? And they get response in 24 hours. Or if you're a salesperson, you go and you blast out to 1000 engineers, and you say, Hey, are you using containers in production? And let's say, I don't know, 170 of them say yes, you then retarget them with a specific, you know, request for an appointment or something like that. So that gives you some of the examples. Basically, you can send an email that includes like a survey or ask people to complete that, and then retarget based on that, so it allows some interesting kinds of things. Got it.
+
+Unknown Speaker  16:56  
+Okay, so last question. We've got a few minutes left. You know, one kind of thing people might say about this type of token approach as well. You know, it's centralized, right? It's not really decentralized. And I know you have some thoughts there on kind of how you're building towards decentralization over time. So how do you think about that? Yeah,
+
+Unknown Speaker  17:14  
+yeah. So um, I think that trying to jump immediately towards full decentralization is is challenging, you have to do what I think of as progressive decentralization. And so for example, even you know, like Ethereum, last year, with the Dow, their their issues with being fully decentralized, they needed to actually make a change. And the fact that the system was centralized enough to make allow them to make the change will allow that to happen. Similarly, in the early days of Bitcoin, there are many kinds of hard fork II type things, there's a bug that allowed people to coin a lot of Bitcoin. And because it was basically a small group of developers, they could effectively push a change through. So I think in the early days of a system, it's relatively hard for it to be fully decentralized from the beginning. Because, you know, decentralized would mean a mutable and immutable means you can never adapt it or change it. With that said, you know, what our plan is for decentralizing over time, is one of the tasks when you're when you're blasting, you know, these emails or tasks to users, one of the tasks you can send is a pay to install type task, right? So if you've got a mobile application, you can get 10s hundreds of thousands of installations by just clicking a button and blasting out to lots of comm users and asking them to, hey, install your, you know, iOS app and sell your Android app. And the thing about that is, it's very similar to a very successful ad format. It's wrong Facebook for a long time, which is paid to install the app with one critical difference, which is the person on their side gets paid to install it right? Not not just Facebook. So the reason that's related to decentralization is every time pay to install is run on, you know, those that fraction of users, let's say 40,000 users say yes to that, you've just now effectively copied 40,000 users out of the database into your own database, right? So which partially federates the database, right? And you can replicate that where it's not just pay to install, but like a paid off, where again, out of let's say, 100,000 people 30,000 will grant you permissions, and you can blast them with a task that says, hey, can you try out my app and grant me these permissions to your data, right. So by doing something like that, any developer with sufficient capital and consent can then just get hundreds of thousands of users just by sending up tasks that are calm, and that will federate the database. And then over time, we might be able to move to something which is fully decentralized, like potentially like an ipfs or filecoin, type, you know, relational type data store, on top of which we have a relational database. But one thing I would just say is that it's not that easy to decentralize a user database as opposed to a transaction database. But going through mobile transaction databases, user databases are different qualitatively different, so got it.
+
+Unknown Speaker  19:46  
+Okay. That was fun. Thanks.
+
+Transcribed by https://otter.ai

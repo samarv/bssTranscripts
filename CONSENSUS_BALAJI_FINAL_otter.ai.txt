@@ -1,0 +1,58 @@
+Balaji Srinivasan  0:00  
+wearables if they could provide diagnostic grade measurements, that would be a game changer because it would mean that everybody could get essentially real time diagnosis of whether they were coming down with COVID-19.
+
+Advertisement  0:19  
+Welcome to consensus distributed from coin desk where you'll find live recorded talks and discussions from coin desk events and more. Today's talk was recorded live at coin desk distributed on May 11 2020. This episode is sponsored by Eris x, the stellar Development Foundation and grayscale digital large cap fund.
+
+In this session, angel investor Balaji Srinivasan speaks about crypto hacks with the Coronavirus with coin desks, Michael Casey and journalist and podcaster Laura shin.
+
+Michael Casey  0:49  
+early on when China's covid 19 outbreak seemed to fall off issue to most people. Balaji Srinivasan was on Twitter, relentlessly warning of the risks and proposing radical solutions. Balaji is uniquely prepared for this moment. He's an active Silicon Valley investor, the founder of crypto company earned a former CTO of Coinbase. And he's also a Stanford Graduate ex graduated expert in bioinformatics and the genetics of complex diseases. ology welcome.
+
+Balaji Srinivasan  1:15  
+Can you hear me? Yeah, yep, gotcha now.
+
+Yep. Awesome. Great. All right. Thanks. Great to be here. Yeah.
+
+Michael Casey  1:21  
+So So when did you first realize this disease posed a threat to the world and what was it like to recognize that most people didn't have a clue that there was a kind of a alarming reality that everybody was oblivious?
+
+Balaji Srinivasan  1:33  
+Well, I was following it in January, but it was the lockdown of boo Han, that made me as well as a lot of other people, you know, recognize that this could be a very big deal, because the Chinese government doesn't usually do things like that. And then I read all the scientific papers I could get my hands on, and I realized that actually, you know, this thing had the potential to be, you know, like, like Bill Gates has talked about, and I think now people agree at once in a century pandemic, but I think people had and have maybe less so now. But such a status quo bias, that, um, you know, it, it was perceived as Oh, another tech person saying the world is going to change or something like that. And so for several weeks, I had to sort of cut a swath on on Twitter, you know, and a bunch of other people were doing it certainly by no means the only person, but rebutting essentially a bunch of articles that said, you know, oh, it's not going to be a deadly pandemic. And these were mainstream media outlets. It was, you know, the new york times it was Washington Post's perspectives, it was Vox, who was recode it was BuzzFeed, it was wired, it was quite a few putting this meme out there. Now they've since switched course. But it was really a fundamental, you know, kind of kind of break down. And, and now I think we're gonna, unfortunately, seeing more of that with like, the masks don't work stuff followed by masks do work. So so that's what it was like, it was like, it was it was kind of like being Paul Revere, along with the hundred other people on Twitter being Paul Revere.
+
+Laura shin  2:55  
+Apology, early Trump presidency, there was a rumor you'd be tapped to run the Food and Drug Administration, whether or not you ever would have accepted that job. What changes would you make now to the FDA in light of COVID-19?
+
+Balaji Srinivasan  3:10  
+Great question. So um, you know, I'm actually much more pragmatic than people think I'm a pragmatic person, even though you know, it might come across as radical sometimes. So I would actually, you know, first you have to do three things. First, Tell, tell most of people audience, your job won't change. The second what I would have done in this, I wrote this plan up, you know, a long time ago, but even today, it's true. I allow everybody to work from home, which is actually a huge raise for many of them. You know, now today doesn't seem like a gift, but at the time, it was a big gift. The third thing I would do is I would work with now these new interstate compacts to decentralize the FDA in the following sense. Any applicant, any drug company, device company, by company that wants to submit an application to the existing FDA can do so. But they can also choose another pathway, for example, the western states compact, which is now California, Washington, Oregon, Colorado, Nevada, they could approve drugs, devices, vaccines, etc. At the state or the let's call it the interstate compact level, in collaboration with a state regulators and be, you know, Stanford, UCLA, UW, these are world class universities there, right? The same could be true in the upper Midwest, you could have the Mayo Clinic, you know, working with regulators there. Same could be true in the Boston area, certainly with Harvard and MIT. Same could be true for the New York center, you know, interstate compact, where you have Columbia and Cornell. And these are actually the folks these universities that do a lot of the expert review and extra panels for the FDA anyway, so it's actually not that different. The key difference would be the FDA would actually have competition. And actually, one thing that's not very well understood is that there's existing pathways outside the FDA that already are extant. So for example, right to try for drugs, the LD t pathway for laboratory testing, compounding pharmacy is you know, these are these are pathways Do this
+
+Michael Casey  5:00  
+out. This sounds like an extensive pitch for the job, which I be thrilled to see. interesting one, but just quickly, because we don't have much time, I want to throw out a very important issue to you. And that is like contact tracing is often described by some as the necessary component of how we're going to reopen the economy. But it conjures up these kind of big brother like ideas of privacy invasion, or their blockchain or other solutions for gaining information without, you know, obviously destroying civil liberties.
+
+Balaji Srinivasan  5:26  
+So I'm, obviously in favor of crypto and decentralization and so on. But I'm also a pragmatist. And it's easy to get a centralized solution up and working in a short period of time, in a pandemic, and an emergency. You know, we've already known and I tweeted about this, NSA has been surveilling all Americans and doing location tracking since at least before 2013. Snowden showed that that was already there. We already have, you know, the ability to, you know, basically, like the garment has already been surveilling Americans, so at least Americans should get some benefit out of that. Um, and so you know, that this is something where I think, contact tracing and what have you, it has to be positioned not as a bad choice relative to an ideal, but as a less bad choice, you know, given the spectrum of bad choices that are available. And I think that those countries have managed to get this virus under control. It's basically like fighting a war except is fighting the war against the virus. Once you're in peacetime, and we've got a vaccine or a drug or something like that, you can hopefully back off on these on these kinds of policies. And if not use crypto to decentralized
+
+Unknown Speaker  6:36  
+challenge. All right.
+
+Advertisement  6:39  
+Support for this podcast and this message come from Eris x with Eris x you can trade spot and regulated futures on cryptocurrencies through a licensed US based exchange, Eris x believes in fair access for all Sign up today to take advantage of zero fees and learn more at Eris x.com slash consensus This episode is also sponsored by the stellar foundation the stellar network connects your business to the global financial infrastructure. Whether you're looking to power a payment application or issue digital assets like stable coins or digital dollars. stellar is easy to learn and fast to implement. Start your journey today at stellar org slash coin desk. Our final sponsor is grayscale digital large cap fund. In times like these diversification is key, consider grayscale digital large cap fund ticker symbol gglc. It's the only publicly traded investment product that offers diversified exposure to large cap digital currencies, all from your brokerage account. For more information, visit grayscale co slash coin desk that's gra y scale.co slash coin desk.
+
+Laura shin  7:42  
+One last quick question. You're in touch with a lot of tech startups working on solutions to this crisis? What are some of the best ideas you've seen?
+
+Balaji Srinivasan  7:49  
+So one of the most important will be these, these studies of wearables were that were a ring is doing a study with UCSF and Fitbit and Apple Watch are doing it with scripts on wearables, if they could provide diagnostic grade measurements. That would be a game changer, because it would mean that everybody could get essentially real time diagnosis of whether they were coming down with COVID-19. We've already seen some indications that this can work. Kinsey does a smart thermometer company, they've got a health dashboard that seems to be predicting, you know, when people are getting temperatures in the US, and that that seems to be predicting, you know, spikes in COVID-19. So so that would be a true game changer. Because then you don't have to send samples back and forth to a lab. You don't have to do PCR, you can just crank out 300 million smartwatches or rings and equip everyone with them at all times.
+
+Laura shin  8:39  
+That sounds great. But unfortunately, this is all the time we have. I'm sure many of us would love to hear more of your ideas. But thank you for your time. And everybody. This is where I leave you. Thanks for including me, Michael.
+
+Michael Casey  8:51  
+Laura, it was a pleasure. Thanks so much for being here as well. Thank you Balaji. And thanks all of you for tuning in. I'll be back at 5pm for our special for charity happy hour music show. Coming up next we have the capital control session hosted by Anne Stanley and Kristen Smith. But from us Bye for now.
+
+Advertisement  9:08  
+You've been listening to crypto talks from coin desk for new short daily episodes, you can subscribe with Apple podcast Spotify or your favorite podcast player.
+
+This session featured Balaji Srinivasan, Michael Casey and Laura shin. It was recorded live during consensus distributed 2020
+
+Transcribed by https://otter.ai

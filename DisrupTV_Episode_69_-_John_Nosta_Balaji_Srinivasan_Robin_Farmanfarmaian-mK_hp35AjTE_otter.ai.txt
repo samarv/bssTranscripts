@@ -1,0 +1,340 @@
+Unknown Speaker  0:01  
+Hello everyone and welcome to disrupt TV. My name is Marlon absher, Chief Digital evangelist at Salesforce, and your co host for the next hour. We welcome you to join us on Twitter at disrupt TV show, send us your questions using hashtag disrupt TV re myself and our distinguished guests will try to answer them while we're alive. We also have over 150 interviews on our podcast, so check them out on Soundcloud and iTunes. Also subscribe to disrupt TV on YouTube and Vimeo. It's my pleasure to introduce my co host Ray Wong. He's the co founder of constellation research. He's a regular contributor to Harvard Business Review, Forbes and Zb. NET best selling author of disrupting digital business. And one of the coolest guys you can follow on Twitter at RWH zero welcome, Ray.
+
+Unknown Speaker  0:48  
+Hey, welcome. Thanks, lavon and my awesome co host valastro. One of the top CIO influencers cmo influences also in the world, major contributor huffpo. And more importantly, he's also an author and one of the people people trust first, when they talk to about technology and business. So hey, what do we have here? We got the awesome healthcare issue. What awesome guests Do we have first here today?
+
+Unknown Speaker  1:11  
+Yeah, we are terrific guests, and I had a hard time cutting everyone's bio so we can fit into an hour show. Our first guest is john nosa, President of notes to labs. He's a thinker, entrenched in the world of science, medicine and innovation. He's the founder of noastre labs and digital health Think Tank. He's generally regarded as one of the top global strategic and creative thinkers in this expanding area of digital health. He's consistently ranked among the top names in almost every digital health list, and has sustained that position for several years. He's a member of the Google Health Advisory Board, he pens health critical for Forbes, which is one of the more popular blog posts, and he writes for digital self for Psychology Today. He's also on the faculty of exponential medicine. Early in his career. JOHN is a research associate at Harvard Medical School, and has co authored several papers, too many for me to name, a few more worked at Ogilvy in the capacity of Chief Creative Officer, Chief strategic officer and President unit president. He's an amazing follow on Twitter at JOHN NOLS ta welcome, john to disrupt TV
+
+Unknown Speaker  2:21  
+valo Ray, it is an unqualified pleasure to be here we've been we've been following each other and stalking each other for so long now. So it's it's a reunion for me. It's really great.
+
+Unknown Speaker  2:33  
+You are where I go to learn about digital health. So thank you so much. know, hey, and thank you for being here. It's great catching up again. You know, look, you said this before other folks have said this, but we're at an inflection point in human history, profound convergence of events that are now happening, what 10th anniversary of the smartphone, can you remember before the iPhone, and lots of cool stuff happening? So what's going on? Right? What's the big picture? You know, where do you see the world coming? As you blend futurist healthcare and technology?
+
+Unknown Speaker  3:02  
+Well, you know, inflection point, exponential growth near all these words, and I don't know, I think most people start to yawn. And that's what really bothers me, that worries me because I think people are missing the point. So yes, the smartphone emerged 10 years ago, which is kind of interesting. But let's, let's talk about the power of 10. And let's go back 100 years, because something interesting happened 100 years ago, or about 100 years ago, and I think is really relevant today. So if you go back to the 1900, what happened? Nothing. Nothing. Right? I mean, I'm sure there's something going on. But for the most part 1915 1916 1917, we really saw the emergence of a new century, a century built on technology, essentially, around things like the mass of the electron, things like the airplane. And what I'm seeing now is the same dynamic because what happened in the year 2000. Now, why y2k didn't happen. So that was kind of interesting. But now, you know, even the birth of the smartphone, which really is, I think, the pivotal element, that's 2007. So what we're seeing is a convergence of technology of social issues, including strife, including political concerns. And add to that a sense of profound empowerment. Okay, the empowerment of somewhere and the sense of wonder, and I'll wrap it up real quick, because that sense of wonder was experienced in 1917, when someone looked up and saw the airplane. And what they saw was wonder and fear. And it's the same thing today, with the driverless car. People look at it and have a sense of wonder and fear. And let me wrap it full circle for you because that that inflection point is sort of defined by today. And let's go back to 10 years where we started 10 years ago, the smartphone 10 years from now, the driverless car will be the preferred mode of transportation versus Is the human driven car simply because just like that airplane, it's too darn risky. So I mean, I think it's going to be profound. Sure, sure.
+
+Unknown Speaker  5:09  
+Well, there's a question of safety convenience. Certainly what this did is to give individuals today 10 years ago, only 3% of US adults had a supercomputer in their pocket. Now it's 82%. So there's more accessibility to information in the cloud, the app economy, mobility. with Facebook and Twitter, we're now more informed. You know, we expect personalization, immediacy and intelligent discourse to be part of our of our quality of life and experiences. JOHN, what are you talking about now that you weren't talking about maybe three years ago, five years ago, in terms of digital health? Is it artificial intelligence? Can you talk about autonomous car? Most people have maybe subconscious thinking about AI, machine learning, deep learning, but how does that impact in healthcare? And is that the topic of the hottest topic today? When you talk about transforming?
+
+Unknown Speaker  6:07  
+Yes, and no, I think number one, the emergence of artificial intelligence, really, the empowerment of AI to a functional capacity is critical. And we're seeing this change at an exponential rate. So we look three, four or five years out, it's going to be amazing. But go back the other way on the curve, go back three, five years. And what you're seeing is that AI wasn't quite right, surgery wasn't quite right, you know, some of these methodologies, but the magic for me is not only the emergence of AI, but the coupling of AI with other co evolving technologies, for example, the ability of big data and analytics, fueled by AI in genomics in drug development. So I think in diagnostic capabilities, we're gonna see fundamental changes in mental health, mental health is largely a subjective diagnosis, right? Are you depressed? Well, are you sad? You know, but now Facebook, using algorithms and functional AI, can actually tell you if you're depressed. So to me, that's the change. It's the convergence of multiple aspects of technology, principally merged with AI, because that's the linchpin. You know, I mean, the question is Vala, is artificial intelligence? Is it man's last great invention?
+
+Unknown Speaker  7:21  
+Hey, or could it be like the matrix where we actually know how to break the rules? And actually, you know, get in between and actually make something happen?
+
+Unknown Speaker  7:28  
+Are we or are we in the matrix? I mean, I, you know, back and forth, right, Ilan Musk, everybody talks about, and we are on our diseases are diseases functional glitches? It could be, yeah, it could be a really cool philosophical construct.
+
+Unknown Speaker  7:42  
+But but five years ago, that we were talking about the potential impact of wearables and Internet of things with diagnosis that's happening with people that were Apple Watch, or the fact that as Ray said, We're going from descriptive to diagnostic to predictive to, to, you know, understanding contextual intelligence more so than ever before, with AI is, so I guess it's a combination of all of these technologies that can really impact healthcare.
+
+Unknown Speaker  8:10  
+It's innovators, who are looking at cool things like taking an accelerometer and putting it on a watch being merged with people who understand functional science with clinicians, with patients and caregivers. And I think we're finding a new level. And maybe it's a little bit like the hype, you know, the hype chart where there's a maturation, but to me, we're looking at that combination across a variety of fronts,
+
+Unknown Speaker  8:35  
+you know, and you know, part of that convergence really is about the digitization of ourselves, that quantified self movement that was big about 10 years ago, then five years ago, again, picking up again, as we speak.
+
+Unknown Speaker  8:47  
+What do we find
+
+Unknown Speaker  8:47  
+the balance between privacy and our public health? What's being done to protect our individual rights? Is that a discussion that's also on your radar?
+
+Unknown Speaker  8:55  
+It's on my radar, I tend to avoid it because it's too complicated. But I'll tell you what, privacy is over. It's over. No. You guys are getting it wrong. You're trying to you're trying to force fit the notion of contemporary privacy, with with the future intrusion of AI into our world, it's it's not going to work. Look, 100 years ago, nobody knew where my farmhouse was. And that was privacy right? today. Everybody knows where my farmhouse is. You guys can Google me?
+
+Unknown Speaker  9:24  
+But do I? Do I reserve the right to be disconnected? Let's say I'm gonna go out on a binge binge weekend with my buddies. We're going out drinking, we're gonna eat lots of steak, consumed lots of salt, lots of caffeine. I'm gonna disconnect, disconnect from the system.
+
+Unknown Speaker  9:40  
+What happens, though? All right, let me just
+
+Unknown Speaker  9:43  
+tell you, insurance providers.
+
+Unknown Speaker  9:46  
+On the other hand, on the other hand, you the same people who are saying things like health is a right. And it's the same people who are thinking that that our ability to connect to the internet is a fundamental right. So it's connecting right That's a good question. Um, it's a contextual, right is breathing, right? Do I have the right to breathe? No.
+
+Unknown Speaker  10:16  
+But I think fundamentally, privacy will change,
+
+Unknown Speaker  10:19  
+privacy will shift but but I should at least have a choice somewhere as to how that data is being used. Can I at least argue that side of the house, and I want to disconnect, I'm going on the weekend,
+
+Unknown Speaker  10:29  
+take me off the grid and give you that, I think and what you're missing out on some conveniences and experiences that you know, the world around you is delivering to based on you might actually have
+
+Unknown Speaker  10:41  
+to think about what I eat, I won't get a suggestion, I'll, I'm gonna say I'm gonna have a steak. I'm not gonna have this protein bar, because it's better for me. But my
+
+Unknown Speaker  10:50  
+thing is a foodie. So
+
+Unknown Speaker  10:54  
+you can disconnect right?
+
+Unknown Speaker  11:00  
+Now, we're just gonna change the definition of disconnection, right? I mean, my keyhole satellite view of you, is not gonna go away, right? It's not gonna go away.
+
+Unknown Speaker  11:10  
+I'll let you keep looking. I pay a lot for.
+
+Unknown Speaker  11:13  
+Okay, you and that's the notion of innovation. Innovation can be complex. Certainly, it's a confluence of disciplines, and rigor, what are some of the principles you apply in terms of furthering innovation when you are working with a client, and they're hoping that most of think tank is going to help them transform their business to the next level?
+
+Unknown Speaker  11:36  
+Well, I mean, there's a couple of emerging trends I've written about on psychology today. The first is the true nature of, of collaboration. And we're moving from an environment dominated by control, dominated by IP, close source to open source, where there's a broader collaborative engagement, what we're finding is that, that really smart people are not in the brick and mortar walls. I like it, I think of it as a three legged stool. There's the lightening of discovery. There's validation, especially clinical validation, let's say in a pharmaceutical company. And third is market access. pharma doesn't have the lightning bolt as hard as they try, they just don't have the lightning bolt. So to me, they've got to be able to look outside their walls for that, for that lightning. So in my experience, in this whole notion of the Collaboratory, you know, which is a blessing and a curse. I feel that the collaborative nature is fundamental. And you're seeing that in society, we now collaborate on our care, Robin can articulate this perfectly, that what we see now is that it's not just control, the doctor doesn't give me the pill, I engage in a dialogue, and we negotiate care. The other point that I'll make here, which I think is critically important, is that innovation is fragile. Everybody thinks that innovation is like Ilan Musk, like a bull in a china shop, knows what he wants, goes out and gets it and works for jobs in one week. Right? No, no, innovation is a little bit more like Nikola Tesla, a fragile soul coddling a special idea. And when you've got lawyers and regulatory people and all the big voices of pharma, screaming at you, ideas get squashed. So for me, the idea of taking an intellectual average, as a point of innovation or consensus is nonsense. That's the mushy middle. That's wrong, you have to find the point of innovation and then move the entire group to that distant part outside of the circle. So for me, it's a collaborative dynamic fostered by this notion of, of nurturing the genius nurturing the innovator, because they're often not, you know, the rock star who's gonna solve all your problems over the course of a weekend?
+
+Unknown Speaker  13:44  
+related to that, right? Is that that we're talking about this is this notion of aging in place and life extension and like expansion, are we at singularity? Or where do you see this taking place in the next three to five years? We live longer and have higher quality of life. Can we do that on one of those cool technologies that are popping up?
+
+Unknown Speaker  14:03  
+Yeah, you know, I think that life extension, life expansion is the perfect way to put it. Because everybody, when I talk about life extension, everyone always says, I don't want to be 120 in a wheelchair, or 90 in a wheelchair. And that's true. And I think we have to look at the ability to repair. You know, if you take care of your car, it'll last a long time. And when your tire fails, you fix it or you replace it. And the same thing is going to happen with humanity. I think that we're going to see in a medicine amend a tremendous intrusion of Regenerative Medicine, and I think the stem cell is probably one of the most interesting points. The stem cell is your body's repair kit. When you're young. You got lots of them when you're old, you have very few. That's why your skin loses elasticity. Because there are no stem cells to repair. We're seeing tremendous advances in stem cell science. The problem as I see it now, is that number one stem cells are sometimes difficult to get if you use your own stem cells. You have to be Get them from umbilical cord blood and freeze them when you're young. If you're using biologically active cells to treat cancer, oftentimes, that's an autologous process where you have to take them out of your body, manipulate them, and then put them back. Well, the problem there is those cells are intrinsically damaged, because that's a person with cancer, you know, in the immuno oncology space. Interestingly, we've seen something where as we shift from organ donors today to donors, right, we're seeing one organ emerge as probably the quintessential organ of transplant, that's the placenta, placenta, there's a new company coming out now called cellularity, cel UL ar it Why? It's got very, very interesting people on the board. And it's, it's looking at the development of biologically active cells using the placenta. So I think that's going to be a big, big area.
+
+Unknown Speaker  15:54  
+Let's talk about big areas, john, when you map out your research areas, for the next one to two years, can you share with us? You know, what are some of the areas that you're going to research you're going to write about, you're going to collaborate with?
+
+Unknown Speaker  16:10  
+Well, one of the things I'm looking at is the nature of the human condition in the context of technology. Because I think that the most fragile element of growth and innovation is that fragile human spirit. And as we look at the advancement of humanity, you really have to question yourself is, is is humanity an antiquated modality? And how do we integrate that into this rapidly changing notion of health, and medicine and wellness? So that's one of the things that interests me a lot. Certainly, the emergence of AI machine learning is going to impact our lives. And that's a key area for me. regenerative medicine, is is big. I'm not a fan of nudge psychology. I'm not a fan of trackers that tell you how many steps you take. I think that i think that that that's small minded, I think there are big, big changes that are going to diagnose stage zero disease that will look at disease at the earliest possible level, the first cancer cell in your body, find it and kill it, find a heart attack before it happens, because we know the occurrence of a myocardial infarction actually occurs over hours, even days. And if we can track those those chemicals, those biomarkers using nanotechnology, what we do is we eliminate the heart attack before it happens. So you know,
+
+Unknown Speaker  17:26  
+what you think these gamification principles as part of the preventative care practice? Sure.
+
+Unknown Speaker  17:33  
+Well, I think gamification, nudge psychology all works. No, but I don't think that it's going to get the the 65 year old man with metabolic syndrome on the couch. You know, I think we've got to shift things that are largely athletic options into clinical and clinical imperatives. And we do that by leveraging technology. The interesting thing is everybody talks about getting to prevention, right? The Holy Grail prevent, prevent, prevent? Well, number one, nobody pays for it, right? No, I number two, nobody does it. I'm not eating my lettuce, and I mean, chips and ribs on the couch at Ray's house, you know. So the way to prevention is by finding earlier and earlier and earlier and earlier, detection, in essence is an asymptote, you're actually sharing a border with prevention. And the way you get there is through technology mediated early detection. So that's on my radar screen. That's what gets me all jazzed.
+
+Unknown Speaker  18:28  
+Awesome. That is that is really honest. So when you think about what's happening in the world of funding and VCs for these health tech startups, is the funding picking up? Is it drying up? Are people still interested? Are people willing to make that long bet?
+
+Unknown Speaker  18:43  
+Yeah, I think the quarter of you know, rock health was 3.6 billion on the quarter. It's a it's a new high. And I just wonder if VC is chasing the wrong target? No, I think that there's a lot of hype, you know, I mean, yes, Peter Thiel gets blood transfusions of people with young blood. And you know, and a lot of celebrities are getting behind pseudo scientific initiatives, and I worry about that. But I don't want to squash the innovative thinking because these really cool ideas come from the wacky guy in the garage. I mean, that's, that's where Apple was born. That's where Medtronic was born. So I want to embrace that. But I think we have to be grounded in some functional aspects of science. Because, look, let's take a look back over our shoulder. What do we see? theranos. Yep. And you know, those are problems and those are stumbling points. But if you look at funding, just dollars, we are headed in digital health for the biggest year yet.
+
+Unknown Speaker  19:39  
+No, that is wonderful. We are on here with john noster, President of NASA labs. You can follow him on twitter at JOH n NASA n o sta one of the foremost authorities on health, health tech and innovation. Thanks a lot for being on the show.
+
+Unknown Speaker  19:53  
+Hey, Ray, always a pleasure following you very much.
+
+Unknown Speaker  19:55  
+See you on Twitter
+
+Unknown Speaker  19:59  
+john Terrific, and he's got to come back. You've got more complex topics to discuss with john. And now, it's now our pleasure Ray and I were honored to have Balaji Srinivasan CEO and co founder of 21. co as our next guest. Balaji is a computer scientists and invest investor and entrepreneur and academic. prior to taking the role as CEO of 21. Dr. Avastin was a general partner at Andreessen Horowitz. he invests and advises startups to teach the popular massive open online courses at startup dot Stanford edu. I believe over 200,000 students have attended his classes. He also wants the Stanford Bitcoin group. He was named to MIT Tr 3535 top innovators under the age of 35, and Founders Fund at 50 lists. Prior to that, he was the CTO and co founder of Council, a genomic startup that began in Stanford dorm room, and now tests roughly 4% of all US births. Council, one Wall Street Journal's Innovation Award for medicine was named one of the scientific America's top 10 world changing ideas raised more than $65 million in funding and as becoming the largest clinical genome centers in the world. He's another great thought leader on to follow on Twitter. You follow him at va la j. s Welcome Balaji to disrupt TV. Welcome, though. Thanks. Okay.
+
+Unknown Speaker  21:28  
+Welcome. So we're going to go deep on blockchain but let's let's set the stage for everyone. So apology like massive hype around blockchain, lots of projects in play and lots of p o C's, if we take the Bitcoin approach, which is eek decentralized, federated approach out of it, where are we on centralized private distributed, Ledger's? And if we take the Bitcoin approach going forward, where the trends because there are two different types of conversations around blockchain that we see out there?
+
+Unknown Speaker  21:56  
+Yeah, absolutely. So let's say at the at the very highest level you have, and there's different ways you can cut this but you have blockchain then you've got public blockchains and private blockchains. And then within the public blockchain space, you have various cryptocurrencies. So, Bitcoin aetherium, z, cash, etc, etc. in the private blockchain space, you have hyper ledger, inter ledger, chain x, Sony, and so on and so forth. Um, you can actually also generalize this even a little bit further to include so called digital assets, which are things that are tradable, but that are not necessarily blockchain based directly. They're kind of not really part of this blockchain tree, but they're more similar to cryptocurrencies than they would be to the private blockchain. Okay. So that is sort of like a high level taxonomy. And you could literally make like a family tree like this. The note that initially led to the whole thing was Bitcoin on, which was the first blockchain and you know, it's still the biggest, but only barely recently on and what that led to is essentially these, these public and private blockchains can sort of be conceptualized as the distinction between Internet's and intranets. So, in the in the 90s, actually, so Marc Andreessen was the first to observe this almost exact similarity when the internet internet was, you know, starting to gain popularity, a lot of corporations said, why would I want to connect with some random person across the other side of the world? What if they can look at my documents and so unsorted that doesn't make any sense. But this intranet makes sense to connect all of my employees and allow them to message each other within the office that replacing the interoffice memo system and so, so corporations started working on intranets. And then of course, what happened was, you had the network of networks, the internet, that network all of these intranets together, right? Um, in very much the same way on the success of Bitcoin led a bunch of people to pay attention to it. And then there was this narrative that Oh, blockchain rather than Bitcoin was the innovation. And then all these folks started working on this new tree of innovation, the private blockchain tree. Now, where I kind of see these things linking up was kind of obvious even in I think, 2013 2014 is this these are the in turn nets that basically do internal settlement within within a company or within a social network or within a consortium of banks, or what have you. And then they settle out to a public blockchain like a Bitcoin or an aetherium or what have you. Right. And so essentially, this you know, internet of money is this is how it's kind of developing.
+
+Unknown Speaker  24:30  
+So when most people think about blockchain, they think about Bitcoin and in 2010, I read a developer bought a couple of pizzas and pay 10,000 bitcoins for them. And, you know, ounce of gold today's about 1200 dollars price of bitcoin today is about 2500. So this developer paid roughly $25 million for a couple of pizzas. What's the reason behind this incredible growth of Bitcoin should be people thinking about companies thinking about in terms of you know, cryptocurrency according to a comic form now $100 billion you know market cap.
+
+Unknown Speaker  25:09  
+Yep, yep. Yeah and actually you can track that market cap in real time there's a website called literally coin market cap calm and as of right now it's at 96 point 3 billion so it so that's that's a good website where you can track all the cryptocurrencies, not just not just Bitcoin. Um, so what's going on? Why has this thing just rocketed from absolutely nowhere to I mean, frankly, changing the world? You know, a good way of thinking about it is that Bitcoin and you know, now aetherium, and all these other coins represent something which I would say comes after startups. So, you know, startups have become something which, you know, we're, you know, they're like, the kind of concept became common in the 90s. And then everybody started doing them after the thousands and assess Y Combinator, and so on, and so forth. And it's become, like, almost so mainstream, that people think of it as a de facto way to do things. But there's always a next thing. And Bitcoin and digital currencies and so on, are, in my view, what probably comes after startups, and what do I mean by that? So first is, you know, one way to think about how digital currencies get their value is just think about how offline currencies get their value. If you have a net nation state, if you have a region of people, even it's like, you know, a million people, like, you know, Sony has only 1.2 million people, we consider it legitimate and reasonable for that group of people to have their own currency. Right. And so the butcher and the baker and the candlestick maker all transact between each other in the crude or whatever their their local currency is dinars or what have you. And there's no, like, conceptual limit on how small the country has to be maybe, you know, 10, people wouldn't be too small, but even a million something people we can see empirical evidence that you can have an internal currency writing and have an exchange rate is treated seriously as a currency. Okay. So, um, we have now had this new phenomenon. And one of the key prerequisites for Bitcoin was this concept of social networks, where social networks are abominations of people that aren't in a physical location, but that are online. Right. And so if millions of people offline can have this informational thing that they all decide to value, name, their currency. And frankly, the reason I call it informational is, um, you know, it's not, it's basically something that everybody in that network just needs to agree upon as being valuable for transaction and voila, it magics into into being that doesn't require people to all be in the same physical place, they can be distributed. That's what Bitcoin is, it is the first digital currency based on millions of people who are in different spots around the world deciding to give value in the same way that they could give value, if they were all concentrate in one physical place. And now, of course, that's the first but not the last, because you can have a similar kind of group with the Ethereum community in the Z cash community, the Mineiro community and this community and that community. And that's what we've seen. Now, if you look at the market caps, quote, unquote, of national currencies, they're pretty large. And in fact, they dwarf the market caps of most companies, you know, like the maximum market cap of a, of a company is Apple at like 600 billion, but there's several currencies that have market caps that are in excess of that. So that suggests that we've actually hit upon something which could maybe be at its peak 10 X or even larger than the very, very large tech companies. That's really interesting. Um, so that gives a sense of what is giving this thing its value, and how you can connect it to something that had value before this, which were offline currencies for nation states.
+
+Unknown Speaker  28:39  
+The thing that's actually available
+
+Unknown Speaker  28:42  
+is going to be where we actually move from the private bitcoins to the public bitcoins and that interaction a value exchange, whether it's monetary, non monetary, or even consensus, that's where this commerce is going occur. The transactions
+
+Unknown Speaker  28:58  
+Yeah, so one second, yeah. So one small point of clarification wouldn't be public bitcoins in private because of the public blockchain and private blockchain.
+
+Unknown Speaker  29:06  
+blockchain. Sorry. And I keep, unfortunately, I caught up in calling everything Bitcoin is watching. And that makes a lot of sense. And that's really what is so the premise behind 21. CCO is, right, is you're actually giving people some items and assets to actually transact against, right yeah. For the services or offerings or a product, but you're giving people the ability to do that you started out with like one or two areas.
+
+Unknown Speaker  29:33  
+Yeah, that's right. So basically, the idea is that right now there's maybe five to 10 million people worldwide who are holders of digital currency that's that might be a large estimate but that's roughly where you know kind of the wallets and so on are essentially in order to earn digital currency right now you either it needs a be technical enough to solve exactly Mine, mine digital currency, or B, you need to go and you know, basically take a financial risk and pull out your credit card or your bank account and buy the digital currency right on. And those are the two major ways that people have gotten it up to this point. But there's a third way that you can get it, which is earning digital currency. And how could you earn it? Well, we've come up with a very simple way that everybody can understand, which is reply to an email. And the idea here is LinkedIn in mail is a pretty large business, which is about $500 million a year fair assessments, where the senders will pay LinkedIn in order to put a message in your email inbox. And that's a very inefficient market for many reasons, one of which is that the recipient doesn't actually receive any money. And number two is at the sender can't mass message people because LinkedIn actually sort of deters it, because they know that it's not like, you know, super fun for the for the recipient to get lots of investors, right. There's a gigantic demand for businesses to cold email people, for recruiting purposes for sales purposes, market research purposes, many purposes, right? Business Development, etc. And actually, salesforce.com has also actually built on, you know, cold emailing as well, right, like, I mean, basically, what you're doing in Salesforce is, you're, you're blasting all these prospective customers with messages. And an email is today primarily a business to business communication medium. So the reason to focus on that is not something that you know, there's a billion Gmail users alone, every business is using this back and forth, there's already a precedent for scaled hundred million dollar businesses that pay to message people on and not just to message them rather to get a reply from them. Because that's really what you want, you just want to put it in their inbox and have them not see it, you won't actually get a reply. And the thinking is that that's a great way very easily understood form of digital labor, that's really easy to compensate with a digital currency, it can happen across borders, you can send a message to somebody in Japan, and they can reply, it can happen, you know, across currencies, so they can be in different time zones, or countries. And the digital currency aspect of it makes it completely seamless. So that's something that we're pretty interested in excited about is these kinds of activities on and you can, once you get people to be able to reply to emails for money on you can then immediately say, okay, fill out the survey for money. And then more generally complete this digital task for me, Click these buttons fill in this form. And a task can be you know, of arbitrary complexity. It can be solved a bug bounty, it could be, you know, go and, you know, review this code or even, you know, eventually diagnose this image, or give me a legal consult or copy, edit this document, right? So reply to an email is kind of the very first thing, but then that's a modality and methodology to distribute tasks at large scale over time that people
+
+Unknown Speaker  32:30  
+now that is trusted, seamless use an incentivized framework with 21 code, what are you seeing in terms of performance? How does it compare to the traditional model of spray and pray for service?
+
+Unknown Speaker  32:51  
+Good question. But also actually, you know, I think I should your graph that we had on which, you know, we might be able to talk about a conference later. But we're seeing actually an average of 60% of people who get trained by CCO message reply within 24 hours on, and that's the average,
+
+Unknown Speaker  33:09  
+which is really, really, really high, right?
+
+Unknown Speaker  33:12  
+As a former cmo, that is ridiculous. Yeah.
+
+Unknown Speaker  33:17  
+It is something where, you know, I showed a bunch of graphs of all but essentially, you just, you put out the incentive, and will boom, you just quickly see a curve of all these people just completing the tasks. So we really got like a, like a new internet phenomenon, a new way to coordinate hundreds or thousands of human beings by the retrospectively obvious method of offering them an incentive. And so this is pretty cool. And this is kind of, you know, where we think is the kernel of something that could be quite big.
+
+Unknown Speaker  33:43  
+So we can take that apply to elastic inelastic pricing models, identify price floors and price ceilings, and actually start creating markets, right, because this is the beginning of a market.
+
+Unknown Speaker  33:53  
+Right? That's exactly right. That's right. So um, we're pretty bullish on this, because we think that a lot of people so what's happened up to this point is there's been gigantic demand online for email lists, right? All kinds of companies want to buy email lists, all kinds of companies want to send a cold email to decision makers, what has not been there is actually the supply side, right. So it's a great kind of market where there's gigantic demand, but the supply isn't there, because recipients don't want to be cold emails, right, the more senior the decision maker, the less likely they are to accept a cold message. However, what we're doing on you can use it for one of three purposes. First, you can obviously keep the money. And that's maybe more you know, typical, if you're like a more junior person, or B, you can donate to charity. And so this can be part of your charitable giving program like so, just by replying to, you know, 10 emails a year, you can basically give $1,000 to a good cause. And so that's something which is which is I think, pretty cool. Um, and third is, you can potentially eventually look at as revenue for your organization. So you can turn your you know, your vendor interface. You know, into something which actually generate revenue, because vendors would then pay to get in touch.
+
+Unknown Speaker  35:05  
+So we have a conversion of monetary, non monetary consensus and whole bunch of tasks against a digital currency. And what you're doing here is democratizing that digital currency in the way you earn it. And in the way that you actually can spend it, because that's, that's the that's the barrier behind Bitcoin at the moment. Does that? Is that what you're saying?
+
+Unknown Speaker  35:25  
+Yeah, so I mean, like blockchain blockchains are, you know, so? In that particular context, I actually think Bitcoin would be an appropriate thing. So I would imagine, yes,
+
+Unknown Speaker  35:34  
+yes. But if I trade a Bitcoin for something else, like for an asset, or for an agreement or for consensus, then we actually move into that model.
+
+Unknown Speaker  35:43  
+Yeah, that's right. So basically, like digital currency right now, on the primary use case for it is speculation about how useful it is going to be. Right. So, um, now, what's funny about that, is that speculation now, so I will, I will slightly slightly qualify that, which is, what are the major use cases for digital currency right now. So first, maybe the most important is store value, right? Now, one of the previous guests, you know, said that, you know, privacy is over, and so so but then I completely understand that point of view from one angle, because with big data and whatnot, you need to aggregate lots of data. On the other hand, I think that digital currency gives an extremely strong incentive for privacy. Because if you don't keep your private keys, private, you have lost all your money. Okay, it is like, you know, there has to be something private, your password has to be private, right, what my wallet is. Now, what's interesting is, I think of a private key, as a sort of boat anchor, which, because you have to keep that private, there's an entire ecosystem of things that I think will start assembling around that, which will also be private, for example, eventually, what may happen is, rather than you going and keeping all of your data, you know, on remote servers in the cloud, I think, you know, we've got this concept of the billion smartphones as the next data center, where instead all that data is local, and you essentially build remote services to access it. Okay. And so if you've got this boat anchor of a private key locally, you start building essentially monetization around it. And anything that you can resell or keep quasi private or accessible on demand, or what have you, then you would, you'd be able to monetize that, right. So um, but you know, so so that's kind of how we're thinking about the privacy aspect. But reversing back up your question about, you know, expanding opportunity and access and what have you. Yeah, absolutely. I think, if you can make it very easy for somebody who doesn't have technical ability to earn digital currency, and have that be done in a sustainable way, not a faucet where you're just giving away the money, but something where they're actually doing an honest minutes work for an honest minutes pay. And that's really what we're talking about here. I think you can you can significant increase adoption, power to the digital labor, we're back.
+
+Unknown Speaker  38:02  
+We have startup CEOs on the show, Ray, and I like to ask advice to other startup CEOs, your best advice? Maybe it's regarding hiring? Or how do you maintain a culture of, of innovation? What can you share with other startup CEOs that are gonna watch the show?
+
+Unknown Speaker  38:21  
+That's a good question. Um, well, I would say that, uh, you know, I'm not sure that if so, there's two different kinds of startup CEOs, those who have not started one yet, and those who, who are currently operating. So for those who are currently operating one on, you know, I think having something that gets you I mean, this is this is somewhat trite, but basically having something that gets you up in the morning, that is more than the daily operational grind is very important. Because it's something which is, you know, you need to have something to hire, right. And for me, I really do believe in, you know, decentralization, I do believe in kind of the freedom that the digital currency brings. Previously, at my previous company, I, you know, council really believed in actually taking the genome out and actually making that useful taking this huge societal investment, actually making a medical useful. That was something that got me up in the morning was something where, you know, like, whether it's debugging or whatever grinding thing you have to do that day, sometimes it's literally bringing in the Alhambra bottles or what have you, in very, very early startup, you get through it, because you have that that higher kind of motivation. So that's for the CEOs who already exist. And you know, if you have lost sight of that, then maybe you know, you want to try and try and find that again. For those who haven't started yet, I actually offer something you know, maybe a little, you know, say controversial, but I'm not sure that if I was doing something from scratch today that I'd ever start a company again. I think I would do something pure blockchain because if you're doing a company, you have investors and you have employees and you have automation For years and you have customers and so on and so forth. But if you are doing something purely on the blockchain, all of those things become much fuzzier. As an example, you know, Does vitalik have investors? Does he have employees? Does he have employers? Does he have customers? Not exactly not in any conventional way, it's much more fuzzy. what he's done is he's created a technology that other people can use, and certainly look to him for guidance. But he doesn't have the same level of direct responsibility, yet he does have influence monetization. And you know, many other positive aspects also impact now, today, the route to do something like that you actually have to program something, which is like a full separate blockchain like a tezos or aetherium, or what have you. Tomorrow, I think it may become more accessible and we're going to see more kinds of decentralized organizations arise. And sort of in the same way that would you know, Marc Andreessen to Netscape opened up a completely new window, you know, of internet startups and a new way to run a business that was different in some ways more freewheeling than you know what came before I think the blockchain is going to open up a new way to run something that generates commercial value, but it may not necessarily be like a C corporation headquartered in Delaware. One of the reasons for that is a blockchain basically, over time in this is a little bit of an overstatement. Actually, it's a lot of an overstatement today, but in five years, it won't be, which is that a blockchain can teleport in rule of law as a service into any jurisdiction?
+
+Unknown Speaker  41:27  
+No, actually, I have a couple friends that are doing that I can't disclose who they are. And they are they're in the process raising hundreds of millions on this. And so this is actually real. This is happening biology, right. It's a it's happening.
+
+Unknown Speaker  41:40  
+Yeah,
+
+Unknown Speaker  41:41  
+so we'll make some private introductions. But we are with Balaji Srinivasan, CEO and co founder of 20 one.co, at Twitter at Balaji s, and you can follow him for the latest around blockchain 20 one.co. And of course, we've been talking about the future of business. And of course, what's going to happen with these new disruptive business models and technologies. Thanks for being on the show.
+
+Unknown Speaker  41:59  
+Thanks, guys. Thank you, sir.
+
+Unknown Speaker  42:01  
+Awesome, man. We are rolling today.
+
+Unknown Speaker  42:04  
+Ray bolaji dropped a lot of science on us in a minute segment. But my brain is going Whoo, I think
+
+Unknown Speaker  42:13  
+even simplified it for us.
+
+Unknown Speaker  42:18  
+simplify things and for more thought leadership and innovation and, and in smart influence. We have what we call our cleanup hitter spot whether this last person comes and hits a Grand Slam. So no pressure, but our last guest on disrupt TV is Robin farming farming, angel investor and VC and Invicta medical co founder and board of directors at Oregon preservation Alliance and vice president business development and act volume. Rahman is a professional speaker and author and entrepreneur. Currently Robin is an investor in VPN invented medical medical technology company focused on sleep apnea. Robin also the Vice President of development at active on active on, Robin is co founder board director members of Oregon preservation Alliance catalyzing breakthroughs in crypto preservation and tissue, tissue engineering and organ transplants. She founded morphett and exponential medicine and Singularity University and she's a best selling author of a book title. The patient as CEO we're gonna learn a lot about that. And other awesome follow. We only bring people on disrupt TV that are awesome. If you follow Robin at our ob AI n FF three, Robin Fs three welcome Robin to disrupt TV.
+
+Unknown Speaker  43:40  
+Thank you so much. I'm so excited to be here and listening to john and biology. We're amazing. I don't
+
+Unknown Speaker  43:47  
+know. But we're so you wrote something that was very controversial, yet very insightful. And you talked about this thing. And for those who don't know, actually have a Master's in Public Health not being used very well. But for those of you
+
+Unknown Speaker  44:01  
+out there, you want to becoming a blockchain Bitcoin expert so that I
+
+Unknown Speaker  44:07  
+know what what
+
+Unknown Speaker  44:08  
+is patient driven healthcare and why is it better than Patient Centered health care? Because this has been the big conversation that's out there. And we see that happen all the place, and I come from a family of physicians, okay. I mean, they're there. They're like completely like, Oh, my God, the patients are calling the shots now. So what's the difference? What's going on? Why is this transformation and tell a little bit about your own personal journey?
+
+Unknown Speaker  44:27  
+Sure. So to give you a little background on myself, I am also not only an entrepreneur working on companies that are poised to impact at least 100 billion patients worldwide. But I'm also a chronic disease patient myself, which I hid for the first 25 years of my career, don't do the math, and also all told,
+
+Unknown Speaker  44:46  
+child prodigy.
+
+Unknown Speaker  44:49  
+So at the age of 16, I was mis diagnosed with an autoimmune disease. All told, I've had 43 hospitalizations, six major surgeries and three organs removed at the age of 26. This is seven years after they taken out my entire large intestine. My doctors were telling me I was cured, but I knew I wasn't. So I fired my entire healthcare team took control of my own health care got diagnosed correctly put on a medication called Remicade. And literally at that point after 13 year misdiagnosis and and I was a hospital almost died about seven different times, I went into remission overnight, because I took control of my own healthcare. And so that's really what patient driven healthcare is, or the patient as a CEO, is that people who are new to patients are stepping up and actually taking control and becoming a key decision maker on the healthcare team. That why that's slightly different from patient centric healthcare is because patient centric health care says the patient is in the center, but it's still not giving them a voice. Right? It's still saying you are the victim, we are going to take care of you, you come into our hospital or doctor's office. And you do what I said right, and instead of saying the patient being the one in control as the CEO, similar to like a corporation, right where you are CEO, you're not an expert in marketing, finance, engineering, any of those types of departments, right, but you're an expert in the company overall. So I say being a patient, that should be the very same thing. You're not an expert in health care, but you are an expert in you. And you're an expert in how you feel and how you want to live your life. So you need to surround yourself with doctors, chiropractors, massage therapists, health care professionals, nutritionists, whatever you need, in your personal health journey to help you make decisions and engage in your own health.
+
+Unknown Speaker  46:37  
+So your book, the full title is the patient as CEO, how technology empowers healthcare consumer, was it social and mobile and technologies that john nosa talked about at the beginning of our show, that help you better understand and give you that empowerment to take control of your your healthcare journey?
+
+Unknown Speaker  46:58  
+Absolutely. And it really is about the convergence of technology, allowing patients to take control. Because back when I first got sick, the only access to information I had were healthcare professionals. So when I went into my 10 minute doctor visit, or I tried to go to the library, and I couldn't read the medical use, right, if I got medical books met for physicians, there was just no information accessible. But now with things like connectivity, and using the power of the crowd, may different things are enabling us as patients to have information. And that is the groundbreaking thing, though, allows patients to be in control of their own healthcare now.
+
+Unknown Speaker  47:35  
+So we're seeing shifts and health care across the board. And when you think about it, there are a lot of obstacles, right? Sometimes it's technology, sometimes it's legislation, sometimes it's cultural, that's in the place, what's being done to empower the patient to be the CEO in terms of, you know, from a legal perspective to giving them more rights or having more options, but also to protect them from not making a bad decision. Because there are cases where not everybody is fully informed to be able to make those decisions.
+
+Unknown Speaker  48:03  
+Exactly. And I say we have a healthcare team. So if you're making a decision, remember, you need to talk to people about these things, especially if you're if you're doing something medical, like taking a medication or something and there's a lot background behind it. But you're absolutely right there there are times when you need to have all those second opinions and you could potentially hurt yourself as a patient. Because especially if there's a lot of misinformation out there on the internet, and you need to know where to go to find the correct stuff. Right. So you don't go to me Wikipedia, because that isn't a technical, medically valid type of odd type of website. But you do go to like t NIH Mayo Clinic, Cleveland Clinic, Harvard, any of the name brands, and that's where you can get actual information where you're not going to make as bad of a decision. Right.
+
+Unknown Speaker  48:49  
+and double check on Snopes. But But
+
+Unknown Speaker  48:54  
+yeah, there's there's a lot of barriers, one of the biggest barriers is still people's mindsets, actually. And because patients up until recently always felt like victims, and they were treated like victims in the healthcare and in the entire healthcare industry. And physicians always kind of played God. Right. And you go in, especially in still other countries, too. Like I published some articles and medscape, Germany, and a physician wrote at the bottom, oh, as soon as patients take control of their own health care, I'm out I really didn't want to leave. Right. So a big thing is the mindset and saying, You know what, I am not a victim, I have the power to control. And here are the different technologies that are empowering you to do that from sensors and point of care diagnostics, to things like what john was talking about with artificial intelligence, right? That's going to be a big, big deal in the world of patients.
+
+Unknown Speaker  49:41  
+Wow. Let's talk about that. Let's talk about wearable technologies, artificial intelligence. But before we get to that, as you consult healthcare providers like that, perhaps that physician wrote the comment on your blog. How do you convince them that the patient should own their data and in the spirit of transparency and calm vibration, that's the fastest path to wellness. How do you convince them to think I don't
+
+Unknown Speaker  50:07  
+actually try and convince people to do things, right. Because if they're already very against the data, the patient having data and information, then another person I want to work with, and I know my patients at this all the time, you are not stuck with your healthcare provider, for the most part, right? You can fire them, you can change your doctors as frequently as you want, right? Or any of your health care professionals. So if you go in there, and you say, I want my data, I want access to my EMR, right, I want to know all the notes, and they literally turn you down. And that's not the right place for you should go to a different hospital, or even the next doctor over right, even in the same hospital system might be better for you.
+
+Unknown Speaker  50:44  
+Great advice. Great advice.
+
+Unknown Speaker  50:46  
+And it's hard, right? I mean, we think about health care. But the challenge is, it's very hard to compare apples to apples, doctors are working in different conditions, they have different levels of training. I mean, it's it's very, very qualitative, other tools that are helping folks quantitate quantify at least what's going on, or at least be able to make those comparisons? Because, I mean, it seems very hard. Is that coming from new technologies? Is it coming from policies? Is it coming from new companies? What are you seeing out there?
+
+Unknown Speaker  51:11  
+So in terms of like, physicians themselves, you can look up people are starting to grade physicians, it's slowly like they
+
+Unknown Speaker  51:21  
+belong to physicians,
+
+Unknown Speaker  51:24  
+physicians, and you can do that. But I mean, it's not just physicians, right? It's any of your health care professionals? How often do you actually see your physician versus say, a chiropractor or nurse, right, especially if you're a chronic disease patient, you're seeing a lot of these other types of health care professionals first anyway. And if you're seeing something like a chiropractor, or something outside of major hospital, they all have Yelp reviews, right? So you can literally even ping some of the patients who say, hey, how was this person. But the really cool thing is, is that we're starting to see artificial intelligence being used to match patients to their actual providers. So one example of that is a very disruptive business model called talkspace. And what this is, it's 24 hours a day, seven days a week, unlimited messaging, by text, or by you can upload videos and stuff with your therapist. And the way they pick your therapist is based on artificial intelligence on your personality. Now, this is a really big deal. And they're doing this with IBM Watson, by the way. And so Warren and Ronnie have been pioneering this for
+
+Unknown Speaker  52:25  
+a while. Yeah,
+
+Unknown Speaker  52:26  
+yeah, so interesting. And so now when I see my therapist, it's been chosen specifically for me based on who I am.
+
+Unknown Speaker  52:34  
+That's, that's
+
+Unknown Speaker  52:37  
+true discovery and pattern matching, they'll find the best fit provider. And so that's, that's an incredible, that's an incredible exam, match. match.com meets Web MD.
+
+Unknown Speaker  52:49  
+Exactly. And that's really what is needed. Because I have plenty of physicians I didn't get along with right off the bat, like, we weren't going to be good personality matches. But then I had a ton where it was immediate, like you walk in and make a connection. And my healthcare has actually dramatically improved when I was a healthcare professional that we see eye to eye.
+
+Unknown Speaker  53:09  
+You know, we've had CIOs in the healthcare space, David Chang was a guest of ours and I spoke to our Chief Medical Officer at Salesforce. And this consensus does as we move from volume base to value based performance metrics, healthcare providers will definitely leverage data for more personalized, immediate care delivery and shift from preventative from from you know, addressing the health issues to more preventative mindset would take us five to 10 years from now, what would be the pick? What does empowered patient What does that feel like? What does that look like? When you walk into an emergency room? Or you're working with a with a physician?
+
+Unknown Speaker  53:46  
+Well, um, first of all, you probably won't need to go into an emergency room, because you will have so many ways to collect clinical grade data in your home, that you are essentially triage, already great. Like, why would you go through an emergency department, if you don't need to be triage, you just go to the right part of the hospital where you need to receive care. So things like an EDI can actually become a dispatch center, right? We're already seeing a huge number of clinical grade point of care diagnostics, in the home reaching the patient and they cost anywhere from you know, $50 to a few hundred. In fact, you can even get a clinical grade ultrasound now for a $300 a month subscription model that plugs into your home. You can do blood labs in your home that are that you can use CLIA certified laboratories where you collect the blood in your home and send it through the mail. This again, that can be made used by a physician to make a diagnostic on by the way, if it's using a CLIA certified laboratory, EKG monitoring in the home we can do Oh gosh, there's so many stethoscopes and these are all like available to the patient and collected data on cell phone right on the smartphone and you can see a physician that way.
+
+Unknown Speaker  54:56  
+Wow. Sounds like we're getting to the Star Trek health care of the future. Try quarters connections do it right on the spot. Right? Yep. I mean, are we close? Is it is it? Is it happening? Or
+
+Unknown Speaker  55:09  
+if you want, I mean, the equivalent of the tricorder. It's not going to be in one little machine yet. But you can do the equivalent already with FDA certified devices in your home. Right? We exist. It's just not been democratized yet. Wow.
+
+Unknown Speaker  55:26  
+Now what's happening in the world of personal medicine, right, we're going I mean, people are choosing their own doctors are choosing smaller groups, we see this concierge medicine picking up. Is that something you see as a continuing trend as part of this, you know, approach that people are taking? Is patient driven health care?
+
+Unknown Speaker  55:43  
+Yes, yes, absolutely. So first of all, last in the world of concierge medicine, I'm doing all of my health care, basically, in my home that my primary care physician comes to my house for an hour, my nurses come to my house and give me IV medications for like four or five hours at a time. But we're seeing a personalized medicine is incredibly exciting. And I like to call it personalized instead of precision. Because I think of it as precision medicine, when you want it where you want it and how you want it received right. So truly personalized to the individual service, healthcare as a service and with things like cancer treatments. It's incredibly exciting with the world of precision and personalized medicine. Because what we can do now is sequence a cancer tumor to give you a personalized medication based on what that that tumor is. Right. And that's a really big change in the world and oncology.
+
+Unknown Speaker  56:32  
+Wow, this has been a pretty eye opening segment for me. Thank you, Robin. you've, you've been an amazing guest. Yeah. Thank you.
+
+Unknown Speaker  56:41  
+Yeah, no, this is great. We're talking about Robin from a foreign angel investor and VC and victim medical and co founder and board of directors at Oregon preservation Alliance, and also a professional speaker, best selling author. And thank you for being on the show calling from pally so I thank you. So Wow, action packed disrupt TV this Friday. Holy crap.
+
+Unknown Speaker  57:02  
+Ray, we had three incredible guests. And this is why Fridays are my favorite parts of the week. Because as I as we know, experts come here to share. So it's pretty awesome. And next week, we're going to follow up with another amazing group of guests. We have Scott Hartley and author of the fuzzy and the techie will
+
+Unknown Speaker  57:25  
+come on the show. That's awesome.
+
+Unknown Speaker  57:26  
+Yeah, you got a
+
+Unknown Speaker  57:28  
+new book. We got Abby Goldberg. He's a CEO of dispatch, and he's revolutionising service delivery. And he's incredibly bright young CEO. And we ended our first ballot Hall of Fame disrupt TV inductee. When we do have our Hall of Fame opened officially Larry dignan. editor in chief of Zd net,
+
+Unknown Speaker  57:49  
+you will find it on virtual reality.
+
+Unknown Speaker  57:52  
+Oh my god, Episode 70. I'm looking at these notes here. You can catch us on podcast, SoundCloud, iTunes and subscribe to the videos on YouTube and Vimeo when it's 10am Pacific 11am Pacific 2pm. Eastern. You can definitely catch us on disrupt TV. This is awesome. Bob isn't a great show.
+
+Unknown Speaker  58:12  
+Thank you, Ray. Have a great weekend. We'll talk to you next week. Thanks everyone. Bye
+
+Transcribed by https://otter.ai

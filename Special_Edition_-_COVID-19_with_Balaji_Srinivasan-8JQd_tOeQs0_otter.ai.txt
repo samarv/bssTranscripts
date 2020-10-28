@@ -1,0 +1,478 @@
+Unknown Speaker  0:00  
+Alright, everyone, welcome back to another episode of Missouri's unqualified opinions. I'm Ryan seleucus. At to bid idiots, and my guest today might look familiar, because I actually just spoke with him a couple of weeks ago. So we're doing things a little bit different. This is gonna be a special episode that we released. But I'm joined again by Balaji Srinivasan, the founder of Nakamoto, former CTO of Coinbase. But the context of this conversation, while it's going to touch on crypto is can be very different. And it touches on a completely different elements of ologies backgrounds. And that is as an expert in clinical genomics, and healthcare in general. So, biology, I think the number has been going up for most crypto assets in the last couple of weeks. And what is otherwise, one of the biggest, most alarming stories across the globe that seems to be under appreciated within the crypto community, because maybe of the price rally, and then in the broader kind of us and Western coverage sphere, potentially, because of the US election and the impeachment drama. And all that is is basically what has come out of Wu Han with what is now being called COVID-19. The disease that stems from infection related to what what looks to be a severe form of the flu or some family that might be similar to to SARS, and the outbreak that we saw 20 years ago in Asia. So I wanted to do a special episode special conversation with you about this. And since obviously, you and I have been have been speaking offline, and following this very, very closely. But it's kind of three goals, give people a full filter of just what the hell's going on. Right, if it's under covered, if it's overblown, you know, what have you. And then part two, which is related is isolating the variables that people should be paying attention to. So that a one extreme, they're not freaking out and losing sleep or getting, you know, over overly concerned or sucked into conspiracy theories. But on the other hand, making sure that they're not overly complacent. And maybe the answer is they're just preparing not to save their own lives from the zombie apocalypse. But maybe it's just an economic recalculation that people whether they're crypto investors, or just general investors might want to consider based on how some of these variables layout. And then last but not least, I think we do want to speak a bit about some of the implications for tech more broadly. And for crypto in particular. And I know that you have a post is coming out tomorrow, which will be yesterday, by the time this goes live. So So apology, before we get into all that, you know, there, there's gonna be a ton to cover here. But just a reminder for people about your health care background, and what what your street cred is to weigh in on what's going on and being published in medical journals and, and kind of synthesize all the information that's being, you know, really updated in real time, which there is a pretty major caveat around most of the information as it's coming from China. And the quality of information flow is a time suspect. So we'll take that one at a time. But But, you know, why should we listen to you at all? For sure Carter's, given, you're just a crypto guy? Well, so, you know, to be clear, I think that well, first of all, get my background, then, you know, I'm not asking for people's attention, per se, I'm just putting ideas out there that I'd like to discuss with people. Um, with that said, What's my background, um, I have a PhD in electrical engineering and Ms in chemical engineering. But the work that I did in grad school was in genetic Circuits and Systems Biology, and computational genomics, all those fields kind of are related, you know, I can show my papers or whatever. Um, but I've had papers in the New England Journal of Medicine, for example, on the algorithm for warfarin, I developed genetic tests, I founded a genetic test company, which sold for 375 million, and I'm CTO of that on and basically, you know, I'm at the my academic training is at the intersection of engineering and biology and stats.
+
+Unknown Speaker  4:25  
+So, you know,
+
+Unknown Speaker  4:27  
+I like I can read the literature I can, and I have published papers. I know a bunch of, you know, these kinds of folks. So I've actually stayed in many ways, my background is, is I have a more formal bio background than I do a crypto background, even though Well, maybe better known for the crypto stuff, right. So, like, I haven't published academic papers in cryptography, but I certainly have in jokes, you know, and, you know, I would defer to, let's say, Dan B'nai in cryptography, but I'm pretty sure I can get engaged at the deepest levels in the research literature on on genomics If that makes sense. And that's what I was actually before I got into to crypto. So
+
+Unknown Speaker  5:07  
+now with that said,
+
+Unknown Speaker  5:07  
+Let me also offer some caveats. I'm not an MD, I'm a PhD, some Dr. Srinivasan, but, you know, like, unlike some of my, my relatives, not a medical doctor. Um, but I think that if you look at modern medical papers, it's usually somebody like me with someone, like a, like an MD collaborative, like somebody like me would do the bioinformatics that you don't mix the statistics on. And, and they would do the clinical diagnosis, recruitment of patients, you know, that type of stuff. So very, very frequently, those are the partnerships on so I think I'm qualified to read the literature and to develop, for example, if I if I wanted to get into the space, develop genetic tests related to this on, and, you know, again, I'm not a biologist, not not a physician, but I have, you know, sequence thousands of viruses. And anyway, so that's, that's basically where I would save my credentials, I just want to be super upfront on that. Um, and I also, you know, in a time like this, I understand why people want to, like, rely on credentials alone. Um, but there's actually some degree of disagreement, or there was in the earlier days on this, between the experts on this where, you know, you'd have some folks basically the, I think, seem to be infamous, it's just the flu. And other folks like, you know, the director of vaccines, the Mayo Clinic or Gottlieb, you know, who, you know, just recently ran the FDA and shut down last year, who were basically saying something much more serious. And I think that, you know, who coming out and calling it a public health, you know, international emergency, really kind of underscored that if the Chinese quarantine hadn't done so. So the reason I say that is this is kind of related to crypto concepts on the question, how do you determine truth? In not necessarily an adversarial environment, though, I think this might become that, um, if, if unfortunate, not necessarily truth in an adversarial environment, but certainly, certainly, there's a lot of stuff floating around. You can't just trust an expert, you need to figure out which experts to trust. And you know, again, to be clear, I'm not saying Oh, listen to me, and not this other guy. No, I'm not saying that. I'm just saying that I think I'm qualified to read the literature and put some ideas out there and discuss with other folks in biomedicine and in the crypto community. And with something that's that seems to be developing this fast, I don't think any one person can be relied on as an expert anyway. So I personally see quite a bit of value in finding knowledgeable people that you can basically form a distributed network around their version of the truth and then kind of piece things together. You mentioned a couple of people there, there are probably a few dozen that I've been following closely that have been tracking this, whether it's from the World Health Organization, or CDC, you mentioned Scott Gottlieb, from the FDA, former FDA Commissioner, who has been one of the more public facing so far in terms of interviews in the West. And the the general sentiment is that this could be very scary. Now that there's there's a lot of caveats there. And we might look back on this conversation, and people might be able to point to it and say,
+
+Unknown Speaker  8:17  
+Well,
+
+Unknown Speaker  8:18  
+you know, these guys were just chicken littles talking about the doomsday scenarios, when in reality, it turned out to, you know, Peter out, it kind of kept to day later, after this conversation, and then it gradually started to subside and go away.
+
+Unknown Speaker  8:31  
+I think,
+
+Unknown Speaker  8:32  
+where I've at least faced some some some minor pushback. I know you may be faced a bit more public pushback on on Twitter in particular, is that no one really seems to understand the probabilities that we're talking about here. Where, yes, of course, we're hoping that this is contained and that there is a I don't know what the number is, but but nine out of 10 chance that this is overblown, and it gradually subsides and is ultimately contained. But because there is a one in 10 chance that things could get very, very dangerous very quickly, because there are so many unknowns. It's worth paying attention to early on and taking it extremely seriously even at the risk of you know, becoming the boy who cried wolf or you know, some shrill, the sky is falling. conspiracy theorist, right, so, so how do you help people? How do we help people because I'm probably in this camp as well haven't been sucked down the rabbit hole last week. better understand that it's okay. If this thing doesn't blow up. That's a good thing. It's good news because it means that it was handled quite efficiently by the Chinese in particular to stem the tide. Yeah, so several, several different points there. I think there's a fallacy of the excluded not not that saying that you're propounding this but I think in general, there is a fallacy of excluded middle which is either one is blithely unconcerned or one is conspiracy theorists crazy person, you know, etc, etc. You know, and, and there's so much in between and there better be a lot in between. Because so you know, here's something I tweeted, but let me let me put it like this, at least for the people of Poupon, this is not a theoretical catastrophe,
+
+Unknown Speaker  10:18  
+right? In fact, for the main people in China is not a theoretical thing. Um, basically, you know, I tweeted this, but on December 1, Wu Han was like a normal city, you know, it had problems or whatever, but that's just a normal city in China. And less than two months later by, you know, January 23, or there abouts I believe, you know, the the hospital system and crashed people are being, you know, sent home who are sick, the entire city and province of who base is quarantined. And, you know, I'm sure that they've encountered normal diseases before, like, Oh, it's flu season or something like that.
+
+Unknown Speaker  10:53  
+This was not that,
+
+Unknown Speaker  10:54  
+you know, whether you say it's Tech's flu or 100 x, or whatever ratio, you know, is enough, it crashed the healthcare system and forced the government of China to pose the largest quarantine in modern times. So that right there is, is definitely something that one should, you know, sit up and take note. And then number two is unlike, you know, let's say a natural disaster Had this been an earthquake, had this been, you know, a fire or something like that.
+
+Unknown Speaker  11:21  
+You know, that's, like,
+
+Unknown Speaker  11:23  
+you know, okay, yes, fires are contagious in the sense that they can spread, earthquakes have ripple effects. But, you know, or let's say it was like a terrorist attack, God forbid, okay, that's, that's something where it's, you know, again, folks can mimic that and do another one, and you see those copycats, but the contagiousness of a virus dominates all of those things. And so that's really, like, the big thing is, as opposed to being kind of an isolated, you know, tragedy on the other side of the world where we tend to aid This is something that really could make its way back, especially given that spread so quickly over China. So a, it's not a theoretical catastrophe for you know, even if it doesn't hit the US or the West, or what have you. Um, it certainly wasn't theoretical for the Chinese. This is like, the biggest thing that's happened to them,
+
+Unknown Speaker  12:12  
+or, at least since,
+
+Unknown Speaker  12:14  
+you know, 1989. And possibly since, you know, they were actually a war, because it's like, a wartime level of mobilization over there. So it's a significant event for, you know, a billion plus people. Okay, so let's call it number one, it's not not really theoretical. The question that is, the thing that is in question is, will it spread to, you know, the West? Or can it be another piece of, for news, which, um, you know, the US in particular is cover, you know, on the, on the left by the Pacific and on the right by the Atlantic, and it's got these huge buffers and can be in its own bubble, right? where things are blowing up all around the world in the US, basically, you know, can kind of ignore that. And so the question is, will it look over here? Well, so certainly, there's 1212, I think confirmed cases over here. We now see person to person spread, you know, I tweeted something yesterday, how versus versus spread seems to be happening in Singapore, in Hong Kong, in Europe, where like, there's a British super spreader and so on. There's a bunch of Americans, unfortunately, who were infected on on one of these cruise ships that are that are docking port, and those cruise ships seem to be unfortunately, environments, where, where a bunch of people can catch it at once, like maybe one person grabs a buffet rail or something like that, to a bunch of people.
+
+Unknown Speaker  13:25  
+So So is it so
+
+Unknown Speaker  13:27  
+that's question number two has credit spread? Well, it is spreading? And then question number three is okay, how severe just get, well, you know, something like this doesn't just go away because you ignore it. It's not like that, if it goes away, it's because the who declared national public health emergency and, you know, said, Every country must be prepared. That's simply not a hallucination. You know, it's like, oh, that fire went out? Well, it went up because you blasted it with a fire extinguisher and you you react to it, you know, it just doesn't go away. If you don't react, this is something which is putting people in Singapore, which is a worm and extremely well governed country, you know, the warm aspects important for some people thought, hey, okay, maybe this, you know, condition only manifests itself with the virus spreads best in cold weather? Well, no, Singapore is like 89 degrees Fahrenheit, and you've got several people there in intensive care as got the, you know, tweeted about, um, so various kinds of theses about Oh, why this phone spread, are sort of dropping one by one. Oh, it's only who they are. Move on. Oh, it's only China, only Asia on Now, with that said, it may not spread to the west, for lots of reasons. One of them is, you know, that, you know, I tweeted this, but China has extremely bad hair pollution. And I saw a stat which I haven't confirmed, but seems plausible, worth worth looking at that, you know, a large percentage of Chinese men smoke on and if, if that's true, it's possible that everybody kind of suffered some sort of, you know, immunocompromised of their lungs, such that this virus hit them harder than it would for folks outside. That's possible. And there's other things that are possible where, you know, it's hard to tell, maybe maybe there's other things that mean that it's more serious in China versus outside. But we can't just take that for granted. And, you know, it used to be, by the way, in the West, you know, like, the boy scout motto was be prepared, right? Um, and it's funny how that went from, like, the most obvious thing that every, you know, kid would would learn, you know, when the Boy Scouts very mainstream, to almost like a class I get. So that's a prepper, you know, and that's, that's, that seems really weird to me. Because if you do anything in logistics, anything in terms of a company, you know, for sure, it's all about contingency planning, you know, oh, the speaker may not be able to come to the conference, or, oh, this vendor may bail on us. And so it's all about being prepared. That's not being a paranoid conspiracy theories, that's simply assessing, you know, the branches, the possible things that could happen, and looking at the cost of preparing for a downside, versus the cost of experiencing that downside. That's, that's purely a quantitative thing. Let me pause there and get your thoughts. Yeah, so there, there's, there's a ton to unpack there. And I think, you know, we, we definitely want to get back into the Be prepared element and talk about what behavioral changes this could could spark at a much greater scale, not just for this period of time, and this kind of temporary self isolation environment that we're seeing in China right now, but but how that might ultimately have broader societal implications, what that means for crypto, etc. But before, before we get down that rabbit hole, which is its own area that I think we probably want to end with, given the audience that we're talking to, let's talk about the key variables. And I almost prefer to start with, like the absolute worst case scenario and like doomsday scenario, and just just just help people understand the, you know, potential severity, or at least put it into historical context. Because from what we're seeing right now, there's, there's a couple of key variables that you're trying to triangulate on. One is how fast it spreads. And then two is how deadly it is. From all accounts early on, it looks like this is worse than the flu worse than probably the swine flu from 10 years ago, which was, you know, three to five times worse than the typical flu, but not nearly as bad as the Spanish flu, right? So this isn't necessarily going to be you know, the quote unquote, big one, it doesn't need to cause global catastrophe in order to have a pretty meaningful impact. But having said that, and and I'll let you chime in here, because there are unknown unknowns and understate, you know, how bad things could be. But you know, right now, it seems to be from early returns, that maybe the fatality rate is closer to 1% versus 10%, which was the Spanish flu. That's very, very good news. It's an order of magnitude difference in terms of potential deaths.
+
+Unknown Speaker  18:02  
+But on the other hand, it seems that the the contagiousness of this is is significantly higher than most viruses that we've seen. So the the odds that this creates, you know, severe, medium term consequences for China in the Chinese economy seems very real, even if, as you mentioned, we're able to contain this and other, you know, pockets of the world and some of the preparedness measures are ultimately effective. Can you just talk a little bit more about terms that hopefully no one learns about but but on the other hand, might become all too commonplace in the next few weeks if this continues to accelerate. And that is defining, you know, criticality case fatality rate. And then this are not score, which is common in medical circles as people think about the contagiousness of diseases, but is really a key variable that many, many people are trying to triangulate on right now and exactly what that number means, in terms of risk of spread. Yeah, so um, let's define a few terms, right? So are not it's actually very similar to virality in social networking or messaging apps, but it's the number of people basic reproduction number, it's the number of people that you know, a virus spread something to work conditions for something to and if your are not, is significantly greater than one. Then you go from, let's say, let's say it's, it's for go from one person having it to four people to 16 to 64, and so on and so forth. Now, to very clear, the Arnott is a variable and it is different. Obviously, if you quarantine a bunch of people, for everybody going in walking around. It's different in different weather conditions. It's different if people have different levels of immunity to the condition. It's different if you know folks are vaccinate Did you know then like they, they might get infected, but may not be as contagious, for example, they have as high of viral load sometimes. And it's also hard to estimate from a statistical standpoint, for a few different reasons first, because you usually don't know, everybody that someone's credited. It's not like a social network where you can gauge Oh, you know, Facebook knows, this person invited these other five people, and of the five people that invited three of them signed up, Facebook has completely digital reproducible information on that going back to 2004. As an epidemiologist, you do not have, you know, maybe eventually we're going to have some extremely good surveillance, this kind of stuff that I think the world at least Asia is going to change on this, and probably invest in something like that, I can talk about that. But it's a challenging thing to measure for all those reasons. Plus, it's, you know, you're estimating somebody that's in an accident. So, you know, your statistical estimator for various reasons, is going to have large skew on it and whatnot. Okay, with all that said, Everything I've seen indicates this is highly contagious, though, are not very all over the place. So essentially, just return to the dots. That's something which is challenging estimate, you know, it's very, even with good methods, it's kind of finger to the wind simply because we don't have precise data on exactly who somebody spreaded to, with perfect contact tracing, you could, you could just calculate it, you don't need to estimate it. But, um, you know, with that said, The, the all the efforts seem to make this look quite contagious, number one, and number two, in terms of modality rate, you know, so yesterday, the Chinese or I shouldn't say the Chinese etc, I should say, a paper that had authors from the Chinese, you know, the equivalent of the CDC, it's actually called, like the Chinese Center for Disease Control,
+
+Unknown Speaker  21:48  
+put a paper on on
+
+Unknown Speaker  21:50  
+med archive. Now, it's a preprint. You know,
+
+Unknown Speaker  21:53  
+I'm not as
+
+Unknown Speaker  21:54  
+much of a believer in peer review, as fact checking, which is what people seem to think it is, but this one has not been fully peer reviewed. yet. With that said, these authors are credible. And they're mostly reporting and data analysis, along with some point estimates and confidence intervals for parameters, and the estimate CFR case fatality rate of like 3%, which is not 1%. Um, and the observed case fatality rate in their data is like 1.44. But they have a reason to correct it up. Because they did, I think, we've got a model, which is saying, hey, not every death is being observed, and so on, we have we have some folks are going to die, who served and so on. So whether it's 1%, or 3%, whether the or not is like three or six or something like that. But the big issue here, and people focus on like, Oh, it's going to kill 20% of people like the Spanish flu. The issue is that if the spreads to like 100 billion people, you know, like, even a 1% fatality rate is insane. That's like a million people debt. Right? That's really, really, really, really bad.
+
+Unknown Speaker  22:54  
+And if
+
+Unknown Speaker  22:56  
+it is, but 150,000 people die of the flu every year, right? So it's, it's, it's much worse, but it's not orders of magnitude worse? Well, it's an order of magnitude worse. But here's the thing, most medical systems don't have slack capacity.
+
+Unknown Speaker  23:12  
+Mm hmm. So if you have
+
+Unknown Speaker  23:14  
+a whole surge of new patients on, you know, you can overwhelm the number of ICU beds, you can overwhelm the number of especially also,
+
+Unknown Speaker  23:23  
+if it passes
+
+Unknown Speaker  23:24  
+to hospital workers, right, there's a report that 500 medical workers in uan were getting knocked down by the spread, that's extremely dangerous, because that starts hitting society's capacity to to deal with the disease. Right. So I wouldn't be sanguine about the I mean, we see this also in crypto, right, a relatively small surge of demand can get prices just soaring on an exchange that doesn't have high liquidity. And we don't have high liquidity in the sense of there isn't a lot of slack capacity in the medical system. Certainly not for like, another hundred thousand people being put in the ICU in the US, for example. Right. That's like the number of ICU beds in the US. So so I think that on the margins, this actually does have an effect, even if people don't think that the absolute value is that high and and and potentially quibble with that installed. Go ahead. Yeah, I it's a good point. And I think we want to come back to just the secondary and tertiary effects that this could have. But But to be clear, let's close the loop on maybe the worst case scenario, right now, if if 3% is high, it seems like it It may be very high, because that may not include all of the mild cases that are not included in that denominator, which could be you know, 234 or five times as many cases as are available in the study. That would be good news. On on the other hand, you know, maybe the the number is not 100 million people that get infected, but you know, a billion people, in which case even if it is a 1% fatality rate, it's a pretty big number. I guess the point is that the first order effects here are, if this does spread, if it does become a pandemic, then the number to really look for is going to be the the fatality rate in Singapore, and from this cruise ship and some of the early locations where you've seen relatively contained outbreaks and where you can have some degree of trust, and the quality of information that's coming out of that system to right there. They're modern economies and modern healthcare systems, they're smaller environments, where they're essentially controlled experiments in some respects, and they're going to be a few weeks ahead of anything that may happen in the West. So for better or for worse, one way or another, those might be the pockets that you can get the best information and understand, you know, where the long term trend is heading. Okay.
+
+Unknown Speaker  25:56  
+Sure, good.
+
+Unknown Speaker  25:56  
+Yeah. So, so one thing I want is on secondary, Yeah, totally. Um, one thing is, you know, it's useful in any data analysis or scientific study to distinguish the qualitative from the quantitative. And, you know, of course, I'm a fan of quantum quantification, of course, we should try to measure and calculate the R naught, and the case fatality rate and all that stuff, it's very important. But qualitatively, we can also observe that move on basically got nuked by this.
+
+Unknown Speaker  26:22  
+Right, like, like it was a normal
+
+Unknown Speaker  26:23  
+city. And then it was basically, you know, just just something where all the reports from on the ground, you know, that the quarantine
+
+Unknown Speaker  26:31  
+the the fact that seven hospitals are
+
+Unknown Speaker  26:34  
+full of sick people, that people are being turned away, whatever it was distinct due to run. So so we can, we can certainly debate and we should debate and we should quantify all the numbers,
+
+Unknown Speaker  26:43  
+but we shouldn't be sanguine
+
+Unknown Speaker  26:44  
+about it. If anything like that hits your city, at the same thing, as bad as Clinton was move on, up into that's problematic. Now, it's also true that sometimes, you know, like, these kinds of illnesses, the less severe variants tend to spread more, because the people who are affected by them are more mobile. And so therefore, the folks who are like, farther out, you know, in this gets less severe strains of it. There's all kinds of dynamics like that, but we should want to avoid what happened. One, regardless of the qualification, good. Sure. And I think that almost goes without saying my point was more about which cities are next to watch, you know, Beijing, Shanghai, today have similar numbers of confirmed cases to what Wu Han had just three weeks ago. Yeah. Which is, which is alarming. And that's why, anecdotally at least, there is no official quarantine in Beijing and Shanghai, which are two of the most important economic cities in the world and to the most densely populated, but they are not going back to work. Even though they've gotten the green light, it's still they're still relatively speaking ghost towns. So you have to wonder, you know, kind of what comes next for them? And then it does Hong Kong to Singapore ultimately climb up to that 300 confirmed case threshold. Is that some sort of tipping point? Or is it containable there. So lots of variables, you know, don't don't want to kind of dwell on the doomsday scenario, because it doesn't make any sense until we have a little bit more in the way of facts and data to back it up. But, you know, more importantly, the only thing that you can kind of do is wait and see what measures have been effective, and what the actual numbers look like. Yeah, there's a lot, you know, full, it doesn't need to be a full Apocalypse, for it to be bad. And we should definitely try to avoid what's happening in Russia. Now. Everything is a bunch of other Chinese cities. You're right, that, to my knowledge, at least Beijing and Shanghai have not yet had formal quarantines, but a bunch of other cities in China have. And I've seen a number of those reports that are linked to Shin one, which is about as official as it gets, in any translation are essentially quarantine orders on and it seems that there's at least like 100 million people under quarantine and how many more? I don't know. Um, so then the question is, you know, what other countries are going to be taking measures like that? I don't know if you saw the UK yesterday, or a couple of days ago was was talking about quarantine levels. I think Singapore may do something like that. So,
+
+Unknown Speaker  29:15  
+yeah, let's just say that
+
+Unknown Speaker  29:16  
+just need to be the full, quote, Doomsday Apocalypse, for it to be to be bad and seriously inconveniencing people at a minimum because quarantining means that like, normal life that isn't happening, you know, there are folks in it reporters who are posting photos of, you know, like train stations and so on in China, subways that are normally packed,
+
+Unknown Speaker  29:34  
+that now look like
+
+Unknown Speaker  29:36  
+a you know, it's it's at 9am in the day, it looks like it's 1am on a Sunday, you know, none and so it just looks very, very different. Lots of folks are self quarantining if they're not officially quarantined, and that's definitely going to do economic damage to China in the short run. It is already we can we can come to that point or discuss. Yeah, no, I think you talked about some of the secondary effects of just over overwhelming the healthcare system and some of the impacts that could have, you know, not least of which is you'd expect the mortality rate to actually rise not just for the patients that are impacted by this particular virus, but but patients in general that are part of the healthcare system. And one of the scarier studies that came out was the number of people early on that were infected in the initial hospital and move on right. Now, you can say at least people know better now. So you know, which precautions to take. Hopefully, that would be an extreme kind of upper bound for what type of impact this could have. But but it's still there. So let's talk about the the other secondary impacts, which are as relevant for maybe more relevant right now for people in the West. And that is economic speaking, right? It seems to have been largely ignored yesterday was a new all time high for the stock market. Today, I don't know what it is doing right now. But the last I checked, it was it was up another half percent, and it's up half and the s&p is up another half percent. So we're talking about real time all time highs in the stock markets, which means none of this risk is really being priced in for any type of prolonged downdraft in the Chinese economy and any ripple effects of that might have. But if you have a situation where, to your point, you know, something like 50 million or quarantine, the incubation period for this is so high that you're talking about weeks before you even can clear cases, much less gradually kind of kickstart, you know, economic activity again, and and who Bay is a major manufacturing hub for many industries. If that expands to Greater China, then that becomes you know, even even more of a potential shock to supply different supply chains, you've already started to see some companies warn about this. What do you think? Something like this could do? In terms of the broader economy, right, what are what are some of the other variables that you might be thinking about right now, just from a hedging standpoint? And then we'll talk about maybe the medium and long term consequences economically and technologically speaking of different trends that this might spark, But first things first, you know, what, what are the variables that you look for? Since the stock market is not telling us anything right
+
+Unknown Speaker  32:30  
+now? Right?
+
+Unknown Speaker  32:32  
+Except, does this doesn't matter at all? Because the feds gonna keep printing money? Eight, right. So.
+
+Unknown Speaker  32:40  
+So, you know, that's the thing is,
+
+Unknown Speaker  32:43  
+it's very hard to short, something like this. And, you know, like, why don't you want to make a trade or whatever, in this scenario? Well, you know, just to protect your own family, and, you know, potentially your fund or what have you, you just have to think about those things, even if they seem, you know, pecuniary and time, which is not, you know, money shouldn't necessarily be the first thing when things go on. But so let's say you're in that situation, and, you know, you just need to like, Look, look at that, and see, is this a big enough event that you need to rebalance things? or what have you? What are the issues with, you know, the American stock market is exactly as you mentioned, the kiwi. Like, there's a thesis that the last 10 years are based on printed money. And it's, it's, you know, it's intentionally, you know, what, what Greenspan called the plunge protection team is just working all the time. And because the stock market is a measure of confidence, and so if you can kind of, I shouldn't call it gaming the indicator, because, you know, the folks who are in the market are experiencing real gains. So it's not like a fake indicator in that sense. But in the sense of its correlation to other events, yes, if you print enough money, you can probably prop it up in various ways. So it's hard to say, and your shorts are just really hard to time on anything. With that said, let's talk about like the actual disruptions that are likely to
+
+Unknown Speaker  34:02  
+happen. And I think you could
+
+Unknown Speaker  34:04  
+probably cut it into weeks, months and years, in terms of how disrupted international supply chains are, right? Um, and weeks has already happened. Okay. And the reason that the impact I think has been somewhat blunted is people already stocked up because of the structure of Chinese New Year, they have extra weeks of inventory, you know, folks need to get up to speed but, you know, that was extended to like February 3. And so now we're in this sort of, you know, hold your breath as we're entering, like, you know, soon the next week will be the second week after Chinese years. And then at a certain point, you stop being able to hold your breath because, you know, companies that don't have, um, you know, if you don't have components, you can't manufacture something. If you have 30 day receivables, you can only push it out so far you need to pay. And so it's like there's a bunch of folks holding their breath. And then you're gonna start seeing a bunch of fish come to the surface because they held their breath and they ran out of breath. You know, cat, the economic consequences are already quite significant across Asia, for example, Cathay Pacific, for a lot of people, airline stocks, I mean, they're going to take, I mean, I can't imagine, you know, commodities already plunged that actually did already happen. But probably driven by oil, I haven't looked into the like, every daily fluctuation. But insofar as oil is sensitive to airlines, and airlines that just cut off all flights to China, which is insane, you know, that's like, never happened in my life for your life, to
+
+Unknown Speaker  35:29  
+my knowledge, you know, like
+
+Unknown Speaker  35:30  
+months of flights being cut off to the factory of the world, that's completely you. And in many cases, through the end of March, and into mid April, I've already been canceled, and not just in mainland China, it's in Hong Kong and Singapore and Korea as well. Exactly, that is crazy has never happened to my knowledge in our lifetime, you know. So and this is, this is not like, canceling flights to, you know, in marginal area of the world. This is this is the like, this is the biggest country in the world and the center
+
+Unknown Speaker  36:01  
+of you know,
+
+Unknown Speaker  36:02  
+like the second engine of the world economy, everything is made, right. And you could you could make, you could make the argument that this is more extreme than if the United States was cut off in terms of supply chains. That's right, because the US in terms of physical goods, export, China, you know, everything is made in China right. Now, one thing I've remarked on, which is interesting, is a a saving grace here, which is like, kind of this. So I'm not being political here in any way. But
+
+Unknown Speaker  36:33  
+I will say an unexpected consequence of the
+
+Unknown Speaker  36:36  
+tariffs over the last couple of years in the trade war of last couple years, is it forced many people, you know, against their will, to look at alternate paths and backups to China. Because if you made something completely there, you have supply chain risk from this political risk, and so on and so forth. And I think what was happening was, you know, like, a combination of economic nationalism and people thinking, oh, there might be some physical conflict, unfortunately, in the future, and so therefore, you know, supply chains might get interrupted. I don't think anybody planned for like, a disruption of a virus, frankly, I would have considered the scenario of sci fi, if you talk to me about on November 30, I'm like, okay, we'll cross that bridge when we come to, you know, sure. So like, two months ago, I would have considered this a sci fi scenario. And not, I'm not what I shouldn't say not worth planning for, because pandemic preparedness is important. But there's conditional probabilities. It's like, you know, Bitcoin at 10 cents versus Bitcoin $1 versus $10. Versus, you know, like, conditional on that previous milestone being hit the world in the future is different. You have to renormalize all your probabilities based on this previous improbable event happening
+
+Unknown Speaker  37:42  
+on silver. So,
+
+Unknown Speaker  37:45  
+you know, the disruption is actually real. And then the question is, what does it get priced into?
+
+Unknown Speaker  37:50  
+Okay. And I think that a lot of things are
+
+Unknown Speaker  37:52  
+like the wily coyote, you know, like, well, the COVID, runs on a ledge, and then eventually it looks down through like this, you know,
+
+Unknown Speaker  38:00  
+and, and the 2008 crisis
+
+Unknown Speaker  38:01  
+was like that financial crisis, there are a lot of people, you know, Peter Schiff famously made his bones by talking about subprime and so on before everybody saw it. And then of course, the thing afterwards was who could have known who could have predicted is so unexpected, you know, but but there is there is there are often warning signals, and then, you know, the question is, Can you can you trade on that in some way? And Peter Schiff is actually a very interesting example, because while he had the thesis, right, the execution was largely wrong. Right, exactly. And that's why this stuff is so hard. I, you know, personally, I pretty much like never go short on something because the timing is so hard to nail and you can get crushed if you go short. So I try to pick things where I, it's thesis driven by and hold long term. I'm not saying folks can't make money in short, I just personally, well, well, this this goes back to, you know, do you really want to be profiting off of a crisis, humanitarian crisis, or just you know, coming across like Ebenezer Scrooge, I think when when I'm talking about strategies, I'm actually personally thinking about bonafide hedging strategies, right? I have my Bitcoin, my crypto portfolio, my general investment portfolio,
+
+Unknown Speaker  39:15  
+but
+
+Unknown Speaker  39:16  
+I want to make sure that that portfolio has upward potential without getting tapped in some extreme event, right. And so from that perspective, it seems irresponsible to not consider what dislocations could look like. So this truly is about hedging versus profit maximization at least at least some some people, I think, are, are gonna look at this and they're gonna rub their hands together. And, you know, there's always gonna be people like that. But this concept of hedging versus going all in on the doomsday scenario is also important because it speaks to what we talked about at the onset, which is being prepared versus is buying into the conspiracy theories and kind of being all in on the worst possible view of how this is going to play out? I agree that anyone does that. So I'd say I'd say I'll say that I mentioned this early on, I definitely, I mean, if one is a professional investor, your your LPs are depending on you to make good decisions in a table. This is basically one's job. If one is protecting one's family, you know, and your portfolio, you just have the responsibility to do that. It's not, it's, it should not be thought of as, Oh, you're profiting off of this bad, you know, this data event, but rather, in the ideal sense, for example, and just to give one example, you buy into, you know, antivirals, you know, you, you know, facemask, stuff like that. And it actually helps those companies make more stuff, you know, and it's actually like a reallocation of resources. And this is a, you know, this is the most idealistic view of how the market operates. To be clear, right, because those are usually secondary, rather than primary transactions, you're usually not buying the stock of those companies directly and putting money in their coffers. However, it is also true that a rising stock price helps companies recruit, it signifies that they're doing it safely, um, you know, like, at least valued if not necessarily important, but certainly their employees are doing better. And so it gives them more resources, which to work with. So So, you know, things like antivirals, things like, you know, certainly vaccines and diagnostics, are all things to look at. But also secondary things I mentioned face masks, remote work. Anything either telepresence, possibly VR, though, I'm not sure if the headsets will be able to be made with the supply chain disruptions. You know, there's a model where people just can't get new consumer electronics like the iPhone is delayed, everything like that is delayed for for a long time. I mean, Foxconn, I'm not sure if you saw, but they repurposed like at least some of their capacity, I'm not sure how much of it to developing facemasks rather than electronics. So that is definitely you know, like, it's almost like going from interference and going from producing butter to guns, right. This is going from, like, you know, producing consumer goods to producing medical goods. And I think a huge part of Chinese economy is going to shift over to that for a time where, you know, it's like, it's sort of like wartime production, except the war is against the virus. You know, I called it World War v. The war against Sorry, go ahead. I mean, it I think it's an apt comparison, the The other thing that might be worth talking about, and this kind of dovetails with the most recent article that you're gonna post on Nakamoto, about some of the similarities and the general philosophical technical net technical things that you might be able to take away from, from an event like a black swan event like this that's outside of crypto righteous, I'm macro externality that seems to be more or less in line in across a couple of different metrics, with with with what we've seen traditionally with with Bitcoin and other cryptocurrencies.
+
+Unknown Speaker  43:13  
+For a second,
+
+Unknown Speaker  43:13  
+yeah, let's let's let's do that as a present. I think that's a necessary preface to I'm sure what what you've written as well.
+
+Unknown Speaker  43:21  
+Yeah, exactly. So you know, talent.
+
+Unknown Speaker  43:24  
+Is I made pronouncing that wrong? And if so, see my apologize.
+
+Unknown Speaker  43:29  
+But if you don't come after you,
+
+Unknown Speaker  43:30  
+yeah, I liked a lot of his work. You know, he's, like, he's a very risky on Twitter sometimes. Yeah, exactly. Right. Um, but so he deserves credit for popularizing the Black Swan concept, which is essentially that, you know, most swans are white. But, you know, once in a while, you're going to get a black swan that is an unexpected event that has a significant impact.
+
+Unknown Speaker  43:55  
+And his general
+
+Unknown Speaker  43:56  
+thesis is that people underweight large deviations, and their models assume like Gaussian entity, very large deviations are unlikely. But if you increase the probability of that larger deviation, then you can, you know, rebusify yourself against this is what he calls anti fragile one, there is 10 tips for how to rebusify against black swans. Now, the issue is there are so as a startup investor, you're actually kind of dealing with this in a different way. There are 1000 startups that are coming at you, and all of them are hyped, and all of them think they can be the next big thing. And so, you know, you have you have something where the sheer quantity of possible Black Swan events is very, very high, right? Because that's the other side of it. When you have lots of low probability things, you'd have an extremely good filter to figure out which ones to react to versus which ones not to react to, and what the time you react to them because you need to have some proof points like cell growth of some kind, you know, if this is infecting 10 people, you know, we wouldn't care you know, they like it. There's a rational ignorance of some of these things you can't prep for every single eventuality, because that starts to
+
+Unknown Speaker  45:06  
+have a cost, it's more than the benefit.
+
+Unknown Speaker  45:08  
+So I don't think it's, I think talent is very relatively sophisticated, very sophisticated on this. But I don't think it's sophisticated to say, Oh, it's a black swan up until after or whatever, right? That's almost the opposite of, Oh, you're so paranoid or whatever, right?
+
+Unknown Speaker  45:23  
+Um, it's not
+
+Unknown Speaker  45:24  
+easy to figure out which Black Swans to react to because they are low probability events to have a nonzero cost to preparing for them. We then said, I think the pandemic stuff is stuff that, you know, the Gates Foundation, Johns Hopkins, we've seen that hit humanity before.
+
+Unknown Speaker  45:39  
+If you're familiar, you know, I've ever done anything and like construction
+
+Unknown Speaker  45:41  
+job flip claims are?
+
+Unknown Speaker  45:45  
+Well, I've I've built things, but I've never been on a construction crew. Okay, well, so if you look at like surveys, you know, like, like, in the sense of a surveyor, you know, look at a
+
+Unknown Speaker  45:55  
+site. They have
+
+Unknown Speaker  45:57  
+contour maps that show what the, like, hundred year and 500 year flood looks like. Okay, so let's say if the waters came up, and it was the biggest flood of 100 years, so the biggest flood and 500 years, how far up would they come? What would get flooded? What would right. And so it's interesting, because in a sense, some degree of Black Swan planning is built into building codes and whatnot, right. And I think you're going to start to see that like, after, you know, now looking past to the recovery phase, where we haven't really gotten anything under control. But once vaccines are rolled out, once, once this thing is defeated, whether that's, you know, weeks or months, or hopefully not a year, I mentioned this, but I think at least the Chinese are going to build what I think of as a third grade wall, you know, so the Great Wall of Great Firewall, and this will be the great bio Wall of China. And so like endemic surveillance is going to be something where a significant part of the state security apparatus will be devoted to that, as well as like the scientific establishment, it'll be like a military level of preparedness for that. And there's 50 different things you can do there from vaccination to, for example, you could do environmental sequences. So environmental metagenomics on, you know, this started, you know, more than a decade ago, but people would take like a big, you know, sample of gunk from a cold line or a small, and then put primers that, you know, randomly buying so that they don't just find a specific sequence, but they can buy into all kinds of things. We just sequence everything in there to try and figure out what's there. And it could find new organisms that we have, you could apply environmental meta genomics to flushes in airport toilets and
+
+Unknown Speaker  47:39  
+bathrooms,
+
+Unknown Speaker  47:40  
+and start doing surveillance to see I hate that word. But that's a word that people use in this, you know, pandemic surveillance, right? what's called monitoring or what have you to
+
+Unknown Speaker  47:49  
+see, okay,
+
+Unknown Speaker  47:51  
+what genetic material is there, do you have a serious virus or microbe that is gaining in the population. And if you're dealing with a mixture, and you don't have names, but you you're starting to actually monitor that, it's, it's like the inverse of putting fluoride in the water supply, you're taking stuff out of the water supply and monitoring it. And actually, you know, the, the system, it's probably possible to go and retrofit sewage treatment plants, and so on to do this kind of thing. You know, most people don't think about this type of stuff, but that's what you know, public health is, I think this is a broader part of what I call hygiene 2.0, which I think is gonna roll out across Asia, everything from touchless faucets, and doors and buttons, to, you know, potentially just being much more sensitive about
+
+Unknown Speaker  48:35  
+who you touch in public, I think I think it's gonna have
+
+Unknown Speaker  48:38  
+societal ripple effects and whatnot after that. Okay, a bit of a digression. But go back to your original question. Yeah. So there, there seems to me one ultimate outcome here that is interesting in that if if China is able to contain this virus, and they learn from this experience, to create the third grade, third bio wall, as you framed it, what it does, is it kind of firm more firmly entrenches that surveillance state mindset and that ultra controlling mindset, and on the other hand, it might further distance the west from that level of preparedness, because the those are democratic, and we would never do a forcible quarantine under these same situations. Maybe the Chinese response was draconian, you know, everybody's seen I'm sure videos, whether they're true or not, doesn't matter. Perception is reality of you know, some people being forcibly removed from their apartments if they don't pass temperature tech checks and thrown into quarantine and ruin.
+
+Unknown Speaker  49:48  
+Their there is a
+
+Unknown Speaker  49:51  
+some ultimate consequence here where maybe China becomes more anti fragile because of this because they develop some of these systems and then whatever The next fire says whether it's in, you know, 20 years or 50 years or 100 years other freer economies might not be as well equipped to deal with with such a threat. Has that changed your worldview at all? From a philosophical standpoint? Because because there's kind of this meme that crypto is libertarian AI is communist.
+
+Unknown Speaker  50:23  
+And yes, here's here's here's
+
+Unknown Speaker  50:26  
+Peter, Peter TEALS. Right. So you know, what, if anything about that libertarian mindset has changed from just studying the the response to this and some of the potential consequences for coordinating action against a distributed system and this virus? Yeah. And so on Peters mean, the reason that he said that is, you know, crypto, people talk about decentralization and AI is usually about massive centralized datasets that you're crunching through on a cloud, you know, cloud provider, um, but it's also actually you can point to things which point the opposite way. For example, China's, you know, on blockchain is a centralized version of crypto, and stuff like, you know, Ai, video, or deep fakes, is decentralized use of AI. So it's, you could call it tendencies, I guess. But you can definitely point to two things that pointed the opposite direction of those two technologies, even if spiritually they started there, right. Then, so the philosophical questions here are extremely important. And, you know, similar in some ways to the terrorism debates that we've had over the last 20 years for people,
+
+Unknown Speaker  51:32  
+you know, now, there's been so many, you
+
+Unknown Speaker  51:34  
+know, so much info on terrorism, that people feel like they've got a hold on it, maybe it's, you know, maybe it's just simply like being accustomed to it, or whatever, you know, we're 20 years.
+
+Unknown Speaker  51:46  
+But with
+
+Unknown Speaker  51:48  
+pandemics. Interestingly, these this is a booster rocket for certainly state control in many ways, but also for decentralization. It's weird that it pushes both nationalism, anti sexualization. And let me explain why. So why does it push nationalism? Well, obviously, quarantines, border controls, you know, surveillance, you know, it's funny, I, some of the things I tweeted out, like, three days or four days later, they're like, you know, getting confirmed or whatever, right, and whatever this spectrum of things, but I'm like, boy, this is gonna choose remote work. And it's like, the largest remote work experiment in the world, or man, you know, their surveillance apparatus is going to go to town, they roll up this app that lets you find out who's next. You know, what I mean, um, which is not something that you can find out otherwise, right? That they're integrating, like, whatever hundred signals, and basically exposing that finally, as an API, so you can find out who's near you physically, or other variables basically have to take proximity to you and possibly infected
+
+Unknown Speaker  52:46  
+in some sense, right. Um,
+
+Unknown Speaker  52:49  
+so certainly, it's a booster rocket for the state in that sense, you know, people talk about or as the health of the state? Well, you know, pandemics certainly are. And the reason is people will go along with it, because it's actually a, it's actually arguably in their interest for the state to restrict the physical exit of somebody who has this condition, because you start to get extreme misalignment of interest for somebody in a quarantine or pandemic zone, they probably want to escape so they don't get infected. For somebody outside, they really don't want them to escape, because you know, the person outside you get infected. So you have a two by two where you have extremely misalignment of interests, and that's bad. But, you know, like, it seems to have, China may be the place in the world where it's like, most able to institute a quarantine like that, and I'm sure if you could do so in the West, you know, we're going to see the UK is going to try on another point, though, so all those things that are just mentioned are things that boost, you know, centralized states, the border controls, the nationalism, the surveillance, the suspicion strangers,
+
+Unknown Speaker  53:58  
+you know, trust the government, in this time of crisis,
+
+Unknown Speaker  54:00  
+they're going to build all the hospitals.
+
+Unknown Speaker  54:03  
+That's definitely real. Um, on the flip side, you have things like, you know, Li wenliang, the doctor who tried to make a warning about this, and then was basically forced to sign
+
+Unknown Speaker  54:14  
+a confession that it was all,
+
+Unknown Speaker  54:16  
+you know, nonsense of us, misinforming people, and he caught fire city, he died, right healthy guy and smart guy, and became basically a marketer in the internet. And so, you know, I proposed look, you know, we should, when things cool down,
+
+Unknown Speaker  54:28  
+add the Li wenliang Prize
+
+Unknown Speaker  54:31  
+for decentralized medicine, where, you know, when the state fails you to sometimes take like your, your health of yourself and your family into your own hands. And we've seen this in a slow motion way in the US where, and, you know, it's certainly not as shocking or as dramatic and so on as what's happening in China and I don't mean to downplay it at all. But the enormous wave of type two diabetes it's happened to us is in part due to the state's nutritional guidelines and being back in the USA. And the subsidies of corn sugar. And it certainly cost millions of folks their health over time, because we're basically poisoned with constant sugar. So the state can get it wrong. And when it gets it wrong,
+
+Unknown Speaker  55:11  
+you have to be able to, you know,
+
+Unknown Speaker  55:13  
+figure out how to fend for yourself, right. So that's one example with Li wenliang. But, you know, facemasks, you know, when you're guarding against pollution, infection surveillance, they are, in a sense, all three of them are because the state failed in some way. Right? The state should have regulated somehow, you know, figure out the right balance, keep the air pollution out of your lungs, it should have gotten this infection under control. And it shouldn't be surveillance, right. So a face mask is without extreme need, you know, like, there's times when you need that,
+
+Unknown Speaker  55:42  
+but I think much of the time you do not.
+
+Unknown Speaker  55:46  
+And then suddenly, other things like you're gonna start to see the next shoe drop, where folks are like, Oh, these local officials aren't looking out for us, and they're gonna want to move their their money overseas. And Steve, there's actually an article in this on, you know, in the New York Times about two US citizens that are sitting in like a, a apartment building, I believe in Shanghai, and they keep talking to each other. Hey, should we leave China? Right? Because they can't. Mm hmm. Um, and so. So I think this also pushes decentralization in the medium to long term. And so the question is, does that mean that you fight corrente today? And I don't think the answer is yes. And the reason is, it took me a little while to articulate this because I don't think it's as simple as
+
+Unknown Speaker  56:27  
+ideological, the libertarians different
+
+Unknown Speaker  56:29  
+against all quarantine or whole ideologically states and against, you know, anybody taking their healthcare into their own hands and you know, fending for themselves to some extent, or being protecting themselves rather,
+
+Unknown Speaker  56:43  
+I don't think it's
+
+Unknown Speaker  56:44  
+useful to do it in terms of just
+
+Unknown Speaker  56:46  
+like in
+
+Unknown Speaker  56:48  
+ideologically rigid principles at
+
+Unknown Speaker  56:51  
+INSEAD. I think the Lee Kuan Yew view of
+
+Unknown Speaker  56:53  
+pragmatism is important. Here's what I actually anticipate
+
+Unknown Speaker  56:56  
+will happen. I think
+
+Unknown Speaker  56:57  
+you're going to see enormous state intervention on this, not just from the Chinese here, sorry, there, obviously, but Asian states, probably, you know, any state where this thing goes, goes viral, and sees will ask for all kinds of powers, and may actually use them to bring the crisis under control, maybe, okay, at least there's a chance of it, I don't want to say it's 100%, because states mess up a lot. But sometimes, you know, it's safe to say so always messed up, there's some, some competent governments out there,
+
+Unknown Speaker  57:27  
+I'm sure these powers, they will probably get
+
+Unknown Speaker  57:30  
+them, they may use them to resolve the crisis. And then this is a part you could definitely bank on. They're not just going to give them up afterwards. For example, like, you know, I think, over all the Bush administration, all of Obama's and all of Trumps that they keep signing some declaration of the continuing emergency or whatever, into, into,
+
+Unknown Speaker  57:49  
+into effect,
+
+Unknown Speaker  57:50  
+which author I sold these extraordinary measures. So we've had like 19 years of emergency in the US after 911, okay. And so seats will not give up these powers, in the same way that the TSA is not giving up any powers whatsoever, to my knowledge, you get at least certainly are still being searched at airports, you know, 20 years later. Um, and, and they'll arguable the crisis to recur, right. And that's why we're not giving up the powers. And that's something that's hard to argue against, because since they should say, to shift it that way, in a whole bureaucracies place, a whole set of advocates. So that's when I think the next step comes into play. So then we're going to use decentralized it's only going to check those powers after the crisis has passed. So that's, that's a more complicated view and more complex view than to be against all kinds of quarantine or to be for, you know, any form of decentralization undermine supporting the thing that, you know, I tweeted about that, that brought to mind, you know, Ben Gurion, when, you know, he was one of the earliest leaders of Israel, for folks who don't know that, um, you know, when, before Israel's founding, he was very upset to the British for a white paper, they put out the team to undermine, you know, his aspirations for Israeli independence, but he was also allied to the British at the time against the Nazis. So, what he said was, we will fight the white paper as if there is no war, and we will fight the war as if there is no white paper.
+
+Unknown Speaker  59:14  
+And that's kind of how I think about this. We got to,
+
+Unknown Speaker  59:16  
+you know, we've got to fight the Coronavirus as if there's no crypto
+
+Unknown Speaker  59:19  
+and we need to fight for crypto as if
+
+Unknown Speaker  59:22  
+there's no Coronavirus, meaning we shouldn't do things that undermine legitimate quarantine. You know, like, that's, that's something which is destructive to public health. You know, you don't want to have every city in China crash like Rwanda did. You know, that's, that's not a rational thing to do. That's that's a short term maximization of, you know, something against the long term.
+
+Unknown Speaker  59:44  
+You know, health a lot of people, you know, you don't want to be saying blind
+
+Unknown Speaker  59:46  
+and say, Oh, the Chinese state or any state is going to use these powers for good and long term. And so I think that have been granted get his country, right. He got both. He won. You know, they won the war, and they got the country and that was it. pragmatic and intelligent tactic. And I think that's what we want to do. We want to, you know, quarantine and stop this virus when erected wall, you know up by Wall against it probably in the future. But we also don't want to give up on our aspirations for freedom. There might be too many variables. So I I'm almost afraid to ask this question. But do you have any predictions for for what comes next not in the super long term of how this is ultimately contained or not contained, we talked about some of the macro shifts, that might be inevitable if this continues to get even a little bit worse than it already is. And maybe some of the things that you reference are already inevitable based on just what happened in Wu Han. But maybe looking just a week or two weeks out, what are you either predicting or keeping the closest eye on when it comes to the virus itself and the coordinated international response?
+
+Unknown Speaker  1:00:57  
+Well, so the
+
+Unknown Speaker  1:00:58  
+dashboard that I look at the most is the Johns Hopkins GIS dashboard, which is showing, at least it's aggregating from the World Health Organization, many other places a daily dashboard on the number of people affected by the virus.
+
+Unknown Speaker  1:01:17  
+And the critical thing is, it's aggregating non China
+
+Unknown Speaker  1:01:19  
+reports as well.
+
+Unknown Speaker  1:01:20  
+And I believe those non China reports are in a sense, decentralized, because they are coming from a bunch of different national health agencies. So insofar as one of them were messing up the numbers or under diagnosing people think, Indonesia, for example, which has been reported as single cases, probably under diagnosis, that's a very large country that's, you know, close to China. You know, as far as if you've got one national organization that is not doing it, you're a little more robust to anti fragile, in a sense, because you've got decentralized measurement. So that dashboard of all of the infections, confirmed infections outside of China is one that I'm most concerned about. And the thing is, if you if you look at that dashboard, and you know, bring it up right now, on January 20, other locations, had about four cases confirmed. And today on February 12, there's 519 cases confirmed. So in about, you know, three weeks, that's, that's a greater than hundred x increase in the number of cases outside. We hope that slows down. In the worst case, in another three weeks, you have, like, you know, 10s of thousands of cases, outside confirmed cases outside of China. And then the thing is truly gone. pandemic in the sense of it's an epidemic on multiple continents. So
+
+Unknown Speaker  1:02:45  
+that's the thing to look at is, is there
+
+Unknown Speaker  1:02:47  
+is there some way that the number of infections
+
+Unknown Speaker  1:02:50  
+outside of China starts to plateau?
+
+Unknown Speaker  1:02:54  
+I unfortunately, don't see any sign of that happening. But that's the thing that I would watch the number one thing to watch. I'm not making a prediction on it. I'm just saying that if that grocery continues or anything, it continues that, um, you know, not not 100 x increase, but a 10 x increase in three weeks. That's still quite bad. Um, so let me pause there. Yeah. And it's a good point. At what point do you think I mean, if, if at all, I at some point, imagine you have to see a city wide quarantine, like we've seen with with 50 million people and who Bay and kind of surrounding provinces. At what point do you think something similar could happen to some of these other major non Mainland China cities like Hong Kong or, or Seoul or Singapore, Hong Kong and Singapore in particular, because they seem to be the ones that are growing the fastest but but are still maybe containable? where, you know, each has about 50 confirmed cases right now. But we know we mentioned at the onset, you know, Singapore, eight of those 50 are critical.
+
+Unknown Speaker  1:04:01  
+Yeah.
+
+Unknown Speaker  1:04:04  
+So the,
+
+Unknown Speaker  1:04:07  
+so a couple of thoughts.
+
+Unknown Speaker  1:04:10  
+One is that
+
+Unknown Speaker  1:04:15  
+Hong Kong and Singapore, if they may not be under official quarantine, but if you look at you know, some of the videos from online, and you know, the photos that have been posted of, you know, shops that are totally cleared out, or queues of like, 1000 people to get into like a normal drugstore. It's still not like a normal situation over there. You know, Hong Kong, in particular, has been wracked by all these protests and, and whatnot. And there's this bizarre intermediate state where folks are staying home but there's mad on the internet and, you know, what have you. Um,
+
+Unknown Speaker  1:04:46  
+so,
+
+Unknown Speaker  1:04:48  
+you know, like, in a sense, you know, and also major Chinese cities are also not in a normal state. They're already kind of quiet, even staying home. Um, you know, the way I think about it is any company I mean, you know, the head of the who the director general who said the containment measures have given countries sometimes prepare, but every country must prepare. Okay? So he's saying prepare, is he a prepper? Is he, okay? He's saying to prepare. And that's as much of an authority as you're going to get on this, to have the World Health Organization declared a global pandemic. So I think what that means for probably most people is, you know, like, in the event of the Singapore or Hong Kong level situation, the local situation is prepared to be able to work remote for a while, maybe prepared to be able to self quarantine for a while, like, it's not theoretical anymore. A lot of you know, Singapore, Western and Hong Kong are not Mainland China, they're not Denver, either. But they're fairly Western, you know, speak English, they're, they're closer, certainly to our way of
+
+Unknown Speaker  1:05:48  
+life and whatever. Um, and
+
+Unknown Speaker  1:05:53  
+so it's a, you know, a promote work, be, you know, if you need to, you might need to, you know, sell quantity for some time,
+
+Unknown Speaker  1:05:59  
+on see
+
+Unknown Speaker  1:06:00  
+probably remote conference attendance, and, and so on, and just do as much remote as you can. I'm not saying that's like, you know, given the fallout shelter and, and lock yourself up for for a long time. But I'm also saying, it's not a theoretical thing, either is known to people who, who wish that they had, you know, some of that in place before beforehand. So, that's kind of how I think about the individual level, at the city level. I mean, I think Singapore is a chance that Singapore shapes the world on this, because they are pushing through vaccine approval. I made the point that when it comes to a pandemic, you know, like, Guys, folks in the US people like Anthony Fauci is a smart guy, you know, is the head of NIH, like, National Institute of Food for infectious diseases, allergies, was like, Oh, it's gonna take a year to develop a vaccine. And Singapore is saying they can shoot through in like four months, because they've got a bunch of prefab stuff set up. Now, the difference between four months and 12 months, when it comes to vaccine development for something like this is difference between art of the fourth and part of the eighth, rather part of the fourth and or the 12th, where are is that monthly?
+
+Unknown Speaker  1:07:09  
+Not Not,
+
+Unknown Speaker  1:07:09  
+not the reproduction number, but the monthly growth rate of this. So it could be a massive, massive difference. So one thing cities early city states can do is just fast track, anything related to vaccines, anything related to prevention, and every day and week really matters. So I'm really glad to report stepping up here on an earthing to these to do to prepare is to like, you know, make it feasible and make it easy for folks to work from home, you know, certainly federal place to I hate to use this term, but stockpile, you know, like suits for their health care workers at a minimum, you know, because you need to protect them to, you know, keep like a clothesline communication, the CDC issue is that, like the, you know, somebody mentioned this, but the command and control facility for controlling a pandemic, in the US is kind of not their sort of decentralized. And it's may not be that competent contractor may not be that competent and local levels, and we're gonna have to hope it is. So, you know, I don't have three great answers on that other than the individual answer. Yeah. And again, it kind of comes back to wait and see and and Singapore and Hong Kong, maybe the two to most closely monitor over the head. One One last practical question. When would you assuming things plateaued and immediately starts started to look as if they were getting better? When would you feel comfortable traveling Asia? That's a great question, I would say, what I would look for is the most important indicator, in my view, is the number of new confirmed cases per day on the Johns Hopkins dashboard from outside China.
+
+Unknown Speaker  1:08:57  
+dropping off a cliff. Yep. Now
+
+Unknown Speaker  1:09:00  
+Now, the issue is the reason that's a tricky variable to measure is
+
+Unknown Speaker  1:09:07  
+you know, as something spreads,
+
+Unknown Speaker  1:09:08  
+like your your ability to test is linear, but the virus ability to spread is exponential. on having built a genetic testing facility, I can tell you, there's a huge difference between testing, you know, 500 versus 5000 versus 50,000 versus 500,000. Like, you know, a virus content acts much easier than your facility can, you know, near to like, so at a certain point, actually, the government, Singapore also said they would stop testing, um, and just treat folks as if they had in code, you know, 2019 or code id 2019.
+
+Unknown Speaker  1:09:42  
+That's a bad case scenario. But the good
+
+Unknown Speaker  1:09:44  
+case scenario, the thing that would say okay, things will return to normality is the confirmed cases start really plummeting, you know, outside of China, and then when I travel to Asia I mean, I guess When flights resume and, uh, you know, there's been like, a period of a month or something just to make sure that things are okay, it's hard for me to give a criterion on that, because I kind of think this is going to get, like, you know, I don't think it's gonna resolve very quickly. Like when I say very quickly, I don't think this is going to
+
+Unknown Speaker  1:10:22  
+be resolved in a week.
+
+Unknown Speaker  1:10:25  
+I probably don't think it's gonna resolve in a month, I think it's gonna be resolved after you get like a vaccine out to a large number of people. And that's probably gonna be a few months before the vaccine, but Well, I'll just say before the vaccine is produced, um, I don't know, you know, how quickly they can scale it and distribute it. But, um, but I think that's probably the answer. I don't know. Those would be the two things I would look at a, what is the confirmed cases outside China look like on the Johns Hopkins dashboard? And be you know, when when have a lot of people got vaccinated such as there's a firebreak against it? Now also, the thing about let me make one other point. So longer term point. The thing about RNA viruses like this is evidently your immunity isn't doesn't last forever. That's why, you know, to different virus to, you know, flu need booster shots, because your immunity doesn't keep forever. And so what I think is going to happen after this during the term,
+
+Unknown Speaker  1:11:23  
+oh, da.
+
+Unknown Speaker  1:11:26  
+Okay, so in the military is a famous thing, but it's like, observe, orient, decide act, if your opponent is just reacting faster than you, they'll come to have the strategic advantage, or they'll have such a tactical advantage that turns into a strategic advantage. They'll just execute faster they observe and, you know, while you're still responding to something from three weeks ago, there, they run circles around, right. So I think a very important thing for future things like this is to set up the entire state apparatus such that it can rapidly surveil, and then knock out a new vaccine and deploy it to go from detecting this thing to vaccinating people like like, like an anti missile defense system, it has to like, lock onto it and then knock it out of the air, you know, the same way you have to lock onto this virus, make sure it's real, see that it's spreading quickly push out a vaccine quickly implement quarantines or what have you, then stop that from happening. And I think that's it's like, it's kind of like anti missile defense, because most of those missiles won't won't get through, but one of them is a nuclear missile. Okay, if that hits, you're in really big trouble. Um, so I think that's what's gonna happen. You're gonna have much more rapid turnout with these vaccines right now, though, looks like four months at the best from from Singapore. And it would be after vaccination that I'd feel, I think, I think most people would feel comfortable going back and we'll see if maybe I'm wrong about the new cases. Yeah, and obviously, with with Asia being such a critical driver of a lot of the activity in crypto, yeah, it's gonna be especially relevant to this audience. And, and it looks like, you know, q3 maybe at the earliest will be the right timeframe. By the way, Amazon and others all, you know, they'd all be pulling out the world mobile Congress seven, if you saw that. So large multinational corporations are starting to react to this by not going to conferences. Mm hmm. Which is a canary in the coal mine, huge canary in the coal mine. Like basically, again, as I think this is a stimulus for remote work, it's a stimulus for a lot of things. I mean, a lot of conferences are as you know, a huge thing, and a huge waste of time or whatever, right? And so like a tiny, tiny silver lining of this is a lot of unnecessary travel. It may it may shift society over into a new normal when we all recover from this misandry that, obviously, you know, war two was terrible. One of the things that came out of that was women went to work. And then after the war, they didn't, they didn't all go home, there's a new normal that was achieved, right? So that sort of wartime response to this, I think, folks, you might shift into a new equilibrium where there's no infrastructure map around remote work remote conferences, and, you know, a lot of unnecessary travel is cut down if you're, you know, since the carbon footprint that gets cut down and so on. And so that's a tiny silver lining, but I think you know, something that will happen, that's one of like, 100 different instances. Well, Balaji, thank you very much for joining again on on such short notice, especially given that we just I feel like it was just a couple weeks ago that we get the conversation about Nakamoto I hope everybody that tuned in for this particular episode is gotten a lot out of it, at least starting to wrap their heads around some of the possible consequences of you know how exactly this this new virus could impact crypto the economy and, and hopefully not, but maybe even your personal preparedness plans in the west or wherever you're, you're listening to this from. But I hope that there's an 80% probably In a few weeks, that Balaji and I are mercilessly mocked in the twittersphere for for being so wrong on this and and and outlining only the worst possible scenarios because it will be a very good thing for the global economy for for everybody throughout Asia that is otherwise dealing with what looks like a nightmare. Okay, offer an Astro, sir, I don't think I don't think mocking mocking would not be the right approach, because it's clearly already a catastrophe. And, Chuck, I know, I know, you mean that as a joke. But basically, I think I saw your face it is, I would have be happy to be wrong about the idea that this will spread outside China, I do think it's probably more likely than not now. But we should all be happy about that. And we should rather than like a market, we should try and figure out how we can not have such a risky situation in the future with by erecting some defenses in the future against this kind of thing. That's how I totally agree. It's not going to stop people from mocking us, which is why it happens, because most people are not going to irrational. But if they are in a position to do so it will mean that this was contained. And and the very worst scenarios did not play out. So we can only hope and I think these these conversations, hopefully or are, in at least some small way helping people orient around that preparedness aspect and taking this as seriously as possible so that it doesn't spiral out of control.
+
+Unknown Speaker  1:16:27  
+Yeah, I mean,
+
+Unknown Speaker  1:16:28  
+boyscout level be prepared, I think is very reasonable. That doesn't mean nuclear fallout shelter, but also doesn't last a blessing. Awesome. Balaji, thank you so much for sharing some of your insights. Thank you everyone for tuning in. We'll be back with our regularly scheduled crypto focused programming on Tuesdays and Thursdays. This is unqualified opinions. Ryan seleucus. Till next time, thanks, peace.
+
+Transcribed by https://otter.ai

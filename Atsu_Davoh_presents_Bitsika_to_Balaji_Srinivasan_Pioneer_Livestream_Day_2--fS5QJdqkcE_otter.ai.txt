@@ -1,0 +1,49 @@
+Unknown Speaker  0:00  
+Alright, so my name is Archie, I'm from Ghana. And I want to introduce bit seeker. So people in America can think about bits because Venmo or cash app for Africa. So everybody knows that sending money to Africa to traditional ways like Western Union, or apps, you know, it can be slow, it can be expensive, or it can be booked in innovations, like Libra do not help the story. Because, you know, number one, Libra does not direct channels to African currencies, you need to be part of an exchange to get a Libra tokens. And users without smartphones, or bank accounts are generally more or less left out. So bits a guy wants to save the day. So bisque is basically an app that helps Africans receive money from anyone on earth immediately in local currencies and up no fees. So the platform very simple to use. So you can basically, anywhere you are in the world, any country, in the world, if you have a debit card, a credit card, or even Bitcoin, you can load money up onto the site. And the recipients in Africa receive money in local currencies, on their mobile phones in, you know, with MTN mobile money, or M pesa, depending on the country where there. So a lot of startups or companies have tried to solve the this problem, but their solutions have usually been very horrible. So someone might ask, what makes a bit sick are different. So they're very simple reasons why. So number one, as I said, we have absolutely no fees. So use our receipts hundred percent of the money you send that we use the exact market exchange rates you see on Google. So again, hundred percent of the money gets to the end receiver. And I think so far, we are the only app I've seen that uses the exact Google exchange rates. So we also offer Africans the opportunity to store money long term in US dollars. And this will be a great hedge against horrible African currencies. And also anyone on earth can send money to Africans, no matter where they are, anytime. So um, there's, you know, the app is very user friendly, very simple to use. But there's a lot of complexity that happens the background as far as sending money between countries. And that helps with the magic of does down with the magic of Bitcoin, and also stable coins, but their users don't see all that complexity, they just enjoy the app, and its services. Okay, I guess after all this, you can more or less think about this as liberal, but for those who really need it. Yeah.
+
+Unknown Speaker  2:21  
+Thank you. So some questions. So, um, you know, what's the current progress is that the app is live in the app store? Yeah,
+
+Unknown Speaker  2:29  
+yeah. So we did like a web app version like to test it out. And so we got a good reaction. So we are building the Android and iPhone app, which will be out in August, we got some funding from by Nance and microsuction, which is in Nigeria by Nance, crypto exchange in China, micro traction in Nigeria. So go find it from these people, and we are releasing the actual mobile apps
+
+Unknown Speaker  2:54  
+next month. Awesome. Okay, and so just have some kind of technical questions. So are, are you using a cryptocurrency under the foot? I mean, you compare it to Libra? Are you have you? Do you have your own crypto? Or what are you doing? You're using a stable coin energy?
+
+Unknown Speaker  3:13  
+Yeah, so mostly stable coins and Bitcoin. So that have to be you have to do with moving money, you know, between the country? So for example, we use the service called paystack. I don't know if you're familiar with them. And that's how we get Yeah, that's how we get money from any country using debit card. So all money literally passes to Nigeria. Okay, we can just instantly buy crypto and then move it to any other country, we need to move it to. Interesting. Yeah, so it's, that's a lot of like, you know, back and forth, that happens in the background, but they use us No, I see that they just enjoy, you know, the services.
+
+Unknown Speaker  3:48  
+Yeah. That's great. So, um, you mentioned no fees now, like, you know, as I'm sure you're aware, like, lots of payment systems have, you know, see if you can, especially in crypto, there's rates of fraud, there's rates of, you know, various attacks on the system and so on. Um, you know, and often fees are, are they're sort of compensate, you know, aside from the profit margin. So, how are you thinking about that?
+
+Unknown Speaker  4:14  
+Yeah, so basically, you know, basically, who initially served mostly as a way to get money from abroad, Africa, but we are also very much encouraging internal transactions, because since the money is stored in US dollars, that would be like a very good way for Africans to store their money. So we are just basically going to build more third party API's application so that people can just use bid Sikka US dollar credits as a way of spending money in Africa generally. So as long as the money like more people join the application, and a lot of money get just get started on the application. We're going to have, you know, a lot of money to use for what most is going to be stored in stable coins, but we would have enough money to make, you know, smart investments in other cryptocurrencies to you know, to me Make some profits and also hedge against, you know, fees. And that's basically how Facebook libre also is trying to make money as well and trying to make profits.
+
+Unknown Speaker  5:10  
+I see. So you're saying is that the flow like you know that the money that's started and how you make money? Yes. And then that's what you will use to pay down the costs associated with fraud. And guess what? Yes.
+
+Unknown Speaker  5:22  
+So it does go to encourage more people to just keep their money on the platform and just spend between each other.
+
+Unknown Speaker  5:29  
+Okay, I think it's worth, you know, you may have already done this, but if you haven't, it might be worth doing a financial model on that. And the reason is, you know, often PayPal and others have found to get to very large scales of money being held before the interest on the holdings becomes significant enough. For example, if you have a 2% interest, you need, like $50 million to make a million dollars a year. So, so just just something to you. The key question is, how are your fraud rates? compared to that? You know, something to think about? Um, but, but yeah, I mean, I think I think a lot of a lot of the ideas at the product level are right, in the sense of, you know, just trying to get the money and so on, on you may already have encountered this, but I think your biggest challenges are going to be the, you know, the local Fiat integration, like with various currencies, maybe paystack. takes care of that for you. And also, you mentioned using bitscope in Africa. So merchant integration, or what have you, and maybe you can use local API's to take care of that. Maybe put some thought into that.
+
+Unknown Speaker  6:33  
+Yeah. So actually, in Africa, it is very, very easy to go to change crypto into fiat currencies. So there's a bunch yet, it's like, probably the easiest place in the world to like liquidate your crypto.
+
+Unknown Speaker  6:45  
+Really, why is that? That's, that's surprising to me.
+
+Unknown Speaker  6:49  
+Because the government basically doesn't care about crypto that much. So people are free to, you know, exchange among themselves very swiftly. And we have a lot of peer to peer payment systems based on fiat currency. So like, m pesa. I don't know if you're familiar with it. Yes. Yeah. And mobile money. Yeah. So basically, if you if you are, let's say in Kenya, I just sent you your Bitcoin, you send me you know, m pesa credits and then that's it. And that's that's how liquidation is just very simple.
+
+Unknown Speaker  7:17  
+So at least it's liquidation at small, relatively small dollar values, because you're like, No,
+
+Unknown Speaker  7:22  
+no, like I've done I've done so by Nance invested in us with with crypto and we had to liquidate like very huge sums. And I've been able to very easily, like, within a minute or two, I could I could liquidate about $60,000 into lockers.
+
+Unknown Speaker  7:40  
+Okay. Yeah, that's that is. That's really cool. Um, okay. So Sounds Sounds awesome. And, you know, interested in seeing what happens. All right. Thank you.
+
+Transcribed by https://otter.ai

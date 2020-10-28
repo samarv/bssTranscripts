@@ -1,0 +1,298 @@
+Unknown Speaker  0:00  
+Hi, everyone. Welcome to the a16z podcast. I'm Sonal. I'm here today with Chris Dixon and Olaf Carson. We're the founder of a16z investment poly chain, which is a cryptocurrency hedge fund. And we're talking today about what that means both as an asset class and in terms of protocol development. And more broadly, what happens when you bring capitalism to open source development and services? Okay, that's the intro. Welcome guys.
+
+Unknown Speaker  0:24  
+off if you don't mind, people in another cryptocurrency hedge funds, maybe you could just play with it? Yeah,
+
+Unknown Speaker  0:28  
+get down actually. Absolutely. So poly chain capital manages a hedge fund that invests exclusively in cryptocurrencies.
+
+Unknown Speaker  0:36  
+And by the way, are there a lot of cryptocurrencies? Because the only ones I know Yeah, like Bitcoin? So
+
+Unknown Speaker  0:39  
+you've probably only heard of Bitcoin? Yeah, you've heard of a cerium. There are hundreds of others.
+
+Unknown Speaker  0:44  
+Like I remember hearing about Dogecoin, and things like that does that.
+
+Unknown Speaker  0:48  
+Exactly right. And new ones are launched all the time, much more than you might think. So in March alone, there have been about 15 launches of new
+
+Unknown Speaker  0:55  
+new cryptocurrency, holy shit.
+
+Unknown Speaker  0:57  
+So instead of investing in companies that are building on top of these protocols, we invest directly into the protocols. So we take equity ownership of protocols, instead of taking equity ownership of companies.
+
+Unknown Speaker  1:11  
+Let's pause on that for a minute. Because that's so counterintuitive, honestly, because the whole thing we've been touting here and Bill community's been talking about for ages is how important Yes, that Bitcoin and blockchain and everything related to the cryptocurrencies, the protocol is obviously very important, but because of what it enables. So I'm very confused by this concept of investing in a protocol. And
+
+Unknown Speaker  1:30  
+the way I think of it is, is like, imagine you were back in 1993, and the internet was starting, but there were two ways you could have imagined investing in that. One was to invest directly in companies like Amazon. And if you were fortunate enough to invest in Amazon, of course, that would be a phenomenal investment. A lot of people didn't have access to that or invested in companies that weren't as successful as Amazon. Another way to have sort of bet on the internet would have been to do something like buy domain names, which a lot of people did, actually, they call them domainers. And there were a bunch of people that saw the value there. And a lot of them bought, you know, whatever, pizza.com, or something in the very beginning who buy for $1, or whatever the domain registration fee was the aggregate value of like.com. domain names today, you know, it's hard to add it up. But it's certainly in the many billions of dollars, oh, my God, you know, so just like, you know, a typical five letter English word as an example. com is probably 500,000 $2 million. So, you know, you can just sort of go to the dictionary and figure out how the total value. And so I think it's very analogous to that what you have is people inventing these new protocols that have, you know, things like they they could be for doing distributed storage, or distributed payments, or a bunch of different use cases. The difference now is that you can invest, for example, directly in a company like Coinbase, which we here did, and actually Olaf used to work at Coinbase. Or you can invest directly in the protocol. And so what Olaf is doing is essentially Think of it as a bunch of new things like the internet getting started today. And they have the feature where you can just go buy domain names, and you're buying domain names in a sentence, right? Yeah, in a sense,
+
+Unknown Speaker  2:59  
+it's a more of a pure play is the way I like to think about it. So instead of investing on the application layer, which you're taking a bet on a specific team, a specific business model, a specific that's like Amazon, Yahoo, yes, the application layer internet. Exactly. And we're betting a layer below that. I think in this space, disproportionate value accrues to that protocol level. So even if you look empirically at say, Bitcoin, the seed investors and Coinbase have done very well on that investment. But when they made that investment, Bitcoin was at about $5. Yeah, and they would have done effectively just as well, by simply buying Bitcoin. You look at the Ethereum ecosystem, there's been very little venture funding into aetherium companies Ethereum, here being a an alternative blockchain to Bitcoin. But ether itself has grown in value by over 100. x since it was created. In addition, the crowd sales where people are actually raising money for application specific cryptocurrencies, like app coins, or like app coins or app tokens, those those token launches on top of Ethereum have raised over $300 million. Can you
+
+Unknown Speaker  4:01  
+talk about that for a minute, because I'm actually just trying to understand what the hell an app coin is, in the first place.
+
+Unknown Speaker  4:05  
+When a lot of people think about Bitcoin, they think about money or currency, they think about this broad based way to generate value and transfer value. Really, what's happening now is people are creating I like to call them application specific tokens. And these are basically a monetary layer added on top of a specific type of application. I'll give you a concrete example. There's a project called Gollum, like named after the Lord of the Rings character. I don't know how he got an impression. Yeah, they maybe did. So. Gollum is a peer to peer marketplace for computation. This means that instead of shutting my computer at night, I can rent out the CPU and GPU cycles to some developer in South Africa or Japan or something. And all those payments happen in the scholem network tokens. So the that Gollum network token is not really money in a sense, it's really meant to just add a monetary layer to this one specific peer to peer network. And so when you're when you're buying that token, you are buying either the ability to rent out CPU or GPU cycles. But you can also look at it as owning equity in this peer to peer protocol. Oh, that's fascinating. So when we, you know, hold something like Gollum tokens, we're really betting that this peer to peer protocol for computation will grow. Now, the interesting thing about these projects in this ecosystem is that there literally aren't companies. So suppose you want you like to this Gollum protocol, and you want it to invest like Andreessen Horowitz invest in companies, there's really no vehicle,
+
+Unknown Speaker  5:32  
+we can't invest in Gollum, because it's a project not a company,
+
+Unknown Speaker  5:35  
+it literally doesn't exist. So the only means to gain exposure to this new ecosystem is to buy cryptographic tokens are critical. If you rewind, like it would have been awesome, you know, like Linux started in whatever the early 90s. You know, there's a foundation, there's no company at the time, it was a hobbyist project today, it's 99% of the computers in the world. I mean, it's right Android, it's everything in the data center. It's, you know, etc. So like,
+
+Unknown Speaker  5:59  
+you're saying if there was a way to invest in like the company
+
+Unknown Speaker  6:02  
+would have been would have been invested in something that that that had some correlation to the adoption of Linux, it would have been one of the all time great investments.
+
+Unknown Speaker  6:11  
+Yep. Are there any other benefits to people investing in these at the protocol layer, the way you're describing because I mean, don't take this the wrong way. It's just benefiting off it monetarily? Like, is there any other benefit to the ecosystem?
+
+Unknown Speaker  6:24  
+So that I mean, the flip side of it is you go look at like Linux and all these other open source projects, they had to run around raising money or look at Yeah, look at
+
+Unknown Speaker  6:31  
+that. Linux has a huge number. Look at
+
+Unknown Speaker  6:33  
+look at the Heartbleed bug, right. So this is a fundamental flaw in SSL that was discovered, I think, a year ago. Yeah. And if you look at it, like the the foundation that says nonprofit foundation that supports SSL, which is the core kind of encryption protocol, the Internet, and I think their budget is like 500,000 a year or something, and they have to go on it or they have to go every year and do like the nonprofit's do. And so we basically we, you know, we've got all these funding models and Silicon Valley, for companies. But these companies are mostly built on these these open protocols and these open protocols or neglect. And the developers are forced to kind of go around and kind of beg for money. What this provides is a is it now kind of brings capitalism into protocol development.
+
+Unknown Speaker  7:13  
+Yeah, exactly. So we've already seen the creators of many of these open source protocols make lots of money on this, I mean, the creator of Bitcoin, whoever he or she, or they are, has, you know, over a billion dollars in Bitcoin. So I think we're already seeing this play out a little bit. And it creates the same economic incentives for these projects that you might get as a startup. So when you look at, you know, taking golems crowd sale as an example, when they launched this Gollum token network, they raised $9 million in 19 minutes, they now have $9 million cash to hire developers pay for offices, things like that. And that looks very much like a series A round of fundraising. They also kept an 18% equity ownership and the network they're building. So they have the same kind of economic model that you might see at a startup like Coinbase, where as an employee, you have equity and you have salary. And now you have quote, shareholders. Yeah, exactly. And so the thing is that it creates this economic incentive model for founders of open source protocols in a way that has never existed before. absolutely unprecedented. The flip side of that, as you pointed out, is that now the users of the Gollum network or any of these peer to peer networks, and then there are so many of these launching, it's pretty incredible. They are the equity holders, right? So when you look at centralized web platforms, the last 15 years, all the major web services, you know, Twitter, Facebook, Uber, Etsy, eBay, whatever it might be, it's basically a company that built a platform, all of the value for users on that platform comes from other users. Yeah, you know, when peer
+
+Unknown Speaker  8:46  
+to peer network if there's your network.
+
+Unknown Speaker  8:50  
+And these are the networks that nobody owns. Just like nobody owns the internet, nobody owns email. These are networks where the value instead of accruing to a central entity, actually accrues back to the users. And the thing is that this creates a really really strong network effects among the user base. So you can see in Bitcoin, sort of fanatics of Bitcoin, I was once one of these, and
+
+Unknown Speaker  9:12  
+even I would admit, I was one
+
+Unknown Speaker  9:14  
+yeah, and and you don't see that sort of fanaticism around users of Facebook, or users of Uber, even the power users like they like the product, but whatever people in Bitcoin are fanatics. And it's because they not only gain value in a more traditional sense of network effects when when the user base grows, they also actually gain wealth from that user base growing. And so this idea of users owning the networks that they participate in on the internet, I think is extremely powerful.
+
+Unknown Speaker  9:43  
+I think another sort of broad historical way to look at it is if you look at the protocols we use today, so emails SMTP you know, the internet is TCP, IP, HTTP, you know, HTML, etc. These, these were all developed 20 plus years ago, right? Yes, very few protocols that we use today. That Developed in the last 20 years, I can think of, I mean, maybe BitTorrent or something, but like for the most part, like, you know, that sort of niche, and so and those were specifically developed by, you know, academia, academia and government funded projects. And so you had kind of this golden year of protocols. And that was funded by governments and academics. And
+
+Unknown Speaker  10:19  
+then just to remind people, that was a time when you actually needed those entities only to be able to fund those.
+
+Unknown Speaker  10:24  
+Well, there was, yeah, because there was no, there was no capitalist sort of economic motive. And then, of course, the internet bubble happened, the capitalism moved in. And what you've seen since that period is, as all off was saying, like a dramatic kind of centralization of power in private companies, which is, you know, in a dramatic drop off in the rate of kind of open protocol development. Yeah,
+
+Unknown Speaker  10:44  
+right. So there's only been like one
+
+Unknown Speaker  10:46  
+or two, like one of the big battles, you know, like, RSS is a good example where that was a that was a more recent protocol, which was was sort of an open social protocol, which last decades, sort of in the, in the, you know, 2000s, had made Iran and got popular for a while and could have been a real rival to these closed social platforms like Facebook and Twitter, it unfortunately lost. I mean, it's still using the fringes here, but it basically lost I mean, so basically opened
+
+Unknown Speaker  11:11  
+up the central feed the way there was
+
+Unknown Speaker  11:13  
+a there was a battle last decade, you might not have been aware of it, but but there was a battle between open and closed and social and closed one, right.
+
+Unknown Speaker  11:21  
+I mean, there's actually been, there was a whole wave of companies that were trying doing the alternative Facebook's and the alternative,
+
+Unknown Speaker  11:25  
+I was involved in some investments on closed one and oakmoss. Unfortunately, I think for the benefit of the world, anyways, whatever your political views on that, it's clear to close as close to one, there's a lot of different theories. But one obvious one is just they had all the money, they had all the inner, you know, they had all the people they had all the developers like
+
+Unknown Speaker  11:40  
+to add that the other reason for the theory is that they also had a centralized model of coordination, which meant a better user experience and a bunch of other features. And you can kind of agree if
+
+Unknown Speaker  11:48  
+you have a great user experience with email. Gmail is a great user experience. And it's built on open protocols, I would disagree with you. I think that open from like, web browsing is a great user experience. It's an open protocol, like my view, people can disagree on this, I think it's because that's where all the money and all the everything else that they had the Better Business Model, they mean and close had the better business model for the last 15 years. Now, that closed camp, okay, now open is developing its own kind of business model around this, which I think is going to shift a lot more energy, I hope and money and funding and a whole bunch of other things back to the forces of open have a new set of new Arsenal, and it actually hasn't worked on multiple levels, they have a new funding mechanism, which is the app coins, they have just new infrastructure, which is things like, you know, kind of the blockchain mining infrastructure, which is the first time we've seen an example of we've had open source software, we've never had open open services. So these are services op x running, basically, effectively, it's a public AWS should think of as the miner network. So miners is this thing, which, you know, if you read the New York Times, they're like, Oh, it's a waste of energy, like, okay, but it's actually running this public. And it's like saying a public park is a waste of space or something. It's a public, it's public infrastructure. Yeah, it can be used for all sorts of things like
+
+Unknown Speaker  12:58  
+the coordination of a central authority
+
+Unknown Speaker  13:00  
+knows no central authority, no central owner. And it to the extent there are owners of the protocol, token owners and individuals, and no central point of control, no choke point, no, no one can pull, no one can say, they can't just cut you off the way that like, you know, certain social networks, cut off developers, as a developer, you can now invest in this, you can build things on top of aetherium, with the knowledge that no one can, you know, vitalik, who's the kind of the, you know, the leader of his theorem can't pull the rug out from under you, even if you want it to
+
+Unknown Speaker  13:28  
+be self sustaining. So clearly, the reason that open might be winning, besides the fact of your argument that this capital is rushing in and all these other things? How do we solve the problem of trust without having a central authority in the middle? The brilliant thing about these systems is the premise is that you do not trust any individual party. Trust no one
+
+Unknown Speaker  13:47  
+yeah, you trust no one you if you're a very paranoid person, these systems make great sense because you assume that there are all sorts of bad people out there trying to steal, trying to dupe the network, trying to convince the network that they have a valid, you know, transaction when they don't, or things like that. But when you have this decentralized sort of swarm incentive structure, and this is what's created, say through Bitcoin mining, you create this protocol that actually incentivizes very precise human action. And then without a centralized kind of top down hierarchy. But instead of sort of swarm of naturally incentivized economic actors, you can create a amazingly precise organization through this kind of decentralized incentives. Let's quickly break down why those people are incentivizes, because they're getting something out of this network. Yes, exactly. Efforts failed, because no one had incentive to contribute resources. And you know, we, you know, the contributors to Linux, how to monetize in all sorts of, you know, other supplementary ways, but they're actually building Linux and growing the Linux user base didn't really make them any money directly. Right. Now, as a lead developer behind one of these blockchain based protocols, you can actually We make money every single time a new user signs up and is interacting with this blockchain. So this this incentive structure, as you as you put it is very important because it leads to this organic growth that's completely decentralized, completely trustless. It's totally permissionless. Nobody owns the blockchain, just like nobody owns the internet. So you cannot shut down anyone, anyone can participate in any way that they want. And it's for that reason, to me an open and free system.
+
+Unknown Speaker  15:31  
+How do you know which protocol and I think this is important, because we all heard about Bitcoin, but as you mentioned, there's a theorem and apparently, there's like 15 more, that's new new ones this month. How do you know which ones matter? And and how did it affect what you're trying to do?
+
+Unknown Speaker  15:44  
+Yeah, I mean, this is what I spend all of my time doing. So we think a lot about basically, technologies that are enhancing what these protocols are capable of Ethereum is a great example. Bitcoin has a kind of programming language that allows you to interact with the protocol. It's called a scripting language and Bitcoin scripting language is really limited. It was designed this way intentionally so that people couldn't kind of screw up the protocol in the early days. Yeah. Now the creator of aetherium vitalik buterin. And the great team behind him has created a programming language that is Turing complete. What Turing completeness means is you can basically build anything so any computer science language that is Turing complete, can build anything that any other Turing complete language can build. What does that mean? It means that if you can build an application in one language, you can also build it in any other Turing complete language. What this pragmatically means is that you can write arbitrarily complex software and have it execute in aetherium. blockchain much in the way that a Bitcoin transaction would execute in the Bitcoin blockchain. So you can build all sorts of more advanced features in aetherium that are simply not possible with Bitcoin and you know, a theorems. Language it has it has solidity which is like JavaScript and serpent, which is like Python, whereas Bitcoin is more like bytecode. It's almost like assembly, very, very low level solidity
+
+Unknown Speaker  16:59  
+is very similar to JavaScript. Yes, it's a very accessible language. So if you if you're familiar with basic, you know, web scripting, you can kind of write in a theorem contract. And so people may have heard of Bitcoin and aetherium. Can you talk and you mentioned Gollum. Can you talk about some of the other?
+
+Unknown Speaker  17:13  
+Yeah, absolutely. Um, so so I can cover you know, both application specific tokens, as well as new block chains that are kind of, you know, meant for developers to build these applications on top. So, one underlying blockchain that I'm excited about is called tezos. tezos is interesting, because it uses a proof of stake consensus mechanism instead of mining or proof of work. What this means is that the actual take, yes, the actual holders of the coin act as the miners, so they are the ones actually validating transactions. The really interesting thing about tasers proof of stake system is that the governance is also pushed to the coin holders at the protocol level. What this means is that instead of governance and by governance, I basically mean decisions about how to upgrade the protocol, instead of those happening in a room full of developers or conversations with miners that are, these conversations are very opaque. And they don't happen at the protocol level. They happen outside of the protocol in tasers. All of those governance decisions happen at the protocol level, people effectively vote with their coins, and the protocol will change based on what those coins
+
+Unknown Speaker  18:21  
+like a stockholder of a company and he's appointed by equity earlier. So we own more equity if you own more stock. Yes, exactly. It's therefore more coin is more.
+
+Unknown Speaker  18:30  
+It's a much more democratic system, where the holders of the coin actually have say in how the protocol moves very directly. So that's an example of a more underlying blockchain that's really designed for developers to plug into in order to build kind of application specific tokens.
+
+Unknown Speaker  18:44  
+What are some of the applications that could be built on top of tasers? So tasers
+
+Unknown Speaker  18:47  
+is very similar in some ways to aetherium and that it has this Turing complete scripting language. So again, it's unlimited, you know, anything that you can imagine is possible. Okay. So thinking about a more application specific token, one that I'm interested in is and by the
+
+Unknown Speaker  19:07  
+way, so just an idea for a second when you keep referencing application specific tokens, that's your version of thing app quite short as everyone else
+
+Unknown Speaker  19:15  
+uses I would say no one has standardized on the
+
+Unknown Speaker  19:17  
+standardized I like to be very precise and just because they love precision all over the place. So there's
+
+Unknown Speaker  19:23  
+no real it's it's usually a good sign. It's an it's a sign of fertile creative.
+
+Unknown Speaker  19:31  
+If no one knows what to call something, it means it's new. So
+
+Unknown Speaker  19:34  
+that's right. So in its fertile days, you're saying application specific quote tokens, which can also be app coin app quite
+
+Unknown Speaker  19:39  
+interchangeable. So you know, an interesting you know, token that I'm that I like is is called maker or MKR. So maker is really a sort of whole governance and insurance system for a for a separate coin that is pegged to the USD dollar value.
+
+Unknown Speaker  20:01  
+So we're gonna have to break that down because
+
+Unknown Speaker  20:04  
+well, I don't even understand it too, because I thought part of the whole point of all of this was not to peg it to like things like
+
+Unknown Speaker  20:10  
+that well, so this so this is actually you can view that as a feature or a bug, these coins are traditionally very volatile. And it's because there's speculation and trading and things like that. Now, for certain applications, this causes problems. Suppose you're holding money in escrow, or you're fundraising on the blockchain, you know, you're you're taking in money that could change in value, sometimes aggressively over over days or weeks. So I think there is a need for a stable coin. And basically, the idea is that coin that doesn't change in value. Now, the naive way to do this is to put $10 million in a bank account issue 10 million stable coins and say, hey, it's backed, and it's pegged to the dollar. But that doesn't really work. Because now there's a bank account, and someone has control that bank account, there's a legal entity, and it's just not how block chains work. There's all sorts of flaws there. So you have to have a stable coin that's actually endogenous to the blockchain, and actually creates that stability through incentive mechanisms that are on the board. Yeah, what the maker system is attempting to do. And I view it as hugely ambitious with, you know, likely a high chance of failure. But if they can pull it off, it's massive. And it's it's basically a system of smart contracts, smart contracts here being the pieces of code in the Ethereum blockchain that are a bit more complex, complicated than just transactions, it's kind of a patchwork of smart contracts to create a stable coin, and this coin then is pegged to the dollar value. And so then you can do transactions on the blockchain that you know, will hold the value as well as at least that I
+
+Unknown Speaker  21:33  
+just tell you, you can't invest in these things right now without a mechanism like poly chain.
+
+Unknown Speaker  21:40  
+Yeah, so so this is the the great thing to me. So anyone in the world can go by maker. And these coins often have venture style returns, if you pick the right ones, but they're available to anyone in the world. Amazon, as Chris pointed out earlier, was available to a very elite group of venture capitalists. But, you know, it's kind of a club of who you know, right. And now intelligent 12 year olds can go invest. So you're saying that's
+
+Unknown Speaker  22:05  
+where the democratization comes in.
+
+Unknown Speaker  22:07  
+There's a bunch of exchanges that are what they call crypto crypto exchanges. So usually what you have to do is you go to Coinbase, and convert your dollars or Fiat into something like Bitcoin. And then you can go to these other exchanges and try to make or whatever. And now,
+
+Unknown Speaker  22:23  
+you know, the probably the most liquid exchange for maker is a smart contract based exchange. So we're getting even more abstracted from centralized exchange itself as decentralized. Yeah, the exchange itself lives in aetherium. That's
+
+Unknown Speaker  22:35  
+really, really interesting. Just to take a real world example, it'd be like completely removing NASDAQ, and Dow Jones, and letting people just it's like a decentralized NASDAQ. Exactly
+
+Unknown Speaker  22:45  
+right.
+
+Unknown Speaker  22:46  
+So this is a whole new asset class you're describing if you can invest in it directly or go through a hedge fund? Or why does I understand the the broad argument that we're bringing capitalism to open source, which has been, as you guys have observed, traditionally, very under resourced, so I buy that argument? I don't get why there's a hedge fund in this space.
+
+Unknown Speaker  23:04  
+Yeah, that's a great question. So as you've probably picked up, based on this conversation, this space is very esoteric. Yeah. And it's hard to understand a lot of these underlying protocols,
+
+Unknown Speaker  23:16  
+so would actually be a 12 year old, just throwing a dart in the dark.
+
+Unknown Speaker  23:19  
+Well, what's interesting,
+
+Unknown Speaker  23:20  
+say like, just for our listeners, we don't recommend it unless you really know what you're doing. You should not go by these things. I mean, Bitcoin has gone up a lot. But there's a lot of these things that have gone down in value. And it's very likely that an average person who's not spending all day on these things will lose their money. So if you're listening to this, we are definitely not recommend you not
+
+Unknown Speaker  23:38  
+try this at home and get that message loud and clear. I just want to make a point, though, that that's also true of the regular stock market.
+
+Unknown Speaker  23:43  
+I agree with that. But most people should not be investing in individual stocks, you should buy ETFs. I mean, and someday, hopefully, they'll be a crypto ETF. They could buy too, but for now, they should stay away unless you really know what you're doing. I completely agree.
+
+Unknown Speaker  23:56  
+So yeah, I think the as an asset class, the thing that's so interesting is that you have units of protocols that you can invest in you there's equity ownership in open source projects. So to go back to this maker project, when we wanted to do a deal with maker and purchase some of these tokens, there was no legal entity behind them. It's a pure open source project, and there was no bank account they had so there was no way we could send them money. So we actually had to send them aetherium into this cryptocurrency in order to receive MKR, this other kind of crypto token. And that's how the deal was done. There was no bank account anywhere involved in this process. And so it really is a brand new asset class in that also just when when you look historically, this is uncorrelated with oil, gold, emerging market currencies, the equity markets, bonds, it's, it's really just uncorrelated with everything else, and it's because it's a totally new phenomenon.
+
+Unknown Speaker  24:57  
+That's so fascinating. Okay, so going back to the question As you describe Gollum, you describe maker, what are some of the other interesting ones? And how do you tell? What's interesting? I mean, I always say, don't try this at home. Yeah, just how do you tell? So what we do is we read white papers religiously. So these white papers are formal specifications of how the protocol should work. Yeah, I mean, it's like Cushing Nakamoto, wrote the original white paper, there's metallic statements out there in white paper,
+
+Unknown Speaker  25:24  
+they all start off as beautiful white paper, they specify how the protocol should work. And then we want to talk to the founding team. So we'll talk to the developers and make sure that they have a good sense of actually how to build this. But what we're interested in more broadly, is a stack of technologies that can recreate a lot of the centralized services we see on the web today, but in a decentralized manner. So when you look at, we talked about earlier, these centralized platforms that connect to different people, they're built on a massive stack of web technologies. And so they they have like, the the DNS system, which maps.com domain names into IP addresses. And they have a server client architecture that they're built on. So we need to recreate all of those slices of that centralized web stack in order to build Twitter, the protocol and Uber the protocol that can actually compete with these centralized companies. So right now, what a lot of what we're interested in, is those kind of low levels of the decentralized internet stacks are
+
+Unknown Speaker  26:19  
+the fundamental building block exactly, like AWS, that everything that you can do that actually launches spawns a next generation of so there are
+
+Unknown Speaker  26:26  
+there are projects related to aetherium, you know, ipfs, or the interplanetary file system, which has kind of a silly name, but it's actually a really sophisticated piece of technology to build a decentralized server architecture. Yeah, there's also swarm, which is a kind of a similar project on aetherium that helps you build decentralized apps, like the Domain Name System, or DNS. There's DNS, the Ethereum name system, right that map's dot eth Ethereum domain names to smart contract cryptographic addresses, you know, this whole underlying stack of technologies needs to be in place before a lot of these application specific tokens that are more user facing, like normal person facing Yeah, can can really flourish. So we're investing in a lot of these things that are part of the low levels of that internet stack, as well as what I might call the middleware. So something like Gollum, for example, is a computing platform on top of aetherium. But even Gollum is a product for developers. It's not really meant for normal people, but using say Gollum and and say file coin, which powers the ipfs system, developers can build more complicated emergent applications,
+
+Unknown Speaker  27:31  
+right? I mean, in Colin's case, you're essentially reallocating GPU resources that are unused. Yes, exactly. So you can do all kinds of things. Yeah.
+
+Unknown Speaker  27:38  
+And so then, you know, it's too early still, in my opinion, for really viral end user Apple App coins, or app tokens. So I think that's a lot of what we're thinking about is, is what technologies will enable that, and that's what we want to invest in. Right? Okay.
+
+Unknown Speaker  27:53  
+So assuming that this becomes a real asset class that we really are bringing capitalism to open source and all the wonderful mechanisms that come with it, what are some of the challenges and obstacles have to be overcome,
+
+Unknown Speaker  28:04  
+these are brand new technologies. So these aren't facing just a market challenge. These are hard technology challenges, as in, no one knew that something like aetherium was possible. It's not that it was just a matter of time, right? We're actually creating things that previously did not exist. And some of the things will fail, because they are literally impossible. So these are hard technology challenges where you're actually sometimes making a bet on something that it could turn could turn out is not even really feasible. I think we need literally thousands of brilliant technologists around the world to come together in order to build this decentralized web stack. That's a massive challenge. Luckily, I do think that the space because of groups, like poly chain is seeing more and more capital available to build these great projects. So I do view it just as a matter of time, until these things very quickly become the kind of art you know, rather are building the next era of the internet, I have
+
+Unknown Speaker  29:02  
+to ask the tough question, which is, you know, there's so many stories in the media and in the developer communities around forks and conflicts, and frankly, open source is a bunch of people working together. At the end of the day, we can talk about technology, but it's humans coordinating to work and develop code and build something building something. Are there any challenges that are unique to this world that aren't playing? Because I think of like there
+
+Unknown Speaker  29:24  
+are no politics or disagreements at media companies.
+
+Unknown Speaker  29:29  
+Yeah, let me just say that is absolutely not true.
+
+Unknown Speaker  29:33  
+Any other private corporation? large groups of people have politics and disagreements?
+
+Unknown Speaker  29:38  
+Yeah. And I think the only difference is that the arguments happen in public corporate board might have just as large an argument and one side fails, but the shareholders never hear about that. You're right. You're very right. In this case, these are literally on public forums on mailing lists that anyone has access to IRC channels that anyone can join. I that
+
+Unknown Speaker  29:55  
+does one more question though around like resolution conflict resolution because when I think of a centralized system, Like resolution like if you listen, you have a group of people trying to design a
+
+Unknown Speaker  30:02  
+friend. It's all built into the protocol. So like in Bitcoin there's a there's a miners, through their hashing power vote, essentially vote on what solution they believe in.
+
+Unknown Speaker  30:11  
+Mm hmm. And then and you know, some of the things that we're investing in our alternative governance mechanism. That's, that's like that project. tasers I mentioned, allows one coin, one vote kind of democracy style voting on how the protocol should upgrade. So what
+
+Unknown Speaker  30:25  
+comes next? If this becomes an asset class, there should be more players like this in this space and a lot more activity. What does that mean? Like what comes after this?
+
+Unknown Speaker  30:34  
+I think we'll see a lot of competition as other people kind of catch on that this is a new and growing asset class, don't
+
+Unknown Speaker  30:40  
+get mad if this podcast makes that happen. Yes, that's totally
+
+Unknown Speaker  30:42  
+fine. By the time there's lots of competition, that means that the poly chain fund has done well. But a long term vision for me that really matters is a web that is owned by the users of the web. Yeah. So you know, I think there's massive problems around privacy and data mining and sort of pseudo monopolies that exist on the web today. And I think right now, we're seeing a wave of technologies that could swing the pendulum all the way in the other direction, you really own your data, you decide what to share with services. And those services are ultimately peer to peer protocols that are owned by the users. So all of the wealth that's been generated by venture capitalists, and entrepreneurs of centralized companies, I think will get pushed back to everyday investors who have access to all of these things. And that all the value that accrues will go to the early adopters and users of those platforms and protocols, instead of to the people that kind of own these these web platforms
+
+Unknown Speaker  31:40  
+prior that says that's going to have emergent behaviors that show up that we have no way to predict Is there anything that you can anticipate, though that might happen after that reality? It's us?
+
+Unknown Speaker  31:48  
+Yeah, it's very easy to compare what's happening right now to the centralized web. Right, exactly. Because it's what we know, right? But just in the way that the internet was not simply a digital library, right, you know, it actually enabled much, much more than that. I anticipate that these protocols and economic incentive structures that create sort of swarm intelligence will generate things that we could never have imagined. Yeah, just like the internet generated behaviors we never could have imagined. It might sound a little hand wavy, but I do think the biggest things that come out of this right now no one has ever conceived.
+
+Unknown Speaker  32:25  
+That's amazing. Well, I love thank you for joining a16z podcast. Thanks, guys. Yeah, thanks
+
+Unknown Speaker  32:29  
+for having me. Yeah. Thank you.
+
+Transcribed by https://otter.ai

@@ -1,0 +1,682 @@
+Unknown Speaker  0:01  
+This Week in Startups is brought to you by tracker Life is too short to spend looking for your wallet and keys. Save that precious time and get tracker. Go to the tracker comm enter promo code twist to get 20% off any order and NetSuite from Oracle, the last business system you'll ever need to get your free guide how to overcome the five obstacles to successful growth. Go to NetSuite comm slash twist.
+
+Unknown Speaker  0:32  
+Hey everybody. Hey everybody. Welcome to another episode of This Week in Startups. We're live at Wilson Sonsini Ws gr a great law firm here in San Francisco and around the country there my attorneys, in fact, you know, do a wonderful job for us. We have an amazing show for you today. Balaji. I got that part. Right. Yep. sredny wasin Srinivasan Balaji Srinivasan I got it right, is on the program. Let's give him a warm welcome. Now, you and I know each other from the Twitter. Yep. And also you have a site called 20 one.co 21. Co, which at some point, somebody asked me to join. And then some people started offering me money for answering questions. So I answered a bunch of questions. And I clicked donate it to Black Girls Who Code or I'm not sure one of the four very worthy charities there. And then I just logged into it today. And it's, it's now worth $500. It's a pretty good donation for asking whatever four or five questions tell everybody what 21 dotco is, and why did you build it?
+
+Balaji Srinivasan  1:35  
+Yeah, sure. So. So basically, what what is 21, it's the simplest as you get paid to respond to emails. And if anyone here is use LinkedIn, there's an inmail feature where people can pay LinkedIn to be in your inbox, but you don't get paid. And senders also want to send mass messages, they can't do that. They want to send surveys and stuff like that, they can't do that. So they can actually pay you for your time. And that might seem like a small thing. But LinkedIn, in mail, even as kind of, you know, lacking as a product, maybe in some respects is a 500 million a year business for LinkedIn, there's a huge market for just getting in touch with people cold. And if you think about what's happened with email, or last, you know, maybe 10 years, all personal email has sort of been pulled out like because, you know, Facebook, and texting and so on, and Snapchat, and all intra company, email has been pulled out with Slack, right? So the only thing that's left is really business to business email, which is commercial traffic, and commercial traffic, you probably want to put a price on that. And so now with digital currency, you actually can in fact, digital currency, one of the biggest things that led to it was hashcash, which is putting a price on email. So that's a quick version.
+
+Unknown Speaker  2:35  
+And so you were also a venture capitalist for a couple years at Andreessen Horowitz,
+
+Balaji Srinivasan  2:41  
+I still am I'm part time, part time now.
+
+Unknown Speaker  2:44  
+What did you invest in when you were at Andreessen Horowitz and what's it like to work for Marc Andreessen?
+
+Balaji Srinivasan  2:49  
+Well, what I invest in, so let me take the first part first. So I invest in all the stuff, which was the crazy stuff pushing the future, but especially genomics digital currency. And, you know, like reinventing government, that type of stuff. And, you know, there's folks there who are very, you know, excited about SAS businesses and the next Dropbox and so on. And you know, that that's also interesting stuff out sourced those deals. But the kind of stuff that really got me excited was stuff that was hard technology, and especially stuff in regulated industries,
+
+Unknown Speaker  3:20  
+which which company has objectively done the best of your investments? Which one? Would you say it's been marked up and become the big win in your portfolio?
+
+Balaji Srinivasan  3:29  
+Soylent? Yeah, and of course, Bitcoin and aetherium Alright, hold on a second.
+
+Unknown Speaker  3:33  
+Soylent is the biggest winner in your
+
+Balaji Srinivasan  3:35  
+it's doing amazing.
+
+Unknown Speaker  3:36  
+Yeah. Cuz, to me why this is doing so well, because I've, I've had I've had it. And it's absolutely horrific to drink. Okay, I think sure. But there are people who are and I have people who work for me who drink this stuff. And they drink it exclusively. Do you drink this exclusively?
+
+Balaji Srinivasan  3:56  
+I don't, but I like it. And we get it for our office. So let me ask you actually just show of hands. Who here has heard of silent?
+
+Unknown Speaker  4:03  
+Okay, okay, so every single person, that's amazing. That's amazing. Number one, right?
+
+Balaji Srinivasan  4:06  
+Right. Now who here actually, you know, has bought Soylent or drank it? Okay. That's
+
+Unknown Speaker  4:12  
+unbelievable. For people who don't see the live audience that was close to 50%. Yeah, have have had it. So that's my kind of how many people who drink it regularly. Let's really get to the brass tacks. So that's about five people.
+
+Balaji Srinivasan  4:24  
+But here's the thing like, you know, the awesome thing about like, you would most businesses, right? Yeah, you know, your problem is not, you know, indifference or other Your problem is indifference. Your problem is that people just don't even care. Right, right. everybody hears about Soylent. Everyone's got an opinion on it. Oh, my god, they're destroying food, blah, blah, blah. Yeah. Right. And so they've got an opinion on it. And it's polarizing. And in general, in a market if you can polarize and 20% of people love you. And they buy a subscription food subscription, right? Like where they're getting it every single week. That's amazing, right? So they've got, I don't give out their numbers, let them let them do that. Let's say they've got a very large group of people who are basically buying subscription food and If you look at the numbers on that, when you've got an annual over nine figures in revenue, is that is the word on the street that this is like? It's essentially pletely destroying it, but let me give the let me get the hybrid pitch on it. Why is it not just slurry? Why is it not just slimfast? or whatever? Right? Um, basically, the idea is okay, well, you know, they went from powder to a ready to drink, and now they've got flavored ready to drink. And what's really awesome, what they did is, among other things, they flipped many of the 20th century modes on their head. So for example, Coca Cola used to keep the recipe like completely secret as the state secret part of the mystique of Coca Cola fine. So an open source recipe. And there's a website called diy.soylent.me, where, you know, for example, women will supplement with iron, and bodybuilders will put in creatine and so on and so forth. And the best of those formulations are things that then they're going to go and do in a first party way. So they kind of engage the community with it from the beginning. So it's kind of one thing. And the second is that with the soil and thing as a base, you can now add kind of additives that will make it for different kinds of groups, right? Yeah. So it's this is this really awesome plastic kind of thing that is like nutrition. 2.0. And really, what it's about is like transhumanism, and stuff like that. Not not so what does that mean? transhumanism? What does transhumanism mean? It means human 2.0. Right.
+
+Unknown Speaker  6:06  
+Okay. So optimizing to be better humans?
+
+Balaji Srinivasan  6:08  
+Yeah. I mean, like, in the sense of, you know, what is healthcare? Right? Like, you know, healthcare means, you know, okay, let's add a few years to somebody's life, that's how often you'll measure healthcare outcomes, right? When you go and compare, let's say, Sweden, to Ukraine, you'll say, okay, they've got larger life expectancy. But, um, we're just, you know, we're not really trying to punch through, we're just saying, Okay, let's add a year or two, right. But actually, if you look at the, you know, biology of aging, it looks like a coordinated process, right. But getting into all the details of it. It's something where it's not something that happens by accident, in the same way that your maturation from a child to an adult is not an accidental process. Your maturation from an adult into an old person is something which is actually coordinated. So if you could stop that you could actually extend life. That's the kind of thing that transhumanist think about.
+
+Unknown Speaker  6:51  
+Got it. Are you one of these? transhumanists?
+
+Balaji Srinivasan  6:53  
+Yeah, it says, Oh, yeah. Do you want to live forever? That'd be ideal. Yeah, sure.
+
+Unknown Speaker  6:57  
+Is it really, really want to live forever? Well, there's a lot of math to do. Yeah. So for that reason alone, but yeah, well, how do you think that I will do you?
+
+Balaji Srinivasan  7:05  
+Me? I'm 3037 37. Okay.
+
+Unknown Speaker  7:07  
+How many years do you think we're gonna add to human life spans on average here in the United States, due to technology in the next 3040 years? In other words, when you hit 70, or 75, and you're supposed to die? How many more years you think you're gonna get?
+
+Balaji Srinivasan  7:24  
+Well, so let me answer the question slightly differently. So, um, if you know what most people have as a mental model is they think that aging is something where it happens, because random accidents happen to you, Oh, I got, you know, hit by, you know, this rock. And so my arm doesn't work as well. And various actions happen and function degrades, and then you finally die, right? That can't actually be what happens. Because if so you'd have a so called hazard rate like distribution. And it'd be some humans would live for 1000 years, because they would never actually encounter those accidents, we see that with manufactured objects with cars that don't have any access to just function for a very long time. So it's actually something where there's, it looks like there's a sharp cutoff point, like actual biological switches a trigger that kill us at around like 120 is like the maximum age. And what's interesting is, most people don't know this, because they don't like follow the literature obsessively. But we've been able to extend the lifespan of mice, we've been able to do this, you know, scientists have all this stuff breakthroughs. I could show you like a whole slide deck where there's a recent drug where a side effect of it was a made the man look about 15 years younger, like it made his hair turn from gray to like brown. Right. And so my answer to your question is, there's several different forms of, you know, molecular issues that cause so called senescence like aging. Frankly, I think we could probably get to unlimited life. Now, will that be something that you could do for existing humans? Or would you need to actually do something in the germline for the next generation? I don't know the answer to that. I do know that the technology is way more advanced than people think. But it's all stuck in the research lab right now. So how many years you think we're going to add, like, if you had to just ballpark it? If we if we were both supposed to die at 75, or whatever? You think we could add 10 years? By the time we hit it? I think Lenny, I think probably Yeah, I mean, like, there's stuff that's out there right now. Um, I mean, this is a whole separate, you know, kind of conversation. But yeah, I think you could probably add definitely 10 years that's within like, the scope of what I call conventional medical kind of interventions, that's within the scope of the life expectancy boost that we've seen over the 20 century. But the most interesting thing is to think of aging as actually the ultimate disease. Right? Right. And, you know, one way of thinking about it is, and this is a sentence where you can go and you can attack or analyze each individual clause. But if the purpose of technology is to produce scarcity, then the ultimate purpose of technology is to reduce or eliminate mortality. And let me actually, you know, kind of break that down. Right. So the first part if the purpose of technology is to produce scarcity, so how do we market a technology we say it's cheaper, we say it's better we say it's faster, right? And cheaper means, okay, it costs you less money, which means it takes less human life in order to go and buy this thing, right. And so essentially, human life is that ruler by which you measure the cost of any new technology, right? cheaper bastard, better, faster, right? And so the purpose of technology is to reduce scarcity. But the ultimate form of scarcity is our limited human lifespans. If you can increase the human lifespan that is the ultimate wealth. rooting for everything else downstream.
+
+Unknown Speaker  10:01  
+Okay, when we get back from this quick break, we'll pivot and then we'll pivot the discussion from living forever to talking about Icos and if this whole thing is the future of finance and venture capital, or if it's colossal scam like the.com bust, or if it's both when we get back on This Week in Startups. Okay, everybody, let me tell you about a product I love. It's called tracker. T, our AC kr tracker without the E tracker is an amazing little product that you can attach to a key ring attached to your phone, put in your wallet, anything that you lose regularly now, you know, I Jason Calacanis and on top of everything I do, and I never lose anything once in a while I do. And one of the things I'm always misplacing is keys to cars. And my wife also happens to suffer from this. And we're constantly trying to find who was the last person with the Tesla key? Well, when I got tracker, I took all of our Tesla key fobs. I took all of the different than minivans key fobs and I put trackers on them. Now when something's wrong, I can easily take out an app and being the people find the keys it makes a nice little beep it tells me where it is. So when you misplace an item, and you have that tracker pixel pixel as their new product attached, you can use your smartphone and a 90 decibel alert will help you find it in seconds. I'm thinking about putting these on the remote controls. Because my daughter now my seven year old is constantly leaving the remote control in some weird place. She literally took the remote control into the kitchen and put it in a draw. She put the remote control in her bed, you know these things happen. So when you misplace an item, you get that 90 decibel alert and it's got a powerful LED on it. And you can find anything you want in the dark. If you lose your phone, just press a button on the tracker pixel and your phone rings. Even if it's on silent, so it's reversible to this is amazing. Every tracker user is part of the largest tracker, crowd locate network in the world so you can locate your items anywhere even if it's miles away. The tracker 30 day money back guarantee equals that you will have nothing to lose so here is your call to action go to the tracker comm slash twist that's th e tr AC k r.com the tracker.com no II on that second E and tracker slash twist and you'll get 20% off any order they have a money day guarantee 30 day money day guarantee go ahead and get it the tracker.com slash twist the tracker.com slash twist you will love this product and I have been a fan of this product for a long time and this new tracker pixel is their best product ever as the years have gone on. They've made their products better and better and tracker pixel is I think the holy grail of losing items it works perfectly. I love it. It is great. It's been eight years since they started working on this problem and I gotta tell you right now I think that they have solved it effortlessly. It's so easy to set up I set it up in literally seconds I was so impressed to the team over at tracker congratulations you have figured it out I know it was a long arduous trail to figure out how to make all of us have instant recall of where we left our car keys or wallet and all these things. It is so delightful to see a startup figure it out and the tracker pixel is delightful so just for me to you the team over tracker I trust a congratulations I know you've been working on it for a long time and I am really genuinely impressed with this latest version tracker pixel is amazing. The tracker comm slash twist the tracker comm slash twist the tracker comm slash twist. Okay, let's get back to this amazing episode. Hey everybody, welcome back to This Week in Startups. I'm your host Jason Calacanis. And you can follow me at Jason on the Twitter. You can follow the podcast This Week in Startups at Tw AI startups. And if you love the podcast, go ahead and give it a five star rating on iTunes. If you don't like it, email Jackie at launch Co. And she will do a better job. My guest today Balaji. His is Ba La JI es on the Twitter. You love the Twitter. Twitter, you used to love the Twitter s you and I used to get into it a little while on the Twitter a little bit now and again. It's basically me and all the Andreessen Horowitz partners get into it a little bit. I don't know what it is with me. And the Andreessen Horowitz partners, not
+
+Balaji Srinivasan  14:28  
+you and then it's just what Twitter his Twitter is about gang warfare. So just you mess with the wrong gang.
+
+Unknown Speaker  14:34  
+Exactly. I always feel like when I'm getting into it, like, all of a sudden it's like, oh, here's another Andreessen Horowitz partner. Here's another and also I'm arguing with three Andreessen Horowitz partners, and then mark blocked me then he unblocked me it's very weird. So that was the question that you punted on before. Mark injuries is kind of a weird cat. What's it like working for him?
+
+Balaji Srinivasan  14:52  
+I love I love mark. I love him too. But he's a little bit weird, right? Well, I'm weird also, but basically like, I mean, I'm kind of a hybrid. Have mark and Ben because I listened to as much rap as Ben. But I'm also like a, you know, fundamentally a tech CTO ish kind of guy like, like Mark
+
+Unknown Speaker  15:06  
+God,
+
+Balaji Srinivasan  15:08  
+what's it like working for him? What's like working for him? I mean, it's, it's one of the he's one of the few people I can talk to where I can speak as quickly as I can, and he can speak as quickly back so we can just like kind of upload information.
+
+Unknown Speaker  15:18  
+Yeah. How do you make decisions on what to invest in at Andreessen Horowitz? Is it consensus? Is it contentious equals consensus? A lot of different funds have different approaches to this. So when you say, hey, I want to invest in a powder beverage that'll make you live forever, right? Well, what's the conversation? Like? How do you get consensus for something as wacky as that?
+
+Balaji Srinivasan  15:41  
+Well, obviously, you have to present your diligence and so on. And, you know, I'm not saying by the way that will make you live forever. I'm saying so step. I'm joking. But the how investors mean, so general partners can, you know, invest on their own if they have conviction. And in fact, not just us, but many other firms have found that the best deals are often the most polarizing deals, as well as the worst deals, right? But since VC is very upside driven, you can only lose all your money, but you can make 10 or 100 x. So typically, polarizing deals are actually it's good that one person can have the Minority Report and say, boom, I really want to invest in this right? With that said, there's a lot of discussion prior to somebody pulling out that card, and you know, saying, okay, I want to invest in this.
+
+Unknown Speaker  16:20  
+So when Andreessen Horowitz came into the space, they said, Hey, we're gonna disrupt things a little bit, we're gonna hire huge staff. And we're gonna have a bunch of support services that other VCs don't have. Yep. So if you compare a benchmark, which is just whatever, six partners, no support, no, you know, HR yours. What's that? Now? A lot of lawyers Now, a lot of lawyers, yeah, well played. And then you have Andreessen Horowitz with a bunch of services. I remember when you guys came into space, a lot of the VCs were talking smack about, you were like, you know, don't work with you guys, etc. And then you guys were paying really high prices for the series B's and you became known for overpaying or paying a lot. Tell me about that strategy of maybe investing larger amounts of money than other firms were comfortable with? And has that paid off? And have other firms followed you? Or is that something you guys have reconsidered? Because there were some firms that I think got a little bit ahead of themselves? Maybe had too much money? Did you learn something from that as a firm? I mean, I think it's the only critique I've ever heard.
+
+Balaji Srinivasan  17:18  
+Yeah, I mean, I think the firm has done pretty well. And you know, it's something where, early in slack and early in Airbnb, and all this other great stuff. So ultimately, you know, the price you pay is market determined and judged by your returns. I mean,
+
+Unknown Speaker  17:33  
+yeah, but people have the critique has been that you guys have come over the top and paid very high prices and put in very large amounts of money, is that critique valid or not? And I think its market is sour grapes by the other VC firms who weren't willing to pay the price that you were, I mean,
+
+Balaji Srinivasan  17:47  
+you know, like in international relations here, whenever you have like a rising power, then like, you know, the incumbents don't usually like that new rising power, and they can manufacture or sometimes, you know, come with genuine grievances against the interloper, but now, I think we're really kind of in the club. So I mean, that also, that was before I joined the firm, so Okay.
+
+Unknown Speaker  18:06  
+Well, what is your take on the current state of venture with venture capitalists now that you're because you now you're essentially a full time entrepreneur, kind of just part time seeing a venture capitalist? So you're back on the other side of the table? What's your take on independent of Andreessen Horowitz, most VC firms, saying, Hey, we're going to move down to what most people would have considered the Series B, in the back in the day, 10 years ago, which is show us significant traction, and we'll give you $20 million for 20% of the company or something in that range. As opposed to being the risk taking, hey, we're going to do series A, there was a moment in time where somebody, I don't know if was you or some partner said, Hey, we really don't do series A's anymore. And then mark, sort of backtrack those comments a bit. But the truth is VCs, Andreessen Horowitz and others are taking are moving a little further downstream, you would want we'd all agree in doing bigger rounds later, with more traction, What's your feeling on that trend? And maybe the emerging Angel class Angel list, you know, syndicates and taking up the early stage?
+
+Balaji Srinivasan  19:09  
+Well, so. So actually, I mean, I think that was like maybe a live issue a couple of years ago, but I don't think about that as much because I think that coins and tokens are a structural change in the whole industry. So that will affect all of what you're talking about, because just a gigantic amount of capital has been unlocked. And so, I think RBC is moving a little bit down, yeah. Because, you know, you have angels and super angels and so on, people can get financed earlier, and they have, you know, lower capital cost to get to market and so and so, yes, VCs probably are like somewhat moving up the stack, but they certainly still do A's. But I think that the, the single biggest thing to ever happen to venture capital is you know, the token launch the, you know, the Ico and whatnot. And I think that over the next five to 10 years, not without bubbles and reversals and regulatory issues and whatnot, but over the next five to 10 Yours is going to result in a very rapid decentralization of technology outside of Silicon Valley. And the reason for that is one of the biggest and you know, kind of, you know, appreciated drivers of why entrepreneurs come to Silicon Valley, is because VCs don't want to get on planes too much. And the reason for this is because if you've got 10 board seats, and you've got a company in Japan, and you've got a company in Israel, and you've got a company in India, and so on, you're basically spending your entire life on plane, it's exhausting. It's exhausting, right? So because of that on, you know, if you're an entrepreneur in Israel, or in India, or what have you, you've got essentially two options. Number one, relocate your company to the bear, and then quote, build a relationship with the VC or angel or whatever, over time, right, or number to parachute in and try to build a relationship and sort of in an organic way. And sometimes that kind of works. If you've got a really good company, you spend like three weeks on Sandhill road, you're slacking back and forth with your team. But it's a real pain, right? And an exceptional company can pull that off. And sometimes you know, VCs do invest abroad. But what happens usually is, the gravitational well of funding pulls you in for the a round, and then the guy gets your capital for the B round in the C round. So they can all just kind of drive around, right. And it's not like a selfish thing. It's just like a logistical thing who wants to be on in 12 countries for 12 different board seats. But what's going to change now is everything else already been put in the cloud, right? slacks in the cloud, and you've got Google Docs has been there for a while Google Drive is there, all these other tools, right. And now the last piece is investment and funding is in the cloud. And so now that means that folks anywhere in the world who have a good idea, or can get set up anybody in the world who has a good idea can actually also buy some tokens even with $10 if you're in the middle of Mongolia, right, so it's gonna massively change the entire industry over the next decade.
+
+Unknown Speaker  21:36  
+Okay, let's talk a little bit about what's happened to date. I've been looking at these Icos. Most of them are by unknown founders who have never built a company. Most of them have built a white paper. And in some cases, they're raising 2030 $200 million, based on a white paper. Is this wise, to give people who've never had a successful company 30 to $200 million in one chunk for writing a white paper?
+
+Balaji Srinivasan  22:10  
+Yeah, so good question. So, um, you know, my short answer to that is, certainly I would not recommend every or even most, or like even 90% of the Icos that are out there today. But I would also say that in 2014, there's a guy who had never run a company before, who took an $18 million in crowdfunding, which was one of the highest crowd funds of all time. And that was aetherium, which has turned out to be probably the best startup investment ever, right? Better than Dropbox better than Airbnb better than Uber, right? Better than stripe just in terms of, from where it started to where it got to and how liquid it was, during that time period is probably the best investment ever, right? That was considered a gigantically huge crowdfunding in 2014, like, way, way, way, way beyond progress. It was just a white paper, all that type of stuff, they have no track record. To my knowledge, I don't think any VC is bought in as VCs, like, a lot of us button as individuals. But it wasn't like something that we went and marketed on, they killed it, right? And so because of that, I'm loath to say, oh, somebody without a track record is bad without white paper is bad. Now, are many of these guys gonna be the next year? No, most of them will not be right,
+
+Unknown Speaker  23:14  
+well, not being bad. But maybe the funding would be better if it was staged or a crunch or something that just seems very reminiscent of what we saw in the.com bubble where people raised spax, or other, you know, incubator like devices of 100 or 200 million without any product. Yep. And a lot of that is, you know, was over funding that eventually resulted in complete and utter cratering of the industry. Do you see that happening here? What happens if, as you said, 90% of these Icos might be bad if those 90% go to zero, which I think is a likely scenario, what happens exactly what would happen because it's just all funny money? Because people don't know whose money this is? Do they?
+
+Balaji Srinivasan  23:59  
+Well, yeah, so a couple of thoughts on that. So first is, um, with even, you know, the.com bubble, one of the theses that we have a16z, which we've talked about publicly, is a whole Carlota Perez Gartner hype cycle kind of thesis. And so essentially, the concept here is that any technology will have like, you know, this, this initial spike of inflated expectations, everyone's super excited about it. And then it drops off as people realize, oh, it can't, you know, do everything in sliced bread, right? And then that calls and lots of bankruptcies happen, consolidation happens. And then those survivors who are hard enough to make it through, you get to kind of the peak over here, right? And you went through that with Silicon Alley reporter and all this other stuff, right? And you know, the fact that you could survive and make it through you actually had a great essay on this a, you know, a few years ago about, like, how the second time and the third time you're in that trough, you're like, let's do this. Right. But well,
+
+Unknown Speaker  24:46  
+it's kind of exciting, right? It's kind of, you know, you expect it Yeah, and you're like, oh, there's it's very easy to hire people. When everybody is leaving, and it's not tourist season, like the hotels are cheap, and there's no like it's easy to get around. reservation, there's no lines at the great, you know, restaurants.
+
+Balaji Srinivasan  25:03  
+That's right. And it's also an iterative game where a lot of the folks in the industry have been around for a while, and they recognize who had the grit to go through the hard times. And those are the folks who are going to back in the good times. Right. Um, it's not 100%, the reputation system, Silicon Valley, but it works reasonably well, I think.
+
+Unknown Speaker  25:17  
+And so we're right at that peak right now.
+
+Balaji Srinivasan  25:19  
+I mean, yeah, maybe I'm not sure it's hard to call the top on something, right? This could be like a, who knows, there could be two more three more years like this. Right. Right. Um, with that said, I would say that, you know, the good thing about crypto is it's not, this is not the first crypto bubble, this probably the fourth, right, there's the one in 2011, then there's one in early 2013, late 2013. And the late 2013, one that was a real bear, for most the folks who are in the space now are mostly like, I think the better coins and tokens and so on that you're seeing are from, you know, folks, like, you know, brave and blockstack and civic. And so we're all players during that, you know, initial 2013 to 2017 bubble, which was pretty brutal is like, it went down to $176 in like early 2015. A lot of folks lost their shirts and died. So, you know, the answer is, is it potentially a bubble ish? Yeah, there's definitely bubble ish aspects. But a lot of the folks in this show are survivors of that, and very few technologies have been built without bubble ish periods.
+
+Unknown Speaker  26:08  
+Okay, when we get back from this final break, I want you to give advice to people who are in the room who have startups or ideas of if they should do an Ico or if they shouldn't do an Ico. In other words, who should be considering doing this and who shouldn't? And then I personally want to ask you, as somebody who's a fund manager and investor in 150, companies, should my next fund if I were to create one, B token based, or should I just go with classic LPs, when we get back on This Week in Startups? Hey, everybody, let's take a minute to thank NetSuite plus Oracle for partnering on This Week in Startups. And let me ask you this. How many times have you asked these questions as a business leader? Why does it take accounting so long to close the books? And why can't I get my sales numbers in real time? Did we beat our revenue goal? Or did we lose money? What the heck is going on? Are we being audited? When you start asking these questions, it means that you've outgrown your business management software, and QuickBooks and spreadsheets are fine when you're a bootstrap startup, and when you're just getting started. But you can't have mistakes and delays and you can't not be able to get fast answers when your startup grows up and becomes a big, real sustainable business. So the number one business management solution, of course, for growing companies is NetSuite from Oracle, see what's going on with your business in real time by using NetSuite from Oracle revenues, expenses, customers orders, even your HR department, you can run your business from your dashboard or your phone and know what's going on as the CEO, the President, whatever anybody on the management team, the board. Their current clients include all the great technology companies, you know, including people like localytics, GitHub and plangrid. Those are startups that got really big and they needed to have this industrial strength, business management software 88% of Bessemer is next cloud unicorns use NetSuite from Oracle 29% of recent software industry IPOs use NetSuite from Oracle and 22 of The Wall Street Journal billion dollar startups use NetSuite from Oracle you getting the trend here, thousands of companies across America use NetSuite from Oracle. So here's your call to action, go to NetSuite comm slash twist netsuite.com slash Tw ISD and you will get your free guide called overcoming your five obstacles to growth. That's NetSuite comm slash twist, NetSuite comm slash twist, please please go there and get your free guide to find out how NetSuite can simplify your life. Just go to NetSuite comm slash twist, net suite su ite e.com slash twist. All right. Thanks a lot NetSuite. I really appreciate it. Let's get back to this amazing program. All right, welcome back to This Week in Startups. My guest Balaji is here. You can follow him on the Twitter be a la j is your good on Twitter. And Mark, stop tweeting. Yep. Why did you stop tweeting?
+
+Balaji Srinivasan  29:08  
+Because the downside is greater than the upside.
+
+Unknown Speaker  29:10  
+Okay. Yeah. So after that comment about India, he was like, uh, it wasn't
+
+Balaji Srinivasan  29:13  
+right after that was Yeah, no, this is like a like a few months. I mean, the thing is that you know what Twitter is right now, like, there's only two models for social network governance. There's the Soviet Union in Somalia, exemplified by Facebook and Twitter respectively. Right. And, you know, Twitter is basically just people with guns roaming around trying to kill each other. Right. Somalia. Yeah. I mean, like, I'm not
+
+Unknown Speaker  29:32  
+quite I feel most at home there. Right. I kind of feel like I would have done well in Somalia if I had.
+
+Balaji Srinivasan  29:36  
+Yeah. I mean, Somalia is a great narco capitalist example, in many ways, but it's also kind of a dangerous, you know, place to live. Yeah. I'm the captain. I like her Wanda. Much better actually, under Kagame. He's done a great job, because
+
+Unknown Speaker  29:47  
+I just said, I'm the captain now.
+
+Balaji Srinivasan  29:49  
+Oh, yeah, exactly.
+
+Unknown Speaker  29:52  
+Wait, there was Facebook?
+
+Balaji Srinivasan  29:54  
+Soviet Union? Soviet Union. Right,
+
+Unknown Speaker  29:56  
+right. What do you think of this whole Facebook thing? This seems to me to be the craziest thing that's ever happened. We're saying,
+
+Balaji Srinivasan  30:01  
+well, with the Russia thing,
+
+Unknown Speaker  30:03  
+they, they ran Russian ads. Zuckerberg said there's no way this could have impacted anything. Then he did a public Mia Copa and said, we're gonna do better. But he cashed $100,000 in ads for the Russians to put up anti LGBT and anti whatever ads. And it's pretty clear that Facebook is very influential as a platform. And he's now backtracked. How do you think Facebook could impact an election first, and to it did impact the election? Let's say if it's greater if it's greater than 100,000, and ad buys, and it didn't impact the election, and that can be proven? What should happen?
+
+Balaji Srinivasan  30:46  
+Well, I mean, you know, does television impact the election does radio does the internet. Yes. Facebook impacts election? 2 billion people have it? Yes. It's a big deal. Right.
+
+Unknown Speaker  30:54  
+Okay, so we all agree, totally impacts the election. Great. Yeah. I mean, despite Zuckerberg saying there's no way it could have impacted the election. I mean,
+
+Balaji Srinivasan  31:01  
+I think so I didn't look at this. I don't want to parse this specific statement.
+
+Unknown Speaker  31:06  
+We backtracked it anyway. Yeah. But he said he thought it was ridiculous, I think was the quote that the election could be swung.
+
+Balaji Srinivasan  31:11  
+I will I think, I don't know what his exact quote is. And I'd have to go and look at it. My understanding is that he was saying that that ad buy was too small to have swung the election was before the EPA, but Okay, fine, fine. Yeah. So I think the reason you might say that is $100,000 is absolutely nothing to Facebook. Sure. I mean, that's, I don't know what their revenue is like, that's got to be like per second or per minute or something like that. Right.
+
+Unknown Speaker  31:31  
+So what would happen if it did, let's just say, they used micro targeting to target African Americans in swing states who came out for Obama and convince them to not vote for Hillary or influenced them in that way, and the money came from the Russians and the data was stolen? What should happen? What is Facebook's responsibility in your mind?
+
+Balaji Srinivasan  31:48  
+Well, so I've not been following this one very closely. I've tried to tune out of all the political stuff, actually. But um, basically, my understanding is that some of the money actually also went to like Jill Stein and Bernie Sanders ads as well as Trump ads, right. So it's just like a, you know, cross spectrum, anti establishment kind of thing. And you know, what should be done? I don't know. We're in terra incognita right now. Right? Um, you know, I'm not sure there's any like rules against it. And certainly, frankly, the American government does a ton of lobbying overseas for you know, when there's elections are happening over there. It's not a country around the world that hasn't had the State Department come in and do some stuff. Right. Other than maybe China. And so, so because of that I think we should look at you know, yes. Like is, what are any laws violated? Sure. That's something to look at, but also be conscious of the fact that the US has done a lot of stuff worldwide, it's not necessarily always the, you know, most symmetric actor.
+
+Unknown Speaker  32:36  
+Do you think Facebook should be regulated in some way?
+
+Balaji Srinivasan  32:39  
+Um, it is regulated already, in many ways, like, the FTC keeps finding it. And yeah,
+
+Unknown Speaker  32:43  
+they got a 20 year fine. An audit. Yeah. Right. Right. Do you think there should be some additional regulation around this type of issue? In other words, sure, all political ads be transparent? Should their targeting be listed underneath the ad on the top level? would be something that would make you more comfortable with it if in fact, there was some shenanigans going on? Yeah,
+
+Balaji Srinivasan  33:00  
+so I'm simple. I'm sympathetic to like the public choice theory of economics, which is kind of, you know, no Nobel Prizes have been awarded for it, which essentially states that if the goal is to hamper or constrain a company, then regulation actually usually accomplishes the opposite effect, which is it actually locks in and incumbent. And so many incumbents actually, when you get, you know, let alone the scale of Facebook, but you know, a Pfizer or Roche, or what have you, they actually unbalanced typically welcome regulation, because what it usually results in are compliance costs for all their competitors. And actually, it locks in the current status quo, right? Yeah. So so if you want to harm or reduce the impact of a large company, I think the goal is actually to allow startups in our things to attack it. And one of the tools, you know, just actually return to the token, for a second, we've got a completely new tool with which to break network effects and to bootstrap two sided marketplaces, which is the token, right? And the reason is that basically, you know, one thing people have talked about for a very long time is, okay, Facebook's $500 billion company, what if it could have split half of its equity with its with its users, right? That would basically be 250 billion divided by 2 billion users. So $125 for every man, woman and child in Facebook, actually quite a lot of money. But in practice, you would not do it completely uniformly. Instead, you'd have like a function that kind of dropped off like this, where the first 10,000 and 100,000 1 million users would get more than the 1 billion user because they contributed more to the network effect. Right. So with tokenisation, this is possible. And it's actually something where you wouldn't do with equity, because equity is, you know, problematic. But with a token, you can have folks participate in network value creation. And something that's like, this is basically what we're doing with code professional, right?
+
+Unknown Speaker  34:41  
+If I answer a question, I earned some coins. And I could spend them on other questions.
+
+Balaji Srinivasan  34:46  
+Yes, but but even more than that, so if I can bring up the second Yeah. So let me see if I can do a
+
+Unknown Speaker  34:52  
+little demo here. And then we'll get well we will answer the question of who should I see and who shouldn't? Yes, which is a super important one. I think because I'm getting asked by all my stars. Should I do an IC o? And I have no idea what to ask him?
+
+Balaji Srinivasan  35:02  
+Absolutely. So So let me just explain at least what we're doing. So we're actually doing a token launch without an Ico. And the way it works is basically as follows. So we call this like, you know, the first token based social network. And what exactly does that mean? Right. So rather, up to this point, with an Ico, you've gotten tokens for capital, we have tokens for labor. And every time the user base doubles the amount of tokens that you get for signing up halves. So there's a strong incentive to be an early adopter, and also to invite all your friends because you get a portion 25% of all the tokens that they earn. So what's cool about this is basically, because it's a bootstrapping mechanism that just strongly incentivizes early adopters. So you get, you know, hundreds of thousands, millions of folks, you know, onto the network. And then we know already that if you get too many millions of users, you can easily monetize the social network. So it's a new way to bootstrap networks. It's not an Ico. But if it does work, I think it's going to be widely imitated by like mid next year or thereabout. So this is kind of what we're doing with P 21.
+
+Unknown Speaker  35:57  
+Yeah, it's a great idea. It makes total sense to me that the first million people, the first hundred thousand people who invite everybody should get 10 tokens, exactly the next million should get one token, and the next 10 million should get a 10th of a token, very much like that. This if I write a post that gets 100 likes and shares, maybe I get a hundredth of a token for every share, because I created something valuable in the network.
+
+Balaji Srinivasan  36:18  
+Yeah, so the one thing that we're doing that's slightly different than that. So when you're generating content, you're generating what you want to generate. And people have talked about being paid for content. But I think that a different way of thinking about it is if somebody issues you a task, they already value the labor they're asking you to do so they direct your labor in a useful way, rather than sharing content and hoping that someone will pay for it. Instead, somebody sends you a task that they already know they're going to pay like Amazon Turk. But for tokens, exactly. So when we think about this is it's sort of like LinkedIn in the sense that you can target individuals, Mechanical Turk, and that you can give them tasks and digital currencies, you can pay them for complete
+
+Unknown Speaker  36:52  
+core. So it could be just for a question like you currently have you could chorus core are gonna do their own tokens you think they could? What do you think you probably have inside information? Are they going to do you think
+
+Balaji Srinivasan  37:02  
+a percentage chance, percentage chance? Well, big fan of Adam, I actually don't know what his plans are on this. percentage chance? I think it's hard to tokenize a very large existing network, okay. Because, um, you know, when folks have tried to bolt on economics onto things where they spent a lot of time optimizing all the social stuff, yeah, it tends to make people mad. And so it's sometimes easier to do ever done it. Yeah, yeah. It's, it's definitely when you introduce it, you get all kinds of perverse effects, like people creating fake accounts, which you'll have to deal with exactly this, right. So we verify all users and so and so we actually, because we built this as a commercial network, rather than really a social network from the beginning. One of my theses is of Facebook, Twitter, and LinkedIn. LinkedIn has the least engagement of users on there. And the reason I would say that is the case is that it's really a commercial network, not a social network, what you want are for the edges to have some monetary value associated with them. But before digital currency, that wasn't possible. So we'll see if this one works.
+
+Unknown Speaker  37:59  
+I go to my inbox on LinkedIn, I have 18,000. Yeah, connections. And I don't think I've ever gotten any quality that benefited me. That's right. So I literally have given up looking at it, right. And I, I would much rather just literally have it be sorted by how many bitcoins they would allow me to donate to charity. Exactly. And if it was sorted, like when I get a thing from 21, I'm just like, Oh, I can answer a question. And $20 goes to Black Girls Who Code sounds good to me, because I can write a sentence or three and five minutes. I'm a writer, so it's great for me, let's try to put some goodwill out into the world. Let's talk about Icos and who should do them? And who shouldn't? Yep. Because it seems to me that people who are buying Icos are buying them to speculate. You would agree with this? A lot of them Yes, yeah. And so if people are buying them to speculate, but they're what people are calling utility tokens, that to me leads to a little bit of confusion, because the purchasers want the tokens to go up in value, but the person selling them is saying, you're not buying these for the appreciation, you're buying them because they'll be useful to you on an API basis. Is this some inherent conflict right now? Or, you know, just comfort in the space that needs to be clarified? Well, I think because the SEC has started to talk about this, right?
+
+Balaji Srinivasan  39:19  
+Yeah, yeah. I think um, so you know, for example, if you go and buy a house, right, that house can appreciate in value, but you can also use it, right? If you go and buy a domain, write a domain, you can use it, but it can also appreciate in value, right? So not everything that you buy that has a use case that appreciates the value isn't necessarily a security, right. There are examples that are not right. They can be both, they can be both right. So like a house, right, like the house, right? And so, you know, I think a really important question, is there genuine utility for the token? Or is it like kind of like a bolt on right? And we're going to see how wide a class of things can be kind of tokenized in a way where there's genuine utility With that said, I think there's definitely some coins out there and tokens out there that have genuine utility, for example, file coin, right? Where what is the token? Well, you're basically buying a harddrive space on 1000 remote machines to store one megabyte of stuff. That's clearly utility, right? Yeah, Ethereum. Is
+
+Unknown Speaker  40:14  
+that idea gonna work? Fine. Yeah, I think definitely. Why would people use that as opposed to the just plummeting cost of s3? It seems to me a good question. Yeah. Like this is
+
+Balaji Srinivasan  40:26  
+like not gonna work. Because if I have a serious use for storage, it's so de minimis the cost that s3 that why would I want it spread across a bunch of people's different machines? I don't get an excellent question. And so the answer is short answer is censorship resistance. But let me give a longer answer, right, which is, if Aaron's falda News, you probably seen that like, a week or so ago, the Spanish government went and rated the.ca t registry and shut down 100 thousand.ca t demands for Catalonia, right? Because the Catalonia is gonna have an independence movement. So all these people were caught in the crossfire where their domains were either shut down or seized or what have you. And this is something where essentially, government started overstepping where previously there'd been morays that had stopped them from being so intrusive, at least in the West, China had been intrusive for a while, then the western being these mores that stop people from like messing with DNS, and, you know, stuff that was previously considered like a demilitarized zone, right, yeah, now that's actually happening, it's happening very routinely, the seal has been broken, and I think you're gonna see that a lot more. And that every time every time something like that happens, it's a huge subsidy. For every person, crypto person is working on decentralized systems, because of decentralized systems. No one can take it away from you, right, they can't take away your domain with its block sack or DNS.
+
+Unknown Speaker  41:35  
+So in a way, what we're seeing with these dcep, the decentralized nature of crypto Icos, blockchain, etc. In a way, it's being bolstered by the fact that 20 years into the commercial internet or so people are starting to get greedy and governments are trying to stop it. In fact, if you look at just domain registrations, we had whatever the white supremacist group was, I forgot their name, but they kept having their domain name registration, Yang pulled out Yang, and I can understand that if I'm the CEO of GoDaddy, do I really want storm front on right, as resolving through myself? Or do I want to be routing their DNS, if I'm dying, like, it doesn't feel very good to be routing the DNS of a bunch of white supremacists? Right. But should anyone be able should the domain system be independent and the DNS system be independent of that kind of censorship? What's your position on it? I find it a very confounding will. proposition right now. I for me, as someone who's a free speech advocate, right, I'd like to see these maniacs. I like the fact that the maniacs publish themselves, because at least we know where they are.
+
+Balaji Srinivasan  42:45  
+I think, you know, like, you know, I I definitely agree that with freedom of speech, I'm against censorship. And the reason is because I think if you look at history, censorship, of that guy will often be turned back on you, right? Like, you know, for example, you know, the house on American activities commission, which is famous for McCarthy and investigations of communists actually started as something that was going after Nazis, right. Most people don't know that. Right? So So it started as something that was going after unAmerican Nazis and was turned on going after unAmerican communists. So if you start by going after Nazis, it can get turned right. That's
+
+Unknown Speaker  43:15  
+kind of wind up in Hollywood. Yeah, exactly. I mean, screenplay writers just feel better as they were writing things to mock you as
+
+Balaji Srinivasan  43:20  
+government officials. Exactly. Right. So that's kind of one aspect of it, the enlightened self interest aspect. And but the second is that it's also I think, going to become less and less feasible. Because Because of encryption, because of decentralization, because of all these technologies are rolling out. It's not just, you know, antenna encryption on WhatsApp, it is the fact that we're building an entire parallel tech stack. So you won't be able to see somebody's domain and you won't be able to see somebody's money and you won't be able to see somebody files and you won't be able to see their followers and so on and so forth. Right? All that stuff. I mean, you know, why does Twitter have actually a great deal of power? You know, it is because if they want to, they can block your account, and then they can disintermediate you from all your followers,
+
+Unknown Speaker  44:00  
+right? whereas they did this to me, lo you novelists and other troll
+
+Balaji Srinivasan  44:04  
+harassers? That's right. And so far, it's been applied to folks who are, you know, like, unpopular and negative, and, you know, net, you know, bad influences. But that's a very powerful kind of power to take somebody away from the audience that they've built. And, you know, it's something where I'm not sure we should interest an entity with that. It's something where would you want to build up a following of a million people and then have that yanked away from you just on a whim, right? Because you got unpopular one day, right, right. And
+
+Unknown Speaker  44:30  
+then the counter argument is, well, if I'm a private company like Twitter, I just don't want to deal with someone like Milo or Milo have to pronounce it Milo just harassing people randomly. It's, you know, sure, especially if they're African American women's and calling them it's Twitter's rights to horrible names and doing crazy name calling
+
+Balaji Srinivasan  44:49  
+absolutely within Twitter's rights to do it and I completely understand why they did it. Yeah. Um, and I understand jack is under pressures and so on to that and who who would, who would want to you know, support Milo versus a woman who's running Nevertheless, just like with the domains, it's the precedent that it sets where that's a sword that can be turned on you. And, um, you know who like, I'll give a good example of it where, you know, there's a systems Professor a few weeks ago, whose account was just banned by Google, all his blog, all his access, all the stuff was gone. And this was just a normal guy. He was just, he happened to have done some political blogging. And so Google's filters picked him up as being like a bad guy. And so he just got like, frozen out of Google's president Gmail user for 10 years. He had had all this adsense revenue is like a staff professor, right. So you know, we can't trust these systems to have a 100%, you know, positive rate, innocence, we'll get caught up in it. And that's bad. And decentralization allows it to be set up such that you can't take these kinds of properties away from people because 10 years ago, you might have said, Oh, who cares about my social network. Today, it's like a primary source of income for a lot of people. And they have no customer service rep. They can get in touch with a Google Facebook or Twitter, they specifically
+
+Unknown Speaker  45:54  
+don't have customer service reps at YouTube, so that you have no recourse right when they turn off your account. And we've seen that people built up huge followings on Vine, they shut vine down, they built up huge followings on YouTube, then they said, you have to have 10,000 views to have the video make money. And now you have that whole class. Exactly. So these companies are getting so big, they're able to really, essentially silence people. And that's dangerous.
+
+Balaji Srinivasan  46:15  
+Yes, right. And I think like returning to your original point about should Facebook be regulated? No. But I do think that, not more than it is. But I definitely think that we should allow lots of decentralized competitors to crop up. Because what those will do is they'll chip away at all these individual features, where the reason that Facebook is problematic in many ways is that there is no alternative. And if you allow folks the ability to build those alternatives, well, then I think you're going to have the market create some really interesting things.
+
+Unknown Speaker  46:40  
+And in this world, the posts and the individual accounts would be kept on a blockchain. Yeah. And you would essentially reconstruct your Twitter feed from the blockchain.
+
+Balaji Srinivasan  46:53  
+Yeah, basically, I mean, so it'd be a permanent record of every tweet you do with no ability to remove it one one caveat. So wouldn't necessarily be on the blockchain like the Bitcoin blockchain, but a blockchain a blockchain. And now, the second point, you mentioned is actually a very important one. So in the frontier of blockchain research. So typically, with databases, you have four functions, create, read, update, and delete blockchains only have really create and read, update and delete or things that you have to sort of emulate with blockchains. And so they're not yet suitable for all purposes. So that aspect of it's an unbelievable blog post is something that we're gonna have to figure out the right way around.
+
+Unknown Speaker  47:25  
+Right? Got being able to go back into the blockchain and change edit or something.
+
+Balaji Srinivasan  47:29  
+Yeah, there's ways you could sort of emulate with like log structuring and so on, but it's kind of a cutting edge problem right now.
+
+Unknown Speaker  47:34  
+And who should as a startup, when you're thinking about your startup, at what point should you consider an Ico? And then the second question I have is for people who are fund managers like myself or you previously, where are you are part time? Or Mark? Should we be thinking, if you have unlimited access to high quality LPs? Should you be thinking about taking crypto from random people and having a big open pool of capital and letting people trade it? You know, mid fund before? You know, dispersements? What's the upside? what's the downside? Should I do that? And then again, so for the fund manager for the venture side, Angel side, and then also for the other side founders? Yeah. How should we look at deciding if we should do Icos? Or not
+
+Balaji Srinivasan  48:17  
+a good question? So I would say as an individual, I only do crypto investments, except when it's a very close friend, or somebody I know extremely well, and they're still doing a conventional startup haha. Um, and, you know, that's not to say startups are over or whatever. But I do think that more and more stuff is going to go to crypto over time as regulatory and other kinds of issues are worked out. Because if all else being equal, if regulations are equal, if everything else is equal, you'd vastly prefer a token over the equivalent, you know, alternate finances because they're liquid, they're programmable, they've got all these you know, great properties. And so far, I know what liquid is, that means I can give it to you. So if we were both in entries in Horowitz, one which had slack in it, and I need to sure pay for a house in college and you are long the fund and Slack, I could sell you my position at a 20% discount, it just shifts over Andreessen Horowitz either
+
+Unknown Speaker  49:06  
+decides they want to approve it or not, they could actually do that, I guess. Yep. But the second thing you said was not about the programmable, programmable. What does that mean? Explain that to
+
+Balaji Srinivasan  49:14  
+the audience. So several things about that. So first is it means that you can actually run a crypto hedge fund where you can enter and exit positions programmatically, you can balance things and there's folks who are doing that, in fact, I think everything moves to be a crypto hedge fund by about 10 years. That is to say, right now you've got all these different sectors of finance, you've got like individual angels, and you've got VCs and then you've got your PE guys and then equity, private equity, right? pension funds, hedge funds. Exactly. And you've got these neutral funds mutual funds, right? And I think what happens is, with digital currency first you have a completely new player enter the system, who is the sub Angel, it is the kid in India with you know, 10 bucks saved up by some aetherium which is now possible to do right. Yep. Um, and second everybody basically whether you've got $10 or $10 million, or 100 million dollars, I mean, the intraday trading volume of Bitcoin today is like 1.8 billion, right? People do not understand how big that is that is at the same scale of Google, right? Like Google is like one and a half billion dollars, trades hands, you know, on a daily basis. So liquidity of these coins is already at the level of the largest public stocks, right. And so, because of that, I think, from the largest hedge fund to the smallest individual investor, it's all going to become crypto. Here's interesting statistics. So you see today, a while back, ran this study actually want to update the chart. But since Sarbanes Oxley, the number of public stocks has just been falling, because it's so hard to go public and many folks are just going private or exiting public stock markets that you've had, you know, the number of public stocks more than cut in half since since Starbucks, right? And so with one thing I've been doing is making a graph around later this year, the number of coins is going to pass into Republic stocks. Got it. Okay. Not in value, but in quantity and quantity. That's right. And and obviously non value because you know, 150 billion market cap is less than in markup one apple, right? Nevertheless, unfair comparisons are sometimes really interesting. Here's another one, coin market cap calm. I'm Adam Ludwin pointed this out has more traffic than wsj.com. Right. Okay, this random site, okay, has more traffic and seems like an unfair comparison until one remembers by two people by the Wall Street Journal in the past, it was to look at the prices of stocks, right? And then the information was kind of a sidelight of that, right? So now like coin market cap, you know, you can imagine they could build a really interesting site there, right? So I think all this stuff would happens over time, probably 10 years, lots of regulatory issues, lots of bubble type behavior, to be worked out. But eventually the internet becomes the world's biggest stock market. And I think if I was doing something today, right, if I was creating a fun today, definitely I just think all crypto because that's where the future is going to be.
+
+Unknown Speaker  51:39  
+So if I start a new fund, I make a crypto and then I let anybody buy it in the world.
+
+Balaji Srinivasan  51:47  
+let anybody buy Oh, you mean, launch a coin for your own crypto sale?
+
+Unknown Speaker  51:50  
+Yeah, I do. If I were to launch fund two, I can't say if I was or not, for obvious reasons. But if I were to do that, and I just said, it's gonna be a $50 million fund, and each coin is worth $1. Today, and anybody can go buy them, I wouldn't do that.
+
+Balaji Srinivasan  52:04  
+And here's why. It's just because I think whenever a new technology is coming out, you want to try to figure out, Okay, how can I use this to do something transformative, also minimizing my technical and legal risk, right? So for example, Netflix knew the internet was going to be a big deal, but they also knew streaming video was too early seeded mail order for a very long time before they made that transition. Right. And so what I would do is I would you know, if you have the connections to it, which you do, I would just raise a fund as normal from normal LPs have that part be something that's completely understood and locked down? And then go and invest in various kinds of coins? Because you're not capital constrained? Right, right. For somebody who is capital constrained? Yeah, then maybe they might do an IC o kind of thing, but they take on huge amounts of legal risk in doing that.
+
+Unknown Speaker  52:40  
+Got it. There is this Zug.
+
+Balaji Srinivasan  52:44  
+Yeah, in Switzerland, in Switzerland.
+
+Unknown Speaker  52:47  
+It's a real place. Yeah. And you can do whatever the heck you want with crypto there. I understand. It's like a loosey goosey kind of province where anything goes well, correct.
+
+Balaji Srinivasan  52:56  
+So I'm not sure they'd market themselves that way.
+
+Unknown Speaker  52:59  
+I think they say loosey goosey comparison.
+
+Balaji Srinivasan  53:01  
+Yeah, exactly. So so I think zuke so Zukin Switzerland is is based on like a Bond villain. Yeah, yeah. No. So that's where that's where a theorem got set up. Right. Right. And so because of that, it's become like the krypto Valley. Right. And so lots and lots of folks have set up Swiss foundation. You've been there. No.
+
+Unknown Speaker  53:18  
+Oh, are you going? No, not anytime soon. If you got let me know. Maybe we'll go Sure. Okay. I don't know what's there but
+
+Unknown Speaker  53:23  
+maybe we have ever gone through. Is there a therapy there? Is there like just like a pile of aetherium like,
+
+Unknown Speaker  53:29  
+just laying there like
+
+Balaji Srinivasan  53:30  
+that would be interesting. Yeah. Physically materializing.
+
+Unknown Speaker  53:32  
+Yeah, physically material. I mean, Minecraft or Susan,
+
+Balaji Srinivasan  53:34  
+Susan is a good place historically for banking and other types of Yeah, right. So it's not that unusual. It's not like that random a place for it to become, you know, kind of cutting edge on this stuff. Um, but, but yeah, there's now other centers are starting to open up in other places in the world, like, you know, Finland and Singapore and Estonia and so on, are all very pro crypto. Is Sony actually been wanting to try and do a cryptocurrency themselves? And like Mario Draghi of the ECB said, No, you can't do that as long as you're part of the Eurozone. So at some point, they might say moon, this is actually has more upside than being part of the Eurozone. So we'll see. You know, they did their e residency thing. They've got like millions of folks abroad who are effectively Estonian, honorary citizens of a kind of I was like one of the first of those temporary procedures and others were just kind of testing the systems on the goal. There's a million person country on the border with Russia. And if they can have millions of people around the world back them up and afresh invade them, then we can protest, right? So you're becoming you get a passport or citizenship. What do you get? It's, he said, so he resident, I should be more precise, it allows you to open a business and do business in Europe.
+
+Unknown Speaker  54:34  
+Got it yet, which is very useful. So basically, they're becoming like the Delaware Corporation headquarters and just saying, like, hey, do it for free here. It's all good.
+
+Balaji Srinivasan  54:41  
+That's right. So if you've got more residents, and you have citizens, and their export is basically their, you know, excellent rule of law in internet based systems for interfacing with Europe, you could imagine they might put a crypto aspect and that eventually, right, so there's folks there who've been thinking about that. This is Estonia.
+
+Unknown Speaker  54:55  
+Yeah. So Estonia will be the first crypto state.
+
+Balaji Srinivasan  54:58  
+I don't know. You know, like China. is actually doing extremely they're they're very ahead of the curve and they've been working on their own crypto coin for a while. In the government, the government Yeah,
+
+Unknown Speaker  55:07  
+so the renminbi will become a coin you then I don't
+
+Balaji Srinivasan  55:09  
+know. I do. Well, here's what I would say. I would say that what's happening now in China with blockchain and Bitcoin and so on, right, what is happening? What's happening? When they shut down? Right? Yeah, so for those who haven't followed every single, you know, like, blow of the blow by blow of it, um, they banned Icos, then they like, basically shut down all Bitcoin and crypto exchanges. And the rumor is that executives from those companies can't leave the country. And so thanks. Yeah, that's not great. Right. But yeah, but we, we believe, or at least I, you know, a lot of folks who have been watching it, think maybe the next shoe to drop is related to mining, that would be a big shock to the system, but not it Whoa, if they stopped mining, they could they could shop it, they could take it overnight,
+
+Unknown Speaker  55:53  
+60 70% of mining occur there. That's right. So there's people are stealing electricity from hydro dams. Is this an urban legend? Or is this true?
+
+Balaji Srinivasan  56:01  
+So I think it's maybe phrased more negatively than that. Because, you know, the thing with power generation on the electrical grid is you can't store power very easily, right? batteries aren't that good, right? So we're gonna, it has to be blown off basically blown off. Exactly. So what happens is, peak power consumption is typically like 12, noon, and then minimum power consumption at like 4am or 5am, right. And during that period, you need to maintain enough power generation for peak. So often what people will do, it will spin a waterwheel or otherwise throw off that excess power. So in China, they've done a lot of deals with basically what are called Bitcoin batteries, where, essentially, it's better to store that as digital currency by mining than it is to store it as energy because you just can't store that much
+
+Unknown Speaker  56:42  
+energy, right? And it burns off. It's like steam off of a pot of boiling water. That's
+
+Balaji Srinivasan  56:45  
+right. So capturing something that otherwise would have been lost for a while, if you looked at the Chinese blocks. They were disproportionately mined late at night in China time, because they were using like, kind of spare power. Who's doing that,
+
+Unknown Speaker  56:55  
+though, is that the government that we we have no way of knowing.
+
+Balaji Srinivasan  56:59  
+Yeah, I mean, I know some of the folks involved, you know, but basically, they're just extremely competent hardware and data center engineers over there who are running large data centers, and they can do deals that people in the United States can't, because the power companies are more open to it.
+
+Unknown Speaker  57:11  
+Was that a mistake with Bitcoin to put in this whole macaco? Like, we have to burn all this electricity and, you know, carbon dioxide into the planet? Like, should they just have like, just issued them like other cryptocurrencies as opposed to mining it? No, I think mining is actually super important. But it's bad for the environment, isn't it? Well,
+
+Balaji Srinivasan  57:29  
+so. So what a lot of people do is they'll say, okay, you know, Bitcoin consumes this much power, but look at visa PayPal, and they can do much less right. But I don't think that's actually the right comparison, the right comparison is how much power does Bitcoin consume? And how much power does like the government of the United States consume? Right? Because what Bitcoin is, and what blockchain is, more generally, is its rule of law as a service, right? Even in two lawless places like Venezuela, you can parachute in a predictable system of property rights begins with Bitcoin for money, and then with aetherium, for smart contracts and so on. And over time, what that means is rule of law is a service anywhere, there's a smartphone. So what you're really doing is you're doing something where, you know, the blockchain is to the Constitution as a constitution is to UK common law. with common law, you had this sort of informal formalism within the UK, based on precedent, then you got that formalized with the Constitution in the US. And now we go to the next step of smart contracts, and blockchain was kind of like the next step.
+
+Unknown Speaker  58:19  
+So a country that's run by a Mickey Mouse dictator who might flip the currency around, you know, at well, depending on what's happening or manipulated. Those people get to join a different country's constitution by buying aetherium and buying Bitcoin, they just basically opt out of that country's constitution.
+
+Balaji Srinivasan  58:37  
+That's right. So like, because that's already happening in Venezuela, right? That's already happening in places that are not respecting the rule of law. Now, those folks have an exit,
+
+Unknown Speaker  58:44  
+right to have an alternative. And we're seeing that in the statistics, the number of wallets in Venezuela, the number of coins being Yeah,
+
+Balaji Srinivasan  58:50  
+and it's, it's, I mean, like, you know, it's one of those things where, probably five years from now, every year, it gets better and better the infrastructure. I don't know that there was a large Venezuelan Bitcoin exchange there, one of the biggest things that's going to be developed or decentralized exchanges, where you only need an internet connection in order to earn it. And then I think stuff that hopefully, like what we're doing, where folks can just do labor to digital currency will also be a big thing, where even if you don't have capital, well, anybody in the world can pick up a phone anywhere, there's phones, there's a job, right? So over the next, you know, 510 years, we're going to make it more and more and more accessible so that anybody in the world can kind of opt out and just get this digital currency.
+
+Unknown Speaker  59:23  
+What is your gut tell you will happen here in the United States? And how do you rate our regulatory organizations in their management of crypto to date? I actually
+
+Balaji Srinivasan  59:34  
+think they've, they've exceeded expectations so far. And with the exception of maybe New York state, in 2013, people, you know, thought that the use kromer is gonna take a very, you know, potentially negative attitude towards crypto. And a lot of technologists, a lot of VCs and so on, went and talked to folks who were institutional. And the reason is because VC is the interface between disruption and institution, right in the sense of you speak to the guy in the garage and you also speak to a large pension fund. Right. So you're kind of a trusted interlocutor between both sides, right? And so as such, you could go to them and you could, you know, credibly represent that this blockchain things Bitcoin thing could be a big deal. Let's not kill innovation in the crib, could be a big deal for FinTech. Fortunately, that worked. And for the most part, the government really stayed their hand from 2013 to 2017. On insofar as our regulations, it was like somewhat annoying stuff, but it wasn't like in Super Bowl, the industry did not die by any means it in fact, grew quite a bit, right. Recently with the SEC is document, I actually kind of take my hat off to them, because they did a few things. First is they definitely got to be in the technology. If you read the documents or the sophisticated paper, there's at least some people there
+
+Unknown Speaker  1:00:39  
+resist the doubt document a document. That's
+
+Balaji Srinivasan  1:00:40  
+right. So this is like came out like a couple of months ago, sophisticated paper. And you know, they're familiar with either scan their conversion with the whole shebang, which is impressive. So that's kind of number one. And then number two is they said either was a currency, and they said, you know, effectively, not all tokens are securities. So they're not banned the nascent industry, right? And they've made pretty positive noise about blockchain, other types of stuff, and so on. So it looks like they're actually taking a fairly enlightened attitude towards it. And let's hope that that continues.
+
+Unknown Speaker  1:01:08  
+When you look at the landscape here in Silicon Valley, and you talk about, hey, capital is going to be sort of uncoupled from Silicon Valley. What do you think happens to this incredible Silicon Valley infrastructure that has created the greatest companies of our lifetime? Or in the history of humanity? It's literally going to just not be competitive. Is that? Do you actually believe that that all of a sudden, the next Facebook the next Google's the next apples and Airbnb, Uber's, and lifts are all going to be just funded by random crypto, Ico sales, and it's
+
+Balaji Srinivasan  1:01:47  
+already have anywhere? It's already happening? I mean, like aetherium did not have a really a center in SF. And you know, what's the next Facebook next subrosa theorem? Right. And that was in Brooklyn, in Berlin, it didn't really have any presence here. And, you know, I think, like, one of the big differences with blockchain as opposed to say something like mobile, right, mobile was extremely top down was Apple and Google, right. So is instantly credible, right, like Android, the iPhone, everyone had PR teams, and they obviously had great tech teams and so on. So super, super top down, the blockchain begin bottoms up in the most bottoms up fashion possible as synonymous post on a message board forum. Right? No reputation, no credibility, only pure technical credibility. So it took a while for it to rise. And yet, even now, only eight years into it, our Facebook and Google and Amazon and so on. Looking at it, Microsoft of the Big Five is the one that is kind of the most ahead of the curve on blockchain. They've been doing it with azura, and so on. And that's because Satya is hungry. And Microsoft's the hungriest of them
+
+Unknown Speaker  1:02:38  
+yeah, waiting, but when you're behind you take risk.
+
+Balaji Srinivasan  1:02:41  
+That's right and actually set the you know, as a sidelight deserves amazing even before his book, he just incredible credit for turning around Microsoft very, very hard to do.
+
+Unknown Speaker  1:02:48  
+Well, I mean, just the nature of being able to say, we're gonna put office on Apple phones and Android phones, and all of a sudden, you look and it's like, outlook is in the top 10 apps. Yeah. And you're like, Oh, well, this could have been that way for the last five years. If the bomber would have just allowed it to happen.
+
+Balaji Srinivasan  1:03:05  
+I don't I don't, you know, it's hard to run a large company, and you know, like all Krejci bomber. And since he grew enterprise profits, the amazing thing to me was set the I didn't just open up Microsoft on those dimensions, because it would have been easy to do that and then see profits drop, right. He also increased profits, like yeah, you know, the monthly subscription. It's so cheap.
+
+Unknown Speaker  1:03:24  
+Yeah, exactly. And Adobe, right? Like, they just figured it out.
+
+Balaji Srinivasan  1:03:26  
+Exactly. So suddenly, all their products is amazing how his leadership, everything became like competitive office 365, stop losing accounts to Google Apps. And you know, their their code, push stuff is actually when the best way is to get stuff on to, you know, iOS, and it's like, it's just really amazing that one guy could just transform so much stuff. Anyway, he just deserves a lot more credit than he gets, I think.
+
+Unknown Speaker  1:03:46  
+Let's just do a little lightning round here. Before we get into a couple questions. Which of the fangs or top five internet companies will be the largest in 10 years? which one has the brightest future? Amazon, apple? Google, Facebook? I think
+
+Balaji Srinivasan  1:04:01  
+Google is. That's an interesting one. So take me through your thinking. And then let's come to an answer of who's going to be the big winner. Well, okay, so the thing that I think about the two things, I think are the biggest risks for Facebook, Apple, Google Amazon, I wouldn't put Netflix in there. I mean, it's great
+
+Unknown Speaker  1:04:18  
+to put Microsoft in there.
+
+Balaji Srinivasan  1:04:19  
+Yeah, Microsoft. Right. So. So I think the biggest two risk factors for them, and obviously, I've got a biased point of view, you know, what have you, but our regulation and decentralization. Right. Okay. And the reason is, they've gotten very politically unpopular recently on both left and right. Probably Google has lost, I don't know, 20 or 30 points of popularity in the last like, a couple of months alone with various episodes. And that popularity is not coming back, in my view. Because at a certain point, when you get big and powerful enough, you're gonna piss a lot of people off basically, no matter what you do, ya and forced into really, you know, polarizing situations. Plus they've got lots of money, and that always makes them a juicy political target. So I think so those two things interact regulation in DC Because their presence in the United States is something where I mean, these are global companies, which operate all over the world and have employees frankly, from all over the world, right? Like, that's one of the things most people don't understand is Silicon Valley. And technology is majority minority. It's majority immigrant. Right? Most of the folks are overseas, right? And majority of revenue is overseas. Yeah. So when you start thinking about it from that perspective, like, the cash register is not an American cash, right, exactly. Yes, I say it's a multi continent cash, right. It's a multi content cash register, right. And for different ones of them to break down looks different. But all them while they start in the US are really very much global entities. So because of that, there's been, I think, a tension between, okay, our customers are mostly overseas, our revenues, mostly overseas, our employees are mostly immigrants. We're headquartered in the US, but probably, you know, most of our employees are actually made based around the world depends on some of them, like Mountain View, and you know, the Menlo Park campus, they're pretty big. But, so now they're going to be kind of forced into this thing are the American companies or the global kind of entities, and all the stuff they set up with foreign corporations, all this stuff, I think is going to become under, you know, siege or the next three or four years, because they've just lost too many popularity points, I think. And I think that's a threat for them. And then alongside that is decentralization, where a lot of network effects can be broken. Now of these, you know, the ones that are like how to rank order them, and all of them have just really difficult to penetrate positions, I would actually say Facebook is probably the most vulnerable of them. Because Amazon and you know, Apple have large hardware manufacturing divisions and Google has, well, Facebook also has large data centers, but Facebook is probably the most vulnerable, because I think you can break network effects with, you know, tokenisation
+
+Unknown Speaker  1:06:40  
+Yeah, um, I think, and we've seen that people just kind of get tired of social networks and move to the next one. Yeah, people are a bit transient in them, and they seem to also be generational. Right. You know, there's like a Facebook generation versus a snap Instagram generation.
+
+Balaji Srinivasan  1:06:54  
+Yeah, I'd say, I'd say Amazon is probably maybe the hardest one to displace because of just the sheer scale of their physical manufacturing.
+
+Unknown Speaker  1:07:02  
+Um, and they have so much upside left to cabinet manufacturing. But yeah, that would, well, in some cases, they are sometimes on exam, they're in the candle, right? I mean, they're buying a lot of factories, from what I understand. Right, buying
+
+Balaji Srinivasan  1:07:13  
+physical plant, I'll put it like that physical plant.
+
+Unknown Speaker  1:07:15  
+Yeah. And they're just so small, such a small percentage of their market, whereas Facebook is such a large percentage of their market.
+
+Balaji Srinivasan  1:07:23  
+Yeah. So I probably rank order them in terms of difficulty of disrupting Amazon first, apple, second, Google third, Facebook, fourth,
+
+Unknown Speaker  1:07:29  
+that's exactly my water. Yeah, yeah.
+
+Balaji Srinivasan  1:07:30  
+Yeah. But, but I'm not saying they're going away. They're going to be huge companies for a long period of time. But I do think that they're going to be facing these twin threats, which are hits from that are very hard for them to counter because they're very bigness leads to people aligning against them on the policy side. And then also on the technology side, from decentralization, like the reason to go and build a decentralized social network, or to build a, you know, a decentralized exchange, or, you know, a decentralized marketplace is because it's not one of the big guys, right? And so, you know, why do you build a decentralized Domain Name System? So Google can't yank your domain, right? Like that kind of thing? Right? So anyway, that's why I think it's sort of like the Microsoft situation in the late 90s, where they're going to be put into no win situations. And winning is losing.
+
+Unknown Speaker  1:08:14  
+Okay. This has been amazing. Let's take two questions, one from the chat room. Ashley, you there and then we'll run a microphone over to my friend over here. We would like a crisp question. Please refrain from a commercial for your product or service. If somebody does everybody knows the rules of This Week in Startups, if somebody does a commercial Vail does a question. Everybody groan? Ah, we could practice that. Okay, so with that disclaimer, a crisp question, please.
+
+Unknown Speaker  1:08:48  
+gardein I'm the CEO of omniva. My question is, has either of you invested in a woman of color?
+
+Balaji Srinivasan  1:08:54  
+Yeah, definitely.
+
+Unknown Speaker  1:08:57  
+Let me think.
+
+Unknown Speaker  1:09:00  
+Would you count Indian or Asian in?
+
+Unknown Speaker  1:09:04  
+color? We I don't know if we have a black founder and the poor, black female founder in the portfolio, but we have black men in the in the in the portfolio. So yes, black men, but I don't think we have a black female founder yet. But I have a feeling you have a great company and then we'll talk after. Okay, congratulations. I, I thought I remembered you from somewhere. Yes. What are your thoughts generally on diversity in technology? Is it getting better? Do you feel it's getting better? We're obviously very focused on it as an industry, it feels to me like I'm seeing a lot more diversity in the early stage. What are your thoughts on progress? Obviously, there's a ways to go, but is it getting better,
+
+Balaji Srinivasan  1:09:47  
+as well. So if you take like a global view, I think that I'm very excited about technology getting to places like Nigeria, India, South America, Vietnam, places that were basically poor through the entire 20th century. And that have a lot of talent now. So stuff like what Mark Zuckerberg did with investing in andela in Nigeria, I think is really interesting. And so what I'm excited about is really from a global perspective, tapping all this untapped talent.
+
+Unknown Speaker  1:10:12  
+Great. Let's take a question from the chat room first, so we can make sure that people who are on the live stream gets some play. Go ahead, Ashley.
+
+Unknown Speaker  1:10:20  
+From Eamon, what is the future of Icos? Will they be replaced by fork from core blockchains? for specific use cases? example B, cash or eth?
+
+Unknown Speaker  1:10:31  
+Okay, I don't speak French. Who can you translate that for the rest of us who
+
+Balaji Srinivasan  1:10:34  
+don't speak crypto? Sure, sure. So, um, what? There's there's different ways that you can create a new coin. One of them is what she just talked about, or what that question mentioned, which is, do you fork an existing blockchain? And basically airdrop coins on every existing holder of that chain? Or do you create a new coin? And I'd say, frankly, it depends on the situation. So forking existing coin, for example, the Bitcoin Bitcoin cash fork meant that everybody who was part of who held coins in Bitcoin before also got coins in Bitcoin cash, it was sort of like a stock split, right? And, you know, whereas an Ico is, you're generating coins for a completely new purpose, right? So I think that forking of existing coins will probably coincide with forking of developer groups, like what happened with a theorem and theorem classic, or with Bitcoin and Bitcoin cash. There may be coins and tokens that build in some percentage of their token base as an airdrop so that let's say 5% of your tokens are awarded to all Bitcoin or aetherium holders, you know, by presenting their credentials, and they get the coins back. But I think there are two different tools to be used for different situations.
+
+Unknown Speaker  1:11:38  
+Great. So let's take a question in the room. I don't know where the microphone is. But I see five hands going up. So what we'll get like maybe five questions. So
+
+Unknown Speaker  1:11:46  
+this is a two part question for both of you. We effectively seeing seed rounds become bridge loans in the sense that safes are never converting because of product and utility tokens? And does that bode well for the employee option pool? saying that there's no precedent set for token companies being acquired or any exit scenario
+
+Unknown Speaker  1:12:10  
+yet? Okay, great, complex question.
+
+Balaji Srinivasan  1:12:13  
+Well, so what I think about that, so I think the interface between what I call the coin table and the cap table is something which, you know, the industry is still figuring out, um, yeah, probably a good way of doing it is as follows. Um, so let the coin table refer to the set of all coins. And let's say that your company has X percent, let's just say it's like, you know, 25% of the coins. One useful way to think about it, something I've seen in some documents, is imagine that 25%, effectively hovering over the existing equity waterfall, and then you have a board of directors vote or shareholders vote to liquidate that. And then that goes as cash through the waterfall, right. And that's a way that you can kind of take all the existing agreements that you have within the company, all the investor relationships, and you know, liquidation preferences, and whatever, and honor that while still creating this kind of new token, so you basically take 25% of the coins that you're going to sell, and just pass them through to your shareholders pro rata? Yeah. Or on a percentage basis, basically, as if it was an exit, right? So let's say that 20% 5% of coins is worth, you know, like $100 million. That's as if it was 100 million dollar. So there's 100 million shares, and we own 10 million shares as co founders, we each get $10 million coins with a couple we'd have a cat we have a tax event. Well, right, exactly. So there's a couple of caveats. Right So the first is that there's a different chain of distribution the liquidation like distribution is you just distribute those coins at their current, you know, value out right. So we have in our wallets, but we haven't sold them. So there's no tax. Yeah, that's right. And hopefully no tax, and it also doesn't crash the price. Right, right. Because some folks believe there's still future upside and they want to hold on to it right? Whereas liquidation is you actually go and dump some or all those coins on the market. And that certainly if done in an expert weigh can tank the price, right. Yeah. So that's kind of one aspect distribution, proliferation. Second is something that doesn't occur in typical, you know, VC backed companies, which is a partial exit, right? You can choose Okay, if you got 25% Let's go and distribute 5% today at this valuation right, clear out the liquidation preferences, Reverend still hold 20%. Right, on. And the third thing is to agree on exactly how that spot price is determined, is actually something you want to put in the contract beforehand. Because it can actually mean a very big difference if it's five or $10, lower, right? Because like our area consulting, Coinbase, consulting, coin, market caps, price, whatever, that service better be up on the date of, because it's a it's like the difference between Oh, 17 and a half cents a share versus 16 and a half, it can make or break a deal sometimes. So it's an important kind of thing. So you know, I'm not saying those are best practices, I'm saying those are emerging things that I've seen ways to interface the coin table with the with the captain.
+
+Unknown Speaker  1:14:45  
+Yeah. And I've had this come up a couple of times in discussions and I said, just make sure that you don't put yourself in the position that the coins become worth so much money that the they fall below much below what the equities were Worth and the people who gave you cash feel like idiots. And, you know for giving you money to start the company like Vinnie Lingam and his company civic has raised 30 million in the coin. And, you know, how does that relate to the people who gave him venture money, etc. So it's definitely a new area we're in on notes, convertible notes. What's nice about a convertible note with a date is that the founders and the investors have to sit down and say, do we extend this note for a year? Or do we convert it now at a certain cap or another valuation, and it's kind of a forcing function. What I don't like about the way some safes are structured is I've seen safes where people sell, you know, one person at 6,000,001 person at 7 million another person at 10 million to the person at 12 million, they don't know they pay different prices, they all bought within the same 90 days. And then they all convert, at some point, people get the cap table, and they're like, What just happened? And a lot of bad feelings. And what if you convert automatically at a price and sometimes people put their safes design this way, we're going to convert no matter what, at a $10 million valuation in 24 months, whatever the company is worth 6 million at that point in time, well, then you're screwing your investors by converting them at 10. And then taking other investors at six. And you just to be careful that you don't get this adversarial relationship. And I feel like the safe note was created, in some ways as being adversarial and anti governance. And what we've seen is bad governance kills companies. So a lot of the companies I've seen die, have had a lack of governance and said, I wish I had a board. I wish I had a lead investor who cared enough about the company that when we hit the wall, we could have done something, right. So this idea that it's cool to have no governance, I see a counter trend, which is, it's cool to have board meetings, it's cool to have minutes, it's cool to price around. Because with VCs looking for more disciplined founders, when they see, oh, here's four board decks. And here's four sets of meeting minutes. And here's the resolutions. And we know the share price. And we don't have to convert and have all those bad feelings of seven different convertible notes that happened over two years. It's just really messy. So there's a lot it's one thing when there's one convertible note or two. But when you start getting to these, like, you know, half dozen, or I mean, you've probably seen this Yeah. And then all of a sudden, the founders, like I own how much like the fret, that there's a lot of shock on these cap tables when people figure out how much they own. I mean,
+
+Balaji Srinivasan  1:17:20  
+also, typically, I mean, the cap on the convertible is basically kind of the price on the round. If you haven't exceeded that, then it's kind of like oh, well, you know, even in HIPAA, we wanted to hit. Yeah, um, I would agree with 95%. What you said in the sense that I agree structure is good. I agree. regular board meetings are good. I agree. Engage investors are good plans are good plans are good, pretty
+
+Unknown Speaker  1:17:38  
+good, right? trying to hit targets. Yeah,
+
+Balaji Srinivasan  1:17:40  
+all this stuff is excellent and unnecessary. Because a startup is a very unstructured thing and imposing some structure on it is handy, especially for folks who have been through the trenches. I would say, however, that a founder has a sense of what they want to do, should not for the sake of it, give up veto control over the big decision. So for sure he does that. That's my only caveat.
+
+Unknown Speaker  1:17:57  
+Yeah, I mean, losing control of your company. Not a great thing to do, right? So you want to keep control of your company. But it's also quite nice to sit down quarterly and say, what are we doing here? And actually having your team say, you know, every 60 days, we meet with the investors, it would be nice, it's a nice device for our founder to be able to go to the team and say, I had a board meeting for insight calm this morning. It's like, three weeks ago, we're like, what is this board deck going to look like? And are the numbers up into the right and do we need to kick ass in these last, you know, six weeks or four weeks before the board meeting, it creates a sense of creates a sense of urgency, when you go into the halls of Sequoia or Andreessen and you got to face the music and say, Hey, do we hit our plan or not? and present a plan and have people with 20 or 30 years experience say, I've seen this movie before when we did Netscape, when we did this other cloud company, like, they can really have great signaling. So it's cool to have governance, I think. Okay, let's see who's got the animals. Can we take one more from the? Do we have any more questions online? Right here? Okay, hold on one sec. Do have more questions online or No? Okay, let's take the quiz. We'll go online for one. And then we'll go live this way when people feel like it's, but you're not stressed. We're gonna get your Dory. I see you.
+
+Unknown Speaker  1:19:11  
+Or pronounce it right. Yes, yes, yeah. Okay.
+
+Unknown Speaker  1:19:15  
+What is the best way to incorporate tokens into my syndicate? A majority come from my real estate. I'm assuming LPs with non tech backgrounds. They trust me. I want to include new tech without overwhelming them.
+
+Unknown Speaker  1:19:29  
+I'm completely confused by that question. Do you
+
+Balaji Srinivasan  1:19:31  
+really understand it? I'm sorry,
+
+Unknown Speaker  1:19:33  
+I heard syndicates and tokens in the same thing, so I don't get it. All right.
+
+Unknown Speaker  1:19:39  
+We will try one more time. Good. Let's try one more time.
+
+Unknown Speaker  1:19:43  
+How about what is the best way to incorporate tokens into my syndicate? Okay, does that make sense?
+
+Unknown Speaker  1:19:49  
+Sort of, I guess you could have a angellist syndicate with tokens. And then people would be able to then trade it I think navall has token list
+
+Balaji Srinivasan  1:19:59  
+coin list is coin. Yeah,
+
+Unknown Speaker  1:20:00  
+which is going to do let you do coin offerings. But I don't think there'll be syndicates. Exactly. I
+
+Balaji Srinivasan  1:20:08  
+mean, the thing is, there's two different ways of doing it, you can have a coin that folks buy into, and that's your capital for your syndicate, which is what you were discussing before. Possibly, yep. And there's also your syndicate invest in coins, I would certainly not recommend combining the two because you just got so many stakeholders and stuff in complexity. I think, you know, investing in coins as an individual or as part of a syndicate is definitely a reasonable thing to do in 2017. I would say like doing an Ico to raise capital is something weird, only do it if you really want to do it. And there's a law firm and so on backing you and recognize there's risk associated with it.
+
+Unknown Speaker  1:20:43  
+Okay, now we'll take a question from the room.
+
+Unknown Speaker  1:20:46  
+Good. Sounds good. Um, so
+
+Unknown Speaker  1:20:48  
+blockchain, you can say your name and your company. By the way, we'll consider that part of our promotion.
+
+Unknown Speaker  1:20:53  
+Devin Elliot, founder of unilateralis, which launched that LAUNCH Festival in 2015 2015. Yeah.
+
+Unknown Speaker  1:21:01  
+Great. Fantastic.
+
+Unknown Speaker  1:21:04  
+So blog, which, by the way, your idea became the subject of Silicon Valley's last season. So you had the crazy idea to have a peer to peer network on mobile phones? Yes. Which is exactly what Pied Piper belt. What was it like to see your idea from the launch stage in 2015? Become the arc of Silicon Valley in the TV show on HBO in 2017? I think
+
+Unknown Speaker  1:21:25  
+that was a rough first night. I didn't want to watch it. I just feel did quite a few texts. Yeah. kind of settled into it. Those prayers, anything actually. Okay. It's literally the same thing. Yeah, I actually wanted to ask you Did we did we actually just pitch one of the writers at your event,
+
+Unknown Speaker  1:21:42  
+or what the writers of Silicon Valley have been to the event, my poker game, and I've talked to them on the phone, but I never said you're not supposed to be the great story arc of story. So it's possible they saw it. But anyway, you created a distributed network on mobile phones. Yes. You basically made a second internet on mobile phones. Yeah. But anyway, go ahead and tell us your question. So wonderful diversion.
+
+Unknown Speaker  1:22:06  
+One event? Yeah. Thank you. Well, so so blockchain is just part of a technical stack, new technical stack of protocols, right. And it alone doesn't impart all of the things that are needed to run on decentralized on trusted hardware. as investors, are you guys engaging any more technical? Due Diligence for any of these companies?
+
+Balaji Srinivasan  1:22:33  
+Yeah, so well, so I, I, PhD in w from Stanford, and taught CS and stats there. So I usually like to read the source code myself. Um, but you're absolutely right, that, you know, it's not just the blockchain, you know, you have to look at every aspect of you know, what they're what they're doing. But the blockchain is a new primitive that allows you to monetize this protocol. So that's kind of why we brought it up. But I think you are right, that, you know, the broader point that technical diligence actually, is something which is critical in the space, and it almost kind of replaces not deal flow. Exactly. It sounds like there's there will be people who will see certain coins early, but many of the skills of VCs, like, oh, I've got proprietary deal flow are going to become less and less important. And the ability to go in and be like, okay, line 47 over here. Why is you know, this company using ternary, rather than binary, you know, like a company might know of, that's like a really weird design choice. And, you know, why does their main dot cpp have 5000 lines of code rather than being factored properly? All those kinds of things, you'd actually now want to have at least somebody in your team prior to investing, who has read the source code and who can give some kind of, you know, attempt at, you know, trying to build it and look at it.
+
+Unknown Speaker  1:23:45  
+And I look in the eyes of the founder, and I look at their product and craftsmanship. And I figure out if I think they're going to quit or not. So I use my degree in poker. It's also actually very important from Stanford, from the money I took from Stanford students playing poker. I take that and then I decided what, who to invest in? That's my diligence.
+
+Balaji Srinivasan  1:24:07  
+I should also say I'm not a degree snob. We hired lots of folks. I've hired many folks without High School degrees. Do you play soccer? I play poker. I haven't tried. Really? Yeah. Do you have money? I have some.
+
+Unknown Speaker  1:24:18  
+Okay, great. That's a good. That's all you need. All right. I'll teach you. I'll teach you. All right. Do we have time for one more question? All right, who's got I don't know who's got the microphone. I don't think they're gonna let me take another question. Let me take one more, Jackie. All right. It's got to be a lightning question.
+
+Unknown Speaker  1:24:34  
+All right. So um, two minor from Accenture ventures. So I had a question. I think it was pretty inevitable that sec would kind of step in with Icos. What is the best case and the worst case for that? I mean, are they going to try to recreate the stock market are they get to really look at the power of what ICS can bring something new?
+
+Balaji Srinivasan  1:24:52  
+I think the best case is if they take I mean, you have to sort of judge a revenue By its fruits, right, and so the blockchain industry today is at roughly 100 40 billion total. If in four years, it's at like, you know, three, you know, three or 4 trillion, which is quite possible given its rate of growth, then the SEC did a good job. In terms of specifics, I think probably the best thing that could be done in the best case is, there's a very obvious set of things you have to do to make sure your thing is not a security. Right. There's a bright line test and the howey test is starting to get there maybe. But the
+
+Unknown Speaker  1:25:27  
+bright line test is because I don't I've never heard that.
+
+Balaji Srinivasan  1:25:30  
+Oh, well, like so a bright line test in general would basically be okay, if you do X, you're on this side if you do not actually are on that.
+
+Unknown Speaker  1:25:37  
+Okay. So it's exactly what you say. Yeah. Yeah, that's a bright line. It's a bright line. It's clear. You're one or the other. Yeah, that's okay. Okay, so colloquialism. Well, it's not an actual test. It's a colloquial,
+
+Balaji Srinivasan  1:25:47  
+it is something that lawyers will often say, okay, bright line test. Yeah. So, so, basically, like, the howey test is something that SEC has said determines what is a security. But then what that is, what the howey test is, yeah, sure. So this actually goes back to 1946 70 years ago, there's a case involving orange groves, where people essentially came up with a set of three points, that determines whether something is or is not a security, it's like an investment of capital in a mutual enterprise, where other people are working to make money for you, right. And if one of those three points is not there, then your thing doesn't pass the howey test. And if it doesn't pass howey test, it may not be a security. But ideally, we'd have a test on the other side where if you pass this other tests, then you're definitely not a security. And so for example, a house appreciates in value, it has utility, but it's not a security, a domain name, appreciates value has utility, it's not a security. So one of the best things a C could do is figure out a safe harbor, where if you do X, Y, and Z, then you're safe. Right? They'll reduce everybody's legal costs. The alternative is that there's another country that does figure out that safe harbor earlier, and for example, is always impressive for the CIO. In the UK, they came up with this FinTech regulatory sandbox, right, where it allows companies to get to market earlier like the next stripe, without having to get all these banking licenses and so on. And that was an invasion that threatened to pull us companies over there. So actually, the US to its credit has actually responded with its own OCC type charter, so you don't have to get 50 state money, transmitter licenses, and so on. So if there is some jurisdiction that says, hey, we're open for business, you can do a token launch in our jurisdiction, that business, that country, if it markets itself properly, worldwide, will have a real shot at the next Wall Street, right? Yeah. And so so that's the alternative. If the SEC doesn't do it properly, then there'll be another country that here's another worst case scenario. people invest money, they lose it,
+
+Unknown Speaker  1:27:38  
+they still have a lot of money left, and they sue the people who lost their money, whether they were right or wrong. And whether they check the box that they knew that they were taking risk, because as we've learned, people can sue at any time for anything, and they have could have no merit to their claims. If the SEC sees a bunch of people, or a bunch of state attorney generals who are looking to put a notch on their belt, see a bunch of people take down 20 or $30 million commissions, like say, tezos, did, takes a bit took a 20 million Commission on their 200 million raised and put a bunch into a nonprofit, if that project were to go belly up. And if everybody who put the money and still thought, still check the box that they understood, this was risky, and they're just investing in a white paper, and that they had all their eyes dotted all their T's crossed, they could be in litigation forever. And then State Attorney Generals could litigate you and regulate you and just break your chops until you cannot stand it anymore. And you settle. So that's the other reality is I call this the fair and fair use in the Fair Use statutes. Like there's a whole series of tests for something fair use and editorial. And so we would go through this with the magazine all the time. What percentage of the work do we use? Are we confusing the public? etc? Are we infringing on the other person's ability to do commerce? Is there an educational or analytical reason for doing this? There's a whole test you can go through. And what I would just tell my team is, will the other person feel it was unfair, our use? In other words, forget the law. Do people feel it was fair? And if the artist doesn't feel it was fair, and the person the original content owner, expect a lawsuit, potentially. And I think that's what's going to happen here is if people just like on Kickstarter, if they don't get their product, or the product comes so late, and it's so bad, they might sue. And I think that's what's gonna happen with these Icos is. If the product never makes it to market, which some number won't, you're gonna start to see people Sue if those people Sue and there's no money to recover. Then Attorney General's might get involved and say, Where did the money go? And I think that's what happened with the Dow. Right. They were like what exactly happened here?
+
+Balaji Srinivasan  1:29:47  
+Well, yeah, so let me jump in every second. So but I think Tesla's is actually a reputable project.
+
+Unknown Speaker  1:29:53  
+Oh, I had her on the show. I think she I think it is reputable. What my point is, if it fails, which startups fail, we've already failed. It fails which is the likely scenario for startups. Sure. So in the likely case that tezos is like other startups and fails, when it does fail, will people say they took $20 million and don't deserve it?
+
+Balaji Srinivasan  1:30:11  
+Well, yeah. So so. Okay. But I think that, in general, you know, success has 1000 fathers failure is an orphan. Right? Right. And wrecked. Right. So everybody is genius when the market is going up, and so on. And very few people have the guts to make it through a bear market. Yep. And you and I have both in different ways gone through that. Yeah. And every time Yeah, exactly. And so that's something we're actually the folks who can make it through that and at least escaped with their shirt or even make a profit are the folks who you want to bet on time? And again, right, that's kind of at the individual entrepreneur level, at the regulatory level. You're absolutely right. that failure is often criminalized, right, where essentially, there's a retroactive lens that is applied. And everything that was seen in rose colored glasses or a positive way before is now seen in a very harsh and negative way, like the options, backdating stuff in the mid 2000s. where, you know, people are just looking for something to pin on these calm people. Yeah. And it turned out to be options backdating and we're very fortunate that Steve Jobs was not caught by that. Because like, you know, there was there's attempts to get him involved in that whole morass. So you're right, absolutely, that retroactively, things can turn very sour. Um, and you know, my my advice on that would just be to paper up everything you can legally and try to minimize the amount of legal risk you're taking that, you know, sometimes you have to take legal risk, and then just, you know, hope here, here's a
+
+Unknown Speaker  1:31:25  
+corollary example, for you. Seven years ago, my friend navall says, Hey, I'm doing this thing, check it out. And I fire off my syndicate, I get a bunch of members, a bunch of people invest. And I said, and then a bunch people said, You're crazy for taking other people's money when you're investing in Calm, calm, a meditation app, like this is ridiculous. You're gonna get sued by the members of your syndicate. And I said, Okay, and I wrote long disclaimers every time to the uncredited investors, these are accredited investors, they're smart. And I just said, I am running the trench run syndicate, like Star Wars, where Luke Skywalker hits one in a million in the trench run. That's how I invest my money. If you are not willing to go to the Deathstar and blow it up by hitting a one in a million shot, do not come with me on this journey. And that I just explained, you should have massive diversification. And if I was telling my mom the percentage that she should invest in angel investments, it'd be somewhere between one and 5% of total net worth, if you and I would invest it in at least 20, different 30 different names. And I would expect to lose all of it. So I literally put this in blog posts in the top of the offerings, just over and over again. And based on inside knowledge I have in the history of Angelus, there's never been a lawsuit. There's been one person who got upset and tried to sue because she felt she lost her money on one deal, and it wound up not even going to court. So if you are very, very, very very, very upfront with the risks, and people have to click through over and over again, this is where having great counsel and being massive, Lee, conservative, it's important, but I'll tell you what's really scaring me every time I go on. Instagram, I see ads for reg D offerings for companies that we all passed on investing in in Silicon Valley and didn't make it down Santo road without getting laughed out of the room. And then I see them on equity crowdfunding sites, and I see them saying last chance to get your shares in the next flying car revolution bullshit. And I'm like, these people are advertising equities on CNBC and Instagram. here's a here's a tip pro tip. If you have to buy advertising to get investors, your company is horrible and should not exist. Period. Because all you have to do is walk up and down Sand Hill Road or go on angellist and get a syndicate to raise money. If you need to advertise a security. What does that say about the value of the security if you need to buy ads on television to get people to buy it says to me, it's a fucking screaming Scam. what do you think? Am I crazy? What do you think of that? So I think that's,
+
+Balaji Srinivasan  1:34:09  
+I think it's the ultimate tell. I think it's probably too strong. And here's why it is. I would certainly agree that for folks who have the network who have the social connections, who can get the meeting on sand hill, who can get the meeting in San Francisco, definitely go and do that. Right? If you have access to capital through the social network, as many folks you know, in NSF and Stanford and what have you do then definitely use that that's a lowest risk thing. But there's many folks who don't have that, right. And there's folks who are meritorious and they're in the middle of nowhere. And maybe they've got a good business and they've got capital and you just take them rather than saying all the time to build up all this connections in the years of work or what have you. They'd like to just say, Okay, look, I've got an amazing business. Let me push a button, etc. Right. Now, you know, the the whole reason that we can't put up ads for securities is because the 1934 Act Right, right, which was prohibited general solicitation, right? That act is like 80 something years old. And sec did modify it with the JOBS Act to permit a, you know, certainly watered down form of quasi general solicitation for equity crowdfunding of up to a million dollars. Yeah. And Kickstarter, for example, does show that well, it's not equity crowdfunding is just crowdfunding, that certainly there are meritorious projects, which did not have the connections from backers who did put up something online that did create wealth for people, and they did take a risk on
+
+Unknown Speaker  1:35:25  
+it. I think it's a good counter argument. I guess for me, if I knew that a bunch of VCs passed on it, and that they did have access to Sand Hill Road and then advertised to civilians. As the last line of resort. That's the group I'm talking about. Yeah, it's which is a different case. So you're talking about hey, I, I'm a nobody from right now. Boise, Idaho and and I have the greatest idea for the next gadget. And I just need somebody I didn't gadget or whoever to see it. So I'm going to buy some ads.
+
+Balaji Srinivasan  1:35:52  
+Yeah, that sounds fine to me. Yeah. And even taking it one step further. I think the next step after the dorm room startup is a developing world startup, because now we have all these smartphones that are out there, there's hundreds of millions, billions, for sure. Right, you now have internet connections, and now they can have access to capital. And all we need is an internet connection to get that to them. So that's the kind of thing that I'm thinking about, not the folks who already have connections and so on. It's the folks who are their only connection is internet connection, we can now finance them. So that's kind of my mindset on this.
+
+Unknown Speaker  1:36:18  
+Yeah, it does seem say say in Ratatouille, like, not everybody can be a great chef, but a great chef can come from anywhere. Yeah, exactly. Exactly. I think that's like what applies exactly here, which is like, not everybody can be a great entrepreneur, but a great entrepreneur can come from anywhere, right? And I mean, if we look at the history of Silicon Valley, the number of outsiders greatly outweighs the number of insiders. In fact, there were no insiders. Until, I don't know, I don't
+
+Balaji Srinivasan  1:36:44  
+think many berry entrepreneurs are born in the Bay Area.
+
+Unknown Speaker  1:36:46  
+Yeah. I mean, who think about it, like, What's the name? The venture capital dynasty? Tim Draper? That's it. Who else has like, two or three generations of investors?
+
+Balaji Srinivasan  1:36:59  
+I can't think of too many eggs. There's only one. Who else?
+
+Unknown Speaker  1:37:03  
+No, no, I'm talking about like, your kids. Ron Conway would be the other one. He had. And in both of those cases, Tim Draper's kids and Ron Khan raise kids work absurdly hard. I know both of those. And they have great deal flow, and they're putting their heart and soul into it. So it's out of 10,000 investors here, I think maybe like, less than 25 parents were investors.
+
+Balaji Srinivasan  1:37:24  
+Yeah, it's my guess. And we've got so many new folks and faces but we should take some more questions maybe or
+
+Unknown Speaker  1:37:30  
+we have to finish right Jackie? Okay. Okay, we've got an hour and a half. All right, everybody. This has been another amazing episode of This Week in Startups Special thanks to our host Wilson Sonsini.
+
+Unknown Speaker  1:37:42  
+And Emmy Award winning producer Jackie
+
+Unknown Speaker  1:37:46  
+and managing partner Luke who gets the bills paid.
+
+Unknown Speaker  1:37:52  
+And we'll see you all next time on This Week in Startups. Bye bye.
+
+Transcribed by https://otter.ai

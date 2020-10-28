@@ -1,0 +1,157 @@
+Unknown Speaker  0:00  
+So the last time I saw you, you onstage at TechCrunch Disrupt in San Francisco right here. I think so the company you on stage then was earned.com. Right? Yep. And now here we are. And you're Coinbase? Yes. How did that happen?
+
+Balaji Srinivasan  0:19  
+Coinbase bought earn calm.
+
+Unknown Speaker  0:20  
+Oh, that's it. That's a pretty good answer. Okay. Okay, that was a very quick What, what? So So? So can you tell us a bit more like, what was the sort of price? What's the sort of purpose? Like, what how did that deal sort of come to be?
+
+Balaji Srinivasan  0:32  
+Sure. Yeah. So I've known Brian for a long time,
+
+Unknown Speaker  0:37  
+please is the CEO of Coinbase CEO,
+
+Balaji Srinivasan  0:39  
+Brian Armstrong, this year is a long time since it was just Brian and Fred like, basically in a non executive dorm room, but a small apartment thing on on in San Francisco, and been talking to him for a while on, I had taken over the predecessor to earn a company called 21, in mid 2015, turned it around. And after a long series of events turned into earn, which actually got to about a 10 million run rate in gmv, prior to selling to Coinbase. And I think the reason that we sold many reasons, but one of the biggest is earned is one of the first things I think is providing like utility for crypto, because you can pay people to reply to emails. And that's something where when married with Coinbase, has large user base could be like a big deal.
+
+Unknown Speaker  1:26  
+I know. So they went to the gate. You right?
+
+Balaji Srinivasan  1:28  
+Sure. I think so. Right?
+
+Unknown Speaker  1:30  
+I mean, that's pretty much what you what you read, if you read stories other than TechCrunch, there are other media out there. And they said, you know that one of the things they really wanted, and I guess you know, having been a company that's been around for some time has built like a good user base, but they've always had issues kind of kind of kind of talent wise, right? Finding the right people. Right. So I guess they wanted you to come in and be an NBA CTO, too, right?
+
+Balaji Srinivasan  1:54  
+Sure. I mean, like, you know, Kobe says a lot of talented folks, that's how they got to where they are. I'm glad to contribute to that how I can.
+
+Unknown Speaker  2:01  
+Okay, great. So let's talk about what what you do as the as the CTO.
+
+Balaji Srinivasan  2:06  
+So yeah, there's a bit both like kind of an external aspect and internal aspect, the external aspect is, you know, what we're doing here, like just giving talks and stuff like that. We're gonna try and write up a bunch of content and put that out there as well. I think you know, one thing about blockchain is the educational aspect. Obviously, there's no K through 12 on blockchain, right? There's almost no, you know, undergraduate education, there's some graduate education, even that is not really structured. And yet, it's going to become this huge thing that is revolutionizing the entire financial system. So we look at it as part of our role is develop educational content relate to blockchain and deliver it in a bunch of different venues, at conferences, via blogs, all the tough stuff. So let's, let's call that one part of the job. And the second part of the job is the internal role, which is to, you know, drive the future of technological
+
+Unknown Speaker  2:52  
+change occurs. So that the future of Coinbase so an economist is an incredible company, right? You guys? I mean, I guess you probably the biggest, the biggest exchange outlet that does that does fit right to to, to crypto. But I mean, talking to people who've been in, in in crypto for some time, right? They get a bit frustrated, because you guys only offer like a certain number of tokens, is it what four or five at this point? Right? Like, you've got like a theorem Bitcoin and, and some others, right. But it's mainly the big sort of sort of sort of names, right. And so I guess, people that I've been talking to kind of curious, like, like, what kind of tech are you guys doing? Because compared to others, that are sort of out there? You guys have sort of taken a more a more
+
+Unknown Speaker  3:35  
+cautious route, perhaps. Right?
+
+Balaji Srinivasan  3:37  
+Yeah. So a few few thoughts on that. So one is, it's, it's hard to do something and make it easy and to do it at large scale and keep it secure, and so on and so forth. That that simple, you know, buy bitcoin or buy Litecoin? or what have you button on actually, there's a lot of stuff happening under the hood and the complexity of it, you know, you have all these different banking services, you're integrating with all that type of stuff is happening. So let's call that one part of it. Um, the second part of it is, you know, a good way to think about Coinbase is we are the interface. So if if, you know, you folks are familiar with the mullet, right, you know, the mall is a haircut, which is business in the front parties back,
+
+Unknown Speaker  4:12  
+not allowed to throw you guys off. That's what we are. Hey, wow, let's hear it here. So,
+
+Balaji Srinivasan  4:17  
+yeah, so the cornice is a mullet in the sense of we interface with banks and regulators and governments. So you know, we have to have like an orderly kind of thing here. And then there's the whole crypto space, right? And so it's like this ultimate mullet business. And so we have to maintain good relationships with both sides. We need to maintain our licensure, we need to maintain our banking relationships and we need to brief you know, politicians and law enforcement and so on all those kinds of things. But we also of course, need to remain abreast of developments in in cryptocurrency and blockchain and what have you. So there's a balancing act where you can err too much on one side or the other. And you know, in a sentence like our goal is to like mainstream cryptocurrency to mainstream blockchain to build in the long term and open financial system and that requires Kind of maintaining good relationships with both sides. What that means is that we will probably never be the earliest adopter of a technology, but we will be early adopters. So, you know, Steve Jobs had this good line about, you know, trying to get technologies that are in their spring, right. And what that means is, you don't try to take a technology right at inception, but you let it develop for a while. And when it's in its adolescence, when it's still got 50 years of life in front of it, and a lot of growth in front of it, then you adopt it, then you you know, bake it in, and so on. And so that's kind of how we look at it, we take those technologies that have proven themselves a bit, and we integrate them with the mainstream, then we bring it to our huge user base. Okay, so what are the kind of what's the type that you see out there now that you think that you guys can actually use? So we've actually, you know, we've talked about a few of these actually. So, stuff we've announced. So, you know, obviously, the urn integration, we announced that, yeah, and we're gonna be integrating that with our user base. And you know, paid email is something you do at large scale, we announced a paradex acquisition. So those are the decentralized, you know, exchange slash related that we acquired a while back. And we announced that we also have, you know, certain obvious kind of products that are filling holes, but that are very important, like Coinbase custody, which we just announced. And so that fills a big hole for folks who want to store large amounts of different kinds of cryptocurrencies. We got a broker dealer license recently, and we announced that, and that actually is really interesting, because it allows us to bring some of the benefits of blockchain to traditional equities markets, potentially, in the long run, for example, 24, seven, trading and chain of custody, and you know, all that type of stuff, fast settlement, all those kinds of things, you might be able to eventually launch and bring them to traditional equities markets. So those are the kinds of things that we're thinking about working on.
+
+Unknown Speaker  6:39  
+What about, you know, other kinds of kinds of tokens? Oh, yeah, definitely. Yeah. See? 20
+
+Balaji Srinivasan  6:44  
+Yeah, so So A while back we announced you know, that we're gonna transport many more ERC 20 tokens. And also like, about a month ago, we announced we're supporting, etc. A theorem classic. Yeah, look for a lot of announcements over the, you know, months to come on, can't talk about anything specific,
+
+Unknown Speaker  7:00  
+you see, might have more to add, by the end of the year, like like six, seven, I N can't say stay
+
+Balaji Srinivasan  7:06  
+tuned, subscribe to
+
+Unknown Speaker  7:08  
+this one. That's such a such a tease. But it's been How do you so how do you keep those those relationships that you're talking about earlier? Like with government? You know, all those guys? And also do those those other kinds of tokens? Because it seems like at the moment, even those those tokens aren't quite sure about their own, you know, position, right? Are you seeing lots of lots of Icos where they don't do North America, right? Because they're just a bit a bit unsure. Right? So how do you take those projects that even even themselves? They're not they're not sure. and put them into into your, into your exchange?
+
+Balaji Srinivasan  7:41  
+So we published a digital asset evaluation framework last November, which is this huge PDF with all these different signals, in fact,
+
+Unknown Speaker  7:49  
+white paper for
+
+Balaji Srinivasan  7:50  
+Yeah, a white paper, white papers, exactly. It's like the most metal paper. So you can, you know, download a PDF and look at it, and we've got all these different factors, and we weighed them against each other. And, you know, one thing that's like an invariant that we won't be, you know, flexible on, you know, Quimby's is always going to be compliant with local law. Right. But local law varies, you know, there's, you know, like, almost 200 countries in the world, depending on how you count, and they have highly varying attitudes towards blockchain and cryptocurrencies and tokens and so on. Bitcoin alone, in some countries, it's commodity in other countries, its currency in still other countries is property and so on in the US has kind of all those simultaneously, depending on which agency you talk to. And so we we want to be totally comply with local law, but recognize that there's a lot of variants and diversity out there, and then, you know, seek to to use that as necessary.
+
+Unknown Speaker  8:40  
+So basically, stuff that's, that's, that's legally like, kind of looking Okay, for us might might pass through,
+
+Balaji Srinivasan  8:47  
+right? Yeah. Well, it depends. I mean, if it's, you know, if there's a country that's given us the green light, there's no reason we shouldn't be
+
+Unknown Speaker  8:53  
+able to, I'm just curious, like, on when you're picking tokens, is it? Is it like a number of people like a selection committee? Or is that like one single person? How does that?
+
+Balaji Srinivasan  9:02  
+How does that happen? I sure I can talk about we're playing our Digital Asset Framework. But, you know, we might be able to publish more details on it. Because
+
+Unknown Speaker  9:09  
+just I mean, because I've noticed, like, you know, the benefit if you cases, and I guess even like when you guys did, etc, right? And you haven't even even listed it. Yeah, and the price already went up, right? Yeah, there's obviously like, a lot of responsibility behind that. Right. So you guys, right? As I'm just kind of curious, like, whether there's like a team of two people in, in an office somewhere that's looking through white papers, or if it's like a committee of people, or if it's just you, or
+
+Balaji Srinivasan  9:35  
+it's not just me,
+
+Unknown Speaker  9:36  
+not just our okay.
+
+Balaji Srinivasan  9:39  
+But, you know, we want to actually try to make it as much of an algorithm as possible over time. And the reason is an algorithm is predictable, and it's, you know, easy to, to evaluate and reproduce the results and so on and so forth. And that's a gradual process.
+
+Unknown Speaker  9:54  
+So that sounds like more than six tokens by the end end of the year, then if it's an algorithm and the work of Yeah,
+
+Balaji Srinivasan  10:00  
+sure. Well, so, you know, if you include you know, we did announce that we're going to add a bunch of ERC 20 tokens, so yeah, but just not that, once again, I've actually I'm just curious. Okay. Okay, that's fine. That's fine. So what about your your own personal personal background? Because I know you've been somebody in, in your sort of space has been very, very, very, very vocal about Bitcoin and about, you know, blockchain and other things. How did you first get into it? What was the first moment that you? First of all, I got into it? Um, I think so, you know, I had been thinking about, you know, what is the nature of money since the financial crisis and all the, you know, money printing and mortgage backed securities and so on. And I've been looking, if you google fed space m zero, spacecraft, there's a graph that you can see, you know, which, which was from Fred, the Federal Reserve, I forget what the acronym stands for, is basically their data repository, you can see the basically, you know, US monetary policy was kind of consistent, you know, consistent small level of inflation until 2008, when it just takes us vertical kind of thing like this, where a huge amount of money is printed. And I looked at that for the longest time and like, you know, how do you short this, because it was this disjunctive change in monetary policy. And so as looking at that in 2009, and 2010, you know, I, like, you know, personally, you know, bought gold and, or whatever, then I came across, you know, the Bitcoin white paper. I thought, wow, this is really interesting, and technologically, you know, really novel. And then, you know, will it actually work in practice? And the reason that I really started to believe this thing had legs was after 2011 when there was a bubble, and it went up, and it came down, but it didn't go to zero, right, it like kind of stabilized and then kept coming back up when definitely what Tom All right. Well, so, right, around that time is basically I was like, Okay, this is gonna, this is gonna stick around, it's got legs. It's not, it's not just gonna go zero. And that was kind of a, you know, a Biddle year bu ideal year 2012. And we have these, you know, kind of bubble crash build kind of phases in crypto, we're in like the third or the forefront of how you count. And that's kind of when I started really get involved.
+
+Unknown Speaker  12:10  
+Because the I ended the first time I met you told me that you'd, you'd been in the back of Uber. Oh, yeah. And you were onboarding the Uber guys into Coinbase. And you're giving them like, a donation? Yeah. Right. Well, it turns out that, that that audience it Yeah,
+
+Balaji Srinivasan  12:23  
+interesting. So Well, I mean, like, I figured that Uber drivers talk to a lot of people, like maybe dozens, if not hundreds in a day. So for a long time, what I used to do is ask Uber drivers, hey, if you set up a Coinbase account, I will tip you like $10 a Bitcoin, you know, right on the spot at the end of the ride. And I figured, okay, if I do that, you know, 1000 times, that is like an investment in the community. And obviously, it's a tip for that driver, right? Yeah. And he learns about something or she learns about something. And so I consider that
+
+Unknown Speaker  12:50  
+like, money well spent. So you are onboarding people way before you even joined?
+
+Balaji Srinivasan  12:53  
+Yeah, that's right.
+
+Unknown Speaker  12:54  
+Yeah. And I guess like, if it was 10 bucks, then what's it going to be now? Oh, thousand or something?
+
+Balaji Srinivasan  13:00  
+I don't know. I mean, if they hold it,
+
+Unknown Speaker  13:03  
+but so so what what do you say the moment? So what what I mean, obviously, crypto at the moment, as you as you said, like later, there's there's ups and downs, right? At the moment, it seems like we're kind of on a down obviously, the price has got very, very high end of last year, early this year. And now it's sort of it sort of created a bit and it hasn't really gone up yet. Yeah. What's just just have taken on the moment that we're at now.
+
+Balaji Srinivasan  13:22  
+Well, it's funny, you know, there's a person who recently joined Coinbase. And he tweeted a little while ago, he's like, you know, his favorite thing is now every time when he wakes up in the morning, his wife turns up and says, What happened to the bitcoins yesterday? Why are they down? You know, so it's kind of kind of like that, right? But I think, you know, VCs have this concept of something has to grow into the valuation, right? Like, you'll sometimes invest in a company or, you know, startup based on its potential, and you'll set a valuation, which is probably ahead of what can be justified based on the raw numbers, but then that company grows into its valuation over time, right. So, you know, for example, stripe has done that wonderfully, like, you know, it's raised at really high valuations. But then the next round, it's grown into it, and it just keeps doing that. And I think, you know, crypto is sort of like that, where it has these huge bubble, you know, phases, and then it goes down for a while for two years sometimes, and then builds and builds. And I remember, I sent a message somebody in like, mid 2016 ish, and I remember saying, you know, like Bitcoin, the blockchain space is ahead of where the progress is ahead of the price. Right, like it was not it had been flat for the last X number of years, but the progress had been there. And I think once we feel that that progress is significantly ahead of the price that's you know, when I think it's likely to recur, but who knows it's
+
+Unknown Speaker  14:34  
+it What does that mean? That means like, like, you know, some of the stuff that we had we had earlier like sharding and Casper coming out right this stuff.
+
+Balaji Srinivasan  14:41  
+I mean, that's part of it, that's certainly infrastructural but I mean, I think utility, you know, real applications that people are actually using, you know, if we can, you know, knock on wood, if you can scale earn, like, you know, 10 or 100 X that, you know, start to maybe get there. That's just one contributor. There's, there's so many amazing projects that I'm seeing nothing. I'm very bullish on our theorem games. So the idea here is that your swords and your potions and your weapons or whatever in a game would actually be represented by ERC 721 base collectibles, and then you'd beat somebody in the game, well, you win their loot. And then that's actually sellable, right? or actual real money. And so, you know, parents around the world are rejoicing because their kid sitting in the basement is actually now making money online. You know, their Esports are actually revenue generating, you know, in a more direct way. Yeah. And I think that's going to take eSports which is already, you know, huge and growing and bigger than traditional sports by some measures, and just completely turbocharge it and you know, really get it to another level. So I'm bullish on like a theorem games. I'm bullish also on, you know, what blockchain is doing in terms of like core fundamentals, right. There's things that blockchain is obviously 10 x better on it is 10 x better than gold, you know, you can move Bitcoin faster, lighter, cheaper than gold, it is 10 x better than international wire transfers, like With aetherium, you can, you know, move money in 17 seconds, rather than, you know, two, three days like Swift, it's 10 x better than crowdfunding, which in 2015 was like 10 or $15 million, you could do crowdfunding, now you can do a billion dollars, or 100 billion dollars. It's 10. x better for, let's say, incorporation of a new company, because that usually takes two to three days in a new country. But you can do in fractions of a second with a smart contract. And it's better for something like wire transfers, in terms of receiving addresses because you can get a new bank account with a new receiving address in fractions of a second versus two, three days. So you combine all those taxes, like moving large amounts of money, sending money across borders, crowdfunding, incorporation, you know, new bank accounts, and you've improved like these fundamental primitives, right? And you made them programmable and automatable. And that's going to yield a bunch of dividends. Like I think a lot of FinTech companies are going to get blockchain ified over time, or new ones are going to rise, you know, affirm on the blockchain, PayPal, you know, blockchain, etc. So bullish about the medium term, but I think those things have to actually materialize and not just be hypothetical, and, you know, think fluent serotype things, but actually have to have real users and traction, and then you're going to see the thing really start picking up
+
+Unknown Speaker  16:58  
+again. And I'm just curious, like, so obviously, at the moment, you guys have very much like fear into into crypto. But do you see a time where you guys might offer other kinds of services to you know, obviously earners is one of the first ones, right? I mean, it might you bet there'd be like a coin base gains or other kinds of things. I think,
+
+Balaji Srinivasan  17:17  
+you know, we've got a lot to bite off of just crypto itself. And probably everything we do will have it dominating crypto component for a while, because the space is so large, expanding so rapidly. I mean, you can't keep up on the news. I mean, I remember back in, you know, 2012, or 2013, there's a time when you could have read every single Bitcoin article and every single, you know, newspaper, you know, piece and PDF or whatever. And now, you probably can't do that in one day. Quite a lot now. Yeah.
+
+Unknown Speaker  17:44  
+I try. Yeah. Well, so we're almost out of time. But I wanted to ask you about the the fun. So you guys are one of the number of companies in this blockchain, crypto space that has an actual farm. Can you talk us through like, how big it is, and and how you had to be, you know, out there using it.
+
+Balaji Srinivasan  18:02  
+So we're very active. I don't think we've disclosed fun size. But you know, you can you can say Matthew. But, you know, we write checks into, you know, all variety of companies, but especially things that are at the seed stage or early stage because we're interested in supporting just a blockchain ecosystem more broadly on and so there's some things you know, if it gives an immediate return, great. But there's other things that maybe would improve scaling, or privacy or security or performance or, or some other aspect, and we're happy to fund that kind of stuff. It's not all about what the company can give to you. It's about you know, growing up the whole
+
+Unknown Speaker  18:38  
+ecosystem, pie if you like the whole phrase, but
+
+Balaji Srinivasan  18:41  
+unfortunately, we're big enough to now start doing that kind of thing.
+
+Unknown Speaker  18:44  
+Yeah. Okay. Well, I mean, I've met so many questions, I'd love to ask you, but unfortunately, we're out of time. So thanks again for your time, much appreciated. Thanks.
+
+Transcribed by https://otter.ai

@@ -1,0 +1,652 @@
+Unknown Speaker  0:00  
+Howard Linson is the founder and general partner at social leverage. All opinions expressed by Howard and podcast guests are solely their own opinions and do not reflect the opinion of social leverage or stock twits. This podcast is for informational purposes only and should not be relied upon for decisions. Guests may maintain positions and securities discussed in this podcast.
+
+Unknown Speaker  0:29  
+Yo,
+
+Unknown Speaker  0:30  
+hey neitzke Hey, what up? Not much. I like that make them candidate ski
+
+Unknown Speaker  0:37  
+Canute ski. Yes, sir. We're in one of the better ones phone x, Arizona. Yep. today. And we have a very I don't know Balaji don't even know if I'm pronouncing his name. Right. But we are about to get our heads expanded. No. Tribal kind of boy. I got so many questions for Balaji. Seems like a lovely fellow. And much smarter than us. You may hang up partway through the call.
+
+Unknown Speaker  1:01  
+He may just get a question. Sorry. Sorry, I spy
+
+Unknown Speaker  1:03  
+my question. Let me just start by like giving some credentials. And I'm not going to pronounce his last name. I will let him pronounces NASA because I don't want to offend anybody because I can't even pronounce Smith half the time Srinivasan is my ruin spy bats for Navy son. All right. And now what do you think the background is?
+
+Unknown Speaker  1:22  
+I'm sure sounds maybe India.
+
+Unknown Speaker  1:25  
+It was just for you knuckleheads at home, taught bio informatics at Stanford. He's got us beat right there. Yeah. He's done papers and clinical microbial genomics. MIT, co founder CTO of a biotech company that sold for 370 5 million crypto, early adopter crypto partner at a 16 for a while, just great papers and lectures he does on YouTube, that I'll share some links to. And, you know, I don't follow, I didn't even know, you know, there's so much stuff going on on Twitter that he literally was warning people, much like to lab was back in February to get the fuck how serious this pandemic was, and was writing all kinds of, and he kind of has a biotech background and genomics background or big brain numerical background, and he was writing all these exponential metrics, how we weren't prepared, how the country was gonna shut down, if I had only just listened to him, and projected that to the markets. So I don't know if you really follow stock market. But like, if you follow Him, and are good at the stock market, that's a pretty good combination, I would say, so you got to make your own bets. But he has really covered the hell, whether you agree or disagree or think it's fake news or not. It's hard to argue with the with the content he's sharing. And I have a lot of questions for him. So we're just going to get him on the line. But I'm going to do first our sponsor sacrifi. Would you like yeah, great idea. And since he was a partner at a16z home know a lot about this. This episode with Balaji is brought to you by sec fi. It is the first pre wealth management platform for startup employees and shareholders. A lot of my listeners have stock options and startup shares that are just sitting and won't become liquid anytime soon. If you need help exercising stock options like this or getting cash against that stock, sec fi is the best option. If you're young and work for a rocket ship, you have a responsibility to take care of your pre wealth. Don't bury your head in the sand doing nothing with your equity, because that's the worst decision you can make. So whether you are looking to secure cash to exercise your options, diversify your assets, or buy your dream house, sec fi is here to ensure that your company's success also becomes yours. To find out more visit WWW dot sec fi that's sec f.com Let's get Balaji on the phone. Hello, Balaji Hey, how are you? Good. Good. Thanks. Thanks for taking the time. I know you don't do these interviews all the time. But I appreciate I've been stocking up and listening to a bunch of stuff and some of your blog posts and obviously been following you on Twitter for a long time. So thanks for taking some time here. Totally. Can you give people a little background of what you do today? I've shared I've shared before you got on there the background and stuff but what do you what are you working on today? pretty much full time.
+
+Unknown Speaker  4:25  
+Yeah, so um, I was a 70s could be an angel investor since leaving Coinbase last year, um, and I set up a journal called komodo.com in January. Then I put that on hold is basically going to be a monthly Journal of kind of like cryptocurrency magazine writing and it's still there and I'm gonna get back to it. But I put that on hold basically because in mid January the Coronavirus came on and I've kind of been like Time Coronavirus, citizen journalists for the last three or four months or so. And and I want to eventually merge the two things. But that's basically what I've been doing angel investing, tweeting and writing about Corona, also doing a bunch of stuff behind the scenes on Corona electron to help folks get prepared and so on. And then finally Nakamoto calm, which I'm going to reboot soon.
+
+Unknown Speaker  5:23  
+And is it? Is it what you is Corona? I mean, I live in Phoenix. So I'm having you know, it's been kind of surreal here because the weather has been good since you know, the lockdown happened here. And Arizona is kind of like an open state in many ways. You know, the trails, the golf course that are open trails are open, I mean, restaurants and stuff are closed, and everybody's kind of social distance. But there's so much landmass and there's not it's not a vertical state. And so it's kind of surreal here. You know, you were alerting you don't really follow the markets, per se. But if you follow you, I was saying that you have been like, all over early that what was going to happen, you know, a lot of people might have but I mean, there's some posts that I've retweeted, I went viral, they are already gone viral months ago, by 11. I retweeted him to my audience, and they went viral again. Because you know, people don't use Twitter, the way I use Twitter is not the way most financial people use Twitter, right? I don't care what your stock picks are, I just kind of want people who read a vast amount. And I'll pick up the signal throughout the noise, like I trust myself to try to pick up the signal. And the signal you are giving was like flaming signal that I probably wasn't paying attention to because I was too busy. Worried about other things. But what what set off your antenna in January?
+
+Unknown Speaker  6:47  
+Well, so I mean,
+
+Unknown Speaker  6:49  
+a few things. First, the the lockdown. I mean, I'd been kind of tracking this is just one of a bunch of news stories or whatever. And it was a lockdown of Wu Han, in I think January 23. That was a huge signal not just to me, but really to the whole world and to the Chinese people as well, that this was really serious, because the Chinese government doesn't usually do never has never seen anything like that. And it has given them how important economic growth is to them. And then I started, right, so that was that's a huge point.
+
+Unknown Speaker  7:23  
+It's so easy in hindsight, but yeah, good point. That's all they care about, is that top number.
+
+Unknown Speaker  7:28  
+Exactly. That's right. And that's that's literally the legitimacy of their entire country. Yeah, and, and so for this, to cause that to happen, this would have to be like a movie virus, right, or something at that level. And so then I started doing a couple of things. First, I read every scientific paper I could get my hands on, on and my background is in genomics and molecular diagnostics. So I have, you know, like some facility with literature, I don't think there's anybody who is an epidemiologist, and a pulmonologist and a cardiologist, and this hand of that there's, there's so many different specialties, you know, medical specialties, scientific specialties, that, that are at play here that you don't necessarily know all of them. But But I knew enough, you know, for example, to understand the bioinformatics of the viral sequences and look, look, the look of the papers, frankly. Um, and the second thing I did is I talked to a bunch of people on the ground in China, via Wechat, and other other systems, who are friends of mine investors and tech people, and so on over there to just get a sense of is this real, you know, because, you know, in tech, there's,
+
+Unknown Speaker  8:37  
+like, you don't want to be faked out? Yeah.
+
+Unknown Speaker  8:40  
+Yeah. Cuz, because here's the thing is, um, you can, you should look at your dashboards, we also need to talk to your customers. And it's a combination of both the quantitative and the qualitative. That By the way, you know, sort of skipping forward in time to the present moment, I think people are looking at the dashboards, you know, they're looking at lithology stats, or whatever, or unemployment sets, but they're not talking to customers, quote, unquote, they're not talking to the patients, right. And the survivors. And I think that, by the way, if you want to call the future, what I think the next shoe to drop is, is going to be a series of op eds, and viral blog posts by all the people like there's a million cases in the US, right, a bunch of those people are starting to recover. And yes, many of them, you know, most of them did not die, but many of them had the most severe illness they've ever had in their lives. And they're just starting to recover to the point they will write about it, tell their friends, etc. And, and the thing about this is, right now when I say that, that's in the realm of quote, anecdote, and people will say, oh, data is not you know, the plural of anecdote, and I agree with that. However, data begins with anecdote, very frequently. And what I mean by that is, you observe something About the world, you know, for example, penicillin famously was just observed in the corner of a petri dish, right? You, you observe something about the world, you hear some stories, something that pings your metal detector, you know, something that makes you think, you know, oh, hey, you might call, somebody might want to call a taxi on their phone, you have a thesis about the world. And then you go and you collect data to prove or disprove or, or, you know, sometimes third result, you neither of the two of that hypothesis. And so the specific experiments that I propose studies to do are number one, a survey of as many, you know, representative sample of all these COVID-19 confirmed cases, to find out a, what is their self reported severity relative to the common cold or the flu or what have you, and then B, and this is interesting, how much would they have paid to have been cured of COVID-19? If such a thing were possible? Okay. Now, you know, I'm jumping in kind of to the middle here. Let's keep going. So the reason that's like, really important, is, everybody is calling these cases, mild or moderate. Right. And, you know, I think it's going to be like, you know, moderate COVID-19 will be like the moderate Syrian rebels, you know, like, if you're familiar with that, right? Right. So the, and there's actually a good essay that came out of this by this anthropologist from the UK, which I RT, and it's just, it's just a number of folks who I know, in New York tech people, etc, very fit young people who, you know, in their 30s, and so on, who have just gotten like really knocked to the ground by this thing, you know, heart rate racing, all this type of stuff. There's enough that it pings by metal detectors. And here's, here's why those two numbers I'd like to get number one, how many people self report the thing as very severe, right, regardless of whether it's classified as mild or moderate, they may not have been hospitalized, they didn't die, because they're, they're around to tell the tale and be how much would they pay to not have it? Here's why that second number is particularly important. Everybody is trying to say, okay, you can bolt through this, um, you know, doesn't matter if you're not dead, you know, like, what doesn't, what doesn't kill you must be mild or moderate, as one person said, right. And, and, and yeah, sure, relative to death, anything can be called mild or moderate. Right? I mean, you know, you'd rather lose a limb than die, right? You know, like, anything can be called moderate relative to death. Uh, it's why kind of military, you know, a casualty, like, you know, serious injuries is not the same as dead, right? Okay, fine. However, relative to a cup of coffee, the most serious illness in your life is a lot worse than that.
+
+Unknown Speaker  12:44  
+And so a great way or I shouldn't say Great, let's say an important way of thinking about COVID-19 is uncontrolled COVID-19 is like a tax on every single physical transaction. Because your concert ticket now has the possibility of coming down with this serious illness, right? Your your cup of coffee might have some COVID with it, you know, etc. And, and so when you think about that, that is an inhibitor to a, you know, like, like, all kinds of economic activity, because, you know, yes, your job may be worth, you know, risking getting COVID-19 the cup of coffee isn't the trip to the store, or probably isn't, and so on and so forth. So that means is you get a demand side collapse for movie theaters, for restaurants for lunch. Yeah, yeah, exactly. And now that the counter arguments that this is, Well, look, you know, folks are back to work right now. And things are reopening. And they're crowded, and when I'm like, Okay, yeah, sure. Like, there's initial surge of sort of, you know, what people are calling revenge attending, right? Where they're like, Oh, you know, and, you know,
+
+Unknown Speaker  13:57  
+I survived the socket.
+
+Unknown Speaker  13:59  
+Yeah, I survived, right? Or this is, you know, this thing is, is just some, you know, like, some folks will actually go so far as call it a hoax or whatever. And, you know, the thing about this is, you need, I mean, it's an invisible thing, right? It's, this is not like 911, where, you know, you saw something blow up and people die. And it was completely nobody denied that that happened, right? Um, this is not like that. It's something where there is a lot of trust that you have to put into quote, experts or science or what have you to pursue this thing from a distance. Right. Like, and we haven't had to do that as a country in a long time. Right? Yeah, it's and unfortunately, of course, you know, these experts have also screwed up a lot of things. They said, Don't wear masks before they said wear masks. They said this wasn't going to be an important pandemic before it is. It's something where like, as a scientist as a VC and you as an investor, right? You know, we are what I call pre headline people. Do we were talking about this before, like pre and post seven
+
+Unknown Speaker  15:01  
+So what's like a narrative? Right? We're like pre we're trying to be ahead of the narrative to try and make a buck.
+
+Unknown Speaker  15:07  
+Even even worse. Yes. And even more precisely than that, I would call somebody a pre headline person, if they have known a true fact, before it was printed in the news. Okay? Why is that important? That means that those people are comfortable environment, let's say for free, I'll just give some examples, right? You signed a merger and acquisition deal. And it's going to be reported in the papers tomorrow, right? Or you're a scientific researcher, you publish something, and that's going to be reported tomorrow. Or, you know, like, you're a journalist, and you've got this hot scoop. And it's going to be reported tomorrow, right? In all of those cases, you're familiar as, as an investor, as a founder, as a researcher, as a journalist, we're familiar with the process of uncertainty that comes around developing new information, right? The deal might not get through, you know, the research paper may not get published, or might be, you know, like, have fun it right, the scoop may not pan out. And answer you're comfortable with that uncertainty, it being a pre headline person. And you also know that there are things that are true, that are not reporting the papers. And conversely, there are things that are not true that are reporting the papers, right? And you say that as someone who's a professional who's involved in the creation collection, dissemination of information, right, okay. Now, the problem is that everybody has to become a pre headline person, because the information being put out is so contradictory. It's not like this nice wrapped in a bow headline, right? Just
+
+Unknown Speaker  16:46  
+like in the 70s, we could just turn on the nightly news, and all three networks would kind of have the same part. They'd be talking, you know, 1970s, Walter, all those people would just be talking to patients, they wouldn't be listening, they would all take the time to just go talk to the patient, as they were in the hospital and get like they did a war, they would just go to the troops. And today, it's just everybody's taking everybody's where there's no new there's no three sources that are all telling you the same thing.
+
+Unknown Speaker  17:13  
+Yeah, and I think I think you know, you could even pick it farther back to 19. The 1950s. Right, that's what I call kind of peak centralization, where you had one telephone, one telephone company, right? So one telephone company, two super powers, three television stations.
+
+Unknown Speaker  17:29  
+Right? Like the sample. That's why everybody goes make America great. Again, life wasn't that horrible at peak centralization?
+
+Unknown Speaker  17:36  
+Well, so here's the thing. Let me give the argument for it. Let me give you an argument against it. Right.
+
+Unknown Speaker  17:41  
+I'm against it. But I mean, I get why they sell that now.
+
+Unknown Speaker  17:45  
+Yeah, yeah. So but there's interesting subtlety to it, which is, if you go forward and backward in time from 1950, you get more decentralized. Okay, so you go forward in time, and you hit a cable TV, and then you hit the internet. Right? On, and then you hit the commercialization of the internet. Okay, in 1981. And, and then we've got basically, yeah, exactly this, right, and you go backwards in time, and you go to 1890, and the frontier closed, right, you go further backwards, you get the robber barons, and you get the private banking era. And, you know, of course, you've also got, you know, the Spanish flu, other kinds of things. And there's you go backwards in time. And one of my mental models is that a lot of the things that happened from let's say, 1776 to 1950, are now happening again, in a kind of jumbled order, right? Because you go forward in time, and 1991, the internet frontier opens, where it is now possible to stick out a homestead of a domain name, and go and buy and sell things there and build whatever you want without anybody's permission, right, which is more similar to what the frontier was, right? And so you get the new tech entrepreneurs who are like the robber barons of old, you know, you can make that comparison. I'm building these gigantic fortunes, you know, changing, changing, you know, how we live all these awesome things. And, you know, I think it's awesome. Some people may not, but I think it's awesome. And then you've got, you know, like crypto, which is like the private banking era. And you've got now you know, like Spanish Flu kind of equivalent of 1918. So it's like this interesting Kaleidoscope where we're taking pieces of the past and like pre mixing them and having them anyway, it seems
+
+Unknown Speaker  19:24  
+like the markets pricing in what came after the Spanish Flu already without knowing the results, which is the roaring 20s is being squeezed into may 2012. It's interesting, because that's the playbook that a lot of smart people are just gravitating to, not you. I'm saying a lot of it's happening in the markets, right? Everybody's just projecting the 20s the roaring 20s in April of two to April May 2020. And I think I think people are gonna be sorely disappointed at some point, because the book is not the same.
+
+Unknown Speaker  19:55  
+Yeah, let me let me let me discuss that from two different standpoints. The first Is that, um, you know, look, obviously, the markets are real in the sense that prices are real. Prices are real, you can sell stock and get, you know, deposit to your bank account around. Right. Like, in that sense, it's real. Okay. In another very important sense, it's fake, because it's a these are indicators, which the state knows that people are paying attention to. And so like anything that you can possibly do to gain them, you know, and for example, the Fed talking about how it works. Right, all that type of stuff is kind of like, you know, Jerome Powell, saying he might purchase equities is sort of like, every company in the United States is up for m&a. Yeah. Right. And or on the NASDAQ or the nausea or whatever, right. And there's like 100 other kinds of games like this that are that are being
+
+Unknown Speaker  20:45  
+the ultimate game is China's playing the ultimate game like we're never gonna fudge the numbers and we'll hand broke that down. And us is still got all these weapons of gamesmanship to play, because, right, they never went to that top line. You know, Trump tried to Well, we're gonna get GDP at 4%. No one cared about that number. Right was just making it was just one of his floaters that didn't work. And power was playing the game. And whether Trump bullied him into doing he's playing the game better than anybody at least competence game he's playing.
+
+Unknown Speaker  21:14  
+Yeah, so I mean, like, the way I put it is, in tech, there's this concept of like, A and A star, okay. Um, it really tech people might think I'm talking about a star algorithm or trying something little different. So for example, let's say you're Google, right? Um, there is a indicator you want to optimize, like the quality of a webpage, call it a and what you do is you come up with a cheap proxy for that that's easy to measure, which is like the number of backlinks or the number and quality of backlinks, okay. And what happens is, once you put out that you are measuring the quality of a webpage by let's call it the number of backlinks, so it's not quite that simple. It's game
+
+Unknown Speaker  21:55  
+but
+
+Unknown Speaker  21:56  
+it gets gamed exactly, that's right.
+
+Unknown Speaker  21:58  
+No, we found this out on stock twits. As soon as we started sharing most active tickers it fucked everything up because everybody's gaming it. That's right.
+
+Unknown Speaker  22:05  
+And so one of the things I've been thinking a lot about the recent COVID stuff is our you know, our dashboards for society are wrong, rather than the stock market as you know, the expression of economic health of a country it should be something more like the histogram of net worth of all Americans and
+
+Unknown Speaker  22:24  
+right so the thing about that is good luck with that I'm not gonna backtrack because you'll be dead for that as well. So I like the long term stock exchange that you guys did it entries and I'm like all for it but not happening.
+
+Unknown Speaker  22:35  
+So you know why? I think actually, it might come sooner. All kinds of tech companies are becoming Kwazii banks.
+
+Unknown Speaker  22:41  
+They are they just have so much cash. They don't even fucking that estate was up to them. They report once a year. They almost are Basil's was like, Hey, I'll see you in a year. Yeah, yeah, exactly. That's what the stocks back above 2400. All the peasants got wiped out again. Well, guys, this is playing the long game. Hey, I mean, he knows how to talk to his audience.
+
+Unknown Speaker  23:00  
+He's actually like, you know, I'm very glad billionaires do exist. Because Bezos AND gates are allocate. I mean, the federal government printed $2 trillion, but it's not bioavailable capital, in the sense of journeymen by that if you heard the term bioavailable?
+
+Unknown Speaker  23:17  
+No, I can't spell genomic so just be careful. shook your hand made you laugh. See, that's what I do have that natural skill to make smart people, but keep going. So
+
+Unknown Speaker  23:30  
+you're very smart yourself. If I if I'm ever using any like term of jargon, or whatever, inadvertently, just let me know. Okay, so bioavailable in this, you know, what that refers to in in like, the pharmaceutical industry is, you give somebody a drug, but, you know, they ingest it, but it's actually hitting the cells, right? It's actually bioavailable, or is it being excreted? Somehow and, and the way Yeah, and it's not actually being seen, right. And, and often, you know, the gold standard for bioavailability is like injection like intravenous, right? And then everything else, like, you know, it, you know, eating it, you know, inhale,
+
+Unknown Speaker  24:10  
+whatever, doesn't work.
+
+Unknown Speaker  24:12  
+Exact or may not, right, and you compare to this, right, okay, fine. So in the same way, you can think about capital, and then bio available capital, right, these this $2 trillion thing that the US started offered,
+
+Unknown Speaker  24:24  
+right, I don't know how to do this thrown in, in the air
+
+Unknown Speaker  24:28  
+going in here. I mean, how much of that was actually allocated towards tests, you know, drugs, vaccines, prizes, you know, actually put on target to track the virus in zero.
+
+Unknown Speaker  24:41  
+It's easier. It's sad how close to zero it was.
+
+Unknown Speaker  24:44  
+I'll give I'll give like way hard
+
+Unknown Speaker  24:46  
+to be that bad at it. It's
+
+Unknown Speaker  24:49  
+actually that bad.
+
+Unknown Speaker  24:52  
+Yeah, it's it's one of these things where it's political rather than on individual allocation of resources. And when it's political allocation, you know, you get a car and you get a car and you get a car. But seemingly nobody gets a mask. Right? And, and so the the thing about that bill, I'm sure there was something in there. So there's something in there for hospitals and whatnot, but just give you a concrete example. Around the time that bill came out, I tweeted something about how Medicare Okay, so do you know, you know, the CBT systems, you know, how like prices in the US work for
+
+Unknown Speaker  25:26  
+nothing? Just keep rambling? I'll interrupt.
+
+Unknown Speaker  25:28  
+Sure. So, um, basically, the US has kind of like a Soviet healthcare system. It's like a bizarre combination of communism and capitalism, the worst of both worlds. Okay. But the Soviet aspect of it is, you have essentially a central agency that develops these things called CPT codes, along with a certain associated payment codes for Medicare. Okay, so the AMA develops, you know, the current procedural terminology, CPT codes on and, and Medicare gives reimbursement numbers on. Okay. And essentially, the reimbursements for COVID-19. Testing, it was like $51, and 31 cents per test. Okay. The issue is that private insurers go and they take Medicare's guidelines for what to pay. And even though it's not binding, it's highly correlated with what private insurers will end up paying for that test as well. Okay. So so you essentially have a federal government agency setting prices for for the entire country's medical testing, right? And ever medical procedures of any kind, right? Here's the issue $51 and 31 cents, doesn't cover the, you know, like the cost of mailing a kit, for example. If you're doing if you're doing mail or testing, it doesn't cover like a lot of logistics, and, you know, of all the things you want it to economize on, what instead you wanted to do is get every single lab in the country that could possibly test turning their stuff over to testing. And so if you'd made it $400 a test or $500 a test, right? It would have, like, not cost very much more, for example, just to do the math, right. Let's say you wanted to go to 10 million tests, you know, in a month, right? Like I forgot things number we're at now, but it was like a thing was like a few hundred thousand tests a day. Actually, let me let me get the number 40 COVID. Tracking com are covered charts. Calm has it. Basically, the point is, even though I look up the number, whatever you're paying for those tests is going to be borscht by $2 trillion. Right? Yeah. So okay, here we are new tests per day. Okay, so we're finally at all right, 400,000 tests per day. Okay. So if you want, like, a million tests per day, right, and you pay, you know, 500 bucks a test, what is $5 million? Seems like, Well, no. So here's the thing, million tests a day, if I run tests, that's $5 million times, um, you know, 30 days, right? That's, like 15 billion a month versus 2 trillion, like, a million a million tests a day starts to get you to the, it's like less than 1% of what is being incinerated. We just thought, why didn't
+
+Unknown Speaker  28:18  
+they wanted? I mean, I don't even want to get into the politics of it. It's just because they didn't want to do the math, or they just didn't want to just do the hard thing? Or is it just the stock? It matters? So many things? Probably the stock market throws a lot, staring at the markets all day they freaked out?
+
+Unknown Speaker  28:33  
+Yeah, well, I think that's part of it. I think the fundamental issue is that our political and media class doesn't have enough scientists and engineers. And so because of that, they think of everything as a political problem. Um, and, for example, like all of the discussion around Corona, in, you know, March and April, and frankly, even today, is, you know, is this new, the Great Depression and so on and so forth? Right? Is it is it like the financial crisis, because that's those are the analogies that people can come back to, right. But the the thing about this is, this is fundamentally a physical event, a biological event, and downstream of it, is the economic event and the political event, right? But it's sort of like this thing floating in the air and it's passing a shadow down to the xy plane, right. And people are trying to judge it based on the xy plane shadow, but it's actually up over here. And, and just to give you a sense of why, you know, thinking analogizing it to the, you know, to the financial crisis is totally wrong. This is closer to the first successful invasion of the United States of America in modern times. Right. That is actually a better analogy
+
+Unknown Speaker  29:49  
+without we don't even know who invaded us. So even worse, we don't know.
+
+Unknown Speaker  29:55  
+Oh, yes. Yeah, by virus in the sense of like, you know, a normal a human invader. Wright would not be able to cross the Atlantic in the Pacific or get past all the aircraft carriers and the Marines and the nuclear missiles and all that type of stuff, right? But it turned out that the entire US military, as awesome as it is against those kinds of threats was basically a Maginot Line against the source code to virus, right, perfect.
+
+Unknown Speaker  30:25  
+So knowing that I was trying to simplify my life by saying, okay, I've simplified this. So people ask me, I go, when you're going to do stuff, I said, I'm not doing anything. I don't care what my governor or mayor says, I already have a I'm already survived. Sure, I'm playing a game. And I'm lucky to be playing the game. I'm gonna play the game as best as I can play the game by reading people like you listening to the news when I was trying to limit that. But the news overall, the following smart people, I decided to listen, I'll travel when Andreessen Balaji, Fred Wilson, Chris Dixon, and other people say they can that when I see them traveling all at 45 days. And then that's me, like, I don't have to beat them. I don't have to beat them at a deal and travel somewhere to get a deal. Right. Like as an investor, you know, I just have pulled up my, you know, my knickers and said, Okay, well, let me do what I usually do. I'm, I'm a pilot fish. They're the great white shark. So I'll wait to get signal from the great white sharks.
+
+Unknown Speaker  31:23  
+Well, look, I mean, like your,
+
+Unknown Speaker  31:26  
+does that make any sense? You could I'm waiting for you to do something. Like, no, everybody asked me a question. I go, here's the people. I follow it when I see them on a plane, oh, at 45 days, and go, it's probably semi safe.
+
+Unknown Speaker  31:37  
+Okay, well, so that's, I mean, it's interesting. It's, it's not it's totally unreasonable strategy in this. But um, you know, I'd say a couple of things is the reason I think in this context, that may not be a totally unreasonable strategy is this does have an aspect of technical diligence to it. Right. Um, and so, you know, in terms of the list of folks, you mentioned, there, those are all smart people. Um, you know, I would include, like some biotech, you know, biomedical VC, assuming
+
+Unknown Speaker  32:05  
+you're robbing them, I'm assuming you're reading them. Yeah, I'm like, I'm assuming Fred and Andreessen and you are reading them?
+
+Unknown Speaker  32:12  
+Yeah. Yeah. So I'm like, I'm like a crossover, right? Because I actually have both a bio and a tech background runner, but like, I'm just gonna say, like Robert Nelson, our TNR she's very smart. We're following on Twitter. Anyway, coming back, coming back, though, it's not a bad idea to, um, to ask that question. Okay. And here's my kind of summary on this. Um, a lot of it depends on your, your health, and your risk tolerance, and so on. Okay, so, if you're 55, or 60, or 65, and not in like, amazing shape for your age, I'd be really, really cautious about everything. Because this is definitely a killer ages is a killer. It's a killer. This is a killer, right? Like it is something where, um, the older you are the the, it gets very nonlinear. And, and crucially, this is important. folks have done that. They've asked a question. Oh, is it just killing people? About a year left? Right? Is it killing like an old sister who's, you know, 85 and just gonna pop off or whatever? It isn't, it seems to be taking significant numbers of years off the lives of otherwise healthy people. Yeah, they're 65. But they weren't, like, you know, croaking at 65. They were gonna, they might have another 10 or 20 more years. Right. On. So. So this is definitely something where if you're older, or you have a pre existing condition, I'd be like, super cautious. But then the question it gets harder is if you're younger, and by the way, like I'm not giving medical advice here.
+
+Unknown Speaker  33:46  
+And by the way, my show if they're tuning in for metal guys, maybe they deserve to die.
+
+Unknown Speaker  33:50  
+Yeah.
+
+Unknown Speaker  33:53  
+I know, I'm asking you financial, I'm trying to stretch my imagination for my listeners and think big picture. So you're helping me
+
+Unknown Speaker  34:01  
+see, this is what I would say to a
+
+Unknown Speaker  34:05  
+friend or a family member based on the medical literature. I'm not extrapolate beyond that, right? So there's a few preprints that I put up are one is on a preprint. So the CDC published demographic information of COVID-19 hospitalizations by I think s Garg at all. And then the UK. I sarek study looked at about 16,000 COVID-19 patients in the UK. And I tweeted both of those, right. So based on the primary literature, here's the tricky part. While in the US about like 90 92% of deaths, and 75% of hospitalizations are for people over age 50 on and in both US and the UK on the order of 20 to 25% of hospitalizations are for people under age 50. Okay, and so it's not Zero, right? It does, it does decline rapidly if you're 21, you're probably not going to have an issue, right? Um, in terms of being hospitalized. However, here's a bit, this gets back to the beginning of the conversation. There's, there's a significant number of 30 somethings in my personal social network, who I know have gotten, like, pretty serious illness. And I mean, it'll for six to eight weeks. And here's the thing, when you have the illness, it's not like you're given a card and told it's miles. Right? on, it's this, it's this really terrible thing. It's ongoing. And here's one of the things the symptoms, you know, the sound coming out that it's like, hitting a bunch of different organs and so on. You know, this just the flu meme is almost as dangerous as the virus itself, because it conditions people to expect a purely respiratory.
+
+Unknown Speaker  35:50  
+There's no roadmap.
+
+Unknown Speaker  35:52  
+There's no roadmap. Exactly. That's right. So so like, like, if you think it's just a flu, you expect, oh, I'm gonna cough and see
+
+Unknown Speaker  35:59  
+that first day, and then I'm gonna have a sore throat, and then I'm gonna have a runny nose for two days, and you're not clogged up for three days? No,
+
+Unknown Speaker  36:07  
+that's right. Whereas some of the symptoms that are being reported and the exact frequency of you know, there's different tables and so on of them, but some of the symptoms that have that have both heard from individual patients and seen in the tables, like cardiac symptoms, like racing heart rate, blood clots in some young people strokes. Like that's, that's crazy stuff, right? Yeah, maybe
+
+Unknown Speaker  36:27  
+my son quit vaping my son's 21. But I think it was always fake news about vaping until COVID. And I think even even the kids who don't want to read the news, were smart enough to connect the vaping may not be a great idea during COVID. Yeah, well, they're not that dumb.
+
+Unknown Speaker  36:46  
+I think it is gonna make people much more health conscious. Yeah. Um, but but here's the thing is basically a trade off between, unfortunately, the trade off between health and wealth. And in the ideal case, you have a state that managed to, um, you know, make the right decisions and push COVID-19 to zero. So for example, like New Zealand, like Taiwan, like South Korea, these places are taking in Australia, right? Those are either Western or Western aligned democracies, that
+
+Unknown Speaker  37:19  
+radically changed ways they were gonna do things.
+
+Unknown Speaker  37:22  
+Yes. And crucially, they were actually kind of from the old school because, you know, a paper something that I tweeted, by the way, paper from 1976, the conquest of infectious diseases over, you know, the, the 20th century, right. In 1976, it was understood that it was both difficult and important, and a major societal and technological accomplishment to conquer these infectious diseases like malaria, and polio, and so on, that had stopped human beings for so long. Right? It was, it was something that people understood was a difficult thing. And that modern society was actually implicitly premised on this, right. Here's the thing. Previously, I gave the analogy of COVID-19 as like a, as a tax, right? As a transaction cost added to a, you know, every cup of coffee, you know, you can quantify that where you say, hey, if you pay $10,000, to not have COVID-19, because it's so damn serious when for those people who've had it and think it's serious, and you have a 5% chance of getting COVID-19, and then a 30% chance conditional on that of having a severe enough case, they multiply that through, and that's like, $150 extra cost on every transaction, or interaction where you might get coffee benteen. And the thing about it is, some people say, Oh, well, covenanting is not that bad. You won't necessarily die. And counter argument is, most consumer experiences aren't that good.
+
+Unknown Speaker  38:52  
+Right, worth buying?
+
+Unknown Speaker  38:54  
+Exactly. They're not they're not worth that. Let's call it $150 extra cost and Beth right. Yeah, maybe some of them are
+
+Unknown Speaker  39:00  
+like, that's a really good analogy. I mean, it's just why I love my life right now in the COVID world is like, I didn't like crowds. I didn't really like traveling. I did it built my network, but Jesus Christ like immediate 10 meetups, or my fake life online, which is more real than my real life offline. Gets me an a DM gets you on the on the hone in on my podcast. So it's like, yeah, I think this is like an era. That's not going to go back in the box. I think this is this generation for introverts.
+
+Unknown Speaker  39:32  
+Yes, but there's something. There's something very important here though, which is, which I think is going to be a major. I mean, it's something where we have to have empathy and compassion and, frankly, motivation to fix this, which is there's going to be already is but a widening gap between what I call the cloud and the land. Okay. So you're a cloud person, right? And so our journalists so are basically most white collar workers, their cloud people because They can work remote, right? They basically can indefinitely self isolate. And then there are land people who have to work with their hands. Right? They are a lot of the folks who make society run, you know, from delivery drivers to, you know, like, construction, all the type stuff, right? And so the issue is that, like, you have something where cod people have both a better economic go of it. Because, you know, like, their businesses aren't hit by the same demand crash, right. Um, and they have better health go that because they're, they're not exposed to COVID-19 land, people are having a double whammy, where they, you know, their, their businesses, their place of work, has depressed demand, because people aren't coming in for for fear of getting COVID-19. And it also has
+
+Unknown Speaker  40:55  
+of that
+
+Unknown Speaker  40:56  
+good point. Right, they also have higher risk of getting it because they actually have to leave the house for more than because
+
+Unknown Speaker  41:03  
+you will, I was saying like, the double whammy is investing to the people that were the people that thought they were diversifying because they started a restaurant, they built a successful chain. And they said, Well, no, I get into, I'll take my money and do other, you know, not I won't invest in restaurants, but I'll own land and lease it to restaurants, and then I'll take my extra money and do Airbnb rentals, because they were a they weren't just land, they were a yield based land based economy, meaning it's like a, and they put a little leverage on top. They thought they were diversified. But they were diversified on land. They weren't diversified into the cloud.
+
+Unknown Speaker  41:39  
+Right, I think, essentially, in terms of what what I think economically like sectors that I'm bullish on as an investor, you know, and I look at the world, by the way, you know, from a very West Coast lens, where I'm not like an active trader and East Coast markets and, and almost do nothing in the public markets, basically. But where I'm interested in startups, right, where I'm interested in that type of stuff is, you know, info bio, crypto agro.
+
+Unknown Speaker  42:07  
+And crypto madrugada.
+
+Unknown Speaker  42:10  
+info meaning information, technology, digital, everything, every slack zoom, the original internet, the digital case, is just even bigger than it used to be. Because we just got another, you know, I don't know, five hours a day of screen time from America.
+
+Unknown Speaker  42:25  
+But still, like it's good screen time for me because it was just my screentime was traveling and email, which is to share screen time.
+
+Unknown Speaker  42:33  
+That's right. And now and then you're also going to get I think I'm not I don't think this is a VR moment. But I think it's a VR decade, right? I think, uh, so that's gonna be big. You have to try out some of the new VR stuff. I just,
+
+Unknown Speaker  42:45  
+I'm a VR guy that says, I hope people make a bazillion. You're never gonna get me in the VR world. I know. And I would probably say that about AR but I'm living in an AR world. And when I watch my kids, they are AR fanatics.
+
+Unknown Speaker  42:58  
+Yeah, I think I think though, you might be able to hold linssen comps in AR
+
+Unknown Speaker  43:03  
+in VR. You mean? I mean,
+
+Unknown Speaker  43:04  
+AR and VR? That's right.
+
+Unknown Speaker  43:06  
+Yeah, we could, but how we're going to have a good time.
+
+Unknown Speaker  43:11  
+Just take a look. I'm gonna send you some some links after this. You can rip them or whatever, look at them. Basically, I tweeted some, but essentially, a VR is now there in terms of an experience. And the question is just can you get headsets out in the middle of all these supply chain disruptions and whatnot,
+
+Unknown Speaker  43:28  
+but I think you're I mean that info bio crypto agro is so agro meaning agricultural. Let me have Robo.
+
+Unknown Speaker  43:35  
+Let me run Robo.
+
+Unknown Speaker  43:37  
+But okay, it's a robot. These were all coming. Robo was coming. aggro, is let me go ahead and go over those.
+
+Unknown Speaker  43:45  
+Yeah, so info is kind of obvious. It's just, you know, the internet, right? digital, the true internet. Okay. Um, bio, again, obvious, like, you know, essentially, one way I think about what we've got, you know, people talk about a V shaped recovery or w shaped. My comfort is we're going to have a y shaped recovery where we were going down one branch, and now we're going down a completely new branch.
+
+Unknown Speaker  44:13  
+Okay, sir, you're talking dirty to me now. This kind of shit. I like why shape. This is like my little horny. Okay, all right. Okay, sorry. I'm wearing full pants though. So don't worry. Okay. Okay. So I share recovery. So we're going down one thing like bio and all of a sudden genomics now is caught on like and biotechs at all time highs now.
+
+Unknown Speaker  44:33  
+Yeah. So let me explain what I mean by that. So basically, the and you know, I'm saying this, but it's actually like a devastating thing for the people in this in this area. So I don't mean this in a flip way. Okay. But the physical leisure economy has been retired.
+
+Unknown Speaker  44:48  
+Yeah, and it's Walking Dead. They're like playing the game. Like we'll be back but I agree. Couldn't Yeah, like I swapped out of my Disney for Twilio? Like a well, you know what I'm saying? Like, I'm like, Well, what I want to conglomerate. It. There have. Yeah, so so Disney may be okay if that's okay. But why put that in your portfolio when you have limited choices? Yeah.
+
+Unknown Speaker  45:11  
+That's right. So so so for example, let me explain what I mean just precisely but a physical is retiming. So it's bars, that's clubs, that's restaurants, that's airlines. That's hotels, that's concerts, that's events. That's Disney World. That is a, you know, like, frankly, business conferences. You know, it is it's basically anything with large crowds of people, especially large crowds of strangers. I even include, it's not exactly leisure, but include public transit,
+
+Unknown Speaker  45:40  
+and creating weddings, bar mitzvahs,
+
+Unknown Speaker  45:42  
+weddings, bar mitzvahs, all that type of stuff, right
+
+Unknown Speaker  45:45  
+divorces,
+
+Unknown Speaker  45:47  
+I would invite all my friends to my divorce not Yeah, not getting divorced. But it would be something if I could, if I'm in a big enough fight. Well, I'm inviting.
+
+Unknown Speaker  45:55  
+That's the Modern Family. Right. So but okay. Okay, but coming back, so. So the fiscal leisure economy, which is this thing that we just kind of took for granted. I mean, you know, like, folks will sort of talk romantically about the 1950s, as this time when a high school grad could, you know, basically earn enough for a house at a yard and a family? And it was it was this kind of every man's paradise in the us right now, that one can critique that era for many directions. And it has been critiqued, you know, like, one, you know, counter argument is that, well, you know, the rest of the world was bombed out. And that's why the US could, you know, like China, India, you know, like, these places were either under communism, or they were under socialism, or they're bombed out, like Europe or, you know, like, crushed, like, like the Soviet Union had been after the work. And so the US had a, quote, unfair manufacturing advantage. And that's why, you know, these people could demand that kind of wage, whereas the smart guy overseas couldn't. Okay. Regardless, it's thought of romantically and for good reason. Because you know, that that was that was a time where a lot of the, you know, a lot of Americans did very well. Okay. I think that the 2000s, in the 2010s, will similarly be remembered as a nostalgic era where there's something that people took for granted that they don't realize. Yeah, so some of the stuff that's been lost, the physical leisure economy was a lot of fun, right? Especially like, like global travel.
+
+Unknown Speaker  47:24  
+Last minute economy was fabulous.
+
+Unknown Speaker  47:27  
+Yeah, exactly. It was cheap international travel, where people could see the world and, you know, it was it was accessible to you know, people would like constantly vacation,
+
+Unknown Speaker  47:38  
+as an advisor sums up everything that was wrong with the world.
+
+Unknown Speaker  47:42  
+Well, I
+
+Unknown Speaker  47:44  
+just sadly, people don't have time to comment about Botswana. And where to say is not a really a thing most Americans needed.
+
+Unknown Speaker  47:51  
+Well, you know, look, I'm, I'm, I'm not going to critique it, because I think there's a lot of No, you aren't if
+
+Unknown Speaker  47:58  
+I want to be everybody, it's me being the ass. Okay. Sure. Because it's usually
+
+Unknown Speaker  48:04  
+fine. So basically, like, this, this whole thing, I think, will be looked at, as you know, people kind of say this on Twitter now, sort of kidding, but sort of not the before times, right. Like, like the people target the antebellum era, you know, the South, right. Um, okay, so. So that's the branch that we were on. And that branch actually includes the sharing economy. You know, it includes Airbnb and Uber, both of which are amazing companies. Actually, it would have been hard to predict
+
+Unknown Speaker  48:33  
+this. Yeah, exactly. Would have been hard to predict Airbnb is doing a debt round. Yeah. Public three years ago.
+
+Unknown Speaker  48:42  
+Well, look, you know, like, it's, it's, I mean, no second guessing, but let's face it, that was they they waited too long retrospect, in retrospect, probably should have gone too early. Right. But if something were like, it's such a weird reversal. So lievable I think it was
+
+Unknown Speaker  48:59  
+destined to be the biggest company in the world.
+
+Unknown Speaker  49:02  
+Yeah, that's right. It's it had a global but awfully and so on it, you know, it seemed better. What's interesting is when going
+
+Unknown Speaker  49:09  
+against
+
+Unknown Speaker  49:10  
+I mean, they're very competent, like, the way they may recover, is I'm in green zones. Okay, I'll come back to that point. So in the fraction of the world, which does manage to get the virus under control, travel will be permitted between those zones, and within those zones, and so I think Airbnb may survive in those places. And the other possibility is folks who want to rent places out in the countryside away from the city for medium to long term rentals. That may also happen a kaboom. Yeah. Yeah. So So those are two possibilities, though. You'd really kind of want it to almost become a rural apartments and you wouldn't want to share it with lots of other people. So it It definitely, you know, the entire travel thing is over for a while, right. Okay. Um, One thing as soon as you can just talk on the topic of Uber per second, completed mine, that's actually relatively unusual for me. But, uh, your folks alley, um, I'll send it to you, you might be able to find it. It's from I think, early February 2020. And I was talking about long and short. Did you see that one? No. Yeah. So I was like, you know, what am I long on? What am I short on? I was like, you know, and this was just conceptually, right. It wasn't like, you know, publishing active trades, but like, long on diagnostics, masks, all this type of stuff. Sure. I retweeted I am.
+
+Unknown Speaker  50:32  
+Oh, yeah, sure. Short, Uber. But Uber Eats, right.
+
+Unknown Speaker  50:36  
+Got it. Yeah,
+
+Unknown Speaker  50:38  
+I broke out UberEATS. And what's interesting is like two and a half months later, I think that was validated. Because Ubers business is now essentially UberEATS.
+
+Unknown Speaker  50:47  
+It is otherwise the stock would be 31. If the, if the market couldn't separate Uber from Ober, its stock would be at 15. And it's a 31. So yeah,
+
+Unknown Speaker  50:54  
+or whatever, exactly. I don't know where to go to, but, but it would essentially be only functional in green zones. And let me talk about that concept for a second. Because we mentioned green zones, I'd rather stay at home than have to travel within green zones. It's just too bizarre. Well, so the thing is that, like green zones, red zones, I think there's going to be the new first world third world. Okay. All right. So a green zone is a place that has comprehensive testing, and no new cases for let's say, last two weeks, or four weeks, and a red zone is everywhere else. Okay. Now, that's carefully phrased, if you don't report any new cases, but you aren't comprehensively testing, I assume you're redzone. Because you don't have your act together enough society, you're just kind of covering your eyes. Okay. So you need to actually have a ton of tests, and you need to be constantly running them. And there's different ways of doing those tests, by the way. Um, it can be, you know, PCR could be, you know, that's a gold standard, but you know, you see it eventually,
+
+Unknown Speaker  51:55  
+eventually, Green Zone, Red Zone becomes first, first world third world. Yeah.
+
+Unknown Speaker  52:01  
+Here's why. Here's why. several reasons. I don't think now. This is not 100%. But this is my prognostication of the future. Okay. red zones, have first a health problem, right? Where you've got a ramp and virus there, then they're going to have an economic problem, because the ramp and viruses attacks on every physical transaction in those zones. The moment that people hear from their friends, that the virus actually can cause very severe illness, sudden, it turns from, you know, some like, CNN anchors, Bs, or that's how people perceive it in some of these places, right? It turns it turns from that into Wow, this actually real Oh my god, right? Yeah.
+
+Unknown Speaker  52:48  
+And it's like the steel. It's like Buffalo, Cleveland and Pittsburgh with steel. Right? Yeah, we're like, we're gonna have more buffaloes in Cleveland, but it's gonna be based on the virus not on steel.
+
+Unknown Speaker  52:58  
+interesting and weird way. This virus has a similar propagation to a social network that starts on like an elite college campus because here's why I started in China and came over to the US and so the frequent flyer class was sort of hit by first and then it kind of you know, like New York City and so on, right like and then it took it's taken some time to propagate its way out to like rural areas and and like less internationally traveled areas in the US so So essentially, like let's call it blue states are like the most international groups of people um, because because a virus travels human to human right um, so it is like a it's actually very similar to a social network invited hops in that way right? And so it will just like Facebook or Snapchat take some time to make their way out to you know, the Midwest or whatever you know, from the coast. This will take some time to make its way out it is doing so and so when it actually hits there, you have the second problem of red zone which is on the economic hit right then the the third problem is you have effectively like a marketing problem. Yeah, the red zones right?
+
+Unknown Speaker  54:17  
+How do you overcome those first two and that's a marketing money. Yes, it's take years of not propaganda, like real life accounts to bring that place back
+
+Unknown Speaker  54:28  
+to bring that place back. And then fourth, you've got a talent problem. And here's why is talent and capital are our mobile Okay, I should say, callin capital, I was gonna say, our mobile, they're less mobile today, just due to lock downs and travel restrictions and so on. But talent capital will want to get out of red zones to green zones, and stay in green zones and away from red zones. And I think that's the next shoe to drop that people don't understand. Um, get to green is going to be interesting. And imperatives.
+
+Unknown Speaker  55:02  
+And what I mean by that is
+
+Unknown Speaker  55:06  
+paid my tourismus dad for a while. Yeah, but all those places that have become green zones, okay like Taiwan, South Korea, etc. can now charge for paid migration. Interesting. That's your new business model, right? rather than making 100 bucks or 1000 bucks or whatever it is per tourist, right? Um, if you're if you're doing a 14 day quarantine of someone coming in from, you know, a red zone or even longer, right, given how long this thing can incubate, right? That 14 day quarantine kills any kind of casual travel, right? It kills it kills casual business travel as well. What it does permit is serious permanent international migration. And so that, like, basically, I think air travel becomes a subscale industry, where the demand drops off dramatically.
+
+Unknown Speaker  56:00  
+And All right, so believe that I mean, I'm talking from my own bubble, it's gonna take a lot to make me do regular travel again.
+
+Unknown Speaker  56:09  
+Yeah, exactly.
+
+Unknown Speaker  56:10  
+predicted, it couldn't have predicted I just was the guy that was like, willing to do that extra mile, you know, you're gonna have to pay me a fortune to do
+
+Unknown Speaker  56:18  
+extra mile. And you're not the marginal. That's the thing is you're not the marginal
+
+Unknown Speaker  56:22  
+income, the margin, I try to have empathy that I am, or trying to, at least not to have an ego that I am, but I feel like, I'm right there on that line of like, fuck it. You
+
+Unknown Speaker  56:34  
+know what I mean by that is you were not somebody who flew one seat here. No. That's right. So you're not, let's say, a marginal traveler. Like, it's not like they're just losing, like the customers towards the edge of the distribution that are going from one flight a year to zero flies.
+
+Unknown Speaker  56:49  
+They're using the meat, they're losing the meat.
+
+Unknown Speaker  56:51  
+Exactly. So the middle of the distribution is moved to zero, right? That is that that
+
+Unknown Speaker  56:56  
+you can't recover from? I don't think so.
+
+Unknown Speaker  56:59  
+And so what I think happened, and
+
+Unknown Speaker  57:00  
+by the way, you're seeing that in the size demos, the stock markets can be you're saying that there's no lift, you get the National 40% and there's no lift in the money center banks. There's no lift in the travel companies. There's no lift in booking.com, Airbnb, get deals. It's not so great out there.
+
+Unknown Speaker  57:17  
+I'm sure some Buffett's interview, right. His name was sad. But it was sad. And here's the thing about it. Right? Like, have you seen talibs Thanksgiving Day turkey chart?
+
+Unknown Speaker  57:27  
+No, I haven't. But I'm starting to get into talent. It took me a while to get into them. But I mean,
+
+Unknown Speaker  57:31  
+I I like a lot of his stuff. He's very smart. He's an acquired taste. Like, you know, talent. The writer is a wonderful writer. Like I recommend his books, okay. But he has a chart that he talks about, which is Thanksgiving Day turkey chart. And it's basically, you know, imagine a turkey and you graph you know, its well being and for the first thousand days of its life, it's loving life, it's getting fatter, everybody's taken care of, etc. And then whack any whack on day 1001 that turkeys dead, right? And it's just like a sharp, you know, drop cloth. And the thing about this chart is, you know, talents basic paradigm. It's, it's funny, but it's also trees, like every signal that Turkey was getting over its entire life run for the hills. No, no, it was not was not hurt for the opposite. It was basically I'm getting welfare became the king. Yeah, exactly. And you're Dude, you're so paranoid you You crazy goldbug there is nobody with an axe coming, just lunatic whatever. Right? And and then the x comes. And the thing about it is talents, thanksgiving day Turkey chart is just seeing now across the economy, all kinds of things had 510 20 3050 year trends are just gone. Right? to other things, right. And this is the thing like, you know, Buffett, like, you know, I've known as exact age, but things like 86 or something. Right? Nice. Okay. So, I mean, like he's lived a long life, and essentially, he's lived through the era of American triumphs. And this I kind of think is the first major American defeat not like a defeat in Vietnam or an arguable defeat in Iraq, but like a genuine defeat and and i don't think that people that sunk sunken into peace
+
+Unknown Speaker  59:27  
+I'm gonna make his best most bullish game was don't bet against America. That's not bullish. No, he's always got these folksy things. The best statement the most bullish statement he could come up with don't bet against America. Yeah. That's kind of like Powell. Like I mean, all right. Whatever bore it was boring. I felt sad. Yeah.
+
+Unknown Speaker  59:46  
+So Well, here's the thing about it. Like, I hate to put it this way, because I'm not I'm not advising anybody to bet against America or anything like that. But what I am saying is, Buffett is sort of like the turkey, where for the 90 years of his life, Everything that he saw was a difficulty that was ultimately surmounted from World War Two to you know, like the 60s and the 70s. Like everything you saw was ultimately surmounted. But the difference here is, well, several fold. First is that the, I mean, the sheer magnitude of it, it's many times worse than the financial crisis, which took 10 years to recover from, like, like, just just the initial numbers, you know, the jobless numbers, unemployment graph alone. is is is many orders order an order of magnitude worse, right? Exactly. 10. x, but it's definitely it's, it's nothing worse. I think the peak jobless numbers in a week were 670,000, during the financial crisis, and it's like, you know, it was like 6 million or whatever, right? So, okay, so on, there are 10 X, number one. Number two is it's not just an unemployment thing. It's deprecating all of these industries, as we just mentioned, the whole physical measure. Number three, number three, it's hitting international supply chains. And those supply chains that aren't being disrupted by the virus or by lockdowns are being disrupted by national security considerations on the other ends, where vaccines or masks or whatever are not being shipped. Right. Ah, number four, um, we have, like, clam honestly bad governments at all levels, like on on an insane level, right. Like, basically from, you know,
+
+Unknown Speaker  1:01:27  
+engineers and scientists, so no, it let's just call it that.
+
+Unknown Speaker  1:01:30  
+Desperate, let's call it that this jacket. Right? Right. So, um, so you have all of these things that are piling up, and it's a, you know, insofar as there's rays of light, you know, positive rays. There, I think there's been some awesome folks, you know, to some doctors who are working very hard nurses are working very hard. I think there are a lot of folks in tech who are working very hard, like the, you know, flexport, for example, is deliver 10s of millions of masks. So it's in biotech by medicine, pharma companies that are working hard. There's definitely, definitely folks, individuals who are doing things and there's individual counties in some states that have done, I think, okay. But as a whole, this is, you know, like, if, folks in other countries, if you read, you know, the press there, or what have you, like, this is like, a global event, but America is totally absent, because America is trying to lick its own, and I look at so and once I'm done with the thing at home, right. And, and so normally, what happens is, some country has a flood or something, and they look to the US military to, you know, come and put in sandbags, and, you know, and fix it, and what have you, right? That's not that's not there at all. In fact, the US is almost like a cautionary example. Like, you know, look at all the infighting you know, these folks think it's just the flu, they've got these crazy stuff on social media. Like, it's, it's, it's something where, here's another version of that quite a few times now, on social media, I had a version of the following conversation where I bring up like 15 countries that manage to control the virus, right. And this is Eastern Europe, it's like Slovakia, in Austria, which is more central European or anything like that area advisor, that region. Um, it's a, it's it's New Zealand and Australia, which are very Western countries, it's South Korea, it's Taiwan. Nobody wants to believe that China has control the virus, but I think they have. And the reason I say that is because, um, several things, but most importantly, on the ground testimonials by a lot of folks there, if you talk to them, you look at the WeChat videos and so on it, you know, it looks like they're back. Plus, they're doing such a level of surveillance would with the green codes and yellow codes and red codes. They thought like an early warning system, do we talk about the edge of death for a second? Okay. Just, it's very important for people to understand. Not not necessarily to say it's good or bad, but to understand what China did. Um, so one thing that's difficult for people to understand about China is, on the one hand, it ships world class results, like the phone in your hand. It's a functional phone, it works, right? It's, you know, like they built it. They're like, all the stuff is made in China in your house. It's actually functional. It works. And it's clearly world class at a price performance level, or else you would buy something else. And like net net, it's got your home somehow, right? Okay. On the other hand, it is also true and the Chinese government themselves has admitted this multiple times that they fake a lot of stuff, right. There's a lot of fake numbers here. There's, you know, the Chinese government sells has prosecuted like government officials in its own country for food they had to fake
+
+Unknown Speaker  1:04:38  
+coffee, and addicted luckin Coffee is a perfect example. What's wrong with China? How do you have to make up numbers on an addicted product? Like books? That'd be like Starbucks clicking on a book, what's the point people want coffee,
+
+Unknown Speaker  1:04:51  
+or very publicly, when China had this huge, like open goal they were shipping a bunch of masks and tests to Europe to help them with their crisis. Have you do end up shipping a bunch of defective masks to like in what have you I'm sure it wasn't like the bush and say shirt. I doubt that anybody in the Chinese government intentionally said, Let's ship them a bunch of junk, right? because it'd been found out a few days later. But somebody shipped them junk, right? Somebody's in bed. Right? So it's this weird thing where at that same time, it's not necessarily the same people, by the way, there's big countries suffer. It's a big country, it's 1.4 billion people. It's, you know, it's a whole world, right. But they, they do both of these things. And that is the thing that's so hard for people to get their head around. Because, like, both of the following things can be true. A, it can be true that China has misstated the official statistics. And yet they have also gotten the virus under control. Yeah, exactly. Right.
+
+Unknown Speaker  1:05:47  
+What America has never been good at grokking. That's both it can be both can be it can be economy could be shit in the NASDAQ could be at all time highs. It can be exactly. That's why I try and teach people the stock market is like, no, it's not the economy. It's the stock market stop even connecting them ever. Meaning, you know, it's the NASDAQ it can be true that cloud stocks and information technology stocks and robotics stocks can be doing well at the same time. shit hit the fan. It's not it's not a good bad and it's in a generally will get weighed down by the other things. But if you told me that, JP Morgan's up 10% from the lows and the NASDAQ's back at all time highs, I wouldn't have played that bet I would have said that just doesn't happen. And it takes Yeah, purchase. And that's why the market kind of shows those if not on a day to day basis. It'll drive you mad. But
+
+Unknown Speaker  1:06:36  
+without without Prelude. Right. Let me let me talk about I started, let me tell you,
+
+Unknown Speaker  1:06:40  
+no, I'm just saying that's where we are at just like green zone, Red Zone. I think the stock markets like that, too. You've printed so much money that all the old rules will go to the playbook. Those who want to play the game will have to play the game differently. pauwels outlined some new rules, China's now been out for the fraud they gave, they can't even make a Coffee Company real. Like if you got to own a china stock and post COVID world. You're the fucking laziest person in the world, because they're fucking cheating on coffee.
+
+Unknown Speaker  1:07:08  
+Well, okay, but here's the thing, it is important to know that definitely important to that. It's also important for you, if you haven't read AI superpowers by Kai Fuli. That look,
+
+Unknown Speaker  1:07:19  
+if you don't read a book by Kai Fuli, you're just lazy to I mean, what a great name. That should be my new name. All my books would sell better if I call how Fuli?
+
+Unknown Speaker  1:07:28  
+It's it's one of these things where it's like, it's, for example, to understand America, you need to understand the blue states and the red states. Right? Like you have to you know, it's kind of like both right? So the, you know, but I think there's kind of three odd tech folks who if you put them together, you could anticipate a pandemic, which are a Peter teal, who's talking about how physical innovation isn't happening in the US be Bill Gates, who predicted the pandemic, specifically right, and see Kai Fuli, who in AI superpowers, that book wildly exceeded my expectations. By the way, when reading it, I thought it's just going to be a kind of a, you know, like an overview of modern machine learning, or what have you, which I kind of know. But instead, it was a really well done history of the Chinese tech ecosystem, from somebody who's been there. And who's also been in the US tech ecosystem at very senior levels. And, and really the if you can google of fact in there, you know, but the impression that you got from it is okay, the Chinese really can physically innovate. And this was buttress by my own independent observations. Well, before this particular crisis. Last year, for example, I was tweeting a bunch of construction projects in China, which have been going on since early 2010s, by the way, where they build like a skyscraper in like 30 days, or a train station in a day, and so on, and so forth. And these are, these are real videos, these are real train stations that people I know have been to. And, and when you when you take it and compare it to like the BART in San Francisco Bay Area, you know, like yours to build a new station, and these folks are building in a day, he was clear, even before the crisis that while Peter teal was right, and the US could not physically innovate. Kai Fuli was also right, and China could and the difference is more than 100 X. Right? Good. One day for TradeStation versus more than a year is is a 300 x difference, right? And here's the thing, you know, the Arthur C Clarke thing about like, sufficiently advanced technology is indistinguishable from magic, right? You've heard that saying, no, no. Okay. It's like, it's like a nerd sci fi saying Okay, so, I guess stock nerds and Wall Street nerds are different from like, tech nerds. It's different every every second. Okay? So, um, there'll be some folksy investor quote that I've never heard of, and you'll be like, Oh, my God, you Philistine. Um, but um, so, you know, the Arthur C. Clarke. Cool goes. sufficiently advanced technology is indistinguishable from magic. Okay. And I think you could update that for the Chinese to say sufficiently advanced execution is indistinguishable from magic. Because if you can, like materialize a new train station in a day, you think about problems differently. Right? For example, you think about solving the Coronavirus by materializing a new brewery brute force things that would be impossible for Americans to do are possible there. And by the So just to give you a sense of the technology that deployed there, um, this this hospital, that they the, there's actually two of them licensed Shen and another one I can't pronounce, but Wu Han, never assembled. And they're not normal hospitals. They are hospitals that had negative pressure chambers for every patient. They had telemedicine, so the doctors didn't have to actually go in and they had delivery, delivery robots deliver the medicine, so the nurses didn't have to go in right there like remote, remote operated hospitals, okay. Other stuff they did. They had, you know, flying drones with thermal cameras taking images of people, you know, they had much, much faster CT scanners than we have in the US. So you can crank through a bunch on a daily basis. They're running like 100 clinical trials or something like that in parallel. And then really one of the more and this is just a few of the things that are mainly been the most important things they've done is since early March, they've rolled out a green code yellow Code Red code system on WeChat for every citizen, okay. So the way this works is green code, okay, you can get on the subway, you can travel, you can walk around yellow code, you've been exposed to Coronavirus. Okay, so you need to sit at home. Um, and don't move.
+
+Unknown Speaker  1:11:41  
+It's like your credit score, you got to get it up.
+
+Unknown Speaker  1:11:43  
+Yeah, right, you got to get tested and so on. Right. Um, and read code is you have tested positive, and you need to go to supervise quarantine, you can no longer be at your apartment or your home or whatever with your family have to go to a supervised quarantine. Okay. And that's a big thing that they did in China did not do in the US is centralized quarantine. Um, you know, we all like, for example, there's NPR story recently, which was, Oh, 660 million and field hospitals are all being dismantled. They should be using those for centralized quarantine.
+
+Unknown Speaker  1:12:14  
+No, they're just just spreading the virus again. It's just it's an appalling. It's an appalling thing. The
+
+Unknown Speaker  1:12:19  
+only, you know, and it's being reported as Oh my god. Yeah. And I'm like, Oh, my God, first of all spare capacity. It's like driving around, and not having a flat tire and saying, Oh, what a waste that I brought the spare tire on the voyage, right? Like, no, you want spare capacity. Number one, that's how the system doesn't overload. And number two, is it not even that Spanner because we should use it for centralized court? Okay, fine. recursing back up. here's the here's the thing about the green, yellow and red code system and why it's so important. A virus spreads really fast. But the internet can move even faster. And what the Chinese government has done, and, you know, they basically, you know, thrown privacy to the side of the road, okay, like, that's not the kind of big consideration. Um, what they've done is they have now instrumented the entire country to understand whether a viral fire is breaking out or not. Okay, pretty cool. Okay, so if a yellow code, or a red code for that matter, even starts moving, let alone walks into a crowd of green. Okay? If that happens, then boom, first, all those greens turn yellow. Number two, all those greens, get a message saying you're yellow. Number three, all those greens are now yellow are told, you know, basically going on? Yeah, avoid contact, and you can track you can just Now visualize what that looks like on a map. Okay. And you've got Chinese security officers, and so on Manning all this. They're whistling for the guys to go there. They're sending drones to, like, fly over them. And that's another thing by the way, they've got the drones that are like barking out orders and stuff. Well,
+
+Unknown Speaker  1:13:55  
+eventually, eventually, all that stuff. The good news is eventually all that technology makes its way slowly into our mainstream, which is goes back to your info bio crypto aggro robot before before I let you go because you've given me more time than I need is crypto. Obviously, the you got sidetracked because of COVID. You've done as much work as you can there before COVID. crypto was kind of your life. No,
+
+Unknown Speaker  1:14:18  
+yet, but let me let me offer one more comment, obviously, and then come back to so I will not say it's a total gift to bring that tech into the US and here's why the tone on social media has become so for lack of better term nationalistic that even remarking that China has done anything to control the virus Aaron's like oh, trying to lie, they fake all the numbers. Yeah,
+
+Unknown Speaker  1:14:43  
+that's that two things can be true thing.
+
+Unknown Speaker  1:14:44  
+Exactly. And here's here's the big issue. I also tweeted something else, which was in the late 80s, Boris Yeltsin came to the USA. And you know, at first it took him to the NASA Space Center to try to impress him with the controls there and so he had seen so Like that, but you know what really impressed him at a random supermarket called randles. Okay, where he walked through it, and he was shocked at the plenty. And the variety of goods there relative to a Russian supermarket, there's a famous photo of him, kind of throwing up his hands in dismay, you can see the dismay on his face, where he realizes that, like, as a leader in the Soviet Union, he wasn't like a peasant, he should have had, like the, you know, intelligence. It wasn't like, you know, the Russian, you know, people that they exploited. This is a leader right there. And he had also been gold by Soviet propaganda, to think that the Americans were just lying, and the capitalists were just exploiting, and everything was much worse there and so on so forth. When he realized that this supermarket was actually open to the common man, he realized the US really was significantly beyond the Soviet Union on many actual physical dimensions. And that was actually a critical step in him, you know, helping to modernize the, you know, what became, you know, the Russian Federation, right, the former former USSR, you know, block, right, being that there's a combination of propaganda, nationalism, wishful thinking, that led even Soviet leaders to imagine that they weren't behind the US. Yep. And the danger is that this is the thing that I've encountered quite a bit on social media. Like folks really don't want to believe that other countries might have something that is technologically more advanced than the US. I'm not saying imitate that necessarily directly. You have to do in a way that is compatible with Western democracy all agreed. But you also can't be irrational about it and say, No, they couldn't pass it on. It's all fake and all lies, because then you start getting into the Soviet model of believing that everything outside the country is all propaganda and lies and then you'll be like yeltsin and kind of throw your hands up like this. Oh, my God, I was I realize, I lied to myself.
+
+Unknown Speaker  1:17:03  
+I totally untrue the the crypto so you're super bullish on crypto in this world?
+
+Unknown Speaker  1:17:11  
+Um, yes, very bullish on crypto. And, and here's Let me explain why. I think that I tweeted this also, actually, I think I mean, not to pat myself on the back. But I do think that some of my early stuff in the Coronavirus, holds up fairly well. For example, I'm very early on, I was like, wow, this, this pandemic, takes everything we've talked about, you know, like the respect to a crime and then terrorism, everything from surveillance, emergency powers, you know, like just just, you know, the, like, the ability to drone strike somebody or imprison somebody without trial, like, all of that stuff. And it takes that to the next level where, you know, pandemic really means that the state is house arresting millions of people without trial. Yeah. All types of stuff like it is it is the unlimited government, right. And everything that I've been working on for the last several years is the opposite of that. It is decentralization, its encryption it is to limit the government with, with technology, right. And so back to this paradox thing, you know, Ben Gurion, you know, one of the founders of Israel, um, there's, there's a point where I'm the, I shouldn't say Israelis, because they weren't Israelis at the time. But the proto Israelis were struggling with Britain. But they were also allied with Britain against Nazis. And so Ben Gurion said, Hey, we should fight the white paper as if there is no war, but fight the war as if there's no white paper, like. And essentially, what he meant was the the deal that they had with Britain, he didn't like it. But he also was an ally of Britain during the war, and wanted to be a good ally. Right. And so I was like, Look, we to fight the virus, as if there is no crypto and fight for kryptos if there is no virus,
+
+Unknown Speaker  1:19:09  
+right, like,
+
+Unknown Speaker  1:19:10  
+recognizing that you don't want to undermine the legitimate quarantine, which is actually in your interest in the public's interest. But also recognizing that whatever powers that governments get during this period, even if some of them use it as an all the words are important there, some of them may use it to get the virus under control. All of them will keep them. Yeah, they're not giving them they're not giving them back. Exactly. And so to like, reclaim the freedoms of English man or what have you, right, the Magna Carta like stuff, all the stuff that makes the West great, you know, to reclaim those freedoms. You're going to need encryption, you're going to need decentralization, and it couldn't be crypto. And what's interesting is this has happened actually even faster than I've expected, where the two poles of the postfire swirled until we get a vaccine or drug or something like that. Okay, the two polls appear to be a the total state, which is, you know, in extremists, China and WeChat tracking everybody, right? Or, you know, what South Korea is doing and so on, like, just total surveillance of everything. And, you know, in a sense, it's been happening in the US since 2013. Yeah, exactly. Snowden showed that the NSA has been tracking everybody's location, right. Um, and you, you have to present a, you know, ID to get on a plane, and you have to have a vaccination certificate to get into the US. So in a sense, the green code of WeChat is just those three things combined, right. And I say surveillance plus TSA ID plus State Department vaccination certificate, all three of those things are already operative in the United States. However, making it digital making it efficient, making it visible to everybody, that is different, right? And then it starts getting similar to like the Soviet system of internal passports. Right. Okay. So let's call this one poll. It's called the total state. And the total state by the way, it can be executed well, and it can be executed poorly. The the the executing it well is sort of what South Korea is doing, where they're using these powers for good. It's very easy to imagine it being executed poorly, where you control the economy, but not the virus. And unfortunately, that's kind of what's happening in the US, right, okay. You're crashing lockdown, strong enough to crash the economy, but not the virus. And this is actually what I tweeted even before the lockdowns that this was my fear as what was going to happen that we would get a TSA like response, you know, safety theater, rather than than actually sitting
+
+Unknown Speaker  1:21:35  
+there is what we got
+
+Unknown Speaker  1:21:37  
+him is when we got this right. So okay, so now, what's the other poll? If one poll is this is the total seat? The other poll is what I'm calling market anarchy, okay. And this also an extremist is bad. All right. But market anarchy is essentially sort of the ultra libertarianism that is characteristic of some of the people in this protest some of the people on social media, but it's basically like, everybody should be free to decide for themselves whether or not to buy from anybody, even if there's a pandemic, on whether I wear a mask, whether I do this, whether I do that. It's just like, you know, the total opposite extreme, the total opposite, unconstrained individual few, jack, I've got an AR 15. Right. Yeah. Um, and, look, you know, that's, that's a, that's a thread within Western culture. And there's actually, um, you know, I give, I can't, I can't say give zero Cheers. And I can't say give Three cheers for that. There's, there's something to the like, kind of insane principle of individual rights, that that is good, right? Like, you know, that over the years, you kind of need folks like that, you know, whether whether it manifests as a Snowden type or a activist type, right? There's something there's something to that, on the other hand, it's, it can lead to difficulties in terms of organizing collective response, right? So it's not something where I think you can give a pat answer as that's good, or that's bad. What I will say is, that's the opposite pole to pull up market anarchy. And what I think is going to happen is like crypto is going to be a super important component of that world. Because in the event, I mean, we're already seeing example, seizures of masks, Caesars have hand sanitizer, like bands, like mass users in New York and Sanchez, your seizures in Kentucky, in like, like, Minnesota, Walmart was banned from selling non essential goods in California like Tesla's been stopped from reopening or what have you, like, these are complex matters? I'm not I'm not saying I have like a immediate position on any any of them. But in totality, we're talking about economic controls being imposed in the US and Soviet style that have never been imposed before. Right. And then you're talking about folks like, you know, Warren is talking about banning m&a, for example, beyond a certain size, which starts to have absolutely nothing to do with virus, right. Yeah. And then you've got trillions of dollars being printed, and you've got the UBI. And so you're getting a you know, $2,000 a month potential UBI you're getting a scenario. Okay, where
+
+Unknown Speaker  1:24:05  
+is Andrew Yang and Donald Trump?
+
+Unknown Speaker  1:24:07  
+Yeah, exactly. It means meets AOC, right. It's this is this crossover, right? So there's a scenario, the ideal scenario is South Korea or New Zealand, you put up the viral fire, you control it, you do so in a democratic way, and then you kind of rebuild the economy with other green zones. That's ideal. All right. If we're not going to achieve that, what is the real scenario that I think we're going to default into? I think it's something like this. A, ah, you know, like, starting where we are people go back to work, right? To go back to work, but, um, people aren't buying and some people are dying. And so the demand isn't there. And because demand isn't there, even if the will to work is there for the supply the job side, the demand isn't there, the job doesn't exist or it's just, you know, you're laid off or it's much harder. Okay. Then, um, what happens is Congress passes this $2,000 a month thing, this is one thing the US government can barely do, it can definitely print money. And through maybe square or stripe or PayPal, it can get that money to people. And though people start getting $2,000 a month to stay at home, or as it becomes addictive, but then here's the thing, we get a combination of pandemic deflation and pandemic inflation, and what I mean by that, um, you get deflation and prices crash, and everything you no longer want, and inflation and everything you suddenly need. Okay? So, deflation, in travel in hotels, in, you know, concerts, and anything that I'm like, has risk of getting the virus for that is just just no longer like, like a must have. And by the way, it may not be just the virus, that means you don't go to a concert, it may just mean that you don't have discretionary income anymore. It's another form of deflation, right? Okay. So So, so on the one hand, you have deflation, and these things, okay, and the state will try to prop this up, they'll try to prop up and bail out, airlines will try to bail out hotels, but you can't bail out like 40% of the economy or whatever it is, you know, or whatever, whatever the action is, it starts to become too large to bail out with with the healthy 30% or whatever it is, right. And then on the other side, we've already seen this since January surges in price for masks, hand sanitizers, you know, stuff like paper towels. Right? Exactly. I haven't seen the paper towels. But But I take your word for it. Right? Amazon has these price graphs, see if surges of price for these things. And then what happens is, you start getting price controls. And then what happens, Howard after you put in price controls.
+
+Unknown Speaker  1:26:44  
+It just changes demand, it just creates crazy uprisings and changes demand patterns.
+
+Unknown Speaker  1:26:49  
+Well, yeah, you get shortages, typically, right. And or you have quotas, or you have rationing, or you have shortages, or you're both
+
+Unknown Speaker  1:26:56  
+right. Now kids can live with that stuff.
+
+Unknown Speaker  1:27:00  
+So so that's really, you know, that's, that's an event horizon, right? That's beyond where folks in this generation, at least have learned to do so
+
+Unknown Speaker  1:27:09  
+crypto becomes kind of a hedge, or eventually just an eventuality.
+
+Unknown Speaker  1:27:13  
+Well, so here's what happens in that scenario. Um, this is like the Soviet scenario, you're getting this UBI, right, maybe it pays for rent, maybe it pays for food. And for digital stuff, okay, this thing, by the way, the internet economy of all the things is the thing that's the most flexible in the presence of significant price inflation. I'm like, because because that UBI basically, if you're getting $10 a month for Dropbox, um, and it's, it's now worth $7 a month to Dropbox. Like, because of pure margins, Dropbox, it's not, it's not as bad for Dropbox as it is for, you know, a physical business, we saw its margins eroded by that much, right. So, so essentially, you get this $2,000, month UBI, for rent for food. And essentially, people are in their homes in this kind of Ready Player, one environment, just spending all their time on the internet, right? digital, everything. And in this environment. Remember the concept of the digital divide? Yeah, so this is something I called the physical divide. Over the last 70 years, we made it really cheap to put a bunch of transistors on a chip. But it suddenly become a really expensive, and a bunch of people in a room. And so what that means is everything physical becomes expensive. And so the digital version of that digital travel, right, digital conferences, digital entertainment, digital, this digital that right,
+
+Unknown Speaker  1:28:46  
+pricing power, all of a sudden has a little bit of a pricing power.
+
+Unknown Speaker  1:28:49  
+Yeah. So essentially what will happen is a digital version of everything will arise. And suddenly they'll be very productive enhancing you get digital courts, so you don't have to go down to the courthouse to do education.
+
+Unknown Speaker  1:28:59  
+Yeah,
+
+Unknown Speaker  1:29:00  
+digital education, you know, so you don't have to spend whatever thousand at school, you get telemedicine, right? Like, all of these kinds of things will be good, right? However, it also means that the physical version that's not two dimensional or VR dimensional, that's what's expensive, right? So now, in that environment, when you're in this virtual reality, totally digital world, digital currency becomes really important. Because you're locked in your room. All right, you're locking your home. Your you can't afford to go out very much. You know, one of those two, either you're not going out because of virus or lack of savings, you have the CBI kind of thing, but I don't think it's 100% scenario, but I'm saying this impossible scenario. Yeah, this happens. Well, you know, cryptocurrency is like the international currency. And it's not seasonable, right. Like I said, the state can't seize it. And so it is a cross border currency, in an environment where lots of governments are going to, you know, be hands free. With money, right? And so I think it's going to be extremely popular the combination of digital everything digital currency virtual reality, in an environment where people are at home and need to make money. Um, so so that's why I'm very long on the crypto
+
+Unknown Speaker  1:30:15  
+to your directionally This is inevitable the the the scenario in which it gets there is choppy and not clear. But just time online and everything physical that's happening. It's just silly not to believe or have some kind of directional bet on crypto.
+
+Unknown Speaker  1:30:32  
+Exactly. If you put it like this, you don't even have to believe the scenario that I just outlined. No, not at all.
+
+Unknown Speaker  1:30:37  
+But it's already we're already on that path with kids. Yeah. And the fact that we're sending money to kids instead of going to work.
+
+Unknown Speaker  1:30:45  
+Yeah, it's something where I'm crypto to give you a couple of different reasons why folks are bullish on them. Let's Let's wrap it up if you want a it's programmable money. So you can do things like real time financials with it. And when I mean real time, I mean, like, you know, on Twitter, you can see folks liking your your tweets, and it just rolls up. You could have a bank account dashboard that shows you your money increasing in real time, like a like a
+
+Unknown Speaker  1:31:13  
+think that's why Robin Hood so popular. They can just open it up and just see the value. Just Yeah.
+
+Unknown Speaker  1:31:18  
+It just no. Anyway, yeah.
+
+Unknown Speaker  1:31:21  
+Okay, so that's one thing, right? So real time, number two programmable and it's, I mean, I shouldn't say it's underappreciated, but still underappreciated. Once we made books and movies and music, and newspapers, and all of that stuff. programmable will be got totally new forms, like search engines and social networks. We got Spotify, we got Netflix. We got remixes, like video chat, which tie in? Yeah, tech talks, right. Like,
+
+Unknown Speaker  1:31:50  
+like, that's the ultimate? Yes. Exactly. What programmable mixed up content.
+
+Unknown Speaker  1:31:56  
+Yeah, if you get an email for a video chat, right, like that combines both concepts of USPS and like NBC in terms of broadcasting, and like, like at&t in terms of telephony all into one thing, right? Okay. So all the previous financial concepts, stocks, bonds, gold, commodities, mortgages, derivatives, plus a bunch of stuff that we can't even, you know, conceptualize right now, or that are there edge cases that cold enough search engines and social networks, you know, things like prediction markets or flash loans, crazy financial instruments, you know, need to be one of the few hundred thousand people who's got a Bloomberg terminal. I think it's like, it's like 300,000 people as a Bloomberg terminal or something like that, right? There's now 10s of millions of people who are sitting in front of these crypto exchanges, just like the internet turned everybody's publishers kryptos. Turning everybody into investors. Yeah.
+
+Unknown Speaker  1:32:49  
+I'm so bullish. It just it just on ramped. And then combined with sports closing. It was the perfect storm for for the next investing class to exist. That's why Warren Buffett look tired, too, is like the competition just went up a bajillion?
+
+Unknown Speaker  1:33:05  
+I mean, look, Buffett, he looked
+
+Unknown Speaker  1:33:07  
+tired. He's all I get it. But he also looked like he wasn't mad. He was just like, he couldn't get it together to say something positive about what he saw, except no one's coming to see him. And that the government, he was pretty passed. It was pretty funny. Not because I like seeing him suffer because I'm slowly like this, like tele becoming a fan of Buffett, because he's
+
+Unknown Speaker  1:33:28  
+a kryptonite. It's one of these things where, like, the economy is sort of in this transition state between crazy, like disruption and continued blue chip, you know, bet on America type stuff. Right, right. And now kind of a, I shouldn't say anything that hasn't been started in the last 20 years is in trouble. But that's a good rule of thumb, frankly, last 20 years last 10 years, like Apple and Microsoft are older companies that are dead on. But
+
+Unknown Speaker  1:33:58  
+to kind of start over right there. I think like Apple had to start over with music and the pod. And Microsoft had to start over with the cloud.
+
+Unknown Speaker  1:34:07  
+Any company that has not been in the process of continually reinventing itself and you know, the good ones have, right McDonald's has, Walmart has, FedEx has right they've invested a lot into information technology, right? other other companies like three M. Johnson and Johnson those have you know, they're they're big on the biotech angle or what have you, right. But if it's not info bio crypto, Robo by a robo, yeah.
+
+Unknown Speaker  1:34:33  
+Yep. But we'll do that on the next one. I'm gonna let just because you've just engulfed us with I can't wait to talk to you again and just go through the five the input, but I think covering the COVID with as much optimism as we could as like it's gonna change things and then covering crypto which is programmable and directionally crazy to bet against. You don't have to ride it. I think that's a lot for people to take away today. In the market and the fact that as you and I said, there's something about how how to lab makes more sense to more people, even if you don't like them you got to do is reading and that Buffett was not giving up. But he was ready to pass. He didn't have anything great to say. And that doesn't mean you have to be bearish. It means like, again, like the old economy can be in their shit. And in two things can be true. He's not washed up. He's just a little he can't blame the guy for being lost. He's probably looking at his job. He's probably looking at as insurance companies going I don't fuck I who can do the math on this outlier. Right? Well,
+
+Unknown Speaker  1:35:37  
+one thing Buffett Buffett said was like he didn't he he mentioned he didn't get tech. He didn't get Google or Amazon. He's mentioned that in the past that he was wrong about this thing, because he didn't get that part of it. And the issue is that the part he didn't get, has just gone through no fault of his own, but just has gone from 20 or 30 or 40% of the economy to like 95% of the economy. Right. Right. Like Like that's it like this, this. This is just a different economy now.
+
+Unknown Speaker  1:36:05  
+Yep. And that's what it looked like the poor guy, it just looked like that. And he's a poor guy, meaning you don't have to worry he's just I don't think he can do for shareholders what he used to do. And I think that came across he wasn't shitting on anything. And he sure look like you know, when he did used to shit on Bitcoin rat poison. That was the that was the worst take of himself. But in watching Michael Jordan when he gave Steve Kerr a black guy, everybody has their black guy moment. And he
+
+Unknown Speaker  1:36:33  
+looked Buffett's an amazing a super intelligent person. I've learned a ton from him. I think he's very smart. I just think that by you know, just his own admission was like he's not into tech, like tech isn't thing and that's now become a much bigger part of the economy. And so that's why I think it's
+
+Unknown Speaker  1:36:50  
+it's just a world. Well, I appreciate all the content you share for free. People. That's what the great thing about Twitter so I appreciate that. And I'll hopefully I can you know on the subjects. I'll be back once in a while if that's okay with you on panic. Sure. All right. We're safe. Continue safeness. And we will talk to you soon. Balaji.
+
+Unknown Speaker  1:37:10  
+Okay, charge talks.
+
+Unknown Speaker  1:37:13  
+He wore me out.
+
+Unknown Speaker  1:37:15  
+My my brains hurting.
+
+Unknown Speaker  1:37:16  
+You have to be professional. Yeah, not logic, meaning I was just listening.
+
+Unknown Speaker  1:37:20  
+Oh, yeah. No, I had to listen.
+
+Unknown Speaker  1:37:22  
+Because there's so much ground and I didn't I didn't know enough about him to frame to just rein it in. And I didn't want to over I mean, I could learn it sit through his brain
+
+Unknown Speaker  1:37:34  
+is is on such a different planet than mine is and and I'm
+
+Unknown Speaker  1:37:39  
+trying to make it simple. Yes. You have to manage I may have pulled
+
+Unknown Speaker  1:37:43  
+really impressed is what I'm trying to say is ability to take all this information and narrow it into something that is understandable to be it's here's
+
+Unknown Speaker  1:37:51  
+the noise we've gone from an extrovert world, to an introverts world pissing people off. Even Trump the master extrovert Exactly. is not his it's not going to be as easy for him in an introverted world know if the other side can get people out to vote. So that electronic voting, it may be his world still, because voting is the one extroverted thing that that happened that the second thing is the Warren Buffett disciples have their work cut out for him because their fearless leader is not a tech person. Yep. And that's the writing's on the wall there. The third thing is that one thing can be true and the other thing can be true. It's like the China thing. They can be great at shipping shit, but they're also full of shit. You know what I mean? And those are both true. And then you know, in you know, as I say, I'm not bio and I'm not Robo. And I'm not aggro, but crypto and info and media. Media is info. I mean, he's right on there. He's got some great, like, say isms. Oh, yeah. You know what I mean? Like, that's why he's great on Twitter. You know, it's, it's he's got so much going through his head, his his YouTube chats are great. Okay. Thanks for everybody. That was our longest combo. I know. That's not typical. But when you have someone that has that much knowledge, it's pretty interesting.
+
+Unknown Speaker  1:39:10  
+Very, very interesting.
+
+Unknown Speaker  1:39:12  
+All right. Thanks, Balaji. Thanks. Thank you.
+
+Transcribed by https://otter.ai

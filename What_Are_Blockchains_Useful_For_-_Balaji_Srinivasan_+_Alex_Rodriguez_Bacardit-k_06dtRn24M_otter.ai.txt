@@ -1,0 +1,142 @@
+Unknown Speaker  0:04  
+First of all, thank you for coming. And thank you for creating Aaron calm. Maybe we want to start with explaining a little bit where you come from how did you come up with the idea? And why did you think it was a great idea to pay to get a reply from Marc Andreessen?
+
+Unknown Speaker  0:17  
+Sure. Okay. Yeah, so um, you know, where we come from. So I'm currently a partner at the venture capital firm in Charlotte's. In 2015, I took over a company that, you know, had gotten into some trouble and turned around. And one of the technologies that had at that time was some micropayments technology. And back in 2014, the Bitcoin Core group was actually led by Gavin Anderson, who won focus on microfinance and large scale transactions by late 2013, early 2016. That wasn't the case anymore. And now most of the microfinance software, we have built the company and taken over, we need to figure out a way to repurpose it to do something valuable. So we put together a spreadsheet of a number of different kinds of applications. And of those, not the very smallest goal of my community, but we're competing. And one thing that's interesting is if you look at the Internet, right now, there's two sets of queries on the sender side, and on the receiver side of email, which aren't really being addressed like kind of an unmet need. On the sender side, there's many, many people who are googling How to Buy email lists. And typically, if you buy an email list, the people on that list, haven't given their consent, and they're not getting a cut of the proceeds from the sale, that email list. And as such, they're reticent to actually go and let their information be sold. Conversely, on the other side, you have lots of searches for make money online, or make money at home, make money on the internet, etc. So if you can somehow solve all those problems, at the same time, allow senders to buy email lists and a lot of people to just make money online, that'd be actually pretty good. Because there's very few social networks, you know, all kinds of certificates where you can get followers and make friends, but very few where you can actually make money. And we think that might be the next 510 15 years of social networks where you accumulate not necessarily just followers or friends or likes or favorites, but actually negotiable digital currency. I was
+
+Unknown Speaker  2:15  
+hoping that that was going to ask because you guys started first 20 one.co Why did you rebrand to Aaron calm before we go much more into product?
+
+Unknown Speaker  2:22  
+Yeah, sure. So um, right. So the company that took over was called that, and that was named after the 21 million, you know, capitalize on Bitcoin? And that's cool. You know, I think it's, it's, you know, a cool name or whatever. But I think our.com conveys a value proposition of basically making money online for completing tasks and responding to messages. And it's also a.com. So it's easier for people to remember and pronounce and type in and what,
+
+Unknown Speaker  2:47  
+then do them that earn you some sort of like, bad reputation as a, like, if I receive an email from aaron.com, make money online is perceived as something dodgy when you have these kind of problems at the beginning? No, I don't think so actually,
+
+Unknown Speaker  2:58  
+because the thing is that when you have a, you know, like a URL calm is a, you know, it's a premium domain, right. And so if there's going to be a reputable place, to make money online, to monetize yourself, to monetize your email, etc, I think it's going to be from a spot where, you know, it's wholesome, right? If you look at earn, it's all got positive connotations in the dictionary, you're earning your daily bread by, you know, completing tasks, and
+
+Unknown Speaker  3:24  
+so on. You can you can replace the messages that are being sent on LinkedIn to the top people, right from people like Marc Andreessen, for instance, by having your product as in the thing that it's more like qualified emails or propositions that you are getting through your platform.
+
+Unknown Speaker  3:39  
+Yeah. So I think like probably the most direct alternative to what we're doing is LinkedIn email. And if you folks have used LinkedIn, there's a feature on it, you may not know the name of it, it's called email, which is basically your inbox on LinkedIn where other people on LinkedIn can message you. And the thing is that right now, there's no incentive for people to reply to those emails on. And so as such, it's just, you know, another inbox to check. But ours is like LinkedIn in mail where you actually get paid. So if you're being cold messaged by somebody outside your social network, you can actually get compensated for that. Now, one question, you ask a related one. So first is with the general average person want to get paid for this? Yes. Now, you might say, Well, why would the you know very richest, or most successful kind of people want to get paid for this kind of thing? And what's interesting is at $1 per minute, you know, to give a quick one minute reply, that actually annualized just about 120,000 a year, at $10 a minute for $10 reply, that's like 1.2 million a year. So you actually have to be fairly rich, extremely wealthy, in order to not do $10 for one minute for a reply. But there's lots of senders who definitely pay $10 per reply. For example, if you're looking for folks who want to lease office space, or if you're, you know, like trying to sell very, you know, valuable enterprise, you know, software $10 per reply might be very cheaper you because any one conversion might be worth 10s of thousands or hundreds of thousands of dollars. So it depends on kind of Who the recipient is, but there's a very large number of people more than you might think, could rent out their time online?
+
+Unknown Speaker  5:06  
+Let's see, let's go into these because these these breakup stages also verifique is about blockchain and crypto. So you are giving people your retroverted. And these people with crypto actually, you were, let's say, crypto digital, I prefer an ATM. If you allow me that, why did you come up with these idea?
+
+Unknown Speaker  5:21  
+Yeah, it's good question. So, um, one way of sort of thinking about it is, you know, Stripes, innovation over PayPal was improving pay ins, right, let's say improving the process of putting in your credit card online. Pay outs are actually even more primitive in some ways in patients, when we have demonstrating that is, if you think about it, there's many, many websites, probably hundreds, if not thousands of websites, if you think about it, that you put your credit card into, but very, very few that you put your bank account into. So there's lots of websites that you can pay, but very few that will actually go and pay you.
+
+Unknown Speaker  5:53  
+And
+
+Unknown Speaker  5:54  
+that means that empirically, there's a large hole on the internet, where for some reason, it's been technologically challenging for websites to set business models where they pay $1, or $5, to thousands or millions of people. We believe that part of the reason for that is that in order to receive payments on the internet prior to the blockchain, you need to go and input your bank account and inputting your bank count is actually a very high threshold activity. That's to say, first, you don't have too many bank accounts. So replacing it is a pain, right? It takes you know, hours or days to replace it often. Second, if somebody's compromised your bank account against those credentials, then they can debit money from your account, not just not just you know, credited. And third, you got your life saving two there. So it's a very large downside of he says people are willing to give up their bank account addresses. However, if they give out a Bitcoin address, address, if that actually solves all those problems, because they can generate them in seconds or fractions of a second, they can only receive money, and no one who knows the address can can debit from it. And you can have arbitrarily small or large amounts in there. And so it can be set up and just come to the website and start earning got the overhead of having to go and get a bank account. We think that's one of the major reasons that payouts become much easier with what we're doing with blockchain.
+
+Unknown Speaker  7:03  
+And exactly that's why we wanted to give the example of earned.com as a practical example of the blockchain, right? Because we are seeing a lot of figures lots of conference about the blockchain, crypto Nova. And it's all theoretical speeches and keynotes and all that. But very rarely you get, you get to drill down on what's the practical implications of that. So how can you explain a little bit more about how they use it in the in the tech side, perhaps?
+
+Unknown Speaker  7:28  
+Yeah, absolutely. So we have thousands of centers using us, we went to keynote at Salesforce actually just a couple of months ago. And the the use case is very simple. If you're a business that wants to get people to reply to emails, or fill out surveys, user calm. And so some concrete examples. So I mentioned fill out surveys, right, so you've got a long survey, you want people to fill it out, boom, you can set it to 10,000 hundred thousand people. or number two, you want to get feedback, right market research. That's like a subset of the server problem. But you can go into send that out to all of your users give them a paid task, and you can pay them one or $2 to fill out the survey that makes it much more likely they're going to do it right. If you're doing sales, what you can do is you can blast, let's say 10,000 people with a single question, you can say, for example, are you using containers in production? And let's say 1300 of those people say yes, I'm using it at work, I'm using it in production, you can follow up with them with a $10 task to try to get them to go and do an interview. And so in this fashion, it's like a new kind of social network, like, you know, if you go and put out a tweet on Twitter, maybe people will engage with it, maybe they won't, right. But with our.com, you're actually paying them you're making a payment conditional upon their engagement. And that's possible watching because we can pay people out small amounts in any country at any time, all that type of stuff, right? So blockchain has enabled this new kind of thing. It's practical. It's useful for any kind of business that wants to go and get, you know, emails, replies or survey completions. Another
+
+Unknown Speaker  8:51  
+thing that you Bob probably didn't predict back in the day when you started businesses, like you have gathered around this community of crypto because I'm getting a lot I'm using our common I'm getting all these, these emails and messages that hey, we were selling tokens for Ico and all that presale. Join us here register to our telegram channel and of that, did you did you foresee that this was going to happen or profiting from these having these community around the product?
+
+Unknown Speaker  9:17  
+Yeah, so good question. So basically, on the the kinds of centers that are on earth calm right now are enriched for people who are in the crypto community because the center's understand crypto, the users understand crypto, the product is built on crypto, etc. So that's community where there's, you know, insane product market fit already for a lot of these token airdrops, because what a token airdrop can do is they can push a button, they can pay 10,000 or 100,000 people $1. And they can also give them some of their free tokens and it's a great free trial kind of thing. And to get 100,000 people like real verified users to respond or engage with what you're doing. It's actually not that easy under there kinds of platforms, you won't get like the actual human beings and it'll just get up to 100 thousand impressions, but you wouldn't know who it was you can't retarget them all that type of stuff. So absolutely, there's definitely product market fit within the crypto community. But we do think it diversifies and broadens beyond there. For example, right now, there's folks who are paying users like $1, you know, per installation or calm to install a crypto wallet. But it's easily generalized outside of that, because pay to install is a multi billion dollar business for many other kinds of apps. So you can imagine easily broadening out to FinTech and other kinds of
+
+Unknown Speaker  10:25  
+verticals. After this. I
+
+Unknown Speaker  10:27  
+wanted to ask, do you, is there any some sort of verification from the senders of these of these campaigns of these big messages? Because one of the fears I have is like, when are the scammers gonna sign up for him.com? And or like spammers, if you will, or like companies who are not relevant to this market, but they sign up? Because precisely for them is profitable to join this and send a million emails to your platform? Right?
+
+Unknown Speaker  10:50  
+So one of the big things is the fact that the sender is paying the recipient in cryptocurrency does reduce the I can't, I'm not saying it completely eliminates it. But it does reduce the number of true outright spammers and scammers, because they have to put down like a $50,000 Bitcoin or aetherium deposit to send a $1 message to 50,000 equal, that's the kind of thing where, okay, maybe they might be running a scam, but it makes it much less likely, right? Because at a minimum, they're going to lose $50,000. The reason that email spam works is because there is no you know, meaning like you know, the spam you get in your email inbox or what have you. Because there's no cost per message, then the spammer can just send 10 million messages and 30 replies or what have you, with this, because there's a cost per message, it tends to attract a sender who, you know, maybe they're not like, you know, amazon.com or whatever yet, but they're startup that's not like completely non reputable, right, like, they can actually have the capital to put down a deposit. With that said, in the medium term, we're going to be doing even more like center filtering and whatnot. But right now, we don't really have that issue.
+
+Unknown Speaker  11:55  
+Do you foresee that in the future? Because you mentioned the subject of spam, right? And it probably it's not spam, when pretty much like underdogs, like young entrepreneurs and everything they want to access Marc Andreessen are, however,
+
+Unknown Speaker  12:08  
+really important people in books. So do you foresee that in the future, we are going to be people who are not in our first or second or third degree of contact? Something like that? Are you disrupting the email inbox? So that's actually something we think about a lot. And here's why is, most people are neither on your whitelist or your blacklist, right? So blacklist or spammers. whitelist is your social network, right? But maybe your social network has, you know, a few thousand, or maybe even 10s of thousands people if you include, you know, friends of friends, right? Um, but the vast majority of the 7 billion people in the world are on your green list. That's to say, the folks who the natural interaction is a commercial one, they're not your friends, they're not your enemies, they're your potential future business partners. And that entire swath of kind of human relationship right now is based on cold email, right. And when we're thinking about that is, you know that the personal inbox itself of last 10 or 15 years, all person to person, email was taken out and pulled into text messaging, and Snapchat and Facebook and whatnot, right? And all intra internal intra company, email was pulled out into things like Slack, right? What's left is really a lot of business to business email, and also like login stuff, notifications, things like that, right? So transactional email have two different varieties. And so we believe that the business of business email is the kind of message that you know, that's the kind of connection that naturally has $1 sign on the edge, right? In the sense that when you're pitching a commercial relationship, when you're saying, Hey, I'm recruiting you please join my company, or Hey, you know, I'm doing a survey to improve my business, or Hey, you know, I'm trying to sell the SAS software. Well, that's something which is inherently commercial. So it's not totally inappropriate to put $1 sign on the edge and devalue that communication.
+
+Unknown Speaker  13:48  
+So kinda like Google ads, but for email, do you see like, we're going to bake the feature creates somebody else's email, just because we are not in neither of the black or white list? Well, I actually think that when you
+
+Unknown Speaker  13:59  
+move from paying for attention to action, on you can 10 or even 100 x internet archives, and that sounds like a very bold thing to say. But right now, people spend, you know, dozens or hundreds of hours on Facebook a year. And you know, Facebook, like there are crews in the US are about like 70 $200. But most people you know, if you just take a minimum wage and multiply the number of hours on Facebook, there probably be thousands, if not, you know, 10s of thousands of dollars. So there's a huge gap between how much existing internet companies are monetizing per user, versus how much you could monetize if you could actually tap their brains and their actual work, work ethics and their skills. And obviously cut them in on some good as well. Right. So right now we have this completely, you know,
+
+Unknown Speaker  14:42  
+Baroque system for
+
+Unknown Speaker  14:43  
+monetizing, you know, online, which is ads, okay, you're just paying on basic attention. If you can monetize in this fashion, you might do much better. I wanted
+
+Unknown Speaker  14:49  
+to ask a little bit more about the product itself, right, because probably some folks over here, they're not familiarized with it. I wanted to ask, let's talk about the bumps because this like for me, too. revolutionary concept. Maybe you can explain what is it about and what have you learned?
+
+Unknown Speaker  15:04  
+Sure. Yeah. So one of the features that we have in our.com is a personal paywall. Okay, so if somebody from outside your social network sends you a message, you can send a bounce back to them, that says, hey, if you're outside my social network, please, you know, pay me and you know, I'll be only paid if I reply to your message. Conversely, if they're your friend, you can be on the waitlist. So some examples of why this is helpful right? Now, one thing that many people do, by the way is they donate the money they receive in this fashion to charity, right? So if you're, you know, a venture capitalist, for example, you're getting, you know, dozens, sometimes hundreds of cold emails a week. And, you know, if you can turn that into two $3,000, that you can just go and give to charity. That's actually, you know, pretty good. If you are a executive who's getting lots and lots of pitches for, you know, this and that company, well, what if you could just auction off your inbox time and actually make it valuable. And now, rather than 500, unsorted cold emails where they just try to nag you into submission, you have an ordered inbox where the folks who really want to get in touch with you can do so even if they don't know you, right. A third example, many journalists have many PR people pitching them constantly tried to get attention for their startup, you know, now the journalist could take a paid message and then do one of three things with it, keep something for themselves, split it with their parent company, or donate it to charity, or some combination of those three, right. And different journalists will have different kinds of arrangements with their parent company for that kind of thing. So anybody who's got kind of email overload, often the reason they do is because their attention is monetarily valuable, but they have no way to actually monetize that or put a paywall up and with their company allow
+
+Unknown Speaker  16:41  
+you to do that. And went to the US, right now in order to use stern calm, you need to go to your platform signing their signing, sorry, signing there. And just usually through above, do you envision that by having it somehow built into your email inbox that will increase conversion on the time that people are using your platform? Do you see this something that you're guys envisioning? Yeah,
+
+Unknown Speaker  17:01  
+definitely. I mean, the way we think about it is, that's like another client, you know, if you guys know how, you know, many web apps, and other things are built today, you know, you build an API brain. And you've got the web client, you've got the iOS client, you've got the Android client. So we'd have like a gmail file, we'd have like an Outlook client, and so on. So think of that as also this good reading and writing state back and forth and English ways to kind of do that with plugins
+
+Unknown Speaker  17:22  
+or other kinds of things.
+
+Unknown Speaker  17:23  
+And what are the let's talk a little bit about like lessons learned? What are the top three lessons learned that you have learned through our comm? Probably about product or even team management? or?
+
+Unknown Speaker  17:33  
+Yeah, so it's interesting. So well, first is, you know, blockchain space is interesting, because, you know, I'm fortunate to have gotten in very early. And, you know, it's been really fascinating to watch, you know, the whole thing go vertical. Love fun. But, um, I think, you know, so one lesson learned is that, you know, capital versus labor in the space is actually very valuable, let's say, unless you have a really good idea, you probably don't necessarily want to start a company, your best bet may just be to put that hundred thousand that you go and put into the company into, you know, a basket of cryptocurrencies and just hold it, right. And then you can just kind of sit and chill and, you know, watch it go up, or down, and then up and down. You know, that's all fine. So that's number one is really think about whether or not you want to put in capital versus labor, because that trade off is now available to many people as individuals. And it's a very new thing, because it used to be that only accredited investors could make that kind of trade off, right? They're the folks who could actually invest in startups and decide, hey, I just want to make my stocks go up, or do I want to actually go and put in sweat labor, now there's a possibility of actually putting your savings to work, rather than actually going into the stress of being stressed. So it's kind of number one, labor versus capital. A second major thing is, you know, like, just thinking about the sheer scope of things that can be transformed and disrupted by blockchain. I mean, you're gonna, you're gonna hear lots and lots of talks on that type of stuff. And, you know, maybe I'll publish some essays or whatever. But, um, the one thing to keep in mind is anything that is bleeding edge today is probably too early may not be too early to base a token on or coin on, because you want to get, you know, marketable value out of it. But it's probably too early to base a business on something that was just launched like a couple of weeks ago. And the reason for that is, you will be taking all the platform risk and all the hits associated with that. And then after development tools, you know, improve over six months or nine months on, you'll only be maybe a few months ahead of somebody who has those improved tools, and it could potentially catch up. Now that that's if you're building on top of one of these new coins or tokens, you're actually building the corner token itself, well, then, you know, bleeding edge actually has a value in its own right, because there's a market cap. So that's kind of the second thing that should be cautious about building on top of stuff that is very cutting edge. That's not a new concept, but in particular, the blockchain space, I see folks who are trying to say, Hey, I'm going to use your board and file coin and aetherium. And this I'm gonna stack them all together. And then you've just got an app where it's got like 10 things that are totally cutting edge and if one of them rakes in will, then you're holding, you know, where's it what I prefer to do is try to have technical risk in as small bucket as possible. And then everything else uses standard techniques as possible, right. So it's not, it's fine to use Django or to use rails or, you know, something like that. And then your blockchain risk is just like one component. And you can of course, do the whole thing in Haskell or whatever. But ask yourself, if that's really giving an advantage, you know, versus versus not. Um, so those are basically the two things I'd say is a labor risk capital and be decided we're going to use the technical bleeding edge,
+
+Unknown Speaker  20:35  
+your comms question, I want you to be completely honest about that. You feel these in order to avoid so many multi reversing too many emails at Andreessen Horowitz.
+
+Unknown Speaker  20:43  
+I mean, certainly my personal experience,
+
+Unknown Speaker  20:44  
+I mean, but but also, not just on the user side, but on the sender side, right. So, you know, prior to initial orbits, I started a genomics company, a very large company, actually now, on that, you know, a big part of it was trying to, you know, sell to doctors, right. And I learned what the sales was, if you go and use, you know, what's the tallest building in San Francisco? It's the Salesforce tower, right? this gigantic building was built on the basis of cold emailing, right? And I wanted to try to calculate, okay, how many emails per each
+
+Unknown Speaker  21:13  
+for the building, you know,
+
+Unknown Speaker  21:14  
+us imagine stacking that whole thing up, right? So cold emailing is definitely something which is valuable for the sender. But it's a very poor relationship, because the guy on the other side doesn't like being negative distribution. And the sender doesn't like installing all this NSA surveillance stuff to try to track when someone's opened the message, and you call them right on the phone right there. Right. So I think improving that situation, I think, is something I've thought a lot about. And that's one
+
+Unknown Speaker  21:37  
+reason I did this, did you have any expensive learning concerning cryptocurrencies that do burn a lot of money in one failed experiment that you want to share about?
+
+Unknown Speaker  21:44  
+No, I mean, actually, that was something which was done like prior to meeting with the company. But, you know, I think in crypto in general, if you've been in early it's almost impossible to not have made a lot of money. So you know, that's, that's personally not a personal brand.
+
+Unknown Speaker  22:00  
+I wanted to ask, so you know, sorry, Brian, we are in 375 cities in over 115 different countries. do you envision there's any way we can help you because that's ingrained in our core values, right? Our core values are basically just making friends and helping others before helping ourselves so is there any way we can help the community attorney calm?
+
+Unknown Speaker  22:17  
+Well, if you guys don't have some free Bitcoin, just go and sign up for a calm you'll get $1 free Bitcoin. So that's
+
+Unknown Speaker  22:24  
+something right there. Maybe I can help you guys.
+
+Unknown Speaker  22:27  
+And maybe we can wrap it up with this one. And before. Before we call it the call up. I wanted to ask everybody has got a useless superpower?
+
+Unknown Speaker  22:35  
+Which one is yours? A useless superpower? Something you do exceptionally
+
+Unknown Speaker  22:38  
+well, you do it every day is like why do I know this? I don't know. I've
+
+Unknown Speaker  22:43  
+memorized every rap lyric from Dr. Dre. It's it's pretty
+
+Unknown Speaker  22:46  
+useless, but it's good. All right. Please give it up for him. Thank you very much.
+
+Transcribed by https://otter.ai

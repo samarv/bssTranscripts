@@ -1,0 +1,286 @@
+Unknown Speaker  0:03  
+This is the reason interview with Nick Gillespie. Thanks for listening subscribe@reason.com slash podcasts or at Apple, Google, Stitcher, Spotify, SoundCloud or wherever you get your podcasts. So, how should the United States government and the rest of us peons respond to the Coronavirus, which has just been declared a global pandemic by the World Health Organization? It is getting scary out there. Balaji Srinivasan who was on a shortlist to head up Donald Trump's Food and Drug Administration has some strong opinions on the matter. He's a former venture capitalist at Andreessen Horowitz, and he's a serial entrepreneur with a PhD in electrical engineering. The genetic testing company he co founded council helped change the way millions of people prepare for parenthood and his cryptocurrency startup earned calm, was acquired by Coinbase, where he served as Chief Technology Officer in oppression lively and constantly updated twitter feed Sierra Nevada and has been way ahead of the curve and noting the coronaviruses spread and potential to cause a global public health crisis and a massive economic and social disruption to life as we know it. During a conversation conducted via Skype with me, he talked about why he thinks the Coronavirus may have as big an impact on our way of life as the 911 attacks did, how the United States government, especially the FDA, he once might have had it up has fumbled its response. And why we're likely looking at mandatory quarantines at the national level. At the same time here and avacyn also believes that private sector and nonprofit actors are conducting a digital Dunkirk rescue operation that might not only save countless lives, but actually accelerate the adoption of positive forms of decentralization and digital culture in our political, economic and personal lives. Balaji Thanks for talking.
+
+Unknown Speaker  2:07  
+Hello.
+
+Unknown Speaker  2:07  
+So let's let's get right to it. You were really early and sounding the alarm about Coronavirus. How did you hear about it? And why were you on top of it? And what does that say about Silicon Valley versus journalists on the east coast.
+
+Unknown Speaker  2:25  
+So I've been following, you know, the Coronavirus out of my peripheral vision is kind of one of many stories until I saw the lockdown on January 23. And that was unprecedented. It was an unmistakable signal. You know, the Chinese government is completely focused on economic development. So the quarantine millions of people which seemed to come hundreds of thousands of people that made me pay attention to what was going on. And so I began talking to me friends of mine, Chinese engineers, entrepreneurs, angels, and the like. And the qualitative picture that I got from this was his hair raising, right? You know, we're talking videos and photos of people being blockaded in their apartments, dying on the street, even one of a man throwing himself off a bridge because he couldn't get to the hospital didn't want to bring the virus home family. I didn't know what to believe from this, you know, some of it could be fake, but other in those images would seem fairly difficult to fake even with today's technology, and they seem to match the general circumstances. So, you know, even if some of them are true, these were sort of sci fi movie level events happening in China. Right. And if I, you know, was too skeptical, you know, I would remind myself that there was an officially acknowledged scale of locked into some precedent. And that was an independent reference point of ground truth that one could could anchor right. Now, you know, I also have a background in like Bioinformatics, molecular diagnostics, genomics and so on. So, you know, even though maybe a lot of people know me for crypto and venture capital, actually, I did many years as a founder of a genomic testing company prior to getting into crypto and Angel and venture and, and I was an academic for many years. So, so the third thing I did is, you know, dug into the literature and read all these sort of dispassionate medical reports and these these kinds of articles in the New England Journal of Medicine with Lancet, they're written in a style which is almost like the opposite of clickbait. So, like, you know, the first the first US case study written up in at GM said something like, you know, 35 year old patient with no pre existing conditions, contracted bilateral pneumonia by day 10, we pursued compassionate use. And in English, that means a healthy 35 year old man was brought to death's door, and we need an experimental drug to save his life right now. I mean, zero insult whatsoever towards the folks writing these articles that runs that style, but when you translate them, it's eyebrow raising, you know, basically, you know, here's a healthy 35 year old about to die and he took 10 days in a team and an experimental drug to save him. And that was like the first case in the USA, right? And that's a contagious disease. So you know, you start mapping that to not just one person But but but 10 people or 100 people or 1000, people that sort of get very expensive in all senses of term in terms of, you know, suffering and in terms of medical resources, and
+
+Unknown Speaker  5:13  
+so on. So the combination
+
+Unknown Speaker  5:14  
+of a China's official state action, the unofficial social media reports and people in China and see articles in biomedical journals, that's what maybe triangulate on this earlier, something potentially critical importance.
+
+Unknown Speaker  5:24  
+So what what were journalists missing? Or and actually, for that matter, what were what were American health officials, because the New York Times ran a story this morning, about how Seattle, there were a couple people in Seattle who said, Look, there's something really big going on here. And then they couldn't really get traction within their own health organizations. But what what were journalists and health officials missing?
+
+Unknown Speaker  5:49  
+So I want to say, you know, first, you know, some professional journalists really got this right. And, you know, I've got like a piece coming on, you know, let's call it corporate journalism versus citizen journalism. And not all corporate journalism is bad. For example, a journalist said, at caging. In China, they published really impressive stories in the face of state censorship. And you know, the New York Times, they're China reporters, you know, like Amy Quinn, and Paul Moser, they did pretty impressive work. There's people on the ground in China, who has consequences from both government and the virus to get the story out. So I want to run a kind of level set that right, but I take tech journalists completely failed on the most important story of the year so far, if not the decade, you know, this could be you know, to the 2020s with 911 was to the 2000s, or the financial crisis to the 2010s, you know, kind of the starting gun that that kicks off. So you're telling
+
+Unknown Speaker  6:43  
+me, we're in a new decade, and it's already kind of at the shitter.
+
+Unknown Speaker  6:49  
+I'm not saying in the shitter. But certainly, this is going to be an event that colors this decade, you know, the the level of the number of consequences, obviously, politically, but for technology for biotech, for all kinds of things for immigration policy, you know, so just focusing, you know, for a second just on the tech angle, right tection was completely failed on this. And it's not just that infamous repoed article talking about how parents
+
+Unknown Speaker  7:16  
+were
+
+Unknown Speaker  7:19  
+in handshakes. Yeah, pretty much every every intelligent politician in the world is doing or the BuzzFeed article saying Don't worry about you know, Coronavirus, worry about the flu. It was the tone of these journalists and all their tweets and whatnot. Talking about the terrified racists Zena phobic bubble boy VCs who were scared to death of this total non issue of virus right. And, and that's all a matter of public record. And of course, this non issue turned out to be very much an issue. And they weren't simply getting the story wrong, but they were actively attempting to shame and silence people getting the story right. And some of them you know, later in sincerely apologized, others wrote, you know, columns about how they got the story wrong in a slightly more insincere way. And then, once Trump started adopting their early talking points about how the virus was just the flu, several of them have reversed themselves and pretended, you know, they've been taking it seriously all along, you know, they were, they were against the virus, you know, before they were for it or against it. For right. But but as a group, I think texture was completely just unforgettably failed on the virus crisis. In a way I know, people, at least within tech will never forget, what explains that are our tech journalists? And
+
+Unknown Speaker  8:30  
+you know, and then we're going to get to the kind of libertarian intersection, or are they always skeptical about, you know, the great big thing? Or is it particular? I mean, because in a way, tech journalists seem to be suckers for certain types of stories, and then they reject others? What would make them more prone to rejecting this story?
+
+Unknown Speaker  8:48  
+I mean, like, in general, I think it's that they're skeptical of big things. They're, they're credulous of big things that are negative, you know, against tech companies, and they are skeptical of things that are positive. Right. And and the reason for it, I think it really boils down to the fact that, you know, another word for a lot of the journalists is they're employees of a media Corporation. And those media corporations are direct competitors of tech corporations, and their direct competitors, certainly, monetarily on the back end, in terms of advertisers and what have you. But even more importantly, on the front end, in terms of influence, right, you know, in many different ways people seek information on Google, they talk to each other on Facebook and WhatsApp. They post on Twitter, in many, many different ways that undermines kind of the information monopoly. And you know, the counter argument you'll often get is, oh, there's an advertising versus editorial wall and journalism and tech people don't understand this. And, of course, you know, that actually exists within tech companies as well. You know, Google has a wall between search engine engineers and advertising engineers that that that will, at least existed for many years. But But really, it is true that journalists aren't thinking on day to day ad sales, but they are hyper conscious of the fact that the industry is generally declining that till a journalist had gotten laid off, and that these, you know callow tech people seem to be all making those dollars because they focus on the successes but not failing, right. So I think certainly part of it is the fact that many of these tech journalist frequently lacked technical backgrounds. I mean, there's there's some using thing where folks were like, oh, haha, all these VCs commenting on the Coronavirus, and you know, had to cut my head because many VCs have biotech backgrounds that's like, if not half of VC, it's a very large chunk of VC, Founders Fund Y Combinator a16z, all have large biotech funds, and biotech in the broad sense, meaning biomedical, not simply recombinant DNA. So you know, and then, of course, there's lots of specialist biotech funds. But the tech journalists, they lack technical backgrounds, they often you know, they can't code they don't know, drugs, diagnostics, therapeutics, but they comment. And so certainly part of it is the lack of technical background. I think another part of it is, you know, as you may be aware of many of these tech journalists, they actually grew up rich, they went to private school, their trust funds or inherited wealth, and they're motivated by a bizarre sort of animus against the nubile rich tech people. And one way of parsing It is really old money versus new money. And you know, there's a guy Antonio Garcia Martinez who tweeted about this recently, and a bunch of journalists yelled at them and then many of them volunteered one of them volunteered that she had gone to a $90,000 a year private school run you know before anybody else.
+
+Unknown Speaker  11:22  
+So real that real that back for a second though, and how does that map on to missing the Coronavirus store? Great
+
+Unknown Speaker  11:29  
+question is basically the combination of a technical ignorance and B class hostility
+
+Unknown Speaker  11:35  
+curled into a cocktail
+
+Unknown Speaker  11:36  
+where they didn't know what they didn't know about the virus. But they didn't know that they hated these tech interlopers. And that's what drove the college. Okay,
+
+Unknown Speaker  11:43  
+so discuss how is Coronavirus, different than the flu. You know, one of the one of the early stories was, uh, you know, and I, and I think there's a plausibility factor that that this is a type of flu might be a little bit worse, but you know, let's, let's not lose our shit over this.
+
+Unknown Speaker  12:00  
+Yeah. So let me give a quality of answer and then a quantity. Okay. Okay. So, based on this first move on, was an orphan child, okay. I mean, that has problems, but as normalcy, okay, less than 60 days later, seven hospitals in Wuhan were filled according to occasion, the sick were being sent home to die. China instituted the largest quarantine in recorded history. And basically wartime measures were instituted. Now, that is not a bad flu season, you know, that that is something that is on a completely different level. And, you know, you you have to think, Okay, well, you know, the Chinese government, the Chinese people, these, there is many criticisms one can give them, but they're serious people, you know, these are not folks who are known for doing anything like this are so focused on economic growth, right. So that right, there is a pretty unfavorable signal, and then let you know, I tweeted that, and now later, Iran and Italy have both had very similar kind of scenario. So So this fire seems to be overwhelming hospital systems, flooding them, you know, with with folks with respiratory failure, crashing hospital systems. So that itself is something which is qualitative. Now, the quantitative is, when people are comparing this to the flu, they're comparing it constant to a variable. The flu is a known quantity, it's roughly state and state, we know within bounds how many people it's going to infect, a bad flu season does not crash a hospital, right? Whereas this is something which is wildly contagious, has at least on the order of 10 X, the width outbreak, it has a far higher hospitalization rate than the flu. And you know, a better way of calling would be like an aggressive viral pneumonia. Right? Because people know the word pneumonia, and they know pneumonia is actually serious, right? So what
+
+Unknown Speaker  13:46  
+is what is your best guess of you know, the lethality of this? What is it going to be? You know, are we going to have a 1% kind of death rate out of infection overall, what compared to a 10th of a percent for the flu or? Okay, so does does it make sense to talk about in these terms yet? All right,
+
+Unknown Speaker  14:04  
+so good question. Let me let me say a few things. First, is the the so called case fatality rate, which is the percentage of folks who die from the east coast, right yesterday. It varies a lot between countries, Italy is now reporting like 8%. Okay, now, why are that? Why is it so high? Well, Italy, it seems like it's really just killing folks who are 70 or 80. Plus, these are also obviously human beings. They're our elders, our parents, our grandparents or what have you. So it's just like, just extremely dangerous. They're also extremely dangerous in the US, that nursing home, you know, they recorded something like, you know, last I saw something like 26 people out of 120 died, a normal month, it's an acute care home, but in normal month, they said three to seven died. So if you have 26 die that's in excess of like, you know, 2025 deaths, right. 2023 deaths. So but the the broader point is, let's even say the case fatality rate is 2%. There's there's a funeral Reasons why that is not look, first of all, if 2% of America died, or if 60% of America got it, and then 2% of those died, that is millions of people, that is like, 1009 11 right. So that alone 2% is a very high number that's just completely excess, unanticipated that 71 number two is lots of people, you know, again, who stats, you know, have been reported, these will vary a lot, but who is reporting something on there 20% have serious conditions requiring hospitalization, 20% getting hospitalized, not all of those people are going to bounce back. Okay, for example, there's radiology paper that I say where, you know, prominent radiologists, or what's incredible people at UCLA, USC are basically observing, look, SARS, and MERS. There was there's permanent lung damage there for a substantial fraction of the folks affected by that. It's not necessarily the case, you get COVID-19. And you just, you know, jump out of bed and you're, you're all set, if you don't die, there's a continuum, anything serious enough to put 20% of people in a hospital is going to cause permanent damage to people, probably, at least to some people, like think about polio, right? It didn't kill everybody. But it did paralyzing people. So So that's the second thing is, you know, the first is 2% is actually still a pretty high death rate, secularize other folks are going to be criminally injured. And third is quantity really matters. You know, if you had a 2% case fatality rate, and this thing was not that contagious, it only affected 1000 people. Yeah. Okay. It would not be something that requires the attention of every government in the world. But skill matters. You have something that has the potential in the absence of dramatic intervention, to scale to millions, and then maybe billions of people just to show that that's possible. Remember, the swine flu from 2009? Yeah. So there's a technique called Sara surveys, where you actually go and take blood out of somebody's arm. It's not a mathematical model, you know. So there's a paper, which went in looked at a bunch of people who've done Saira surveys and different songs, looked for antibodies against each one in one. And they found that about 10 to 20% of people and like a dozen countries had antibodies to each one, and it says a reproducible molecular acid. It's not, that's not mathematical modeling. But that meant is 10 to 20% of people in the world had done sweating. Now, if you have something like COVID-19, which is potentially as contagious as swine flu, sir, can get that scale of 700 million or 1.4 billion people, but is far more lethal. That's an extremely dangerous. So that's why basically, you know, three reasons that, you know, the fatality rate is actually pretty high. Number one, 2% is actually pretty high. Number two, there's potential for long term illness cause people are getting hospitalized. Number three, the scale is massive, the sheer number of people flooding into emergency rooms, and so on will crash hospital systems. And that, by the way, has second order consequences, you crash the hospital, and then what happens? Nobody wants to come into the hospital.
+
+Unknown Speaker  17:50  
+Why? Right? Because
+
+Unknown Speaker  17:50  
+you don't want to get COVID-19. Right? So all other routine care goes down, right? You had an appendix, you need to get the room that goes down, you just want to get a checkup can't do that, right? You want to look at all that stuff. So it has second order effects on mortality and sort of the population. Go
+
+Unknown Speaker  18:07  
+ahead. Okay, so you're making it, you're making the case that this is a serious issue that really needs, you know, mass attention at different levels out of the country so far that you've mentioned, or the and, and a couple that we have it, you know, there's China, there is a rat ran, and Italy a bit hardest hit by most accounts, it's obviously in the US, and we're going to be seeing numbers doubling and, you know, the doubling cube going up. South Korea has talked about having effectively contained it, it seems, or at least according some of the reports coming out of there, what countries are doing well, in dealing with this, and what countries are something that we really need to avoid.
+
+Unknown Speaker  18:49  
+So it looks like in this kind of first round that Asian countries, so you know, I wasn't sure what to make of China's posted decline, you know, like a week or so ago. But now that South Korea, Taiwan, and looks like Singapore, Malaysia, potentially are getting this under control, it looks like it is possible to halt the spread through China, like measures of lockdown quarantine, and so and so.
+
+Unknown Speaker  19:17  
+Okay, and by that, and so on, and so forth. Let's including kind of enforced social distancing, which seems to come up again and again, of just having not only having people stay out of the workplace, stay out of big meeting places, but then, you know, not getting too close to each other when they're walking around the street.
+
+Unknown Speaker  19:33  
+That's right. That's right. And, and I think
+
+Unknown Speaker  19:37  
+the other countries that I think have done reasonably well, so Estonia, um, you know, not a surprise competent country. Israel, I think, has done a pretty good job of it. Right. Right. And it's generally the countries that you know, like, you know, Israel, Singapore sending these are these are smart countries with serious people, right. I haven't looked at device numbers, but I wouldn't be surprised if they're doing this.
+
+Unknown Speaker  19:58  
+So they're awesome. They're, you know, they're smart countries with serious people, etc. They're also a lot of them are either very authoritarian or much more authoritarian than the US, including a country like Israel, which, you know, for a variety of national security reasons. People, they're put up with a much more invasive day to day presence of the state. You're a libertarian. I mean, you're one of the kind of libertarian visionaries for this horrible decade that has just been started. How do you feel about that kind of stuff? Or, you know, your I don't believe you to be an anarchist or anything? I'm certainly not. But, you know, how do we know that this is the time where you say, okay, you know, what we do have to cede extra control to the state for a certain period of time? Or is this just the beginning of, of a lockdown that really never gets released?
+
+Unknown Speaker  20:48  
+So I want to, in a very polite way, contest the premise, I wouldn't, I wouldn't actually,
+
+Unknown Speaker  20:54  
+you don't have to be polite, by the way.
+
+Unknown Speaker  20:58  
+I understand why you you thought of that premise. But I would actually not call myself a libertarian. I think I've actually been consistent about that over the years. I'm sympathetic to certain libertarian concepts and ears. But you know, here's, here's my mental model, and I tweeted about this, or whatever. I think the ideal is a competent centralized government, which right, you can effectively sign the social contract with the terms of service by immigrating there. So you immigrate to Israel, immigrate to Singapore, and by immigrating there, you're effectively just like, you know, you sign up for Facebook, you sign up for Google, there's there's Terms of Service. And if you don't like them, you at least have the Back button, you can leave and you don't, you're not mandated to. Now, that's not completely ideal, because there's Facebook pixels, Google pixels that will track you across web site, done. it easy. On ideology, sir, but let's say at a high level, you can make that analogy, right, you could, if you enter the society, you're gonna sign this contract, if not, to a competent, centralized government, for example, like, you know, I personally would prefer not to own a firearm. I personally prefer a government that controls crime, to an extent that I can actually trust in that government to protect my family and property and what have you. And I think Singapore's like that, you know, now, with that said, if the best is a competent, centralized government, the worst is a malicious centralized government, like USSR, you know, like, like Cuba or North Korea or what have you.
+
+Unknown Speaker  22:32  
+And then,
+
+Unknown Speaker  22:34  
+you know, not quite as bad as bad, but certainly quite bad. is an incompetent centralized government as distinct from practically malicious and of course, there's, there's gradations of that. Okay. Yeah, but absolutely, but like, let's say where the US is right now. Right. You know, at city, state and federal levels. We have not seen phenomenal leadership on the Coronavirus crisis. And in fact, we haven't seen phenomenal leadership in quite a while, you can argue that, you know, the peak of the USA was roughly bracketed by 1933, and 1968. So 1933, Hoover Dam 1945, Manhattan Project, 1968 Paulo, that was a period of peak centralization, when the US government actually got a lot of the technical talent, and was able to build and ship big things. And before and after that period, you actually have the technical talent. And I'm not saying technical talent is everything. But it's a lot, you know, you have the technical talent, you know, before that are the quote, robber barons, and you know, who captains of industry, you were building railroads and aviation, the Wright brothers, all these kinds of people, then afterwards, you have all the tech CEOs and investors and hedge fund folks to, you know, to some extent, and whatnot. So, what's my point? My point is, while the best is a competent, centralized government, and the worst is a malicious government, and the second worst, by a big jump, but still bad incompetence, FOS gurman. In between a competent and incompetent, centralized government is the decentralized response.
+
+Unknown Speaker  24:02  
+So what are the best elements of the decentralized response? And how much of that is coming from non governmental agencies? So, you know, and how important are the Yeah, let's talk a little bit about that.
+
+Unknown Speaker  24:14  
+Yeah. So when I say the decentralized response, I So certainly, very specifically, it's things like the Gates Foundation of working with welcome and MasterCard to go and Wellcome Trust actually, it is a government funded organization, in part, the Gates Foundation putting up money to fund at home tests because the state is failing, right? But it's, it's such as decentralized medicine, you know, it is a decentralized media. Because, you know, like, for example, recent big chunk of the centralized media field here, you know, tech tech rentals fail. And I call it centralized, by the way in the sense of it's culturally centralized, even though it's 10 or 20, different outlets, they all work in each other's kind of things known the same Search Network, right? So decentralized medicine, decentralization Yeah, this is this virus crisis is going to become a financial crisis, if it isn't already on a ton of money is going to be printed. So you're going to need decentralized finance brings us back to crypto, you need decentralized preparation, because you're, you know, city or state is probably going to say nothing to see here until suddenly the tsunami runs on it. Right. And, and that's what I mean by the decentralized response is in you know, while I'd prefer a Singapore or Israel or an Estonia, which is actually capable of taking care of these things, essentially, as a service provider, you know, I hate that government, and they take care of stuff for me in the same way that, you know, I don't have to think about my, my Dropbox, right and pay Dropbox. If that is not the case, then I still want to be able to do it myself. And that's where the decent response comes in. Does that make sense?
+
+Unknown Speaker  25:45  
+Yeah, I think so. And, you know, and in this model, the blurring of private and public, or private and public is kind of blurred, and a lot of ways, right. Yeah,
+
+Unknown Speaker  25:55  
+I mean, like, one thing I think a lot about is on the reason that I support, you can you can make the high level difference between, let's say, principled and pragmatic, libertarian leaning people, right? The principled libertarians are against something on a matter of principle, right? That is to say, even if I'm, let's take quarantine as actually a good example, Dr. Ford exit, because the stem the rights individual, a paramount, even if it's actually worse for society and the individual, right, and I don't mean worse in a theoretical way. I mean, we're seeing it like die of a contagious virus kind of way, right? a pragmatic libertarian, though, is basically someone who's like,
+
+Unknown Speaker  26:35  
+okay, here.
+
+Unknown Speaker  26:39  
+Sometimes, let's,
+
+Unknown Speaker  26:43  
+um, and, you know, we should support the policies that maximize that utility. For example, Singapore, in general has fairly free markets, they're fairly pro free trade, but they don't hesitate to kind of step in and put a thumb on the scale if necessary, just for example, they, they actually did put price controls on top of masks, and they issued a bunch of free masks to deal with this crisis. Right. And, and it very much at least Personally, I put myself in that second camp for the pragmatic, because the goal is human flourishing. And that doesn't mean being rigidly ideological, you might be
+
+Unknown Speaker  27:16  
+right, do you think, you know, with something like, you know, putting price controls on, you know, it could be, it could be breather mass, it could be hand sanitizer, it could be any number of things. Does that actually work? in America? I mean, on a level of pragmatics
+
+Unknown Speaker  27:31  
+so so I mean, the thing about it is, let's, let's see, there's kind of three levels of doing something, right, let's take precedence rules. Level One is like the really dumb, oh, let's put price controls because we hate these corporations are trying to trick people and so on. Level Two is the smart version, which is actually, if you impose price controls is going to cause shortages. And that's going to be a problem, because these manufacturers, you know, in a time of huge demand won't have the capital to go and purchase more, right? level three is for the maintenance of social stability in a panicky time, we will do something like impose price controls, but also otherwise subsidize manufacturers on the back end to go and purchase more masks. Right.
+
+Unknown Speaker  28:17  
+So just a little bit of Yeah, no, I I get what I say I understand I don't necessarily agree. But I'm interested in kind of fleshing out this, you know, this picture of how government and other parts of society work and in a crisis situation, a bunch of you mentioned before second and third order health effects and kind of things that will show up down the line right now, Donald Trump administration and Congress, I think you alluded to it before, we're going to see some kind of massive stimulus project here in order to to hopefully quiet the markets or to make people think that everything's not going down the drain. What are the types of stimulus projects? If you think they should be, there should be what are the types of things that you think would work and what do you think are going to be counterproductive?
+
+Unknown Speaker  29:04  
+So let me say that basically extend I think, is a rothbardian. ism. You know, you said like, war is to help the state. Right,
+
+Unknown Speaker  29:12  
+right. Word. I think it's actually random born okay. Yeah, fine. Yeah. That he got it from
+
+Unknown Speaker  29:17  
+Yeah, okay. Yeah. So, you know, like, crisis is to help the state. And, in many ways, I think, you know, you can kind of slot in pandemic, as being an even more severe version of many of the debates we've had on terrorism of last 20 years. And then, you know, then crime goes to like a, like less version of each of those, as you go up the scale from crime to terrorism to pandemic, you start giving government powers to constrain law abiding people, you know, in ways you know, that normally you wouldn't agree with, right? Because the threat goes so high, right, like the brain damage, you're talking about basically putting 11 million people in jail without any probable cause, you know, are these rats right? So you know, The tricky part about this, here's I'm not saying I've all the, you know, ethical answers or what have you. But in late January, I was wrestling with this because, frankly, while I thought, you know, I'd certainly known pandemic was a possibility. You know, this is kind of like sci fi territory at this point, you know, this is something which I would have considered. You describe the current scenario, to me back in November, I would have said, Look, you know what, yes, that's a challenge to the theory of exit as Prime for running across a bridge
+
+Unknown Speaker  30:29  
+when we come to it. Right.
+
+Unknown Speaker  30:31  
+Now, that bridge is being crossed. So we have to come to what are the philosophical issues at play? Right? Yeah. So here's a few things I would say. First is, you know, Ben Gurion had a really good mental framework on before Israel became independent. There's a time when, you know, there was a white paper that the British had issued that he disagreed with. And it essentially opposed you know, the independence of Israel. But at the same time, they were allied to the British to fight the Nazis. So we had one layer where he said, We shall fight the white papers, if there is no war, we shall fight the Boers if there's no white paper, okay? Meaning that while they would argue the supercity, against the white paper, they wouldn't undermine the British in their fight against the Nazis. And while they would ally with the British against Nazis, they would not give up their aspirations for independence at some point, right. Make sense? He recognized that these two goals work in a sense in combat. It's successfully achieved because they became Nazis. And they got it right. You know, like, over time, it took a few years, but it worked. Right. So So that's kind of how I think about this, you know, from from the utilitarian standpoint, there's no point in freedom if you're dead, in the sense of, I understand Live Free or Die. But and I agree with it in many ways, but died. I'm not sure about picking one line on it. But you know, like, just randomly dying from a virus that you could prevent, for some record price of freedom for a little bit of time, does not seem to me to be a good trade off from utilitarian standpoint.
+
+Unknown Speaker  32:05  
+Right. One of the other kind of questions about a lot of this stuff is, you know, Robert Higgs, the economic historian and wrote a book called crisis and Leviathan talks about how, you know, and it's very much in in the ballpark that we're talking about here that the state looks at a crisis, it it asserts certain types of power, it flexes out when the crisis has passed, you know, the power doesn't go away, it stays some part of it or all of it. So how do you guard against that? Because and we have been seeing, you know, it whether in terms of economics, whether in terms of certainly surveillance and certain types of national security things for all of this 21st century? Yeah, a flex by government, whatever is coming down the line, how do we make sure that the government gives back most of the power that have built up in itself?
+
+Unknown Speaker  32:53  
+So this is actually I think I tweeted something like this. I feel that I got it, right. I mean, we'll see. But I think I got it right early on, because it reminded me a lot of the post 911 period. So tweeting on February 3 was, you know, like, sometimes the solution creates the next problem. My real forecast of the future the Coronavirus results in quarantines, nationalism, centralization, and this may actually work to stop the spread. But once over control states will not see their powers. So we decentralized, right? And so my answer is, I'm not sure you can work within the system to take away powers once they've been granted. I also don't think that you should undermine you know, like quarantines that, you know, could, you know, go and spread of deadly virus to lots of people because then you're screwing everybody, right? However, to reconcile those two incompatible things, just like Ben Gurion and the white paper word, I think the answer is we make the hard choice to work with the quarantines and so on in the present day, sacrifice some freedom in order to, you know, like, quell the virus. And then we work on decentralized technologies like decentralized medicine and other kinds of things to enable people to prepare in the future more easily, especially if they're in regions where the government is incompetent.
+
+Unknown Speaker  34:18  
+Let's, let's get to that what the decentralization will look like in a second because that I'm actually more interested in because you know, the crisis is upon us and things are going to happen. But when we talk about quarantines, can we be more specific New Rochelle, New York Governor Andrew Cuomo right here in the state of New York has created a containment area of about a mile square mile radius and is certain but whatever diameter in New Rochelle, New York, it doesn't mean that people aren't allowed to leave their house. It doesn't mean that they can't go to grocery stores and etc. But the National Guard is there to bring food to people who can't get out otherwise to clean up stuff, etc. When We're talking about quarantines in America, what are we talking about? And what is except what's an acceptable quarantine? Well, you know, currently or and how does that change?
+
+Unknown Speaker  35:09  
+So so the containment zone is basically on a one to 10 scale, I've given it looking, I guess, two, because at least it's directionally in the zone of, okay, we need to do something to contain this thing. However, there's many problems with it. First is, its pre announced by two days. So it's like, you know, like, that's exactly
+
+Unknown Speaker  35:29  
+what happened, we move
+
+Unknown Speaker  35:30  
+on all these people haven't really always been fled.
+
+Unknown Speaker  35:33  
+So but it's also that's understandable, too, right. And particularly in authoritarian regime, people in Wu Han knew what was coming. And they're like, I'm getting the fuck out of here. Because sure, if I, if I present to the government, you know, I don't know if I'll ever come back. And it is no, it is something where like, this is, it is essentially, here's one way of thinking about it. This is like a wartime
+
+Unknown Speaker  35:55  
+scenario, in the sense of, you know, you if you talk about like the anarchist monarchist division, right, you know, the mineralogists, like, okay, the state has legitimate powers in terms of crime and punishment and war, right. And if you think about this, it's kind of like the world is being invaded by a virus, right? Not by the Germans, or the Russians, or we're having by a virus, and we're non compliant with regulations has no budget, it's completely decentralized. Its objective is to kill you and spread, you know, like, murder all the time. And so, in those cases, like, you know, if you're fighting a war, you unfortunately, like somebody has to be greatest good for the greatest number of decisions does, you know, and there's some, sometimes those are zero sum decisions, one person does have a downside, in order for others to have an upside or vice versa, right. And, in the case of Warren, for example, absolutely understand why somebody from there wanted to fleet, it was in their interest if they weren't sick, to get outside this quarantine zone, which they might get sicker. You know, even if they were held on their hand, you also understand where the people outside not want people from law to flee,
+
+Unknown Speaker  37:02  
+because they didn't want that, you know, sickness come to them.
+
+Unknown Speaker  37:04  
+So that unfortunately, it's just a diagonally dis aligned kind of thing. The wind for one, this loss for the other, and vice versa. There's no obvious Win Win there other than maybe some compensation for people in the quarantine zone, which is what Iceland is doing by a paid point. Right? And that might be a smart thing to do. By the way, you know, you give some social credit, some payback. It's not fully compensatory, maybe partial with several things descending on a so quickly that people haven't thought through things like that. But, you know, one thing also Priam By the way, some people will quote that unicorn like those who give up some freedom for a little security deserve neither. Other hand, that's also I don't think it's pragmatic in the sense of, you know, the counter argument, another American quote is, you know, freedom isn't free. Right, meaning that some sacrifices required. And you know, that I think that is also true. You know, it doesn't you don't you don't build a society without some things. Come, let's come back to your original point, though. So, you're talking about on how should we think about mandatory quarantines?
+
+Unknown Speaker  38:02  
+Right. And I think, you know,
+
+Unknown Speaker  38:06  
+and especially, let's take the New Rochelle example, I think America is managing to do things in the worst way. Oh,
+
+Unknown Speaker  38:13  
+yeah. Okay,
+
+Unknown Speaker  38:14  
+here's why. Because the containment zone is not a quarantine, it gets people to flee. It's pre announced it is. So if you're doing it, you do it. You know, like you actually quarantine in place, and you stop people from leaving. It's not an optional thing. But if you if you announce it, then people think, oh, it might become mandatory. Let me get out before that happens. And you actually accelerate the distribution of viruses, like bursting spores, right? You push them out, right? So that's actually like the worst of the three options?
+
+Unknown Speaker  38:43  
+Don't do it, do it for pre
+
+Unknown Speaker  38:45  
+announce it, and then do it. That third one is actually one that spreads the most.
+
+Unknown Speaker  38:50  
+So what I mean, are you would you recommend, or how do you recommend and and it's interesting to talk to somebody who is, you know, seriously, you know, in line to be the FDA Commissioner where you know, and we can talk about, you know, the way in which the FDA and the CDC and whatnot are either doing well or bad, but like, would you go to, you know, where would you say, okay, we're having a mandatory quarantine, or is it everywhere in the country? I mean, the Lombardy region of Italy and other the industrial powerhouse of Italy is under a form of quarantine. I mean, are we telling people not? Yeah, okay, so, so, do we say, nobody's leaving the country, nobody's coming in, or if they're coming in, they have to be, you know, quarantine for a couple weeks before they're allowed to go to their final destination. I
+
+Unknown Speaker  39:35  
+mean, I think that's probably what's going to happen. Because basically, you know, something that was a preventable thing. We've had a cascading failure where basically we're flying blind, thanks to the CDC use case definition thanks to the FDA cdrh Division, impeding emergency use authorizations for all these labs and bottlenecking testing during a critical period in February. They All that basically everybody was and still is, in some ways in a sense of kind of complacency. They thought, you know, always been contained, you know, Trump's been tweeting, oh, it's only so many cases, actually, it's probably more like 10,000 plus cases, you know. And the reason I get that estimate is when Trevor Bedford prophet dw got finally you don't get some sequence data out of these viruses to viral strains to estimate that in Washington alone, there's large luck, there's likely an outbreak of size 570. There was like a week ago, right? So so you know, almost certainly there's like 10 10,000 plus in the US, and we're going to put out final. And so what I think is going to happen is we've traded, the de facto decision by the FDA and CDC to FDA, in particular, it's not approved diagnostics, has meant that our indicator is going to be deaths. Right? And and hospitalizations, we're going to only take this seriously once we basically disabled our early warning system. And so we're only going to take it seriously when just a bunch of people start piling up in emergency rooms, which is happening, by the way in, you know, Washington and California.
+
+Unknown Speaker  41:08  
+When will we know that the you know that the infection has peaked?
+
+Unknown Speaker  41:12  
+Well, no, that is Pete, when we have massive diagnostic capability. And I'm talking like hundreds of thousands of millions of tests a day, right? That is an infectious disease, right? So testing somebody once is not sufficient, you may need to retest them multiple times to meet an absolutely massive diagnostics effort. Number one, and because, you know, the thing is, it's not how many cases you have, it's how many cases you have, and how many tests you ran to determine that. If you didn't run a lot of tests, then you're like the person looking for the quarter on the lamppost. Right. So the only notes Pete, if we have massive diagnostic testing capability, we're tracking new cases per day really rigorously across the country. And then we're seeing that peak come down.
+
+Unknown Speaker  41:57  
+And you don't see in I mean, it's kind of fascinating to talk to a, you know, a kind of profit of decentralization. And we're effectively doing a decentralized response in the US, because different states, different localities are doing all sorts of things. The federal government is largely, you know, I mean, it's only getting its act together. Now, the private sector, the nonprofit sector is doing stuff, but you I mean, basically, that, you know, that's a big mistake for this particular situation.
+
+Unknown Speaker  42:28  
+Yeah. I mean, the decentralized response is better than nothing. But it is significantly worse than a competent centralized government. Yeah. And when we're thinking about it, is if you bucket this into the national security category, you know, this is that's, that's, uh, you know, monarchist degrees fall into security. It's something that's like an invasion of country by a virus, right. You know, so what I think is going to happen, or let's say what I think is possible, okay, just given what's happened other places, given what's happening in New York, I think it's possible that blue cities get quarantined by red troops.
+
+Unknown Speaker  43:04  
+Okay, that should end well right.
+
+Unknown Speaker  43:07  
+You know, that's, that's what we're on track for, unfortunately, I avoided
+
+Unknown Speaker  43:11  
+so this is the full of Mega Man scenario, right of i was, you know, the 1971 Charlton Heston movie where a some kind of chemical bomb, wreaks mayhem and turns turns people into hippies, actually albino hippies, and Charlton Heston is one of the last regular people left, but people are put under lockdown. It's martial law, you can be shot if you are seen wandering around the streets after a certain point. I mean, that's essentially what you think, is the response that is necessary.
+
+Unknown Speaker  43:45  
+The issue is I don't think that America is capable of properly calibrating the response. Okay. So it's either apathy, or it's going to be this incredible bureaucratic overreaction, which is going to be essentially an internal TSA.
+
+Unknown Speaker  44:00  
+Let's talk a little bit about the, the, the ways in which the Coronavirus is forcing us or may force us to rethink things or if we're smart about it, we'll actually come up with new ways of doing things. You talked recently in in a tweet about how TSA you know, I mean, you're saying we're going to we're going to be going through an internal TSA for the entire country. You talked about how, how actually the way TSA screens things now is exactly the wrong way to do things. Can you expand a little bit about that?
+
+Unknown Speaker  44:31  
+Yeah, so well, first of all, it's not hygienic. So you know, they are basically patting people down that I don't know if you've seen these. The, of course, you've seen them at airports, the checkpoints where you've got conveyor belts, these buckets that you put stuff in their filter, because people brought shoes in them. It's awful, right? And so it's literally just it's a salad bowl.
+
+Unknown Speaker  44:57  
+Yeah. The mix together to make sure like, if you Didn't have something, you know, if you if you come in clean by the end of when you're picking up your shoes, you're dirty. So
+
+Unknown Speaker  45:05  
+that's exactly right. And I mean, especially coming out of SFO, like, you know, SFO streets are not the are not the client.
+
+Unknown Speaker  45:11  
+But yeah, I flew out of there like two days ago or a week ago. So thank you.
+
+Unknown Speaker  45:16  
+Yeah, for the reminder, right? Yes, yes. So, so what i what i think you could replace that with, um, you know, especially given that these three TSA agents have come up, you know, positive for the Coronavirus and probably patting people down in San Jose, I think you just abolish, I mean, in an intelligent country, in a competent country, if you felt that you still had to screen for things, okay? Because, yeah, it's possible someone gets a gun or a knife on a plane, or probably as consumer wants some form of screening for that shot. And that terrorism is a real thing, due today, to Josh wolf madico tweeted about it. It's basically like non invasive scanning, they'll just detect whether or not you have the guns or whatever. I mean, the the imaging is there for that. And then no agents, no one touches you or whatever. And you can even use thermal cameras, and potentially other kinds of sensing to determine Does someone have a fever? or what have you? That's what they're doing right. Now. What will the US actually do that? I'm skeptical, maybe, and maybe like smart regions? But I don't know.
+
+Unknown Speaker  46:20  
+Can we talk about other areas? You know, you you have talked over the years about kind of decentralization of things like the workplace and whatnot, or the workforce? Are there ways in which, you know, and I don't want to be as ridiculous as kind of making lemons out of, you know, a pandemic virus or something like that. But, you know, people are being told, okay, if you can work from home, you know, disperse yourselves kind of reliably, how are what are some of the positive ways that we can take this moment to think about redoing, you know, certain kinds of social, economic political organization that we take for granted that it probably is not particularly efficient or useful for this point in time? anyway?
+
+Unknown Speaker  47:03  
+That's a good question. So I think one analogy would sort of be, you know, in World War Two women went to work. And then after they went to work as a wartime measure, but afterwards, there was a new normal, right? And women were now in the workforce. And it's just a different, different thing. Right. And by analogy, I think, you know, one of my friends said something like 2020 is the year the future historians will write the internet actually began forever like that this century actually began because we're basically in a chaotic way. We're doing like a nice read about this, like a digital Dunkirk evacuation, right? retreat to the cloud, to escape the lightning offensive of the virus. You know, you're just kind of retreating to the cloud. And, and the thing about that is we're turning the cloud into like the primary place, we are conducting work and other kinds of things. Because it's a whole new argument for using, you know, Internet technology, that argument is hygiene. Right, write the remote argument for hygiene, I mean, that that, that shift, something that was happening already in something that is the default way to do it. Like by default, for example, you want touchless faucets, right? By default, you want remote capable jobs, by default, you want autonomous taxis, and so on, and so forth. Because it's more hygienic. And this stuff is already happening. But that adds like 20 or 30 points of population support for it. So it's going to accelerate a ton of things like that. That is a silver lining for this.
+
+Unknown Speaker  48:33  
+Yeah, I love the idea of a digital Dunkirk, I think I really get a lot of what's going on and also what might be, might actually be truly useful and kind of pathbreaking going forward. Can you talk a bit about the kind of Is there a generational element to all of this? I mean, and and there is clearly in the sense that if you're over 70, you are much more likely to die, you know, the baby boom generation. And I guess, the last remnant of the quiet of the silent generation. I mean, they're being pushed off the stage, this seems to, in a weird way, be kind of accelerating that in terms of kind of cultural, economic, political power, we're almost certainly witness. I would like to believe that we're witnessing the last presidential election where it's all about, you know, various people who are close to 80 years old. But what you know, is there a generational thing going or how does the generational split, which seems to be growing significantly in America, you know, on a daily basis? How is that influencing or intersecting with the Coronavirus?
+
+Unknown Speaker  49:36  
+Well, so it certainly I mean, one thing that's definitely the case is all of these politicians are in the maximum danger area for the Coronavirus, and yet they're still shaking hands are still at rallies and whatnot. It's actually mind blowing to me. Yeah,
+
+Unknown Speaker  49:54  
+you know, I don't even understand
+
+Unknown Speaker  49:56  
+it. Well, and they can't not do it right. Because if they Don't do it, then they look weak and that they're about to die. If they do do it, you know, they might get infected and actually die. So I
+
+Unknown Speaker  50:07  
+guess, but but I mean, like, you know, the thing is tough to be them.
+
+Unknown Speaker  50:10  
+Yeah, there's, there's certainly, I think a way to phrase this in terms of leadership. And maybe you start holding digital rallies and do Periscope, and stuff like that, you know, you can actually it's actually easier to hold a larger crowd, guess what, you know, they can always connect live, you don't need a venue, you can you can just hold it every single day of massive rally with a million people, right. So I think what's going to happen is things that were previously fully offline like rallies, conferences, K through 12, education, healthcare, stuff that's resistant the internet, we're all forced into these digital conferences, on, you know, online education, telemedicine, all of those kinds of things, areas of, you know, like, for example, remote legislation
+
+Unknown Speaker  50:55  
+that's going to come
+
+Unknown Speaker  50:56  
+right, all these areas that were previously approved, resistant to the internet, are now just getting polluted from the ground and pulled into the cloud. And people are going to be forced to operate that way for a while. And you know, that has some salutary. I mean, in the short term that's chaotic, it's going to cause a lot of dislocation and so on. He does have salutory long term benefits because we basically learn how to modernize certain areas that are proven systems that we use.
+
+Unknown Speaker  51:21  
+Alright, I think we're gonna leave it there. That's a good note to end on. We've been talking with Balaji Srinivasan about the Coronavirus and, you know, how do we we live in a borderless world with a borderless virus. So, apology. Thanks for talking.
+
+Unknown Speaker  51:37  
+Thanks. Yeah, I think that borders will come back with this and but what are some interesting, so,
+
+Unknown Speaker  51:42  
+Alright, I hope so. Alright, thanks very much. Thanks. This has been the reason interview with Nick Gillespie. Please go to Apple, Google Stitcher, SoundCloud, Spotify or reason.com slash podcast to subscribe to this show and reasons other great podcasts, the reason roundtable and the Soho forum debates. Thanks for listening
+
+Transcribed by https://otter.ai

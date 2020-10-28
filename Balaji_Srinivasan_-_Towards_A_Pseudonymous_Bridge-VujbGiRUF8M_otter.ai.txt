@@ -1,0 +1,124 @@
+Unknown Speaker  0:05  
+All right, so I'd like to introduce our next speaker. biology is going to speak about the talk is called towards a pseudonymous bridge. Very curious to hear about this. So welcome to the stage.
+
+Unknown Speaker  0:17  
+Thank you.
+
+Unknown Speaker  0:21  
+Alright, let's see if this works.
+
+Unknown Speaker  0:27  
+For us this one. All right, great. Let's move this one out of the way.
+
+Unknown Speaker  0:32  
+All right, so, um,
+
+Unknown Speaker  0:35  
+one thing I've been thinking about for some time is that pseudonymity is as important. As decentralization, you know, we talk about decentralization a lot. You know, network that is split across many different jurisdictions is hard for any, you know, one, one country to shut down for any one entity to shut down. But pseudonymity is also quite important because it means that even if the network is decentralized, you can't target the person who is creating it, if they're synonymous. And there's other reasons for it, as well, like, you know, if you think about, you know, the founding of the United States of America, that was done by actually the Federalist, or the folks who wrote the Federalist Papers, which are all pseudonymous, there's many, there's many important ways in which pseudonymity has allowed people to speak freely about things that otherwise would be attacked with their real name. And so what I'm going to talk about today is sort of a high level construct for how we might be able to transfer some reputation to a pseudonym. And just to motivate this a little bit, with something like Zack, or more generally, zero knowledge, we can now transfer wealth to a pseudonym. Okay. And the question is, can we transfer reputation to a pseudonym, and we need some definitions and of what reputation is. So, right now, one way of thinking about, can you see the cursor up there? Okay, it doesn't, Alright, fine. So, um, this is nice. Okay. So right now we have basically a couple of choices, you can set up an account that has, you know, this is your main account, and it has zero anonymity. And I'll define this in a little bit, but zero anonymity and all of your followers all your reputation, or you can set up a new pseudonymous account. And that has 100%, anonymity, but it has, you know, none of your followers right. And that's kind of the trade off. And one way of thinking about this is this is your main account, your Marc Andreessen, who will be my running example here. And this is Mark's, you know, zero follower, you know, pseudonyms account where he has to, you know, start completely from scratch. The question is, is there something in the middle, where we can with construction, reduce your level of, you know, have maybe fewer followers in your full thing, but have somewhat less anonymity, but yet enough that you still feel anonymous? Right? Okay. So first, let's, you know, quantify anonymity via this concept of 33 bits, right? The idea is that 230, third power is about 8.6 billion, and 8.6 billion is bigger than 7.5 3 billion, which is the population of the world. So that means that with 33 bits of information, you can uniquely, you know, identify any person, right? And what that does, it turns your degree of nmt into a measurable, quantifiable thing rather than a zero run, rather than just being, you know, anonymous or not anonymous, you can say, how anonymous are you? Well, how many bits of information do I still need to take you to just exactly one person, it's 10 bits of information, then you're one of 1000 people, if it's 20 bits of information, you're one of like a million people.
+
+Unknown Speaker  3:37  
+Just to give some stats, the
+
+Unknown Speaker  3:41  
+you know, as I mentioned, to 33rd is about 8.6 billion, the world population 7.5 billion two numbers, they'll be useful to us, the Twitter ma use monthly active users about 330 million and the Twitter verified, there's about 330,000. And so this is like the number of bits in that set. And it's a very simple calculation, just log base two of N, we defined as the anonymity, the number of bits, you know, so 28.3 bits, is how much anonymity you have is, if all I know about you is your Twitter mru. Okay. Now, one way of thinking about so this is quantifying the anonymity side, quantifying the reputation side, well, we know that with, you know, buying Zach on Coinbase coinbase.com. Here, okay. You know, if you if you buy Zach on Coinbase, you can, you know, send to a shielded address, and you can get 50 k Zak and you know, with a pseudonym and 50 k USD in your normal bank account, so you can use the wealth you've earned under your real name to bootstrap the wealth of a pseudonym. Can we come up with a construction that's sort of similar where we take, let's say, some of the followers over here, and bootstrap a pseudonym that has some of those followers Is that possible? Because that's what I mean by transferring reputation to a pseudonym. So, another kind of data structure or concept, which we'll need before we proceed is just this idea of an agent. adjacency matrix and you know, you may not be familiar with this from from graph theory, but, um, if if this is you and your, your mark, and you've got followers over here, and here's another person who's following one of your followers, this adjacency matrix is basically, you know, defining in this case has mark is followed by this person and this person, not this person, this person and this person, and then she is actually following her. And that's that edge over here. Right? So it's just a binary matrix of adjacencies. Right? And so now what we want to do is we want to see okay, given those definitions, can we trade off some anonymity for for some followers. So the naive approach is you set up, you know, a new account, okay, your, you know, your little pseudonymous account over here, okay. And you try to preserve all of the same followers that you had over here, right, you have something where you can send over all of those followers, your entire account. And of course, the the issue of this is, anybody who's looking at the full adjacency matrix, can see that Oh, and by the way, like, these are not like totally separate networks, the right way to represent it or think about is really something that looks more like this, where you set up a pseudonym, and then you had your entire neighborhood, all the people who are pointing into you are now pointing at that pseudonym. And the issue with this is anybody who's like scanning the entire, you know, graph, the matrix of all connections, can immediately see that, you know, this vector of followers in this vector of followers are the same. And so therefore, you're basically just like reduced to one person. It's unlikely anybody else has exactly the same pattern of followers. And so therefore, you have given up your anonymity, right? Okay, so naively just transferring all your followers to the new, you know, pseudonymous account, that that may not work. So what else can we do? What if we back up and we say, all right, not just think about your your followers, but all the profile information more generally, there's really kind of three types of user profile data on Twitter, there's platform specified stuff like your verification, checkmark, which Twitter itself generates, there is user specified stuff, which is like your name, and your address, your bio, etc, which you are typing in. And then there's stuff that is specified by others, which is, you know, your followers, and then also every, like, every RT that comes from other people, right? It is the stuff that is specified by by the platform and by others, that's the most reliable to maybe to do something good because it's harder to fake for for an individual. And what you can do is, you can take this idea of, you know, here's your, here's your new account, your pseudonymous account. If, and this is one of the things I was mentioning towards the end, but if you assume a crypto Twitter, that is to say, if we have something that's like, you know, if you heard the saying, assume a spherical cow, you know, it's from physics, right? Okay, whatever, I thought was fine. So if you assume a back end, where you can do a construction like this, where you can do a Zack like transfer, maybe that's like, twitch or something like that. You can move that verification over here to the pseudonym. And now this thing actually is a verified checkmark over here, okay, you've you've moved data in a similar way to how you know, with Zika snarks you move, you know, money from one from one zek address to another.
+
+Unknown Speaker  8:36  
+And what does that give you? Well,
+
+Unknown Speaker  8:38  
+with that, with that gives you some progress. Because here, you know, this was just, you know, under your full real name, so you're just one out of one people. If you just set up a pseudonym with no followers, you're one out of 330 million Twitter users. But you had you had no followers or anything. Now, when you're verified over here, you've given up some anonymity, your one out of 330,000 verified, so you have 18.3 bits, we lost 10 bits of anonymity to put a verification, you know, flag on this on this profile. Right. But But what did that gain us? Well, let me introduce one more new concept, which I call auto follow. Okay, so auto follow would be a very useful feature for this, let's say future crypto Twitter. And the idea behind auto follow is you'd set a flag in your profile, which says, Okay, I'm going to auto follow any of these new pseudonyms that have a verified flag, right? Or any new pseudonym that can prove it had more than 10,000 followers with some other pseudonym, or any new pseudonym that was followed by add jack, right? Something like that, where you're auto following these notable accounts because you know that you think that they're going to say something interesting that when another I say, so in this example, we have these three people all set up to auto follow someone who's verified and notice that this this little Over here is not actually following Mark Anderson, she just set up to auto follow somebody who's verified. So if you set up, if you have a normal pseudonym, nobody's following them. But if you have a verified pseudonym, um, you know, you do that construction and you move the the verification over, well, then auto follow kicks in, and boom, these three people are now following them, right. And so this is kind of interesting, because now what we can do is we can say, okay, that gave up 10 bits of anonymity when when, you know, we did this verification, but in return, we gained three followers for that for that pseudonym. And now let's just, you know, just to plug in some random numbers here, you know, I should just five, you know, nodes over here, but Mark has, like 700,000 followers, so let's just assume that there were 150,000 accounts that would auto follow after this, this verification step. So in that example, we would go from a situation where either Mark had his full account with 700,000 followers and zero anonymity, or he had a pseudonym that was starting from scratch and had no followers, but total anonymity. Now, he has the option of something in the middle, okay, where he uses zero knowledge proof to move over some information to the pseudonym, namely that he was verified, that drops the degree of anonymity by by 10 bits. That's a reduction in me from porting over the verification, but in return, gains, all of these people who are auto following any any new verified account, right. So that's actually pretty interesting. You know, this is a relatively small tweak to Twitter, the auto follow concept. Again, I'm not initially thinking Twitter itself would implement this. But if you could do a Twitter like thing on the blockchain, which a lot of people are working on, this would be a very useful feature. Now, you can generalize this because, you know, while I talked about verification over here, there's lots of other digests that you can move over with zero knowledge. For example, you can have the asset, you know, the citation that you're you have more than 100,000 followers, or your followed by a jack and, and other things like that. Anything that does not in and of itself, reduce you to an empty set of just one, you can potentially port over. And before you do that at a station before you, before you port this over, you can see how many bits of information you're giving up in terms of anonymity, and how many new followers you would get without a following. Okay, so this is kind of like a high level sketch of how we might be able to transfer reputation to a pseudonym, just like we've been transferring wealth to a pseudonym with Zach. In terms of next steps. You know, as I said, you know, as soon as your cow assuming crypto Twitter, a lot of people are working on things like this. And this gives an interesting sketch of some of the API, some of the functions you'd want to call, you'd want to be able to make these kind of zero knowledge constructions you want to have auto follow, you want to have a few things like that. But the the broad idea is that if we set this as a goal of a pseudonymous bridge, to bridge between your real names, reputation and the pseudonyms reputation, I think this at least sketches, some, some directions for that, and it can say what could go on chain for a crypto based social network that would support this kind of thing. So thank you very much.
+
+Unknown Speaker  13:29  
+I guess I can take some questions here. Sure.
+
+Unknown Speaker  13:40  
+My God, thank you.
+
+Unknown Speaker  13:41  
+So thank you for the talk. Quick question, are you assuming in this model that you somehow could limit the number of pseudo anonymous that a person could create for themselves? Or if it can be like if I can create 10,000 verified accounts for myself? Now I have an army of kind of reputable people on the platform that is actually represented by a single individual?
+
+Unknown Speaker  14:00  
+Yeah, great question. So I think a couple of thoughts relate to that. One is, you could make it costly to create a pseudonym, it might cost you Zack or more money of some kind, right? So that's one solution. The second is that it might actually be good for people to be able to have multiple synonyms, so that for example, one of them you say, hey, okay, I'm followed by at jack. But the other one you say, Hey, I'm followed by this, you know, geophysicist, right? And so then you can talk to the geophysics community over here without being character assassinate or whatever, right? So I'm not against having multiple pseudonyms. I think that's that's reasonable. You want to tax it to prevent abuse of the kind that you mentioned.
+
+Unknown Speaker  14:50  
+Yes, very good construct to have ancient question out to you. And the modification on the attributes of the main main it like let's say Mark goes below. 100 k followers, how does it goes for the O's are idling The filling is
+
+Unknown Speaker  15:05  
+is a great question. And so what I've thought about is that you just have it be a one time transfer, and then, you know, auto follow kicks in. And then if it's out of sync, it's out of sync. That's the simplest way of doing it. And I don't think you lose too much. If you do that.
+
+Unknown Speaker  15:28  
+Instead of, I guess, an alternative to taxing pseudonyms, I guess you could also use a linkable ring signatures to limit the ability to have multiple synonyms.
+
+Unknown Speaker  15:39  
+Yeah, that's a good comment. Yep, that's true.
+
+Unknown Speaker  15:45  
+Have you considered there's another alternative and making your foot making the full graph of followers private? So you could just fork your following through in your account, but people can see that that map that you were showing earlier?
+
+Unknown Speaker  15:59  
+I, you know, that might be possible. But I think that if you had a crypto Twitter, a big part of it would be allowing folks to be able to download and view all that data, because it might be possible to keep all of your followers private somehow. But I, it would seem to be different from how Twitter currently works in different enough that I'd have to have to think about it.
+
+Unknown Speaker  16:30  
+Yeah, I'm really struggling with the auto follow part. if everyone's following everyone, does that break down the signal versus noise and not?
+
+Unknown Speaker  16:36  
+Yeah, so it's not everybody following everybody, but you would set on so so part of the attraction of a platform like this is basically Twitter, except folks would set up these like, you know, for example, a verified account that has at least one other account associate with that as 100,000 followers. And you would actually say you'd have a threshold for how significant those anon accounts would have to be. Right? So you wouldn't just auto follow every new account that came out, you'd say, Okay, I'm going to auto follow somebody who's got, you know, 100,000 followers and is verified that somebody else might have a higher threshold and say, I'm going to only auto follow a new pseudonymous account that has 500,000 followers is verified was also followed by jack.
+
+Unknown Speaker  17:20  
+Right. But how's their jack? If it's anonymous,
+
+Unknown Speaker  17:22  
+op, because that jack follows like 4000. People
+
+Unknown Speaker  17:25  
+know, but there is no magic in new Twitter where everyone's anonymous, there's no check.
+
+Unknown Speaker  17:28  
+Oh, what I mean by that is, if you had a look, I'm using a check as like a as a signal for a high profile account. On Twitter, as you know, you've got both named accounts, and you've got pseudonymous accounts, right? So if a high profile named account follows your named account, that's actually something that you can Porter to the student, and my named account was followed by a high profile person, therefore this pseudonym is actually valuable. It's one of 4000 accounts that are checked out. Does that make sense?
+
+Unknown Speaker  17:58  
+Well, so it's not new Twitter? It's hybrid Twitter with anonymity? Yes,
+
+Unknown Speaker  18:00  
+that's right. Yep. And basically, you might have to actually, like, rebuild a whole piece of Twitter on there. But yeah, that's right. I think
+
+Unknown Speaker  18:09  
+there's one over the other side. Other side? Oh, yeah.
+
+Unknown Speaker  18:13  
+Go ahead. I can't see where you are. Wave or something. Okay,
+
+Unknown Speaker  18:17  
+yeah. So if I followed just mark, and if I then got auto follow, or rather, if Mark got auto followed by me, I would know that it was Mark.
+
+Unknown Speaker  18:28  
+Yes. So and now, that's actually an important point. Basically, before you actually put out the adaptation on you don't want, you don't want to put out an adaptation that knocks down all 28 bits of information. And something that you're like you're describing, if Mark only followed one person and you put up, my pseudonym is followed by at mark, then you would know before you put up that education that would give up all your anonymity. So one of the features of this is with the auto follow thing, you know, first how many followers you're going to get per particular station and second, with with the 33 bits model, you know, how much anonymity you're giving up for navigation, you wouldn't want to give out an adaptation that gives up your full identity.
+
+Unknown Speaker  19:10  
+One or two more questions?
+
+Unknown Speaker  19:12  
+I'll grab the opportunity. So I have you thought about like refining this auto follow because where, because you could gradually you could potentially, like prove that you follow some of your original following. And, and and make that proof. And then depending on how much of you have them you you'd like for us to follow you. You'd reveal your identity more or less, but because auto following is just identical to being verified on this new crypto Twitter,
+
+Unknown Speaker  19:48  
+right. So So yeah, so the way I was thinking about auto follow is at the time that you sign up for the platform and get set up, you have a bunch of checkboxes, and it's it's opted into an aggressive Follow where you know your your auto following these these new accounts that you know, maybe everything that's verified and has more than 10,000 followers. And then some people will mess with those defaults, but the defaults are for aggressive auto follow. And what that does is basically it says that pseudonyms that do these adaptations will actually get a lot of followers it. That's essentially what it's engineered to do. I'm open to other constructs that can get you there. But the basic idea is this way you can before you do an adaptation, quantify how much how much reputation you get, how many how many followers you get for a given level of decrement in anonymity, and there's possibly other ways to do it. But that's one thought.
+
+Unknown Speaker  20:40  
+I have a question. Go ahead. I'm over here. Yeah. I was wondering like, so the whole idea is based around the, the verified accounts. But is there an idea that the verified accounts would actually act better? Or more ethically or like, not lie?
+
+Unknown Speaker  20:59  
+Yeah, great question. So I just use verified accounts as one one kind of piece of data that you could bring over. But you could have an account that wasn't verified, that had 10,000 100,000 followers or those followed by a particular person. The key is just that it can't be data, that that profile itself was generating about itself, verification, something imposed by the platform, your followers are coming from something else. So it has to be some kind of data like that.
+
+Unknown Speaker  21:25  
+I think we got one more, okay.
+
+Unknown Speaker  21:29  
+I imagine standing This is like a theoretical construct form, practicing the idea of then the median, and how you can transmit through reputation. What's your incentive? And what's your motivation to work on such an idea?
+
+Unknown Speaker  21:42  
+Great question. So like, you know, it is it is sort of like the other part of what Zack lets you do write that like a sec lets you move money to to a pseudonym. In the medium to long term, I think that we want to move towards a pseudonymous economy, where you have one name for earning a name for speaking. And you use your real name, like your social security number only in official contexts. And this is sort of like an HD wallet, you don't keep all of your balance, necessarily, you know, in just one address, you split it into things and you can have a root address that generates things downstream. The same way you have like your your real name, and you generate all this other all these other names for different purposes. We kind of already do this, like on Reddit, people will use the pseudonym or that pseudonym as it suits them. Because, you know, they don't want to give out their global identifier for all purposes, right. And so the idea here is one thing that deters people from using pseudonyms and social media is that they have to rebuild their audience completely from scratch. If that was not the case, then I think you'd see a lot more interesting content out there. People could speak more freely. So that's that's part of the motivation.
+
+Unknown Speaker  22:49  
+Thanks. Thank you so much for the talk.
+
+Transcribed by https://otter.ai

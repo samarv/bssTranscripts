@@ -1,0 +1,139 @@
+Unknown Speaker  0:00  
+And Vaughn says, the managing director of elisee, go Balaji, CTO at Coinbase as a surprise, kemalist metallic.
+
+Unknown Speaker  0:36  
+And then we'd like, I'd like to make this as open as possible. And so first, please introduce yourself and your organization or company. And then also, all the way the region, your project.
+
+Unknown Speaker  1:00  
+First, Hi, everyone, my name is bonza. I'm the managing director when we say go. And our goal is to build an open permissionless payment system that's available for everyone. And we're doing that by building essentially two solutions. One is an open source decentralized exchange. The other one is wild SDK and evil SDK. And we're actually, the reason we're building a decentralized exchange is very much for utilitarian purposes. Our omisego grew out of a parent company, we say payment gateway, which essentially, you know, we had a founding mission was payments for all right, and payments fall. But what payment gateway does is it's switching transactions between credit card networks, in between versions and customers. And so what we realized is we're actually touching a very small fraction of population, and we're not actually reaching our mission. And so in 2015, we started looking into blockchain. And what we realize is that there's a potential that we can build, leveraging a decentralized network, to provide this more peer to peer payment services for people. And you know, like, I was just walking around Zurich today. And actually, you might not realize it, but in Asia, there's a lot of friction still, in terms of payments. If you look at Thailand, a third of the population have some sort of access to credit card. But that still varies in scale, right? It doesn't, it doesn't mean they can use it as freely as they want to. So being able to tackle that, and leveraging the decentralized exchange gives us kind of hope that we can reduce frictions in people's lives and also make units better for everyone.
+
+Unknown Speaker  2:54  
+I'm metallic, I'm from
+
+Unknown Speaker  2:59  
+I also advise a bunch of stuff, including at least one centralized exchange, weirdly enough? Um, yeah, I don't know. I mean, I just like, do research and developments on general work is essentially a decentralized computing platforms. And I think those are great.
+
+Unknown Speaker  3:15  
+Yeah. Well, by the way, that was the reason you have the topic here is he made some interesting comments yesterday on decentralized exchanges, and then we thought we should thank him on Tuesdays. He can have more interesting compensation. Yeah, but that also another reason why I used to be a centralized exchange. I've been on this kind of
+
+Unknown Speaker  3:49  
+panel before our first interaction.
+
+Unknown Speaker  3:53  
+Yes. And then if it wasn't really easy to discuss this centralized versus decentralized discussion. So like today, I hope we can talk a little deeper. Sorry. Yeah, sure.
+
+Unknown Speaker  4:06  
+Yeah. So I'm
+
+Unknown Speaker  4:10  
+a centralized exchange.
+
+Unknown Speaker  4:13  
+We also actually now own something that's like moving towards a decent paradex. So we're actually very interested in this space. And we do believe it's gonna become more and more important component of space over the years to come.
+
+Unknown Speaker  4:34  
+So so as you know, this industry or ecosystem moves very quick and has changed. What are what do you think is your is your project and all of your projects in this
+
+Unknown Speaker  4:57  
+ecosystem? Yeah, well, so so We very much believe that a decentralized exchange will be one of the things that we're building infrastructure essentially. So I mean, my vision for us, and today we're kind of moving, we're trying to move towards that is in five to 10 years, you don't really look at decentralized exchange as a product as the way that people talk about today. It just becomes a ubiquitous part of your life. So for me sago, we have a wallet SDK that anyone can access, essentially compile it, and then put it into your app, and you will directly get connected to the decentralized network. What that does is, it opens up a whole, you know, we're talking about it backstage, right, with the rules of exchange, both decentralized and, and centralized, and how that opens up a whole host of opportunity for people and businesses. So So today, we're developing an infrastructure, you know, like, I think dexus have its limitation in terms of scaling at this point. But we're hoping to address that with plasma. There's a lot of user education that also needs to happen along the way. But, you know, as we move towards the goal of becoming ubiquitous infrastructure, hopefully users just need to realize how do they use an app? How they essentially interact with clients? How do you pay for things? Yeah.
+
+Unknown Speaker  6:28  
+Nope. So I guess the answer the actual question aetherium is, first of all, it's the platform that's going to be the base chain for the new amigo plasma chain, but also, it's the platform that a lot of these ERC 2223 721 whatever tokens ends up being ultimately based on. So it is, it has kind of ended up being the platform on which a lot of a lot of reaction happens for, for better or for worse. And I guess, like my view regarding why decentralized exchanges are important is that I want to see it turning one token into another to be as close to a new, like, seamless public utility as possible. So basically, I want to see the ESL by converting from token a and token, B be something that doesn't depend on you know, political decisions made by five guys hanging out in the cafeteria in San Francisco or Beijing, I just wanted to be something that, you know, if there are 10 reporters that wants to trade, you can just like hop on to a permissionless networking trade. And it you know, the ideally, in the in the long run, I think we can even get to the point where we see a world where, you know, you have user a that has, you know, I can make your coins and you are who is the consumer and then user B, who's a merchant, who has Doge coins that are totally different currency and also totally different blockchain. And the first user could just basically paid to the QR code provided by a second user, the whole thing would be out of print, like automatically routed through some kind of decentralized the channel, plasma, whatever base exchange network and my indicators will happen, almost as though it was from it was all within the same system. So I think that like getting as close as possible to that, and like, basically, both in order to kind of improve people's efficiency, and in order to put kind of smaller assets on the same footing as larger assets, is something something that I think is important. I would Yeah, and also, of course, just the fact that if you issue an asset, I do not think that like you're I think your incentives should be to develop the product and not to make your system more impressive to the kinds of people who hang out in the cafeterias in San Francisco and Beijing. So rigea Lin, be very excited about me cinco, I'm very excited about the proliferation of Eunuch paradex. All these different platforms, like Anthony, like some of the decentralized ones, like shaped like shape shift to try to move a lot like very far in the direction of providing more and more convenience, in terms of their ability to bring us closer to that vision.
+
+Unknown Speaker  9:14  
+Okay, so we're also in our cafeteria, very bullish about decentralized exchanges. And the reason for that is, you know, everybody, all of us, we got into blockchain because of the permissionless lis among other things, and you shouldn't have to go and get somebody's permission to go and list or you know, what have you or to be able to get some liquidity for your token or what have you. And internet will always be bigger than any one company. So it is good. And we're happy that these decentralized exchanges are out there, and that they're growing in volume. Right now. There's about 1% to 19% ratio, I think, on last I checked out but it's going to continue to grow because it was, you know, zero percent not so long ago. So first, we're happy we're out there. We've got an actually investment space and we're tracking it moving Wanting to grow. Second right now, just from a pragmatic standpoint, put everything on the blockchain doesn't scale. And so approaches like zero x, if you guys that have modular approaches that have some of the state in the order books and so on off chain and the actual, you know, final settlement or chain, that seems to be a good hybrid post allows you to kind of have some best of both worlds, you know, decentralized settlement, and then centralized liquidity pools. And then third, I think, you know, to the point about infrastructure and decentralized GDP, our infrastructure, I think a lot about file conversion. You know, for example, when you convert a JPEG or PNG, that is a transformation of bytes is happening locally on your computer. If you convert some token, a and token B, there's going to be some transformation happening locally on your computer. And also transformation happening on you know, let's say, they're both if you're watching on watching, so guess what the local transformation, remote transformation, that kind of thing as fixes and this type of stuff becomes more seamless, and maybe five years, maybe 10 years, you have a program that will in the background, execute a bunch of transactions, and maybe we'll buy some file coins for file storage, and maybe some VPN coins for using you know, a VPN or what have you. And all they'll be doing in the background and will be like a protocol kind of pinchy, you don't have to worry about a more than you worry about your HTTP or TCP handshakes are happening. So that's kind of how we think about space.
+
+Unknown Speaker  11:25  
+Do you have any comments? Great.
+
+Unknown Speaker  11:31  
+definitely appreciate the work Coinbase was doing. I very much appreciate the work in the case that the Bureau was true of Coinbase refusing the job I believe offer from rebel to pay a million dollars to Yellowstone pointless I'm very much I also think that the work in the insert, especially in terms of like increasing the convenience of moving between the crypto system and the Fiat system, where it is much harder to create interfaces purely technologically is important.
+
+Unknown Speaker  12:02  
+Yeah, so speak to that, like, basically, you know, Fiat is centralized. And so being this kind of bridge interface between, you know, the Fiat world, the crypto world, you know, everybody here has heard about crypto stuff endlessly, hundreds, thousands of times. But we shouldn't be sad to the fact that, you know, maybe there's 2030, maybe 50 million people who will crypto, but we've probably got on the order of 50 to 100 x RP in front of us, we still need to get the billions of people into the space. And for many of them, you know, they're only going to have dollars, or they're going to have remin, B or Brienne, or what have you. So the Fiat rails and that interface is going to be an important bit for a very long time. And and that's not going to be decentralized for a while now, the counter argument is you could use something like a stable coin or what have you. But even then that silver coin will have to be redeemed at something that is effectively a centralized change, because you're going to get, you know, dollars or that Fiat out at some point. So so I don't think the centralized component goes away. But I do think that we're going to figure out interesting ways to monetize and scale decentralized, I
+
+Unknown Speaker  13:06  
+actually have a question maybe, for you as well, because you have an experience with working in centralized exchange, right. So like, as we look into 2019, and a lot more projects are going to be in Mena, hopefully knock on wood. As a, you know, from a, from a decentralized exchange perspective, we look at, we're just in the infrastructure, right? Like we're providing services for these utility coins, and then get traded across and stuff. But for a lot of decentralized, I'm not necessarily saying Coinbase alone, like, it would be great if finances are here as well, for this tradition. A lot of the trades now are, are speculative. So as there's more utilities to the coins, how do you steer your product? And your product? roadmap?
+
+Unknown Speaker  13:55  
+Yeah, that's a good question. So, um, you know, the the company that I sold Coinbase, we're actually trading Coinbase infrastructure now, that is earn it is a absolutely a utility play in the space where people pay to get replies to emails, and we got that to about a 10 million run rate before we sold it. And that's because people senators want to pay people to reply to emails when people want to get paid to reply to emails, the thinking is that, you know, by integrating them to previous infrastructure at you know, maybe 100 x scale. Now we have a daily recurring demand, which for cryptocurrency that hasn't been doing speculation, it's simply because you want to go and send mass emails, right? So that's the kind of thing which I think is interesting, in the medium term, where you start to get demand that is recurring, because people want to accomplish a task, not because they're speculative, and that's kind of thing that over time, you know, builds utility in the space.
+
+Unknown Speaker  14:54  
+Okay, um, okay. I would like to move on to the next question. So what are Your biggest challenge for
+
+Unknown Speaker  15:06  
+everyone
+
+Unknown Speaker  15:07  
+in this for any aspects.
+
+Unknown Speaker  15:21  
+Once my has been making a lot of progress recently and I've been seeing I think, like a move made that release baytex is moving towards something then there was that the theory applies my wife, no garage projects can be they came out of liquidity. And then I've been seeing inside when we say go, although there's been a lot of work moving forward a lot of theoretical stuff by people like Dan Robinson on plasma debit. So I'm personally very happy about what's been happening on the technology side. I'm in as I think I said on Twitter a couple of days ago, I do think the community needs to maintain vigilance and basically make sure that each and every one of these projects, claiming to be a plasma chain actually does have the noncustodial properties so that the exchange or whatever system is using plasma actually can't steal your funds. And but you know, that if we like it, I think we are close to see any systems that actually have that actually have those security guarantees go live, I would be great to see how well they work.
+
+Unknown Speaker  16:27  
+For us, actually from from a business perspective, too, because we're Ruby to bees, in terms of we're trying to approach businesses to adopt St. Claire. So User Education and like partner education is what we spend a lot of our, essentially our business development time doing. And when you try to approach like, logically blommer, it's both ways, right? It's like trying to understand their supply chain their issues, but also at the same time educating them and getting them to look at it differently, a different mindset. So I think that's, that's the other I mean, that's more like a business challenge. How do you how do you start having a common even a common vocabulary is hard to establish?
+
+Unknown Speaker  17:11  
+Yeah. And then you also talk to big financial institutions, and governments using that combination. Communication has teams? Do they understand better now?
+
+Unknown Speaker  17:24  
+I actually think it will take time. But
+
+Unknown Speaker  17:28  
+you know, it's
+
+Unknown Speaker  17:31  
+it's a, it's a learning process for everyone, right? It's also a learning process for us, every time we go and talk to a new client, or even every time we progress the conversation, we start to get a better understanding of like, Okay, this is, this is a good way to approach them. And this is a good way to explain it to someone. But the way that I explained it to him to my parents versus the way that I explained it to somebody else is always going to change because that the use case is so wide, that contexts and kind of people's background brings kind of the kids a lot on home, how they start picking it up, and how they understand the culture around them.
+
+Unknown Speaker  18:10  
+So looking back at my experience, like back in 2013, I got help with, like, actually even getting a bank account. It was extremely hard to do a business. And then it always had to start with explaining about Bitcoin, how Bitcoin works, that it like never was able to talk about the business and just blocks in a bit. But maybe as YouTubers, I think, is that part of your challenge still is it isn't hard to get to do enough education or talking with different stakeholders, including regulators or other institutions, it's still Italians?
+
+Unknown Speaker  19:03  
+Well, I think one huge difference now versus a few years ago is that everybody in finance has heard the word watching 1000 times. And it's actually kind of important because you have folks at very senior levels, who are at least discussing the concept, even if they're attacking it or supporting and defending it being neutral publicly. You know, Jamie Dimon knows what it is. You know, some carsons knows who's watching it. So just Christine Lagarde who's for it. So there's, you know, blue Blankfein, who's, you know, tentatively for it. And that's important because then you're not trying to explain everything to novo. And so that's come out of this kind of, you know, messageboard bubble to the tech bubble to, you know, financing government, and to the early adopters, which includes everybody here, but it hasn't really come to the masses. You know, lots of folks have heard about it, but they don't use it on a daily basis, like they use Facebook and Twitter and Social Networks. So I think the education problem at the elite level We're starting to make significant progress on the blockchain, it's on K through 12. It's not in really college, undergraduate education a little bit in graduate education. Let's get started on the message board. So I think we still have a lot to do. And I think one thing to keep in mind is, we have to keep our interfaces simple, because 95 98% of all watching users, maybe 99%, depending on how you count have yet to be on board. So much that education is yet to be done.
+
+Unknown Speaker  20:27  
+And it's actually something that, you know, like, as much as we're saying, okay, decentralized, decentralized exchange, it's something that we both need to do together. And it's like an effort to push that forward with the entire space. Yeah.
+
+Unknown Speaker  20:39  
+Speaking of working together, so now that you do explain your role and challenges. How, how do you how do you to me? Or is there room to cooperate? We always tend to split into centralizes, you centralize?
+
+Unknown Speaker  21:02  
+What do you think?
+
+Unknown Speaker  21:04  
+I mean, we actually have a decentralized exchange plenty up are definitely cooperating. I think, you know, if you look at Model X, you can actually use centralized couldn t to help bootstrap decentralized change, I don't think it's going to be a continuous shift over like this, it's going to be a gradual kind of thing. And, you know, we're in favor of it. So yeah, thumbs up,
+
+Unknown Speaker  21:29  
+I'd like to hear from anything is the best way for centralizing a centralized system to work together.
+
+Unknown Speaker  21:40  
+Right, so one, I think thing that we haven't talked about yet is for is the idea of kind of more specialization. So there are specific areas where centralized exchanges do much, I think do much better than an irreversible way which is specifically near an interface between the cryptocurrency and Fiat side. And one thing that this means is that it creates a natural role for there to exist kind of separate classes of entities which offer like be and like to exchange between dating system Fiat and cryptocurrency back to tokens on one side, and on the other side book, all kinds of exchanges between, like Fiat backed cryptocurrencies and other and other kinds of cryptocurrencies. And, you know, like we've, like, there already are at least a few of those available, but I think you would help to have from it would have to have more would help to have more with kind of more accessible gateways, more better transparency better, I just, generally do, you'd be better to add kind of convincing your regulators of the plan, the public and the crypto community that pays Yeah, that that'd be worthwhile, and, and, or something that's safe to use. And that's some. So I think that like, the more of those kinds of things that there is, so basically, some kind of gateway, some kind of thing that's closer to specializing between being a maximally efficiency gateway between the field world and the crypto world. I think it's something that's highly complimentary and good for both. And the other side of exchanging which is medical trading one kind of cryptocurrency to another and the utility and adoption of public blockchains in general.
+
+Unknown Speaker  23:43  
+Anything to
+
+Unknown Speaker  23:44  
+summarize?
+
+Unknown Speaker  23:47  
+Okay, so maybe the last question is what what are your next plans? Do you have any plans? Any
+
+Unknown Speaker  23:57  
+plans to establish a plasma?
+
+Unknown Speaker  24:01  
+Okay. Well,
+
+Unknown Speaker  24:03  
+I don't have I don't have time to personally audit the five plasma limitation so I'm trying to yell at people to encourage others to do this.
+
+Unknown Speaker  24:15  
+We have a lot of stuff that we've announced it's coming out we have support for a bunch of ERC 20 and assets and aetherium Classic. We also have announced Coinbase custody so you can start your crypto with us we got a broker dealer license, so we might be able to eventually blockchain in five traditional equities markets. We have this was pretty cool bringing all the benefits blockchain to you know, Wall Street, I think is really interesting in this in the medium term. And so we're kind of certainly we have a huge part of the business that's focused on the crypto side, we have a huge part of the business is also focused on the Fiat side and basically, you know, in a sense reforming Wall Street by presenting an example of but a better world could be. So we want to maintain that balance. That's, that's one of our you know, focuses and the kinds of Things we think about,
+
+Unknown Speaker  25:02  
+but I managed to fill out and actually the highest point is that we are, you know, we announced a partnership and status yesterday and we are looking for other partners. And not just in terms of market adoption, but also in terms of technological use case. experimentation and being able to actually, you know, design and adjust itself so that serves other projects and other needs so, I'm using this as kind of like a an advertisement please get in touch. Okay
+
+Unknown Speaker  25:35  
+everyone
+
+Transcribed by https://otter.ai

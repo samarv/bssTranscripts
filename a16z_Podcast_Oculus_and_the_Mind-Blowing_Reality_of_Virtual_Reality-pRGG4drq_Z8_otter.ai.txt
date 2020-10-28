@@ -1,0 +1,88 @@
+Unknown Speaker  0:00  
+Hi, this is Chris Dixon. This is the a16z podcast. I'm here today with my colleagues Balaji Srinivasan and Gil shaffir.
+
+Unknown Speaker  0:10  
+Today we're gonna talk about virtual reality and Oculus.
+
+Unknown Speaker  0:14  
+I guess the first question is, you know, this is one of these things kind of like mobile computing, which has been sort of people have tried to do for, you know, 20 plus years. You know, the the there was a company, for example, called go computing in the early 90s, which tried to do kind of early version of the iPad. It didn't really work, and then eventually iPad came along. There were people to try to do virtuality before it didn't work. And then Oculus came along. Why is this, you know, what sort of came together to make it happen. Now,
+
+Unknown Speaker  0:47  
+I think with virtual reality, it's something that you can't do a poor job with, because you've got a screen close to your face, it's really easy to get motion sick, and really small problems and the experience can can really destroy it for users. So there had to be a number of advancements, I think, for it to really work
+
+Unknown Speaker  1:06  
+on the display side, high resolution screens with faster refresh rates. And then a lot of the components that go into cell phones, like the accelerometers, and other inner inertial and just the speed of graphics chips, like one of the key ideas with virtual reality, right is the motion to photon latency. So the move your head, how quickly the screen get updated. And so every one of those parts in between that there has to be incredibly well optimized, right.
+
+Unknown Speaker  1:30  
+But even without the, without the without the screen technology, even you could potentially render wireframes fast enough for an interesting experience. But even that would get people sick without
+
+Unknown Speaker  1:41  
+Yeah, that kind of fast. Yeah, sort of some variant of like, the uncanny valley or something where it's like, if you graphed it out, like until you get over some threshold. It's, it's, it's sort of it's a terrible experience, because you can get motion sickness. And I think that happened some with the first dev kit, because it wasn't quite there. You know, and so but once you kind of hit over that threshold, suddenly it goes from like this kind of gadget into this feeling of presence, which is like you're actually transported to another place.
+
+Unknown Speaker  2:08  
+Yeah, it's a really interesting experience where we, you know, we mentioned all these things that if they're slightly off can destroy the experience. But yet, when all the things like refresh rates and positional tracking, work together at that level, where they don't cause any problems, it does become a really magical experience. Yeah.
+
+Balaji Srinivasan  2:27  
+It's not also not an uncommon kind of phenomenon. Technology, like people talk about convergence device, 10 years before the iPhone, and, you know, Second Life Rupali have third life or Second Life 2.0 or something like that now. So I think, another iteration on the things that have happened in like, 510 years, laters, pretty,
+
+Unknown Speaker  2:43  
+it seems that pretty much everything talked about in science fiction, eventually happens. It's just a question of when Yeah. So what so in five years, I think we were all believers, this is going to be a pervasive, widespread technology. A lot of people think of it as just being about gaming. I don't think we think that at all, what are some of the things that that you think people using VR for?
+
+Balaji Srinivasan  3:09  
+So one application I'm pretty interested in is telepresence. So you know, if you imagine, in maybe three, five years, divulgar got sort of demo units like this, you know, set up, but you've got Oculus on your head, and you've got something like the thalmic, Mio sensitive armbands on your on your wrist so that you can or your forearms, so it can detect your forearm position, you've got a 3d treadmill underneath, you, maybe got also an array of connects in front of you to check facial expressions and body motions, and so on and so forth, you know, a very sensitive apparatus to determine your body's conformation. And now you can use that to, for example, control, say, one of these Google robots, these humanoid robots, which they've recently acquired on the other side of the world, and you can move around and you can send telemetry back. And so you can tour the pyramids for free, right? You know, you just boom, SSH into this remote robot and walk it around, and you can do tours. And so I think that's going to be a very interesting kind of application.
+
+Unknown Speaker  4:07  
+You can also the other thing is and people talking about this virtuality is you can pre record the tour have the three dimensional, like, so you go to the Taj Mahal, you have the whole thing, perfectly then rendered in virtual reality. And then there's no reason to have to do it synchronously. You can do synchronously, you can just go and anytime you want. Do VR tourism. That's right. It'll actually be a big app.
+
+Balaji Srinivasan  4:27  
+Yeah. And in this case, like the kind of app that I was thinking of it would take to do it synchronously, which I'd call like remote reality. And then you could do it asynchronously, which should be like an experiential or like, virtual reality thing. And it's almost like dual to like a Google Glass 2.0 where like this would play it back. And then a Google Glass 2.0 might record it and
+
+Unknown Speaker  4:43  
+other things like that are sporting and musical events. So yeah, whatever your favorite band is playing your favorite sports team. I've seen companies building or like giant camera things where you can put them there and then you record the whole thing. And then as you turn your head, you know you can it's as if you're there. Because all the different the whole scene has been running, I
+
+Unknown Speaker  5:02  
+think I think if you look at what people are doing right now and their leisure time, it'll tell you a lot about what people will likely be doing with. with VR. If people are watching sports, if they're watching movies, virtual reality just provides much better medium to actually experience those.
+
+Unknown Speaker  5:18  
+I agree. I think also
+
+Unknown Speaker  5:20  
+the one of the things I know about you get go, but but in using VR lately, I've come to believe that games like shooters are actually going to be far too intense, because it's like being there. So imagine you're actually there and you feel like Whoa, that guy shooting at me. So I've actually come to be kind of somewhat bearish on some of the more games I mean, least the games as they exist today on the Xbox, for example, you know, Titan fall, like you're gonna have a heart attack, if you have like a giant Titan coming at you. Oculus will reduce violence in video games. Well, no, I think it will. I think I should, like driving might be intense enough. And I also think like, remember, the demos were like sitting on a beach and there's like a, it's like a three dimensional photo, which like three dimensional photos have always been disappointed. So I'm like panoramic photos, like on your iPhone, like, what's the point because you're viewing it back on an iPhone, 3d TVs are gimmick and they don't really work. In this case, when you've actually recorded the true 3d and you're seeing in true 3d going and sitting on a beach in Italy, or something for half an hour after I get home from work and like, want to like go for work at a long day, I'm gonna have a beer and I'm gonna sit in the beach in Italy. Like that's kind of a good experience, as opposed to running around shooting people.
+
+Unknown Speaker  6:30  
+Yeah, I think these they're just so amazingly compelling experiences that certainly things like relaxation or meditation are actually very interesting non game
+
+Unknown Speaker  6:38  
+use case. I also like the member that one of the things I mentioned about the experiences is like, I don't think you've ever no one has ever experienced true digital 3d. I'm now concluded until VR because 3d movies, you know, you're watching the movie, and it's like regular stuff. And then suddenly, like, the thing comes at you and it's like a gimmick, right? Like, I hate 3d movies. Like in these demos with VR, like the sense of scale, I've never experienced, like seeing you're in like flying through space, and there's a giant obelisk or whatever. The only time I've ever experienced in my life is like in New York City, looking up at a skyscraper.
+
+Unknown Speaker  7:06  
+Like Yeah, I've never been afraid that something in a 3d movie was going to come out and hit me in the head. But I found myself in some of those demos, ducking as cubes were rotating towards me.
+
+Balaji Srinivasan  7:17  
+Yeah, so regarding 3d photos, also, like, you know, the destiny of every piece of hardware is ultimately to integrate with a mobile phone or many of them and, you know, connects, we start to see some of these mobile phones that become basically 3d scanners. And so that kind of thing. I think within two years for phones, mobile, almost all smartphones will be able to take 3d do 3d imaging. Exactly. And so then, like, you know, you can talk about experiencing those moments again, because you 3d scan the room, and then you can wander around it an Oculus, like, you know, almost like these, you know, kind of TV shows where the psychic warps back into somebody's heads, and they walk around the scene or something like that. Right.
+
+Unknown Speaker  7:54  
+So like, we're also like, I think about, like, obviously, that famous photo where I think it was like, in whatever 1905 or whenever the first films were come 15 or whatever, the first films are coming out, there's a photo where the trains coming at people near brothers. Yeah, exactly. And, and everyone's, like ducking, because no one had seen this train coming at you. Right? Right, right. And like, didn't know how to react. And now of course, we understand the language of like, there's a language now for filmmaking. And there's a language for watching films. And the interesting thing with VR is we haven't yet discovered those languages, right. And so people are gonna realize, Oh, you know, you can't do shooting and running or this, but you can do this and like, what works and what doesn't, I think it's gonna be, I think it's gonna be a really exciting time to be either game that whatever gonna call it a VR maker, which is like maybe game developers and probably filmmakers, it's actually very fitting that, that Oculus is and this is a new film medium, there's going to be a really interesting period there where people are sort of constructing that language, which took you decades in the case of film.
+
+Balaji Srinivasan  8:49  
+Yeah, and that's interesting, actually, because even like, almost a passive game, where you'd sort of be walked around within the game without being too interactive, could be kind of interesting. It'd be like a film. And you could have a continuum between that versus a very highly interactive game, just like the experience of being in 3d. So that might be one of the first things it's done.
+
+Unknown Speaker  9:07  
+It's gonna be like, you know, those, like, performance art plays they have in New York, where you're like you could you get to walk around the play. Yeah, as they're doing it exactly as movies are gonna be used, right? Like you're in the scene and like, oh, where were you? When that happened? I was actually right, by the guy who's right, you can watch, you can watch the movie over and over again, from different different positions, and, you know, learn all the intricate details of what's going on in a scenario. So let's talk about, like business use cases for VR, like,
+
+Balaji Srinivasan  9:33  
+training for sure. I mean, any, you know, for surgery, for example, if you're a mechanic, any kind of trained firefighters, firefighters Ops, or whatever, like, yeah, I think any kind of training environment, especially one that has some degree of risk, like construction, for example, right? You can even simulate, here's what would happen and this would be bad. Like if this burger falls on you. And here's here's a good thing. And in fact, this is actually related to some, you know, neuroscientific theories about how consciousness evolved right like Imagine you're a hunter gatherer, and you're, you know, running through the jungle and there's a saber toothed Tiger that's chasing you, right? Having some awareness of yourself, whether you're large or small, will tell you whether or not you can duck under that, you know, piece of lumber in front that's fallen or not, right? So there's some reason to have a model of yourself in your head, because you can simulate whether you die going this route or not. And so kind of in the same way, Oculus as a training device can let us die 1000 times in virtual reality so that we don't die in real life. So I think it can de risk situation. So that's kind of interesting.
+
+Unknown Speaker  10:33  
+I also think, you know, why do you still travel in business? Like for the most part, it involves before before people exchange large sums of money, like for sales or investment, they like to look the other person in the eye and have an emotional connection? Right? That's a great, a large proportion of business travels around that emotional connection that goes with deal making. And I think, you know, with this, I also think with, even without VR with a super high rez, you know, modern video conferencing where you can make eye contact with things, but I think also VR enhances it, you can basically replace business travel.
+
+Balaji Srinivasan  11:07  
+Yeah. And so I think the key technical thing for that is going to be recording very, very high resolution, the, you know, eyes and kind of emotions around the face, and so on and so forth. So, you'd need like two directional cameras and stuff.
+
+Unknown Speaker  11:23  
+Because Also, if you're wearing goggles, during the form factor is gonna get dramatically different, they'll probably end up looking like regular glasses at some point. Oh, interesting. Okay.
+
+Balaji Srinivasan  11:30  
+Yeah, I mean, just, we'll just like all like this, everything, all the cost, cost and performance and form factor curves of all, you know, hardware technology eventually shrink. Yeah, even the Kinect is getting into mobile phone form factor. But yeah, once you can have record the thesis confirmations, and then transmit that, then yes, then it does replace business means it replaces, in fact, all kinds of meanings. I mean, I had a Twitter post other day, where basically, or a tweet, where I kind of was talking about, I think people do not appreciate the scale of online crowds, right? Like, what is 100,000 people? 100,000 people is Michigan stadium packed, right? It's an enormous number of people. So you know, when you say like a blog post has had 100,000 views, the people who are watching that also don't really have a sense of it, they see a counter, but they don't get a sense of the scale. And so I think a very interesting application is also going to be for Oculus, like any large Reddit thread or something like that, you'll have new kinds of online forum, which gives you the sense of what a popular event is, right? You can be in a massive stadium and actually see all these other people. You can even combine some of the offline and online, imagine kind of having that visual of seeing the stadium. But then you also have like a search box and you can type in your interests and you're teleported within the stadium, to people who are kind of like you nearby and then you can kind of talk to them or whatever you see chat bubbles appear over their heads. So you can imagine you'd have to iterate on the experiences there. But I think like stadium or like forum type applications that use Oculus falls to be very interesting.
+
+Transcribed by https://otter.ai
