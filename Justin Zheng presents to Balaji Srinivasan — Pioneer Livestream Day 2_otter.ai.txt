@@ -1,0 +1,33 @@
+Unknown Speaker  0:00  
+Cool, okay, Hey everyone. So I am presenting the crowd governed eSports league. So the narrow problem basically the problem in the esports sector is that eSports teams don't have a voice in league administration. And that leads to unethical behavior by league admins. And fans also feel left out, and they feel unhappy about the unethical behavior. The broader problem is that human coordination and governance is a really big problem as a whole in human society. There's low participation and low effectiveness so we can solve that we solve a lot of problems. So what exactly are we doing? We're basically building the NBA NFL FIFA but for eSports and fully democratic. And we're doing this on the blockchain first transparency and security. So the NBA and NFL already lets teams vote on league decisions, and it works really well. But we're gonna extend that to everyone. And we're gonna do it for eSports. So this is good for teams, because they are additional incentive alignment between the teams in the leagues, and they get a voice in the league operations. The players feel good about this, because there's less chance for player abuse with smart contracts. It's good for fans, because they have more of a voice and input in the league. And it's good for investors because they have a voice in the league that they invest in. So what have we done. So far, we've tested fan voting through a team we ran, we got about 400 votes, which is about 10 to 11 times in normal engagement, the team itself has been very successful, we just qualified for some tournaments. Um, we've done interviews with like, top 10 teams in the world, they've been really interested in this, and they're interested in playing in our league. And we've received $150,000 of pre seed funding from village global. So roadmap, we've already completed the voting test. Next, we're gonna run VR league and iterate under crowd governance methods, we're going to be giving people more power over time, the first stage of this is going to take about two to three months, and we're going to raise seed funding off of it. And then our world domination stage basically, is to generalize this, and basically be able to assimilate other industries and other companies into this Dao crowd voting system. And make sure that people can have a voice in operations of all industries, not just eSports.
+
+Balaji Srinivasan  2:26  
+Great, thanks to a couple of thoughts. I mean, as just as a comment, I would say that if you just become successful with even one sports league, that's going to be that's going to be a pretty big deal. Right. So, but that, not to not to question ambition, but but that would be that'd be a big Right. Yeah. Um, so a couple of questions. So, um, are you envisioning any uses for the currency or the crypto besides voting, for example, you know, prediction market sell things, you know, you might call them bets if they're legal in a particular jurisdiction, or, you know, fantasy fantasy football like things. But yeah, I was thinking about that.
+
+Unknown Speaker  3:05  
+Yeah, so betting is a huge thing. So we've definitely been thinking about that. The problem with that is that regulation wise is really complicated. The best thing we think we can do outside of voting right now is sort of a tipping system, where players, I mean, fans can tip their favorite players with their tokens. And then in return, they can get some sort of like NFT of their favorite player, or if they read up the team
+
+Balaji Srinivasan  3:28  
+got up and do have a particular initial few, you know, games that you're particularly targeting your the developers of those games?
+
+Unknown Speaker  3:39  
+Yeah, so we've been talking to that. I can't say the exact names, but we've been talking to the developers of to VR games that are really interested in just working directly with us.
+
+Balaji Srinivasan  3:49  
+Okay, that's the reason I ask is, it's sometimes non trivial to retrofit an existing gap, or something as big as this. For example, you know, Greg Brockman at stripe recently brought up how challenging it was for him to instrument Dota for for kind of, like AI entertain him automatically. So you might consider talking to a publisher about, you know, a low risk, new addition of an existing game that has your crypto functionality built in?
+
+Unknown Speaker  4:20  
+Yeah, the nice thing about starting in VR, is that because everything's so new, we can develop alongside the games as they're also getting started. Okay, and we can be like, super native to them.
+
+Balaji Srinivasan  4:30  
+Yeah, I think I think that first game will be really critical. You know, an interesting concept would be something like DLC for crypto, yeah, medical, right, where, you know, and in fact, just as a stick you might make make it something that that DLC could be bought with a bunch of different kryptos. So sort of the kind of audience spread. They're just some comments and thoughts. I think this is interesting. And I think the governance of something like like, you know, sports or eSports is a is a good place to start for coming. Quote, not exactly real world corporate governance, but crypto governance outside of the current crypto networks because relatively lower stakes and success again. So those are just my cons.
+
+Okay. Oh, there's a question from the livestream. Um, how do you ensure fairness and voting? How do you ensure that it isn't just the richest bitter always wins?
+
+Unknown Speaker  5:25  
+Yeah, so that's like a pretty unsolved problem just in voting in general? Um, our answer to that is we're going to be trying a lot of different things. So we're gonna start with this, like straight voting, which basically, yeah, that rich person is probably gonna win. But we're gonna move on to things like quadratic voting, where we take like the square root of the number of votes you're putting in, to try to make it more fair, we obviously don't know whether that's gonna work or not, because that's never really been put into action. But that's like, what we're trying to do figure out how to answer that question.
+
+Balaji Srinivasan  5:56  
+Yeah, I mean, like, the way that you know, augur, it's, you know, it's in the middle of its run on August thesis is it's not just the richest bidder per se, but it's the largest stakeholders in the network. And so, it's not just how much wealth you have, it's how much equity or aligned interest you have in the system to kind of, you know, good decisions, offsets at least a long term way that could mitigate just just wealth per se. It's more of a long Okay, thank you.
+
+Transcribed by https://otter.ai
