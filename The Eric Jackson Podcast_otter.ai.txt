@@ -1,0 +1,217 @@
+Unknown Speaker  0:01  
+Hey, welcome to the Eric Jackson podcast, I am happy to have
+
+Unknown Speaker  0:05  
+belgie Srinivasan with me today. So valjoux is the CEO of 20 one.co. Prior to that, he was a GP at Andreessen Horowitz. He was also has a PhD in electrical engineering from Stanford. He has been one of the, you know, the better writers, I would say, my opinion about cryptocurrencies in the space, I thought he had a particularly fascinating medium post three months ago now about with was called thoughts on tokens. So if you haven't read it, try to try to look it up and take a look. And I think we'll be we'll be talking about many of those points that were covered in that post. But I thought initially belgie could sort of talk about how did you go from Andreessen Horowitz to 21. co, and how 21 co sort of plays into the whole crypto space and how you you got interested in this this area to begin with?
+
+Unknown Speaker  1:05  
+Sure, yeah. So um,
+
+Unknown Speaker  1:07  
+my background briefly, Eric, by the way, it's nice, nice to be here.
+
+Unknown Speaker  1:11  
+And thank you for the kind words. So my background is I am, you know, a Stanford lifer. vsms, PhD, I taught CS and stats here for a couple of years. And then I founded a genomics company with my brother and my friends in 2008, called council scale that to more than 100 million dollars in annual revenue, ad investments for Peter teal, and Founders Fund and David Drummond of Google. And that's what I did for 2008 to 2012. After that, in 2013, I did three things. I helped set up a company, which at the time was called 26. I did a MOOC course with 250,000 students worldwide, and I joined interesting Horowitz. And then in 2015, in the middle of 2015, I took over 21, e6, which has been called to enter co CEO, and I went to part time at Anderson. So I'm currently a board partner at Andreessen Horowitz. And so I've been doing terms Ico full time and Andreessen part time for last couple of years. So that's like, you know, kind of background in a nutshell.
+
+Unknown Speaker  2:15  
+And in terms of how I got interested in this whole space? Well, since the financial crisis, I'd been thinking about currency, and, you know, had various theories on that, because a lot of things that people thought of as constants suddenly became variables. And, you know, it was now possible to print gigantic amounts of money and, you know, a lot of the abstractions that underlay the financial system, were becoming somewhat, you know, a computer scientist called leaky abstractions. And so thinking about that type of stuff in in 2011, you know, the first Bitcoin bubble hit, and I was definitely paying attention to it, then I got into it pretty heavily in late 2012, very heavily. And that was actually about six months before the second Bitcoin bubble in, in kind of q2 of 2013. I taught in my class prior to that Bitcoin bubble. And a bunch of my students came to me afterwards long time later and said, that's how I got them into bitcoin and are so happy that they heard about it from that. Um, and the reason that I've always been interested in Bitcoin specifically, and then more generally, digital currency and blockchains, and everything that's happening today is on that, you know, we've revolutionized revolutionize a lot of different industries with the internet. But we haven't really revolutionized finance, and with the blockchain means what what Bitcoin means is a way to do scarcity over the internet, you know, up to this point, but you could do is you could copy files from place to place. And that was not, you know, transferring them, it was copying them. But with a blockchain, you can actually provably transfer something from one party to another. And that gives a way to do digital scarcity on the internet, which means you can now programmatically handle scarce assets. And that's a very, very big concept. So that's, you know, one of the reasons I'm interested in from a computer science, yeah, but there's other reasons, but that that's a big one. You know, so we can jump off and go to everyone. And just on 21 co, how can you explain what he does? and how it relates to this conversation as well? Absolutely, yeah. So um, so basically, what we're doing with 21 is we are trying to mainstream digital currency.
+
+Unknown Speaker  4:20  
+And we've got a service which allows you to earn digital currency by replying to emails and completing tasks. And so essentially, you don't have to find the digital currency, you don't have to buy it on an exchange. But rather, you can earn it by doing something that a billion people know how to do, namely responding to an email. And
+
+Unknown Speaker  4:41  
+so you can just go and sign up and you'll just start getting tasks in your account, where you can accept or refuse them, and you'll get paid digital currency for for doing so. So as an example, somebody who's launching a new token may want to get your feedback so they'll pay you $10 in digital currency for that, or somebody who is recruiting engineering.
+
+Unknown Speaker  5:00  
+I may send out a survey saying, Hey, are you in the Bay Area? Are you, you know, interested in new position? Do you have these technical skills? Would you be interested in chatting, and they'll pay you, you know, five bucks for your time. And in this fashion, what you can do is a bunch of business processes that currently rely on unsolicited mass outbound email, you can turn them into something where both the sender and the recipient have a much better relationship, the recipient is actually getting paid for their time, the sender can now send mass messages. And they can also send things like surveys and so on, which would be a little bit of an imposition, if sent an unsolicited fashion to somebody without compensation. But if you're attaching $10, to add $5, to it, it's much, you know, it's so much better pitch. So that's basically what we're doing. We're 21. So it's basically like, you know, something, we're both senders and users can use digital currency to actually do something useful. So let's move to tokens. Because, you know, I, what I find interesting about the whole, the whole Bitcoin and crypto space is that there's sort of waves of understanding of just how far reaching the implications are of the technology. And initially, we like to think of something new through the lens of some something that we're familiar with. So initially, people were only thinking about Bitcoin as a replacement for fiat currency. And, and now, you know, as time has gone on, people are starting to see that, well, actually, it doesn't just do X, it could do, you know, Y and Z and a and b, or whatever. And so part of the part of the this, you know, understanding is this, this concept of token tokenization, which you go through in that medium post. So my first question is,
+
+Unknown Speaker  6:42  
+I wrote a piece on cnbc.com, a couple couple weeks ago, where the title is something like, you know, the blockchain is going to prevent future Uber scenarios in the future, where there's sort of this conflict in a sort of a later stage, big private company. And part of my argument was that
+
+Unknown Speaker  7:06  
+in the future, I believe, big private companies, certainly venture backed companies, like an Uber,
+
+Unknown Speaker  7:14  
+instead of their, their shares trading on a secondary gray market, the way they do today, those kinds of transactions, along with many others could move to trade on the blockchain, and probably with much deeper markets. And, you know, with much quicker with much more liquidity with much more kind of real time updating of pricing. And, you know, my belief is that that transparency, you know, if in this case, you know, you had a private company that one day was trading at $16 billion valuation, and then, you know, a few weeks later, had dropped 30 billion, let's say, well, that's not going to happen without there being incredible pressure internally on the company's board and management and so forth. And, you know, and probably change a lot of things that that might have been going on before. We're in today, today, you know, because the company is private, you know, there's not as much pressure to change. So. So the pushback I got on that piece was from a lot of Wall Street folks who say, oh, that'll never happen, you know, private companies can trade shares today, on, you know, in secondary markets. What's so special about the blockchain? You know, we don't really understand why there's some sort of technical, you know, implications of why the blockchain is any different than current solutions that are out there today, for private assets to trade. So I wanted, you go into a lot of detail in your piece on why, you know,
+
+Unknown Speaker  8:49  
+the blockchain and tokens, you know, offer deeper liquidity faster, you know, recognition and pricing. So, I wanted to wanted you to explain more from a from a technologist angle, why the blockchain is different from the kinds of solutions that are today, out there today.
+
+Unknown Speaker  9:11  
+Sure, so that's an interesting objection from the wall street guys, because I, I would have thought of a different set of objections or internet objections with arguments, discussions kept points heavy. But just you know, before I dive into that, one thing I just want to, you know, be be clear about is that it's not a direct analogy between equities and tokens, because, you know, if you're doing a token in the US in 2017, you need to have a utility component, and not just use it as a proxy for equities. And that's actually not that hard to do, because there are many interesting things you can do to tokenize networks. So, you know, well, you know, maybe I want a pin qualifier to every single point I make, I think it's very important to keep in mind that if you're doing anything with tokens, you want to make sure that they're not the same as equities, than they are utility tokens.
+
+Unknown Speaker  10:00  
+With that said, you know, given that tokens and equities should be distinct things, relative to existing secondary markets, in property, you know, or equities, or having skilled what's going to happen with tokens is completely unparalleled. You know, the analogy would be, we have libraries, right? Oh, by the way, the search engines, you know, the,
+
+Unknown Speaker  10:21  
+you know, it's like, I don't know, 10,100, a million x greater scale, right, like, so, you know, if you think about a library, yes, yes, they have books in the library, and you can drive down to library and look something up. But first, that would take you a long time, you know, they take you at least an hour. Second, you know, you're gonna have a limited index. Third, the lookup process itself is flipping through the card catalog. And, you know, there's many phrases that may not have been indexed. So on several different dimensions on search engines are 10, to 100, to 1000, extra more better. And in the same way, already, if you go and look at something like shape, shift.io, that's probably you know, the single best counterpoint for your friends on Wall Street, which is shape shift, you can literally, you know, pick up any computer, write a script right now. And if you have digital currency, you can enter an exit, whatever, you know, token positions you want. And you can do that, you know, while you're asleep. And you can do that across borders.
+
+Unknown Speaker  11:16  
+And that is just, you know, the very beginning of what it means to have a completely 24, seven global, you know, market for something. And you know, what we've got with the internet, you know, people don't realize that, it's actually still not that easy to buy something on the internet, it's definitely not that easy to programmatically buy something on the internet. Because, you know, yes, there's Google Shopping, and there's Amazon, and so on. But most of those buttons, when you click them, they have a human, you know, input that's required, it's a credit card form, with a mail order address thing, and so on all these holdovers from the pre internet era, once you can do actually programmatic trades, on everything, then, you know, the whole HFT thing, you know, seems like a tiny, tiny sidelight. And, you know, the other aspect of it is, once the internet takes something over, it becomes by far the largest version of it, for example, the internet is the largest photo database in the world. And the internet is the largest, you know, book database in the world, and so on and so forth. So it's also going to be the largest database of things that you can programmatically by itself. So like, probably within five years, maybe probably within two years, there's going to be more tokens, and there are, you know, public equities, commodities, every other kind of instrument the world, like, you're gonna have a completely new Bloomberg, that is based on open, you know, packet based things that anybody can can get to an index. So you'll have this kind of combination Google slash Bloomberg thing that will probably rise. So So yeah, I think that, you know, the folks who are making that kind of argument to you what's, you know, well, we have secondary market state, what why would, you know, the blockchain the big thing or not thinking about, you know, from a quantitative standpoint, it's going to be so so so. So let's talk about the distinctions between tokens that you've already sort of, talked to it in a caveat you gave in response to that answer. So there, you're going to have tokens that, you know, probably in the future that do relate to what we think of today as securities and therefore fall under security law, and you're going to have others that that do not and so can you sort of just describe, you know, the distinction between the two and give examples of like the the non securitized tokens and and how they will be used in the future?
+
+Unknown Speaker  13:31  
+Sure, so, you know, again, as of 2017, in the United States, the good thing is that the SEC has made clear that there's some forms of tokens that are not securities, for example, they refer to a theorem itself as currency. And they've granted that legitimate innovation in the space as possible. So it's, it's possible already to do interesting things with tokens in the US. Let's assume that at some point in the future 2025 or 2030, in the same way that, you know, we've gone and reassess marijuana laws, and it's now possible to do a venture backed marijuana business, let's say then 2025 2030 at some point, in a hypothetical scenario, you can issue, you know, tokens as a direct proxy for equities in some kind of regulated tax fashion. Okay, so then,
+
+Unknown Speaker  14:16  
+in that case, I think it just completely takes over. Because, you know, they're liquid, they're 24 seven, they're programmatically tradable. They have, you know, inherent utility, depending on you know, in some cases, and, basically, they are, you know, auditable in terms of who has custody of it, you'll never gonna have like a broken cap table in quite the same way. where, you know, not everybody has many shares has as many shares as you think they do, because you'd be able to track all of that. So just technologically, it's just vastly superior. We just need the regulatory stuff to catch up to, but you know, let me know. Yes. So in terms of the non security tokens that you know, so, as of today, right now, all these ERC 20
+
+Unknown Speaker  15:00  
+Icos that we've been seeing this year. So those are classified as as currencies. Is that right? So they're not non securities.
+
+Unknown Speaker  15:11  
+I can't say all the ERC 20 tokens are classified as currencies. I'm just saying that in the SEC is PDF and write up that they released like, you know, several weeks ago. Right? They refer to aetherium itself as a currency. Not all ERC 20 tokens on aetherium, but aetherium itself as a currency. So that's an important distinction, where they did not say that the Ethereum Ico was a security. So like, let's say the 2014. ico which started up aetherium. It was conspicuous by its absence from you know, and so some examples, like you had some intriguing
+
+Unknown Speaker  15:49  
+examples of tokens that are not definitely not securities, and therefore don't fall under, you know, rules of, you know, permitted clients or accredited investors, whatever, and so forth. Like, for example, I think one you mentioned was sort of, in the future, almost like looking at an individual, whether he's in India, wherever, you know, as a 10 year old boy, 20 year old girl, whatever, and almost, you know, making, it's almost like making a bet or making an investment in that particular individual through a token, can you sort of describe, you know, some, you know, that kind of an example or other interesting examples that I don't think people wrap their minds around today?
+
+Unknown Speaker  16:37  
+Yeah, absolutely. So, um, you know, there's a website called upstart, which, you know, basically allows you to back individuals. And so the idea is, you've got somebody who is promising who you would like to take a bet on. And you think that they're going to be wealth creating?
+
+Unknown Speaker  16:59  
+And, you know, what you do is you basically
+
+Unknown Speaker  17:03  
+say, okay, could I take a stake in that person? You know, I think this person is hardworking, and smart, but they currently don't have any resources. Let's say, I think they're going to make, I don't know, $5 million in their career. What if I, and let's say, I don't have huge liquidity constraints, and I can afford some time for payback? What if I give them I don't know, $100,000 today, and then they've paid me back $300,000 over the course of their life. So it's sort of like a personal venture capital kind of thing. On. And so that's the type of thing where you could imagine individuals issuing tokens and getting a lump sum of money today, to you know, boost their future earnings. And the way there'll be a win win is, let's say, in the absence of that initial startup capital, the person's lifetime earnings were 2 million, but given that startup capital, their lifetime earnings are 5 million, so then that extra 3 million, you know, you've just created that wealth. And then, you know, you could split it between the individual and the person who took the risk on them.
+
+Unknown Speaker  18:05  
+So I think stuff like that, you know, and that's, that's in the, you know, medium to far future, I'm not saying that's, you know, something that's going to happen tomorrow. But that sort of what happens, in the sense of, you know, hey, just like you can easily go and put up a personal website, you'll be able to tokenize, pretty much anything that you can think of, if you can, you know, have a scarce asset on the internet, and one of the scarce assets that you have complete control over is your time. And, you know, another is, like, you know, the communities that you're part of, so lots of Facebook group type things, you're going to get tokens. But all that stuff will happen after the first few of them work. I don't want to skip ahead to 2025 and 2030 a lot of the business model stuff and, you know, governance and so on has to be worked out. Um, one thing I actually did want to comment on, regarding your your article on how tokenization would have potentially prevented, you know, some of this this Uber related controversy.
+
+Unknown Speaker  18:58  
+I partially agree in the sense that, you know, if goober was fully tokenized, then, you know, it'd be a publicly traded stock effectively, and people will be able to buy and sell it and, you know, benchmark would be able to sell at stake rather than getting into this whole, you know, issue. But obviously, you know, if you're publicly traded it, me and said, You have to sometimes make very short term decisions on a quarter to quarter basis. And, you know, there's actually
+
+Unknown Speaker  19:24  
+a good thing on this called quarterly capitalism, which says that, you know, hey, your, your timeframe that you can plan on is, is too short, you can't make long term bets if it hurts a quarter. One way that you can square that circle and have both the benefits of tokens and the long term timeframe is upfront, you agree with the investors that they're going to cryptographically lock their tokens, such that they have five year vesting or 10 year vesting. So given this publicly traded like system, you can return to a privately traded like you know system, for a subset or for all investors. If you say as a condition of buying into it, you need to lock yourself
+
+Unknown Speaker  20:00  
+For this amount of time, and so that means that, yes, they'll get liquidity, but they'll get liquidity on a time horizon that is pre agreed. This is sort of similar to how with Bitcoin by default, it does not allow chargebacks. All settlements are fine. That's interesting. So implemented charge guys like so. So on top is going to be one of my later questions is that, you know, as it seems like one of the advantages in this, you know, if the world does move increasingly to this
+
+Unknown Speaker  20:26  
+increase prevalence of tokens, in one of the byproducts of that is, is sort of increased liquidity. And so I was going to ask you whether, you know, there are some that have said, that's an indirect threat to the whole traditional concept of venture capital, when you've, you know, you're typically giving your money away for 1012 years
+
+Unknown Speaker  20:47  
+to be locked up. If you have a choice of that versus, you know, making these kinds of bets on tokens, or other securities with much better liquidity, doesn't that just sort of drive the world to increase liquidity? So
+
+Unknown Speaker  21:03  
+I was going to ask you whether does the world of VC move to more of a barbell approach where you have some firms that are much much focused on the earlier stage, like traditional kind of angel area, where and others sort of move to the almost like a public markets, you know, hedge fund stage, and there's sort of nothing in between. But if you if you've got this, these kinds of interim solutions, maybe maybe that that doesn't break out that way? How do you see, you know, the, this sort of increased liquidity having an effect on like a traditional venture capital approach?
+
+Unknown Speaker  21:47  
+Yeah, good question. So I would say, at least how I envision it, is
+
+Unknown Speaker  21:54  
+that you're just vastly, vastly increasing the number of people who can make bets on startups. And by a factor of 1000, X, you know, in the sense of you go from 3% of Americans who are accredited investors, and frankly, a very small subset of that it's actually, you know, looking at deals all the time, to anybody in the world with an internet connection in theory. And there's a lot of smart people out there, if you go and teach a MOOC class, you'll see there's kids in India, kids in Mongolia, kids, and you know, South Africa, Brazil, etc, who can score at the level of Stanford MIT kids, they just, you know, can't, you know, they can't get a visa to come to the US, but they can do it online. In the same way, there's plenty of people who are better pickers, then, you know, your angel and VC investors who just have not had their time, their chance in the arena, and have not been spotted that capital. What's awesome is with the blockchain, you can have a completely new phenomenon, which is in the same way that you have, you know, and this actually does happen, it's not extremely frequent, but it does happen, you have somebody who starts to, you know, Twitter account, or blogspot, and they get well known, they build a following, and they break into, quote, mainstream media, or they become like, kind of their own independent media company.
+
+Unknown Speaker  23:03  
+In the same way, you could have somebody who just starts investing with the equivalent of 10 bucks. And, you know, they can turn that into 100, and then in 2000, and then into 50,000, and so on, if they make the right sequence of bets in this liquid international market. So it could be sort of like the movie limitless. If you've seen that, where, you know, the guy basically starts with nothing. And
+
+Unknown Speaker  23:26  
+because he's so smart, he makes a series of bets, and, you know, gets to like a million bucks in, you know, a few months, because, you know, he just doubles and doubles and doubles, and then starts to play with the big voice. And so I think that, you know, that's the real impact of this is everybody becomes an investor, just like everybody became a journalist with, you know, Twitter and blogger and medium and what have you. So that's number one. And then number two is it also means that everybody from angel to VC to growth to public markets, investors eventually starts to buy the same assets. It's kind of like how packet switching turned all these disparate forms of information, like photos and video, audio and text into packets. The blockchain will turn all these disparate forms of, you know, scarcity, into you know, tokens from stocks, or bonds to commodities, etc. So everything will be basically accessible if you've just got your command line open. And so you can prove yourself kind of analogy, I think. I think that's an interesting shift and sort of reminds me of the I don't know, if you're a big into fantasy football or fantasy sports, but the the kind of the level of fantasy football sophistication today.
+
+Unknown Speaker  24:34  
+Yeah, you know, and what you see on various websites and on even on mainstream media outlets like ESPN versus I don't know, seven, eight years ago, it's almost like there's this general You know, they're obviously subject matter experts within fantasy football. They're just off the charts now compared and probably more of them than eight years ago, but probably also Jen Generally, the the inner intellect of
+
+Unknown Speaker  25:00  
+of the, of the watching audience has gone up several fold,
+
+Unknown Speaker  25:05  
+due to kind of their awareness of this, and and then paying closer attention to players and statistics and so forth. And so what you're describing is that, you know, it's almost like this, the same thing will happen across multiple disciplines as this whole world gets built out.
+
+Unknown Speaker  25:30  
+Yep. I think that's right. I mean, like, it's not exactly the wisdom of crowds, it is the wisdom of individuals within crowds. Um, and so but if you're given sufficient scale, you can find all these very smart people around the world. And I think, you know, interesting question is going to be, you know, regarding the disruption of angel and VC, how much of that is just a function of social network and quote, deal flow and so on, versus actual handicapping of business and, you know, Aquaman, and what have you, we're going to see that once deal flow, quote, unquote, goes away. And the reason I say quote, unquote, because it doesn't fully go away, because in many cases, what people will do is partly the reputations of this world into being kingmakers in the next world. Like, right for many of these token launches, what people want to do is get an established name from the tech world to be an advisor, you know, to sort of right, put their name on it. And so it's not going to be like this complete disjunction. But it is definitely true that, you know, pay Satoshi didn't raise VC, and, you know, he's the first basically pseudonymous billionaire. And, you know, to my knowledge, you know, vitalik, didn't have any major funds invest in his Ico, and obviously, he's built something really great. So that means that the, you know, the king making ability is, it's definitely not a necessary component anymore, it's kind of the next step in, you know, founders becoming stronger and stronger. And that's a good thing. You know, I think on balance, it's better that founders have control, you know, even as, as both a founder and a VC. Because, you know, ultimately, at the end, the day founders are creating, you know, the value and VCs are just, you know, helping along.
+
+Unknown Speaker  27:11  
+But yeah, so there's kind of, you know, I don't think VC goes away right away. But definitely, definitely power starts flowing away from it. Another aspect that's actually related and very important, I think, is
+
+Unknown Speaker  27:22  
+all the Ico stuff, all the token lunch stuff, is the final step in a rapid decentralization of power, and concentration of technology away and outside of Silicon Valley, specifically out of the US more generally, and the reason is that you no longer need to go to Silicon Valley to fund your company, or to Wall Street to get an exit. You know, if you're an entrepreneur in India, or Israel, or the UK, many of those entrepreneurs, they have this sort of, you know, bad choice between either a, um, you know, trying to parachute into Silicon Valley for two weeks, take a bunch of meetings, try to raise VC try to convince an investor to, you know, go and fly four times a year to, you know, like the other side of the world, or to just try to pitch local investors. And the problem has been that local investors in, you know, let's say, the UK or, you know, Germany, or what have you, or maybe, you know, the cost of capital, sophistication is not yet where SV was. On the other hand, when they fly to Silicon Valley, you know, anybody who's a venture capitalist, you don't want to actually go and fly to 10 different countries, on, you know, every quarter, because you have to do that over and over again, for five or 10 years, it's actually, it seems like a small thing. But if you're going to Japan, and if you're going to Israel, and you're going to the UK, and you're going to Toronto, and so on, you start to basically spend your entire life on a plane, even though for the each company, it's only four times a year. So, VC is have historically wanted to have their board seats within driving distance. So that yes, you have to go to 10, a quarter or whatever, but you can at least drive to them. And it's like, you know, multiple days for each one. And you know, the strains of constant constant travel. So what that's meant is that folks who get VC funding tend to set down roots in the Bay Area, and then the B round and the C round of those investors have similar kinds of concerns. And so that's been one of the strongest forces keeping technology concentrated in the Bay Area is that VCs don't want to fly for board meetings. And reasonably so it's sort of like that stuff about, you know, kind of apocryphal about how the width of the railroad track is set by, you know, the width of a horse, right? I'm sure you've heard that kind of apocryphal story. So the reason that's important now is today, all you really need is one angel or one, you know, problem person, you can be the middle of Russia. And if you know, like one Russian expat in your community who, you know, has done well in Silicon Valley, or dunwell, and technology more generally, and they put their name and they say, they're going to be an advisor, boom, you don't need anything else. You do not need to fly out to Silicon Valley, you can raise money in, you know, 10,000 and $50,000 increments from all these people online. Um, and obviously, you want to make sure that, you know, it's not an equity like thing.
+
+Unknown Speaker  29:57  
+You know, you want to make sure it's a utility token. If you're
+
+Unknown Speaker  30:00  
+Ranging from Americans in particular. But so how do you solve the next 10 years kind of filterable? regulatory
+
+Unknown Speaker  30:09  
+accommodating what's going on, at a technical level? Do you do you see, basically the SEC, or the Chinese government?
+
+Unknown Speaker  30:19  
+Sort of, you know, slowly sort of adapting to it? Do you see any risks that any one government or regulatory body does something that impedes the growth of the whole area?
+
+Unknown Speaker  30:41  
+Well, it's going to be very, it's gonna be complex, obviously,
+
+Unknown Speaker  30:47  
+a couple of, I think, important points, at least for my mental model.
+
+Unknown Speaker  30:53  
+First, it's very hard to get everybody in the world to agree on something, you know, look at stuff like climate accords, or what have you, once you've just got, you know, a few countries, interest start to decline, and so on. And to get like, the West and Russia and China to agree on something is going to be very, very difficult. And in general, if something, you know, if one of those regions doesn't like something that the region might like it, because it might give a relative advantage. So for example, you're starting to see Russia talk about how, you know, if you're in Mitel, let them get around the Magnitsky act. And, you know, obviously, they're pro aetherium, in part, because, you know, batalik is Canadian, Russian. And obviously, the Chinese have done pretty well with this crypto thing as well, because they've got much of the Bitcoin mining in China. And so
+
+Unknown Speaker  31:39  
+I think that, you know, it's useful to move from the perspective of the government to the perspective of the government, because many people in tech are immigrants, in fact, you know, depending on you calculate its majority immigrant.
+
+Unknown Speaker  31:52  
+And so it's a highly mobile population, which can go anywhere in the world. And once you start moving from the concept of the government to a government, it's very unlikely that every government is going to take a hostile approach to something that is created, you know, 100 and $60 billion of value in eight years, and probably going to create hundreds of billions of dollars more, any government that takes a positive attitude towards it is probably going to unlock a lot of wealth, and net net, you know, they will make more in taxes, and, you know, they'll have a better quality of life for their citizens, if they can, you know, allow the same to take place in a regulated and, you know, kind of permitted way on their territory. So, I think it's unlikely that it's going to be held back, because it just revolt pages or anything about but I think of, you know, we'll see well to being tokenized or,
+
+Unknown Speaker  32:40  
+or what does, what, what are the areas that that are going to first
+
+Unknown Speaker  32:46  
+massively adopt tokenization versus others that, you know, maybe just don't see a fit for?
+
+Unknown Speaker  33:02  
+Well, yeah, so scarcity, is what you want to tokenize. And so things that are like that cash, and eventually things like not today, but eventually things like stocks, bonds, commodities, houses, cars.
+
+Unknown Speaker  33:17  
+But one thing that's very amenable to being tokenized today is basically digital goods. So things like, you know, World of Warcraft, or, you know, Video game, you know, weapons and stuff like that are potentially very amenable to be tokenized, and traded. There's already secondary markets and Warcraft, gold and weapons and, and what not. So, so that's those are probably on, you know, the border of the adjacent possible. It's also you know, things like what file coin is doing, which is trying to make a, effectively a massive secondary market and file storage. And
+
+Unknown Speaker  33:50  
+so I think digital goods will be the first kind of thing that gets, you know, tokenized and then traded, and then eventually you start to get physical goods. So what is tokenization? Not good for? Well, I'd say it's, you know, it's not like, you know, a blockchain is something which is useful for a scarce asset, if you don't have a scarce asset. You have to reassess whether or not you actually need a blockchain for it, maybe just nutritional database. And, you know, it's also a blockchain is only really useful in a context where you have more than one economic actor. So that is to say, if you've got more than one economic actor, you have two different wallets, you don't have complete trust, because they are distinct entities. It's not just the same Corporation and all members of that Corporation, it's multiple corporations or multiple people or what have you. So in that environment, again, you know, you might have a blockchain. But in many cases, you would have just a database because you're just operating within your own company, or, you know, within your own environment. And it's not too different economic actors, like Google, you know, would just have an internal database because they would have one Google person, another Google person. They wouldn't interact on a cash basis, but Google and let's say Facebook, or
+
+Unknown Speaker  35:00  
+to different economic actors, and they would need some kind of blockchain to transact between themselves. So those are about just a valuation of all the areas where there's more out there today, you know, and their potential for the future.
+
+Unknown Speaker  35:16  
+I guess, as an as an investor,
+
+Unknown Speaker  35:20  
+how do you think about the sort of the long term potential value that can be created? And so I was speaking with Brad garlin house CEO of ripple yesterday, you know, and he talked about how the gold reserves today, you know, are valued at $9 trillion, as an example, there are some who point to paypal and what their total processing value is of what they, you know, with what they handled today, and how that links to their current market cap.
+
+Unknown Speaker  35:53  
+When you look around at these different
+
+Unknown Speaker  35:57  
+coins that exist or the various Icos?
+
+Unknown Speaker  36:00  
+How do you think about the the potential opportunity for them for if we are still in these kind of early early days?
+
+Unknown Speaker  36:19  
+Well, I don't want to give anybody investment advice. But you know, what I think about valuations and so on, I mean, ultimately, it's always set by the market. You know, I think people thought that Ethereum had a very large crowd sale in 2014, you know, pulling in $18 million. But that turned out to be one of the best investments of all time.
+
+Unknown Speaker  36:39  
+So it's a it's something where, I mean, obviously, most of them are not going to turn out like aetherium. But, you know, there's going to be probably some really good ones in there, just like there was a Yahoo and an Amazon and eBay among the early crop of internet companies. You know, in retrospect, what we'll do is we'll say, Oh, you know, those are the ones that had great founders and great teams
+
+Unknown Speaker  37:02  
+in in for SPECT, or, you know, like, in advance, it's not actually that easy to call.
+
+Unknown Speaker  37:09  
+But, but yeah, I think, you know, ultimately, the prices of price and it's set by, you know, market, you know, kind of dynamics, one thing I will say is, unlike, you know, typical angel or PC rounds,
+
+Unknown Speaker  37:23  
+it's not something where either you bind in this round, or it's going to be way, way, way more expensive in the future. Usually, you know, after the thing launches, you know, then there's multiple opportunities to buy tokens. And the
+
+Unknown Speaker  37:40  
+Ico cycle, we have you referenced earlier, like the, I think it was 2013, whenever there's, you know, at the time Bitcoin went to, I think, was 1000 bucks and then crashed, and I think was sub 200. And, you know, and people said, Well, that's it, you know, and then it just kind of went out of the mainstream for probably three years or something like that. So, so now, we're, you know, I was watching an interview that Brad garlin House did, like, back in February. And, you know, I think this was when ripples, you know, XRP market cap was, like, you know, just around $200 million. And, and the interviewer at the time was, was, was asking him about a bubble at the time, and now XRP is close to $10 billion in valuation. So, you know, like, at any moment in time, we are, we have we do a terrible job of, you know, assessing kind of where we are versus where things might go. And, you know, it's difficult to, to predict this, obviously, but are you are you anticipating there's, they're just going to be this, these continuous ebbs and flows, you know, extreme hype, followed by, you know, extreme despondency, like we saw after the.com era where it lasted, you know, three years and so forth? Or is it just sort of minor blips in comparison to something like that?
+
+Unknown Speaker  39:15  
+Yeah, so, I mean, the good thing about these kind of markets is, yes, they've got highs and lows, and, you know, people get really excited and then they get really scared and so on. Um,
+
+Unknown Speaker  39:26  
+two things I would observe versus if you just held and you buy in, you hold and you've got a long term thesis you've done extremely, extremely, extremely well, you know, you're up 400 X on Bitcoin, if you got in in 2012, if you're up 1000, excellent. aetherium if you've gotten 2014, so on. So that's kind of number one is that's an obvious strategy that has worked for the space and it's kind of almost a risk free bet on the space. Because, you know, if,
+
+Unknown Speaker  39:55  
+if those don't succeed, then the space doesn't succeed. And so, so that's that's kind of a
+
+Unknown Speaker  40:00  
+One there's like, that's a dumb strategy, but a very effective one.
+
+Transcribed by https://otter.ai
